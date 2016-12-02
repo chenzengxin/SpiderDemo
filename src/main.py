@@ -11,7 +11,7 @@ from __builtin__ import str
 from test.test_threading_local import target
 from mutex import mutex
 reload(sys)
-sys.setdefaultencoding('utf8')
+
 
 mutex=threading.Lock()
 def getAllLink(mainpage,href):
