@@ -1,0 +1,2572 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="shortcut icon" href="http://img.58cdn.com.cn/jxedt/site/images/favicon.ico"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>沈阳驾校_沈阳驾校一点通_沈阳学车_沈阳陪驾_沈阳陪练</title>
+    <meta name="keywords" content="沈阳驾校,沈阳驾校一点通,沈阳学车,沈阳陪驾,沈阳陪练">
+    <meta name="description" content="沈阳驾校一点通：提供最新2015沈阳驾校、2015沈阳学车价格、还提供沈阳驾校教练员、沈阳陪练，沈阳学车哪个驾校好？沈阳驾校陪练、沈阳陪驾、上车快、拿驾照快。">
+        <link href="http://j2.58cdn.com.cn/jxedt/site/css/site_index.css" rel="stylesheet" type="text/css"/>
+  <link href="http://j2.58cdn.com.cn/jxedt/site/css/ShowDialog.css" rel="stylesheet" type="text/css" />
+  <script src="http://j2.58cdn.com.cn/jxedt/jquery-1.8.3.min.js"></script>
+  <script src="http://j2.58cdn.com.cn/jxedt/site/js/gomobile.js" type="text/javascript"></script>
+</head>
+
+<body>
+  <div style='width: 970px;border: 1px solid #dddddd;margin: 0px  auto; border-left: none;border-right: none;overflow: hidden;'>
+  			<a href='http://www.jxedt.com/api/tongji/?id=izbsibed' target="_blank">
+			<img src="http://pic6.58cdn.com.cn/opt/pic/n_v1bl2lwkb4odtfnd7lpqqq_d016075a4f426d09.png"/>
+		</a>
+	  </div>
+  
+	<div class="top_nav">
+	    <div class="w970">
+	      <span id="getdate"></span>
+	      <span class="right">
+	      	   			   	      	
+	        <a href="http://m.jxedt.com/about/" target="_blank" class="phonevis" rel="nofollow">手机版aaa</a>
+	        <a href="http://www.jxedt.com/about/guanzhu.asp" target="_blank" rel="nofollow">+ 关注我们</a>
+	      </span>
+	    </div>
+	  </div>
+         <script src="http://j2.58cdn.com.cn/jxedt/head.js?v=20151020" type="text/javascript"></script>
+		 
+	  <!--top_nav-->
+	  <div class="logo">
+	    <div class="left">
+	      <a href="http://www.jxedt.com/">
+	        <img src="http://img.58cdn.com.cn/jxedt/site/images/logo.gif" alt="驾校一点通" />
+	      </a>
+	    </div>
+	    <div class="middle">
+	      <ul class="areasize">
+	        <li class="l"></li>
+	        <li class="m" id="citytxt">沈阳站</li>
+	        <li class="r">
+	          <a href="javascript:void(0)" title="切换城市" id="logo_changecity"></a>
+	        </li>
+	        <li id="allcitys">
+	          <a href="http://bj.jxedt.com" title="北京驾校">北京</a>
+	          <a href="http://tj.jxedt.com" title="天津驾校">天津</a>
+	          <a href="http://sh.jxedt.com" title="上海驾校">上海</a>
+	          <a href="http://cq.jxedt.com" title="重庆驾校">重庆</a>
+	          <a href="http://hz.jxedt.com" title="杭州驾校">杭州</a>
+	          <a href="http://nb.jxedt.com" title="宁波驾校">宁波</a>
+	          <a href="http://cc.jxedt.com" title="长春驾校">长春</a>
+	          <a href="http://sy.jxedt.com" title="沈阳驾校">沈阳</a>
+	          <a href="http://dl.jxedt.com" title="大连驾校">大连</a>
+	          <a href="http://xn.jxedt.com" title="西宁驾校">西宁</a>
+	          <a href="http://lz.jxedt.com" title="兰州驾校">兰州</a>
+	          <a href="http://xa.jxedt.com" title="西安驾校">西安</a>
+	          <a href="http://ls.jxedt.com" title="拉萨驾校">拉萨</a>
+	          <a href="http://yc.jxedt.com" title="银川驾校">银川</a>
+	          <a href="http://nn.jxedt.com" title="南宁驾校">南宁</a>
+	          <a href="http://cd.jxedt.com" title="成都驾校">成都</a>
+	          <a href="http://gy.jxedt.com" title="贵阳驾校">贵阳</a>
+	          <a href="http://km.jxedt.com" title="昆明驾校">昆明</a>
+	          <a href="http://gz.jxedt.com" title="广州驾校">广州</a>
+	          <a href="http://sz.jxedt.com" title="深圳驾校">深圳</a>
+	          <a href="http://fz.jxedt.com" title="福州驾校">福州</a>
+	          <a href="http://xm.jxedt.com" title="厦门驾校">厦门</a>
+	          <a href="http://cs.jxedt.com" title="长沙驾校">长沙</a>
+	          <a href="http://nc.jxedt.com" title="南昌驾校">南昌</a>
+	          <a href="http://wh.jxedt.com" title="武汉驾校">武汉</a>
+	          <a href="http://nj.jxedt.com" title="南京驾校">南京</a>
+	          <a href="http://suzhou.jxedt.com" title="苏州驾校">苏州</a>
+	          <a href="http://zz.jxedt.com" title="郑州驾校">郑州</a>
+	          <a href="http://jn.jxedt.com" title="济南驾校">济南</a>
+	          <a href="http://qd.jxedt.com" title="青岛驾校">青岛</a>
+	          <a href="http://ty.jxedt.com" title="太原驾校">太原</a>
+	          <a href="http://hk.jxedt.com" title="海口驾校">海口</a>
+	          <a href="http://hf.jxedt.com" title="合肥驾校">合肥</a>
+	          <a href="http://heb.jxedt.com" title="哈尔滨驾校">哈尔滨</a>
+	          <a href="http://sjz.jxedt.com" title="石家庄驾校">石家庄</a>
+	          <a href="http://hhht.jxedt.com" title="呼和浩特驾校">呼和浩特</a>
+	          <a href="http://wlmq.jxedt.com" title="乌鲁木齐驾校">乌鲁木齐</a>
+	        </li>
+	      </ul>
+	    </div>
+
+	  
+	   
+	    <div class="right logoright">
+	      <div id="J_TSearch" class="tsearch">
+	        <div id="J_TSearchTabs" class="s-tabs">
+	          <ul>
+	            <li class="s-tabs_1" id="s_t2">
+	              <a onclick="switch_form('topsoform','jx',4,'2');">找驾校</a>
+	              <s class="rc-tp-l"></s>
+	              <s class="rc-tp-r"></s>
+	            </li>
+	            <li class="s-tabs_2" id="s_t1">
+	              <a onclick="switch_form('topsoform','jl',4,'1');">找教练</a>
+	              <s class="rc-tp-l"></s>
+	              <s class="rc-tp-r"></s>
+	            </li>
+	            <li class="s-tabs_2" id="s_t3">
+	              <a onclick="switch_form('topsoform','pl',4,'3');">找陪练</a>
+	              <s class="rc-tp-l"></s>
+	              <s class="rc-tp-r"></s>
+	            </li>
+	            <li class="s-tabs_2" id="s_t4">
+	              <a onclick="switch_form('topsoform','news',4,'4');">综合查询</a>
+	              <s class="rc-tp-l"></s>
+	              <s class="rc-tp-r"></s>
+	            </li>
+	          </ul>
+	        </div>
+	        <div class="tsearch-panel">
+	          <div>
+	            <div class="tsearch-panel-fields">
+	              <input accesskey="s" id="keyword"  name="keyword" autocomplete="off"  value="请输入城市" onclick="if (this.value=='请输入城市') this.value=''"     onblur="if (this.value =='') this.value='请输入城市'"  class="keywords ac_input"/>
+	              <label class="LABEL_r" onclick="showPopup()" id="cityname">| 热门词</label>
+	            </div>
+	            <input value="jx" name="sort" id="sort" type="hidden" />
+	            <button type="button" onclick="submitform()" id="topsoformbnt">搜索</button>
+	          </div>
+	          <s class="rc-tp-l"></s>
+	          <s class="rc-tp-r"></s>
+	          <s class="rc-bt-l"></s>
+	          <s class="rc-bt-r"></s>
+	        </div>
+	        <ul class="tsearch-options">
+	          <li class="OrangeLink">
+	            <a  target="_blank" href="http://www.jxedt.com">地区浏览</a>
+	          </li>
+	          <li class="OrangeLink">
+	            <a target="_blank" href="http://www.jxedt.com/help.asp">使用帮助</a>
+	          </li>
+	        </ul>
+	      </div>
+	      <div style="clear:both"></div>
+	      <div id="windlocation" style="display:none;" >
+	        <div class="topcity">
+	          <div class="toptitle">
+	            <span>
+	              TOP 28个热门城市
+	              <img src="http://img.58cdn.com.cn/jxedt/site/images/close.gif" alt="关闭"/>
+	            </span>
+	          </div>
+	        </div>
+	        <div class="scitylinks">
+	          <a>上海</a>
+	          <a>杭州</a>
+	          <a>成都</a>
+	          <a>重庆</a>
+	          <a>北京</a>
+	          <a>沈阳</a>
+	          <a>长春</a>
+	          <a>福州</a>
+	          <a>武汉</a>
+	          <a>济南</a>
+	          <a>潍坊</a>
+	          <a>青岛</a>
+	          <a>天津</a>
+	          <a>泉州</a>
+	          <a>郑州</a>
+	          <a>宁波</a>
+	          <a>长沙</a>
+	          <a>贵阳</a>
+	          <a>西安</a>
+	          <a>太原</a>
+	          <a>石家庄</a>
+	          <a>南昌</a>
+	          <a>合肥</a>
+	          <a>广州</a>
+	          <a>深圳</a>
+	          <a>南京</a>
+	          <a>苏州</a>
+	          <a>哈尔滨</a>
+	        </div>
+	      </div>
+	    </div>
+	  </div>
+	  <!--logo-->
+	  <div class="main_nav">
+	    <div class="left"></div>
+	    <div class="links">
+	      <a href="http://www.jxedt.com/" title="驾校一点通">首&nbsp;&nbsp;&nbsp;&nbsp;页</a>|
+	      <a href="http://jiaxiao.jxedt.com/shenyang/">沈阳驾校</a>|
+	      <a href="http://jl.jxedt.com/shenyang/">沈阳教练</a>|
+	      <a href="http://pl.jxedt.com/shenyang/">沈阳陪练</a>|
+	      <a href="http://info.jxedt.com/">学车动态</a>|
+	      <a href="http://kaoshi.jxedt.com/shenyang/">考科目一</a>|
+	      <a href="http://km4.jxedt.com/shenyang/">考科目四</a>|
+	      <a href="http://zhinan.jxedt.com/">学车指南</a>|
+	      <a href="http://jiqiao.jxedt.com/">驾考宝典</a>|
+	      <a href="http://tv.jxedt.com/">学车视频</a>|
+	      <a href="http://auto.jxedt.com/">车友之家</a>|
+	      <a href="http://www.jxedt.com/wen/">车友论坛</a>
+	    </div>
+	    <div class="right"></div>
+	  </div>
+	  <!--main_nav-->
+ <script>
+	function submitform(){
+		var keyword = $("#keyword").val();
+		var sort = $("#sort").val();
+		
+		if(keyword==""){
+			alert("请输入关键词");
+			return ;
+		}
+		
+		
+    	if (sort=="jx"){
+    		location.href = "http://jiaxiao.jxedt.com/?keywords="+keyword;
+    	}
+		
+		if (sort=="jl"){
+    		location.href = "http://jl.jxedt.com/?keywords="+keyword;
+    	}
+		
+		if (sort=="pl"){
+    		location.href = "http://pl.jxedt.com/?keywords="+keyword;
+    	}
+		
+		if(sort == "google"){
+			location.href = "http://zhannei.baidu.com/cse/search?s=16040176402735648187&q="+keyword;
+		}
+	}
+	
+    $(function(){
+        document.onkeydown = function(e){ 
+            var ev = document.all ? window.event : e;
+            if(ev.keyCode==13) {
+           	 	submitform();
+        	}
+        }
+		
+		$('#logo_changecity').bind('click', function() {
+           _toggleCitys();
+        });
+		
+		$('#citytxt').bind('click', function() {
+           _toggleCitys();
+        });
+
+    });
+	
+function _toggleCitys() {
+	$("#allcitys").toggle();
+}
+</script>
+  
+<div style="width:970px; margin:0 auto;margin-top:8px; height:40px;">
+    <div id="juhe_wangmengad_1"></div>
+</div>
+
+<div class="amainblock">
+    <div class="module ">
+
+      <!--左边广告-->
+      <div class=moduleleft>
+        <div id="juhe_wangmengad_2"></div>
+      </div>
+      <!--左边广告结束-->
+
+      <!--中间新闻-->
+<DIV class=moduleMiddle>
+<DIV class="outbox">
+<DIV class="important"><A href="http://m.jxedt.com/about/" target=_blank>学渣秒变学霸？驾校一点通app支持你！</A> 
+<DIV class="hui"><A href="http://tv.jxedt.com/" target=_blank>[沈阳学车视频]</a><a href="http://zhinan.jxedt.com/info/5768.htm" target=_blank>[沈阳驾校排行]</a><a href="http://zhinan.jxedt.com/info/5767.htm" target=_blank>[沈阳车管所分布]</a><a href="http://zhinan.jxedt.com/info/5769.htm" target=_blank>[沈阳学车体检]</A> </DIV></DIV>
+<DIV class="maincontent"><A href="http://zhinan.jxedt.com/info/4655.htm" target=_blank>2015沈阳驾校学车流程</A><A href="http://info.jxedt.com/info/5765.htm" target=_blank>沈阳学车路线</A><A href="http://info.jxedt.com/info/5766.htm" target=_blank>辽宁驾校新考法</A><BR><A class="orange" href="http://tieba.jxedt.com/Theme_18.html" target=_blank>沈阳驾校学车100问</A><A href="http://zhinan.jxedt.com/info/67.htm" target=_blank>沈阳驾校学车条件</a><a  href="http://zhinan.jxedt.com/info/6632.htm" target=_blank>沈阳学车小知识</A><BR><A href="http://zhinan.jxedt.com/info/6743.htm" target=_blank>沈阳驾校交规攻略</A><A class="orange" href="http://zhinan.jxedt.com/info/4753.htm" target=_blank>沈阳驾校路考</a><a href="http://tv.jxedt.com/info/6723.htm" target=_blank>沈阳学车倒车详解</A><BR><A href="http://zhinan.jxedt.com/info/5772.htm" target=_blank>沈阳600公里路考系统</A><A href="http://tv.jxedt.com/info/6721.htm" target=_blank>沈阳学车科二视频</A><A href="http://quwen.jxedt.com/info/5771.htm" target=_blank>沈阳学车日记</A><BR><a class="orange" href="http://zhinan.jxedt.com/info/7251.htm" target=_blank>沈阳驾校五门必考秘笈</A><A href="http://zhinan.jxedt.com/info/7204.htm" target=_blank>沈阳驾校s路</A><A href="http://zhinan.jxedt.com/info/7130.htm" target=_blank>2015交警手势大全</A><a class="orange" href="http://zhinan.jxedt.com/info/7210.htm" target=_blank>沈阳驾校科目四流程</A><A href="http://zhinan.jxedt.com/info/7206.htm" target=_blank>沈阳驾校侧方停车</A><A href="http://zhinan.jxedt.com/info/7085.htm" target=_blank>沈阳路考技巧</A><A class="orange" href="http://ln.jxedt.com/shenyang/" target=_blank>沈阳学车找驾校</A><A href="http://jl.jxedt.com/shenyang/" target=_blank>沈阳驾校教练</A><A href="http://pl.jxedt.com/shenyang/" target=_blank>沈阳陪驾沈阳陪练查询</A> </DIV></DIV></DIV>
+  <!--中间新闻结束-->
+	
+	  <div class="moduleright">
+	<div class="mrt">    	<div class="tab">        	<a href="javascript:void(0)" class="" id="tab_t3" onclick="tab(3)">手机版</a><a href="javascript:void(0)" id="tab_t1" onclick="tab(1)" class="on">小车科目一</a><a href="javascript:void(0)" id="tab_t2" onclick="tab(2)" class="">小车科目四</a>        </div>    </div>    <div id="tab_c1" class="mrc">        <ul class="lianxi">            <li><a onclick="window.open('http://wz.jxedt.com/test/abcd/chapter.asp?type=c')" href="javascript:;"><div class="chpter"></div>章节练习</a></li>	            <li><a onclick="window.open('http://wz.jxedt.com/test/abcd/sxlx.asp?type=c')" href="javascript:;"><div class="sxlx"></div>顺序练习</a></li>            <li><a onclick="window.open('http://wz.jxedt.com/test/abcd/strongclass.asp?type=c')" href="javascript:;"><div class="strong"></div>专项练习</a></li>            <li><a onclick="window.open('http://wz.jxedt.com/test/abcd/sjlx.asp?type=c')" href="javascript:;"><div class="sjlx"></div>随机练习</a></li>            <li><a onclick="window.open('http://wz.jxedt.com/test/abcd/error.asp?type=c')" href="javascript:;"><div class="error"></div>错题练习</a></li>            <li><a href="http://kaoshi.jxedt.com/bj/" target="_blank"><div class="mnks"></div>模拟考试</a></li>            </ul>        <div class="clear" style="height:0; overflow:hidden"></div>         <a class="vip_btn" href="http://vip.jxedt.com/ranking/" target="_blank">邀您一起进行科一仿真考试！</a>         <div class="linee" style="height:0; overflow:hidden"></div>         <div class="otherlinks">             <a href="http://mnks.jxedt.com/b-index.asp" target="_blank">货车</a>              <a href="http://mnks.jxedt.com/a-index.asp" target="_blank">客车</a>             <a href="http://zgzks.jxedt.com/" target="_blank">资格证</a>               <a href="http://mnks.jxedt.com/motor-index.asp" target="_blank">摩托车</a>  	     </div>   	           </div>    <div id="tab_c2" class="mrc" style="display: none;">        <ul class="lianxi">            <li><a onclick="window.open('http://wz.jxedt.com/test/abcd/chapter.asp?type=s')" href="javascript:;"><div class="chpter"></div>章节练习</a></li>	            <li><a onclick="window.open('http://wz.jxedt.com/test/abcd/sxlx.asp?type=s')" href="javascript:;"><div class="sxlx"></div>顺序练习</a></li>             <li><a onclick="window.open('http://wz.jxedt.com/test/abcd/sjlx.asp?type=s')" href="javascript:;"><div class="sjlx"></div>随机练习</a></li>            <li><a onclick="window.open('http://wz.jxedt.com/test/abcd/strongclass.asp?type=s')" href="javascript:;"><div class="strong"></div>专项练习</a></li>            <li><a onclick="window.open('http://wz.jxedt.com/test/abcd/error.asp?type=s')" href="javascript:;"><div class="error"></div>错题练习</a></li>            <li><a href="http://kms.jxedt.com/bj/" target="_blank"><div class="mnks"></div>模拟考试</a></li>            </ul>        <div class="clear" style="height:0; overflow:hidden"></div>         <a class="vip_btn" href="http://vip.jxedt.com/anquan/" target="_blank">邀您一起进行科四仿真考试！</a>         <div class="linee" style="height:0; overflow:hidden"></div>         <div class="otherlinks">             <a href="http://mnks.jxedt.com/anquan-b.asp" target="_blank">货车</a>              <a href="http://mnks.jxedt.com/anquan-a.asp" target="_blank">客车</a>             <a href="http://zgzks.jxedt.com/" target="_blank">资格证</a>               <a href="http://mnks.jxedt.com/anquan-motor.asp" target="_blank">摩托车</a>  	     </div>     </div>     <div id="tab_c3" class="mrc" style="display: none;">     	<a href="http://m.jxedt.com/about/" target="_blank" style="display:block"><div class="ewm_fuwu"></div></a>           <div class="linee" style="height:0; overflow:hidden"></div>         <div class="ewm_txt">             免下载、免安装、用微信扫一扫即可用  	     </div>     </div>	 
+</div> 
+    </div>
+  <!--顶部新闻模块-->
+  <div class="clear"></div>
+</div>	
+<script>
+	var citystab=(function(){var name="kmtab";var second=86400;var tabs=[1,2];return{_set:function(value){var exp=new Date();exp.setTime(exp.getTime()+second*1000);document.cookie=name+"="+escape(value)+";expires="+exp.toGMTString()},_get:function(){var res="";var arr=document.cookie.match(new RegExp("(^| )"+name+"=([^;]*)(;|$)"));if(arr!=null){res=unescape(arr[2])}return res},_check:function(v){for(var i=0,l=tabs.length;i<l;i++){if(tabs[i]==v){return true}}return false},init:function(callback){var v=this._get();if(this._check(v)){callback(v)}},set:function(v){if(this._check(v)){this._set(v)}}}}());function tab(val){citystab.set(val);for(i=1;i<4;i++){document.getElementById('tab_c'+i).style.display='none';document.getElementById('tab_t'+i).className=''}document.getElementById('tab_c'+val).style.display='';document.getElementById('tab_t'+val).className='on'}citystab.init(tab);
+</script>
+
+<div class="clear"></div>
+
+<div class="main bcolor adlink1 mt">
+  <a href="http://vip.jxedt.com/show/index.html" target="_blank">
+    <img src="http://img.58cdn.com.cn/jxedt/site/images/vip2.png" width="220" height="60"   />
+  </a>
+  <a href="http://m.jxedt.com/about/" target="_blank">
+    <img src="http://img.58cdn.com.cn/jxedt/site/images/phone2.png" alt="一次全通过，驾考好帮手" />
+  </a>
+  <a href="http://jl.jxedt.com/bj/" target="_blank">
+    <img src="http://img.58cdn.com.cn/jxedt/site/images/jl_ad_240_60.gif" alt="学车找教练，就上“驾校一点通”！" />
+  </a>
+  <a href="http://pl.jxedt.com/bj/" target="_blank">
+    <img src="http://img.58cdn.com.cn/jxedt/site/images/pl_ad01.gif"  alt="找“陪练、陪驾”，就上“驾校一点通”！" />
+  </a>
+</div>
+<div class="clear"></div>
+<div class="sub_nav2" style=" border:1px solid #f0f0f0; border-top:none; line-height:28px;width:958px; margin:0 auto; padding-left:10px; background:url(http://img.58cdn.com.cn/jxedt/site/images/sub_nav_bg.jpg) repeat-x bottom center; overflow:hidden; height:28px;margin-top:-1px; ">
+  <h1 style="color:#999;font-size:12px; font-weight:normal;">
+		沈阳驾校一点通：提供最新2015沈阳驾校、2015沈阳学车价格、还提供沈阳驾校教练员、沈阳陪练，沈阳学车哪个驾校好？沈阳驾校陪练、沈阳陪驾、上车快、拿驾照快。
+  </h1>
+</div><div class="amain mt">
+  <div class="amainleft">
+    <div class="ablock">
+                <div class="menu">
+            <h3>沈阳学车，驾考指导</h3>
+            <a href="http://jiaxiao.jxedt.com/shenyang/" target="_blank">更多&gt;&gt;</a>
+        </div>
+        <div class="jxcomment">
+                        <ul>
+                <li class="pic">
+                    <a href="http://jiaxiao.jxedt.com/shenyang/" target="_blank">沈阳宏安驾校</a>
+                </li>
+                <li class="txt">
+                    <a href="http://jiaxiao.jxedt.com/shenyang/" target="_blank">C1照：3180元</a>
+                </li>
+            </ul>
+                        <ul>
+                <li class="pic">
+                    <a href="http://jiaxiao.jxedt.com/shenyang/" target="_blank">沈阳国安驾校</a>
+                </li>
+                <li class="txt">
+                    <a href="http://jiaxiao.jxedt.com/shenyang/" target="_blank">C1照：3699元</a>
+                </li>
+            </ul>
+                        <ul>
+                <li class="pic">
+                    <a href="http://jiaxiao.jxedt.com/shenyang/" target="_blank">沈阳宏志驾校</a>
+                </li>
+                <li class="txt">
+                    <a href="http://jiaxiao.jxedt.com/shenyang/" target="_blank">C1照：2880元</a>
+                </li>
+            </ul>
+                        <ul>
+                <li class="pic">
+                    <a href="http://jiaxiao.jxedt.com/shenyang/" target="_blank">沈阳军诚驾校</a>
+                </li>
+                <li class="txt">
+                    <a href="http://jiaxiao.jxedt.com/shenyang/" target="_blank">C1照：2980元</a>
+                </li>
+            </ul>
+                        <ul>
+                <li class="pic">
+                    <a href="http://jiaxiao.jxedt.com/shenyang/" target="_blank">沈阳宏志驾校</a>
+                </li>
+                <li class="txt">
+                    <a href="http://jiaxiao.jxedt.com/shenyang/" target="_blank">C1照：2880元</a>
+                </li>
+            </ul>
+                        <ul>
+                <li class="pic">
+                    <a href="http://jiaxiao.jxedt.com/shenyang/" target="_blank">沈阳方盛驾校</a>
+                </li>
+                <li class="txt">
+                    <a href="http://jiaxiao.jxedt.com/shenyang/" target="_blank">C1照：2580元</a>
+                </li>
+            </ul>
+                        <ul>
+                <li class="pic">
+                    <a href="http://jiaxiao.jxedt.com/shenyang/" target="_blank">沈阳客运驾校</a>
+                </li>
+                <li class="txt">
+                    <a href="http://jiaxiao.jxedt.com/shenyang/" target="_blank">C1照：3030元</a>
+                </li>
+            </ul>
+                        <ul>
+                <li class="pic">
+                    <a href="http://jiaxiao.jxedt.com/shenyang/" target="_blank">沈阳八棵树驾校</a>
+                </li>
+                <li class="txt">
+                    <a href="http://jiaxiao.jxedt.com/shenyang/" target="_blank">C1照：2980元</a>
+                </li>
+            </ul>
+            
+            
+                                                                                            </div>
+        	  
+      <div class="pllist jxlist">
+		        <ul >
+          <li>
+            <a href="http://jiaxiao.jxedt.com/258/" target="_blank">详情</a>
+          </li>
+          <li class="p">￥3180</li>
+          <li class="yuanjia">￥<span>3280</span></li>
+          <li class="jzt">C1照</li>
+          <li class="n">
+             <a href="http://jiaxiao.jxedt.com/258/" target="_blank">沈阳宏安驾校</a>
+          </li>
+          <li class="xingji" style="width:36px" title="星级推荐"></li>
+      </ul>
+		        <ul >
+          <li>
+            <a href="http://jiaxiao.jxedt.com/3141993734263603267/" target="_blank">详情</a>
+          </li>
+          <li class="p">￥2880</li>
+          <li class="yuanjia">￥<span>2980</span></li>
+          <li class="jzt">C1照</li>
+          <li class="n">
+             <a href="http://jiaxiao.jxedt.com/3141993734263603267/" target="_blank">沈阳宏志驾校</a>
+          </li>
+          <li class="xingji" style="width:0px" title="星级推荐"></li>
+      </ul>
+		        <ul  class="blue" >
+          <li>
+            <a href="http://jiaxiao.jxedt.com/5325/" target="_blank">详情</a>
+          </li>
+          <li class="p">￥2980</li>
+          <li class="yuanjia">￥<span>3080</span></li>
+          <li class="jzt">C1照</li>
+          <li class="n">
+             <a href="http://jiaxiao.jxedt.com/5325/" target="_blank">沈阳军诚驾校</a>
+          </li>
+          <li class="xingji" style="width:0px" title="星级推荐"></li>
+      </ul>
+		        <ul  class="blue" >
+          <li>
+            <a href="http://jiaxiao.jxedt.com/24287/" target="_blank">详情</a>
+          </li>
+          <li class="p">￥2880</li>
+          <li class="yuanjia">￥<span>2980</span></li>
+          <li class="jzt">C1照</li>
+          <li class="n">
+             <a href="http://jiaxiao.jxedt.com/24287/" target="_blank">沈阳宏志驾校</a>
+          </li>
+          <li class="xingji" style="width:0px" title="星级推荐"></li>
+      </ul>
+		        <ul >
+          <li>
+            <a href="http://jiaxiao.jxedt.com/25365/" target="_blank">详情</a>
+          </li>
+          <li class="p">￥2580</li>
+          <li class="yuanjia">￥<span>2680</span></li>
+          <li class="jzt">C1照</li>
+          <li class="n">
+             <a href="http://jiaxiao.jxedt.com/25365/" target="_blank">沈阳方盛驾校</a>
+          </li>
+          <li class="xingji" style="width:0px" title="星级推荐"></li>
+      </ul>
+		        <ul >
+          <li>
+            <a href="http://jiaxiao.jxedt.com/5324/" target="_blank">详情</a>
+          </li>
+          <li class="p">￥3030</li>
+          <li class="yuanjia">￥<span>3130</span></li>
+          <li class="jzt">C1照</li>
+          <li class="n">
+             <a href="http://jiaxiao.jxedt.com/5324/" target="_blank">沈阳客运驾校</a>
+          </li>
+          <li class="xingji" style="width:0px" title="星级推荐"></li>
+      </ul>
+		        <ul  class="blue" >
+          <li>
+            <a href="http://jiaxiao.jxedt.com/1039/" target="_blank">详情</a>
+          </li>
+          <li class="p">￥2980</li>
+          <li class="yuanjia">￥<span>3080</span></li>
+          <li class="jzt">C1照</li>
+          <li class="n">
+             <a href="http://jiaxiao.jxedt.com/1039/" target="_blank">沈阳八棵树驾校</a>
+          </li>
+          <li class="xingji" style="width:0px" title="星级推荐"></li>
+      </ul>
+		        <ul  class="blue" >
+          <li>
+            <a href="http://jiaxiao.jxedt.com/245/" target="_blank">详情</a>
+          </li>
+          <li class="p">￥3699</li>
+          <li class="yuanjia">￥<span>3799</span></li>
+          <li class="jzt">C1照</li>
+          <li class="n">
+             <a href="http://jiaxiao.jxedt.com/245/" target="_blank">沈阳国安驾校</a>
+          </li>
+          <li class="xingji" style="width:0px" title="星级推荐"></li>
+      </ul>
+		        <ul >
+          <li>
+            <a href="http://jiaxiao.jxedt.com/5323/" target="_blank">详情</a>
+          </li>
+          <li class="p">￥3380</li>
+          <li class="yuanjia">￥<span>3480</span></li>
+          <li class="jzt">C1照</li>
+          <li class="n">
+             <a href="http://jiaxiao.jxedt.com/5323/" target="_blank">沈阳长安驾校</a>
+          </li>
+          <li class="xingji" style="width:0px" title="星级推荐"></li>
+      </ul>
+				
+	  <ul>
+        <li>
+        	<a href="http://jiaxiao.jxedt.com/shenyang/" target="_blank">更多</a>
+        </li>
+        <li class="p">￥3180</li>
+        <li class="yuanjia">￥<span>3280</span></li>
+        <li class="jzt">C1照</li>
+        <li class="n">
+			<a href="http://jiaxiao.jxedt.com/shenyang/" target="_blank">沈阳驾校大全</a>
+        </li>
+        <li class="xingji" title="星级推荐" style="width:36px"></li>
+      </ul>
+	
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+<div class="amainright">
+    <div class="ablock">
+        <div class="menu">
+        <h3>沈阳驾校新闻</h3>
+			<a href="http://jiaxiao.jxedt.com/shenyang/" target="_blank">更多&gt;&gt;</a>
+        </div>
+        <div id="jxnewslist">
+			            <ul>
+                <li class="n">
+        			[<a href="http://jiaxiao.jxedt.com/5325/" target="_blank" >军诚驾校</a>]
+                </li>
+                <li class="tit">
+        			<a href="http://jiaxiao.jxedt.com/5325/news/3174296632104058978.html" target="_blank" >关于军诚驾校新建 【两个</a>
+                </li>
+            </ul>
+			            <ul>
+                <li class="n">
+        			[<a href="http://jiaxiao.jxedt.com/5325/" target="_blank" >军诚驾校</a>]
+                </li>
+                <li class="tit">
+        			<a href="http://jiaxiao.jxedt.com/5325/news/3174296479631278107.html" target="_blank" >11月11日军诚驾校学员</a>
+                </li>
+            </ul>
+			            <ul>
+                <li class="n">
+        			[<a href="http://jiaxiao.jxedt.com/5325/" target="_blank" >军诚驾校</a>]
+                </li>
+                <li class="tit">
+        			<a href="http://jiaxiao.jxedt.com/5325/news/3173358362137198690.html" target="_blank" >军诚驾校十五周年校庆空前</a>
+                </li>
+            </ul>
+			            <ul>
+                <li class="n">
+        			[<a href="http://jiaxiao.jxedt.com/25365/" target="_blank" style="color:#CC0000">方盛驾校</a>]
+                </li>
+                <li class="tit">
+        			<a href="http://jiaxiao.jxedt.com/25365/news/3167027752139096126.html" target="_blank" style="color:#CC0000">沈阳方盛驾校最新推出C2</a>
+                </li>
+            </ul>
+			            <ul>
+                <li class="n">
+        			[<a href="http://jiaxiao.jxedt.com/5325/" target="_blank" >军诚驾校</a>]
+                </li>
+                <li class="tit">
+        			<a href="http://jiaxiao.jxedt.com/5325/news/3160181252156358693.html" target="_blank" >军诚豪礼双倍送★免费学车</a>
+                </li>
+            </ul>
+			            <ul>
+                <li class="n">
+        			[<a href="http://jiaxiao.jxedt.com/24287/" target="_blank" >沈阳宏志</a>]
+                </li>
+                <li class="tit">
+        			<a href="http://jiaxiao.jxedt.com/24287/news/3159639688991473696.html" target="_blank" >沈阳宏志驾校 [学员学车</a>
+                </li>
+            </ul>
+			            <ul>
+                <li class="n">
+        			[<a href="http://jiaxiao.jxedt.com/1039/" target="_blank" >八棵树驾校</a>]
+                </li>
+                <li class="tit">
+        			<a href="http://jiaxiao.jxedt.com/1039/news/3159437460454768703.html" target="_blank" >驾校官网</a>
+                </li>
+            </ul>
+			            <ul>
+                <li class="n">
+        			[<a href="http://jiaxiao.jxedt.com/3141993734263603267/" target="_blank" >沈阳宏志驾校</a>]
+                </li>
+                <li class="tit">
+        			<a href="http://jiaxiao.jxedt.com/3141993734263603267/news/3152979534740979745.html" target="_blank" >缤纷盛夏，礼惠全城！本月</a>
+                </li>
+            </ul>
+			        </div>
+        <div class="right_news_ad">
+        <div style=" text-align:center; padding-top:6px">
+            <a href="http://www.jxedt.com/jiucuo.asp" target="_blank">
+    			<img src="http://img.58cdn.com.cn/jxedt/site/images/jxjoin.png"/>
+            </a>
+			<a href="http://m.jxedt.com/about/" target="_blank">
+				<img src="http://img.58cdn.com.cn/jxedt/site/images/phone2.png" style="margin-top:5px"/>
+			</a>
+        </div>
+        </div>
+    </div>
+</div>
+	<div class="clear"></div>
+</div><div class="amainmiddele mt">
+<div class="item">
+<div class="menu">
+	<h3>沈阳驾校报名</h3>
+	<a class="menua" href="http://jiaxiao.jxedt.com/shenyang/" target="_blank">更多&gt;&gt;</a>
+</div>
+<div class="list" id="jxbaoming">
+<div id="sjxbaoming">
+
+<ul>
+    <li class="lname">张*</li>
+    <li class="lsex">女</li>
+    <li class="ltime">咨询</li>
+    <li class="lrs">1人</li>
+    <li class="lphone">13889138***</li>
+    <li class="ljx">
+		<a href="http://jiaxiao.jxedt.com/24723/" target="_blank">星火驾校</a>
+	</li>
+</ul>
+<ul>
+    <li class="lname">杨*</li>
+    <li class="lsex">女</li>
+    <li class="ltime">报名</li>
+    <li class="lrs">1人</li>
+    <li class="lphone">15604020***</li>
+    <li class="ljx">
+		<a href="http://jiaxiao.jxedt.com/247/" target="_blank">宏达驾校</a>
+	</li>
+</ul>
+<ul>
+    <li class="lname">王奎*</li>
+    <li class="lsex">女</li>
+    <li class="ltime">报名</li>
+    <li class="lrs">1人</li>
+    <li class="lphone">18640049***</li>
+    <li class="ljx">
+		<a href="http://jiaxiao.jxedt.com/258/" target="_blank">宏安驾校</a>
+	</li>
+</ul>
+<ul>
+    <li class="lname">孟宪*</li>
+    <li class="lsex">女</li>
+    <li class="ltime">报名</li>
+    <li class="lrs">1人</li>
+    <li class="lphone">15134293***</li>
+    <li class="ljx">
+		<a href="http://jiaxiao.jxedt.com/3322/" target="_blank">佳运驾校</a>
+	</li>
+</ul>
+<ul>
+    <li class="lname">达达*</li>
+    <li class="lsex">女</li>
+    <li class="ltime">报名</li>
+    <li class="lrs">1人</li>
+    <li class="lphone">13888188***</li>
+    <li class="ljx">
+		<a href="http://jiaxiao.jxedt.com/35280/" target="_blank">达达驾校</a>
+	</li>
+</ul>
+<ul>
+    <li class="lname">达达*</li>
+    <li class="lsex">女</li>
+    <li class="ltime">报名</li>
+    <li class="lrs">1人</li>
+    <li class="lphone">13888188***</li>
+    <li class="ljx">
+		<a href="http://jiaxiao.jxedt.com/35280/" target="_blank">达达驾校</a>
+	</li>
+</ul>
+<ul>
+    <li class="lname">方恩*</li>
+    <li class="lsex">女</li>
+    <li class="ltime">报名</li>
+    <li class="lrs">1人</li>
+    <li class="lphone">18940062***</li>
+    <li class="ljx">
+		<a href="http://jiaxiao.jxedt.com/246/" target="_blank">银河驾校</a>
+	</li>
+</ul>
+<ul>
+    <li class="lname">礼物*</li>
+    <li class="lsex">男</li>
+    <li class="ltime">报名</li>
+    <li class="lrs">1人</li>
+    <li class="lphone">15940002***</li>
+    <li class="ljx">
+		<a href="http://jiaxiao.jxedt.com/11070/" target="_blank">利达驾校</a>
+	</li>
+</ul>
+<ul>
+    <li class="lname">董永*</li>
+    <li class="lsex">女</li>
+    <li class="ltime">报名</li>
+    <li class="lrs">1人</li>
+    <li class="lphone">15804927***</li>
+    <li class="ljx">
+		<a href="http://jiaxiao.jxedt.com/25365/" target="_blank">方盛驾校</a>
+	</li>
+</ul>
+<ul>
+    <li class="lname">刘英*</li>
+    <li class="lsex">女</li>
+    <li class="ltime">咨询</li>
+    <li class="lrs">1人</li>
+    <li class="lphone">18842358***</li>
+    <li class="ljx">
+		<a href="http://jiaxiao.jxedt.com/245/" target="_blank">国安驾校</a>
+	</li>
+</ul>
+<ul>
+    <li class="lname">李双*</li>
+    <li class="lsex">女</li>
+    <li class="ltime">报名</li>
+    <li class="lrs">1人</li>
+    <li class="lphone">18664782***</li>
+    <li class="ljx">
+		<a href="http://jiaxiao.jxedt.com/247/" target="_blank">宏达驾校</a>
+	</li>
+</ul>
+<ul>
+    <li class="lname">叶*</li>
+    <li class="lsex">女</li>
+    <li class="ltime">咨询</li>
+    <li class="lrs">1人</li>
+    <li class="lphone">18302421***</li>
+    <li class="ljx">
+		<a href="http://jiaxiao.jxedt.com/25365/" target="_blank">方盛驾校</a>
+	</li>
+</ul>
+
+</div>
+</div>
+</div>
+
+<div class="item itemm">
+<div class="menu">
+	<h3>沈阳学车问答</h3>
+	<a class="menua" href="http://jiaxiao.jxedt.com/shenyang/" target="_blank">更多&gt;&gt;</a>
+</div>
+<div class="list">
+        <ul>
+        <li class="mname">
+    		<a href="http://jiaxiao.jxedt.com/5325/" target="_blank">军诚驾校</a>
+        </li>
+        <li class="mtxt">
+    		<a href="http://jiaxiao.jxedt.com/5325/wenda/" target="_blank">科三现在可以约沈本大道考场么？已经约</a>
+        </li>
+    </ul>
+	    <ul>
+        <li class="mname">
+    		<a href="http://jiaxiao.jxedt.com/24287/" target="_blank">沈阳宏志</a>
+        </li>
+        <li class="mtxt">
+    		<a href="http://jiaxiao.jxedt.com/24287/wenda/" target="_blank">从今年四月份考完的科二，就在等跑60</a>
+        </li>
+    </ul>
+	    <ul>
+        <li class="mname">
+    		<a href="http://jiaxiao.jxedt.com/24482/" target="_blank">安顺驾校</a>
+        </li>
+        <li class="mtxt">
+    		<a href="http://jiaxiao.jxedt.com/24482/wenda/" target="_blank">安顺达驾校实在是黑、教练员乔邦胜:一</a>
+        </li>
+    </ul>
+	    <ul>
+        <li class="mname">
+    		<a href="http://jiaxiao.jxedt.com/5323/" target="_blank">长安驾校</a>
+        </li>
+        <li class="mtxt">
+    		<a href="http://jiaxiao.jxedt.com/5323/wenda/" target="_blank">在吗
+</a>
+        </li>
+    </ul>
+	    <ul>
+        <li class="mname">
+    		<a href="http://jiaxiao.jxedt.com/5324/" target="_blank">客运驾校</a>
+        </li>
+        <li class="mtxt">
+    		<a href="http://jiaxiao.jxedt.com/5324/wenda/" target="_blank">我是外地的C1驾照，人是沈阳户口，可</a>
+        </li>
+    </ul>
+	</div>
+</div>
+<div class="item">
+<div class="menu">
+	<h3>沈阳驾校点评</h3>
+	<a class="menua" href="http://jiaxiao.jxedt.com/shenyang/" target="_blank">更多&gt;&gt;</a>
+</div>
+<div class="list">
+      <ul>
+        <li class="rname">
+    		<a href="http://jiaxiao.jxedt.com/245/" target="_blank">国安驾校</a>
+        </li>
+        <li class="rdp">好</li>
+        <li class="rtxt">
+    		<a href="http://jiaxiao.jxedt.com/245/dianping/" target="_blank">想学C2票，本人比较笨，黄山路我</a>
+        </li>
+	</ul>
+      <ul>
+        <li class="rname">
+    		<a href="http://jiaxiao.jxedt.com/24287/" target="_blank">沈阳宏志</a>
+        </li>
+        <li class="rdp">好</li>
+        <li class="rtxt">
+    		<a href="http://jiaxiao.jxedt.com/24287/dianping/" target="_blank">5月份报名，还没到三个月，今天考</a>
+        </li>
+	</ul>
+      <ul>
+        <li class="rname">
+    		<a href="http://jiaxiao.jxedt.com/24287/" target="_blank">沈阳宏志</a>
+        </li>
+        <li class="rdp">好</li>
+        <li class="rtxt">
+    		<a href="http://jiaxiao.jxedt.com/24287/dianping/" target="_blank">私人订制刘教练是一个非常好的教练</a>
+        </li>
+	</ul>
+      <ul>
+        <li class="rname">
+    		<a href="http://jiaxiao.jxedt.com/3141993734263603267/" target="_blank">沈阳宏志驾校</a>
+        </li>
+        <li class="rdp">好</li>
+        <li class="rtxt">
+    		<a href="http://jiaxiao.jxedt.com/3141993734263603267/dianping/" target="_blank">刚学完，教练人挺好挺负责的。5个</a>
+        </li>
+	</ul>
+      <ul>
+        <li class="rname">
+    		<a href="http://jiaxiao.jxedt.com/3141993734263603267/" target="_blank">沈阳宏志驾校</a>
+        </li>
+        <li class="rdp">好</li>
+        <li class="rtxt">
+    		<a href="http://jiaxiao.jxedt.com/3141993734263603267/dianping/" target="_blank">下票很快，自有练车场，教练也很好</a>
+        </li>
+	</ul>
+  </div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="widthad mt" style="clear:both;width:964px; border:solid 1px #92D7EB; margin:0 auto;padding:2px">
+	<div id="juhe_wangmengad_3"></div>
+</div>
+<div class="clear"></div>
+
+
+<div class="widthad mt" style=" clear:both;width:964px; border:solid 1px #92D7EB; margin:0 auto;padding:2px">
+<div class="company-pic-list">
+	
+<div class="pit">	
+<div class="compic">
+    <a href="http://jiaxiao.jxedt.com/258/" target="_blank">
+		<img width="121" height="90" src="http://pic7.58cdn.com.cn/www/201312/n_s12705239716020489002_f249f15c619fc191.jpg" alt="宏安驾校"/>
+    </a>
+</div>
+<div class="comtxt">
+	<a href="http://jiaxiao.jxedt.com/258/" target="_blank">宏安驾校</a>
+</div>
+</div>
+<div class="pit">	
+<div class="compic">
+    <a href="http://jiaxiao.jxedt.com/3141993734263603267/" target="_blank">
+		<img width="121" height="90" src="http://pic4.58cdn.com.cn/www/n_v1bj3gzryervdforhwdrna_761c4f57dfed11ac.jpg" alt="沈阳宏志驾校"/>
+    </a>
+</div>
+<div class="comtxt">
+	<a href="http://jiaxiao.jxedt.com/3141993734263603267/" target="_blank">沈阳宏志驾校</a>
+</div>
+</div>
+<div class="pit">	
+<div class="compic">
+    <a href="http://jiaxiao.jxedt.com/5325/" target="_blank">
+		<img width="121" height="90" src="http://pic5.58cdn.com.cn/www/201312/n_s12705238974274856282_168be548ff8e003a.jpg" alt="军诚驾校"/>
+    </a>
+</div>
+<div class="comtxt">
+	<a href="http://jiaxiao.jxedt.com/5325/" target="_blank">军诚驾校</a>
+</div>
+</div>
+<div class="pit">	
+<div class="compic">
+    <a href="http://jiaxiao.jxedt.com/24287/" target="_blank">
+		<img width="121" height="90" src="http://pic8.58cdn.com.cn/www/n_v1bkuymc7au3tfmeajlb7q_55b683d383d7d405.jpg" alt="沈阳宏志"/>
+    </a>
+</div>
+<div class="comtxt">
+	<a href="http://jiaxiao.jxedt.com/24287/" target="_blank">沈阳宏志</a>
+</div>
+</div>
+<div class="pit">	
+<div class="compic">
+    <a href="http://jiaxiao.jxedt.com/25365/" target="_blank">
+		<img width="121" height="90" src="http://pic2.58cdn.com.cn/www/201412/n_s12705238027492392272_a3b82465244fa605.jpg" alt="方盛驾校"/>
+    </a>
+</div>
+<div class="comtxt">
+	<a href="http://jiaxiao.jxedt.com/25365/" target="_blank">方盛驾校</a>
+</div>
+</div>
+<div class="pit">	
+<div class="compic">
+    <a href="http://jiaxiao.jxedt.com/5324/" target="_blank">
+		<img width="121" height="90" src="http://pic7.58cdn.com.cn/www/201402/n_s12705276748170225022_9c28f4b52669145d.jpg" alt="客运驾校"/>
+    </a>
+</div>
+<div class="comtxt">
+	<a href="http://jiaxiao.jxedt.com/5324/" target="_blank">客运驾校</a>
+</div>
+</div>
+
+</div>
+<div class="clear"></div>
+</div><!--教练-->
+<a name="jl"></a>
+<div class="amain mt">
+<div class="amainleft">
+<div class="ablock">
+    <div class="menu">
+    <h3>沈阳驾校教练</h3>
+    	<a href="http://jl.jxedt.com/shenyang/" target="_blank">更多&gt;&gt;</a>
+    </div>
+	<div class="plcomment">
+		
+		
+	    <ul>
+        <li class="img jlxwyd">
+        <a href="/adhelp.html" target="_blank">
+        	<img src="http://img.58cdn.com.cn/jxedt/site/images/gzzz.gif"/>
+        </a>
+        </li>
+        <li class="txt">
+        	<a href="/adhelp.html" target="_blank" class="cheng">广告招租</a>
+        </li>
+    </ul>
+		
+	    <ul>
+        <li class="img">
+        <a href="http://jl.jxedt.com/3172099829347975258/" target="_blank">
+    		<img src="http://pic4.58cdn.com.cn/www/n_v1bkuyfvp2d4fvr6cbzyda_4efbf870af0a0e2d.jpg"/>
+        </a>
+        </li>
+        <li class="txt">
+        	<a href="http://jl.jxedt.com/3172099829347975258/" target="_blank">交通驾校王雪松（男）</a>
+        </li>
+    </ul>
+	    <ul>
+        <li class="img">
+        <a href="http://jl.jxedt.com/23928/" target="_blank">
+    		<img src="http://pic7.58cdn.com.cn/www/n_v1bl2lwjbqqycfpnnqwbcq_30ea4fe579d2740c.png"/>
+        </a>
+        </li>
+        <li class="txt">
+        	<a href="http://jl.jxedt.com/23928/" target="_blank">孙女士（女）</a>
+        </li>
+    </ul>
+	    <ul>
+        <li class="img">
+        <a href="http://jl.jxedt.com/32143/" target="_blank">
+    		<img src="http://pic5.58cdn.com.cn/jl_pl/201408/n_s12705157074297174302_b7d6c4bc761b2c6b.jpg"/>
+        </a>
+        </li>
+        <li class="txt">
+        	<a href="http://jl.jxedt.com/32143/" target="_blank">陈教练（男）</a>
+        </li>
+    </ul>
+	    <ul>
+        <li class="img">
+        <a href="http://jl.jxedt.com/30634/" target="_blank">
+    		<img src="http://pic7.58cdn.com.cn/jl_pl/201404/n_s12705093825142040272_5ef0a7b2591ac203.jpg"/>
+        </a>
+        </li>
+        <li class="txt">
+        	<a href="http://jl.jxedt.com/30634/" target="_blank">姜教练（男）</a>
+        </li>
+    </ul>
+	    <ul>
+        <li class="img">
+        <a href="http://jl.jxedt.com/3175788609251180569/" target="_blank">
+    		<img src="http://pic1.58cdn.com.cn/www/n_v1bl2lwwoukusvrnrygzdq_6666f81f38fd44ce.jpg"/>
+        </a>
+        </li>
+        <li class="txt">
+        	<a href="http://jl.jxedt.com/3175788609251180569/" target="_blank">周教练（男）</a>
+        </li>
+    </ul>
+	    <ul>
+        <li class="img">
+        <a href="http://jl.jxedt.com/3173049858935881810/" target="_blank">
+    		<img src="http://pic6.58cdn.com.cn/www/n_v1bl2lwkar4aivrx2f4a7q_d016075a4f426d09.jpg"/>
+        </a>
+        </li>
+        <li class="txt">
+        	<a href="http://jl.jxedt.com/3173049858935881810/" target="_blank">钱教练（男）</a>
+        </li>
+    </ul>
+	    <ul>
+        <li class="img">
+        <a href="http://jl.jxedt.com/3073058059590369394/" target="_blank">
+    		<img src="http://pic1.58cdn.com.cn/www/n_s12824765948413012042_7ddc68c98952f0f5.jpg"/>
+        </a>
+        </li>
+        <li class="txt">
+        	<a href="http://jl.jxedt.com/3073058059590369394/" target="_blank">杨校长（男）</a>
+        </li>
+    </ul>
+	    <ul>
+        <li class="img">
+        <a href="http://jl.jxedt.com/3074704211033194613/" target="_blank">
+    		<img src="http://pic1.58cdn.com.cn/www/n_s12809042108537383262_948b3adfea74b637.jpg"/>
+        </a>
+        </li>
+        <li class="txt">
+        	<a href="http://jl.jxedt.com/3074704211033194613/" target="_blank">杨校长（男）</a>
+        </li>
+    </ul>
+	    <ul>
+        <li class="img">
+        <a href="http://jl.jxedt.com/3076356362545463413/" target="_blank">
+    		<img src="http://pic5.58cdn.com.cn/www/n_s12790686171333003012_efdf5d0014185d39.jpg"/>
+        </a>
+        </li>
+        <li class="txt">
+        	<a href="http://jl.jxedt.com/3076356362545463413/" target="_blank">商教练（男）</a>
+        </li>
+    </ul>
+	    <ul>
+        <li class="img">
+        <a href="http://jl.jxedt.com/3160016342583214167/" target="_blank">
+    		<img src="http://pic3.58cdn.com.cn/www/n_v1bkujjdz6is2vpftgvzeq_cdebc1e04c8f0db9.jpg"/>
+        </a>
+        </li>
+        <li class="txt">
+        	<a href="http://jl.jxedt.com/3160016342583214167/" target="_blank">李教练（男）</a>
+        </li>
+    </ul>
+	    <ul>
+        <li class="img">
+        <a href="http://jl.jxedt.com/3157188948436058140/" target="_blank">
+    		<img src="http://pic7.58cdn.com.cn/www/n_v1bkujjdz6fwqvpakkjjea_cdebc1e04c8f0db9.jpg"/>
+        </a>
+        </li>
+        <li class="txt">
+        	<a href="http://jl.jxedt.com/3157188948436058140/" target="_blank">ai车的我（女）</a>
+        </li>
+    </ul>
+	</div>
+
+<!--教练列表-->
+<div class="jllist">
+	    <ul>
+        <li>
+        	<a href="http://jl.jxedt.com/3172099829347975258/" target="_blank">详情</a>
+        </li>
+    	<li class="p">3080 元</li>
+    	<li class="n">
+    		<a href="http://jl.jxedt.com/3172099829347975258/" target="_blank">沈阳交通驾校-交通驾校王雪松(男,9年教龄)</a>
+    	</li>
+		
+		<li class="xingji" title="星级推荐" style="width:0px"></li>
+				    </ul>
+	    <ul>
+        <li>
+        	<a href="http://jl.jxedt.com/23928/" target="_blank">详情</a>
+        </li>
+    	<li class="p">3699 元</li>
+    	<li class="n">
+    		<a href="http://jl.jxedt.com/23928/" target="_blank">国安驾校-孙女士(女,10年教龄)</a>
+    	</li>
+		
+		<li class="xingji" title="星级推荐" style="width:0px"></li>
+				    </ul>
+	    <ul>
+        <li>
+        	<a href="http://jl.jxedt.com/32143/" target="_blank">详情</a>
+        </li>
+    	<li class="p">3600 元</li>
+    	<li class="n">
+    		<a href="http://jl.jxedt.com/32143/" target="_blank">宏达驾校-陈教练(男,12年教龄)</a>
+    	</li>
+		
+		<li class="xingji" title="星级推荐" style="width:0px"></li>
+				    </ul>
+	    <ul>
+        <li>
+        	<a href="http://jl.jxedt.com/30634/" target="_blank">详情</a>
+        </li>
+    	<li class="p">2880 元</li>
+    	<li class="n">
+    		<a href="http://jl.jxedt.com/30634/" target="_blank">交通经济-姜教练(男,5年教龄)</a>
+    	</li>
+		
+		<li class="xingji" title="星级推荐" style="width:0px"></li>
+				    </ul>
+	    <ul>
+        <li>
+        	<a href="http://jl.jxedt.com/3175788609251180569/" target="_blank">详情</a>
+        </li>
+    	<li class="p">3000 元</li>
+    	<li class="n">
+    		<a href="http://jl.jxedt.com/3175788609251180569/" target="_blank">沈阳金立得驾校-周教练(男,3年教龄)</a>
+    	</li>
+		
+		<li class="xingji" title="星级推荐" style="width:0px"></li>
+				    </ul>
+	    <ul>
+        <li>
+        	<a href="http://jl.jxedt.com/3173049858935881810/" target="_blank">详情</a>
+        </li>
+    	<li class="p">3180 元</li>
+    	<li class="n">
+    		<a href="http://jl.jxedt.com/3173049858935881810/" target="_blank">沈阳交通经济汽校-钱教练(男,1年教龄)</a>
+    	</li>
+		
+		<li class="xingji" title="星级推荐" style="width:0px"></li>
+				    </ul>
+	    <ul>
+        <li>
+        	<a href="http://jl.jxedt.com/3073058059590369394/" target="_blank">详情</a>
+        </li>
+    	<li class="p">2980 元</li>
+    	<li class="n">
+    		<a href="http://jl.jxedt.com/3073058059590369394/" target="_blank">金立得驾校-杨校长(男,7年教龄)</a>
+    	</li>
+		
+		<li class="xingji" title="星级推荐" style="width:0px"></li>
+				    </ul>
+	    <ul>
+        <li>
+        	<a href="http://jl.jxedt.com/3074704211033194613/" target="_blank">详情</a>
+        </li>
+    	<li class="p">2880 元</li>
+    	<li class="n">
+    		<a href="http://jl.jxedt.com/3074704211033194613/" target="_blank">金立得驾校-杨校长(男,6年教龄)</a>
+    	</li>
+		
+		<li class="xingji" title="星级推荐" style="width:0px"></li>
+				    </ul>
+	    <ul>
+        <li>
+        	<a href="http://jl.jxedt.com/3076356362545463413/" target="_blank">详情</a>
+        </li>
+    	<li class="p">3600 元</li>
+    	<li class="n">
+    		<a href="http://jl.jxedt.com/3076356362545463413/" target="_blank">宏达驾校-商教练(男,7年教龄)</a>
+    	</li>
+		
+		<li class="xingji" title="星级推荐" style="width:0px"></li>
+				    </ul>
+		
+    <ul>
+        <li>
+    		<a href="http://jl.jxedt.com/shenyang/" target="_blank">更多</a>
+        </li>
+        <li class="p">3080 元</li>
+        <li class="n">
+    		<a href="http://jl.jxedt.com/shenyang/" target="_blank">沈阳驾校教练员-驾校业务员</a>
+        </li>
+    	<li class="xingji" title="星级推荐" style="12px"></li>
+    	<li class="renzheng" style="width:13px" title="已经通过驾校一点通实名认证"></li>
+    	<li class="hot"></li>
+    </ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+
+<div class="amainright">
+<div class="ablock">
+    <div class="menu">
+		<h3>沈阳学车报名</h3>
+    	<a href="http://jl.jxedt.com/shenyang/" target="_blank">更多&gt;&gt;</a>
+    </div>
+	<div id="jlyulsist" class="plyulsist">
+    <div id="sjlyulsist">
+		
+	    <ul>
+        <li class="n">刘加*</li>
+        <li class="s">女</li>
+        <li class="m">15382120***</li>
+        <li class="jl">
+			<a href="http://jl.jxedt.com/18458/" target="_blank">王誉衡</a>
+        </li>
+    </ul>
+	    <ul>
+        <li class="n">乔*</li>
+        <li class="s">女</li>
+        <li class="m">18840058***</li>
+        <li class="jl">
+			<a href="http://jl.jxedt.com/3076356362545463413/" target="_blank">商教练</a>
+        </li>
+    </ul>
+	    <ul>
+        <li class="n">王*</li>
+        <li class="s">女</li>
+        <li class="m">18242352***</li>
+        <li class="jl">
+			<a href="http://jl.jxedt.com/14596/" target="_blank">吴教练</a>
+        </li>
+    </ul>
+	    <ul>
+        <li class="n">刘*</li>
+        <li class="s">女</li>
+        <li class="m">15998204***</li>
+        <li class="jl">
+			<a href="http://jl.jxedt.com/32143/" target="_blank">陈教练</a>
+        </li>
+    </ul>
+	    <ul>
+        <li class="n">甘*</li>
+        <li class="s">女</li>
+        <li class="m">15940314***</li>
+        <li class="jl">
+			<a href="http://jl.jxedt.com/3119037853460594727/" target="_blank">赵教练</a>
+        </li>
+    </ul>
+	    <ul>
+        <li class="n">姜*</li>
+        <li class="s">女</li>
+        <li class="m">15840100***</li>
+        <li class="jl">
+			<a href="http://jl.jxedt.com/3076356362545463413/" target="_blank">商教练</a>
+        </li>
+    </ul>
+	    <ul>
+        <li class="n">赵*</li>
+        <li class="s">女</li>
+        <li class="m">15524006***</li>
+        <li class="jl">
+			<a href="http://jl.jxedt.com/11019/" target="_blank">赵教练</a>
+        </li>
+    </ul>
+	    <ul>
+        <li class="n">吴*</li>
+        <li class="s">女</li>
+        <li class="m">18228857***</li>
+        <li class="jl">
+			<a href="http://jl.jxedt.com/21460/" target="_blank">赵侃</a>
+        </li>
+    </ul>
+	    <ul>
+        <li class="n">秦永*</li>
+        <li class="s">女</li>
+        <li class="m">13998329***</li>
+        <li class="jl">
+			<a href="http://jl.jxedt.com/3097127419246084210/" target="_blank">肖先生</a>
+        </li>
+    </ul>
+	    <ul>
+        <li class="n">王晓*</li>
+        <li class="s">女</li>
+        <li class="m">15083044***</li>
+        <li class="jl">
+			<a href="http://jl.jxedt.com/32143/" target="_blank">陈教练</a>
+        </li>
+    </ul>
+	    <ul>
+        <li class="n">孙*</li>
+        <li class="s">女</li>
+        <li class="m">18900976***</li>
+        <li class="jl">
+			<a href="http://jl.jxedt.com/18332/" target="_blank">孙教练</a>
+        </li>
+    </ul>
+	    <ul>
+        <li class="n">高东*</li>
+        <li class="s">女</li>
+        <li class="m">18731855***</li>
+        <li class="jl">
+			<a href="http://jl.jxedt.com/3094370434637561970/" target="_blank">胡教练</a>
+        </li>
+    </ul>
+	</div>
+</div>
+
+
+<div class="r_wd_dp">
+<div class="smenu">
+<div id="jl_wd" class="on" onclick="changewada('jl_wd','jl_dp')">教练问答</div>
+<div id="jl_dp" onclick="changewada('jl_dp','jl_wd')">教练点评</div>
+	<a class="menua" href="http://jl.jxedt.com/shenyang/" target="_blank">更多&gt;&gt;</a>
+</div>
+<div class="list">
+<div id="jl_wd_list">
+
+<div class="wdl">
+	<a href="http://jl.jxedt.com/34414/wenda/" target="_blank">教练你好   现在B2车票多少钱  </a>
+</div>
+<div class="wdl">
+	<a href="http://jl.jxedt.com/32143/wenda/" target="_blank">陈教练  你好   我想学车  B2</a>
+</div>
+<div class="wdl">
+	<a href="http://jl.jxedt.com/3076356362545463413/wenda/" target="_blank">宏达驾校是下票最快的吗？科二可以在网</a>
+</div>
+<div class="wdl">
+	<a href="http://jl.jxedt.com/33591/wenda/" target="_blank">费用里是包含所有的费用吗，体检费 补</a>
+</div>
+<div class="wdl">
+	<a href="http://jl.jxedt.com/33591/wenda/" target="_blank">你好，你们驾校新民市大民屯镇有没有分</a>
+</div>
+<div class="wdl">
+	<a href="http://jl.jxedt.com/30634/wenda/" target="_blank">驾校一点通跟科目一一样吗</a>
+</div>
+<div class="wdl">
+	<a href="http://jl.jxedt.com/33591/wenda/" target="_blank">科目一考不过！怎么办！1504125</a>
+</div>
+</div>
+
+<div id="jl_dp_list" style="display:none">
+
+<div class="item">
+<div class="n">陈教练</div>
+<div class="p">好</div>
+<div class="t">
+	<a href="http://jl.jxedt.com/32143/dianping/" target="_blank">陈教教的到位，让我很快</a>
+</div>
+</div>
+<div class="item">
+<div class="n">高教练</div>
+<div class="p">好</div>
+<div class="t">
+	<a href="http://jl.jxedt.com/33591/dianping/" target="_blank">教练人很好，夏天到了，</a>
+</div>
+</div>
+<div class="item">
+<div class="n">教练</div>
+<div class="p">好</div>
+<div class="t">
+	<a href="http://jl.jxedt.com/33794/dianping/" target="_blank">驾校没有诚信！！说是5</a>
+</div>
+</div>
+<div class="item">
+<div class="n">王誉衡</div>
+<div class="p">好</div>
+<div class="t">
+	<a href="http://jl.jxedt.com/18458/dianping/" target="_blank">昨天顺利考过了科目三，</a>
+</div>
+</div>
+<div class="item">
+<div class="n">王教练</div>
+<div class="p">好</div>
+<div class="t">
+	<a href="http://jl.jxedt.com/35012/dianping/" target="_blank">2014年10月报的名</a>
+</div>
+</div>
+<div class="item">
+<div class="n">陈教练</div>
+<div class="p">好</div>
+<div class="t">
+	<a href="http://jl.jxedt.com/32143/dianping/" target="_blank">一大早找的这位教练&n</a>
+</div>
+</div>
+<div class="item">
+<div class="n">王教练</div>
+<div class="p">好</div>
+<div class="t">
+	<a href="http://jl.jxedt.com/34414/dianping/" target="_blank">教练对学员非常认真，态</a>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+	<div class="clear"></div>
+</div>
+</div>
+</div>
+<div class="widthad mt" style=" clear:both;width:970px; margin:0 auto;">
+	<div id="juhe_wangmengad_15"></div>
+</div>
+
+<div class="amain mt">
+<div class="amainleft">
+<div class="ablock">
+<div class="menu">
+	<h3>沈阳陪驾 沈阳陪练</h3>
+	<a href="http://pl.jxedt.com/shenyang/" target="_blank">更多&gt;&gt;</a>
+</div>
+<!--推荐陪练-->
+<div class="plcomment">
+	
+		
+	    <ul>
+        <li class="img plxwyd">
+            <a href="/adhelp.html" target="_blank">
+            	<img src="http://img.58cdn.com.cn/jxedt/site/images/gzzz.gif"/>
+            </a>
+        </li>
+        <li class="txt">
+        	<a href="/adhelp.html" target="_blank" class="cheng">广告招租</a>
+        </li>
+    </ul>
+		
+		<ul>
+        <li class="img">
+        <a href="http://pl.jxedt.com/26222/" target="_blank">
+    		<img src="http://pic7.58cdn.com.cn/jl_pl/201308/n_s12705096219432675202_7680db1b587ce679.jpg"/>
+        </a>
+        </li>
+        <li class="txt">
+    		<a href="http://pl.jxedt.com/26222/">沈阳路安汽车陪</a>
+        </li>
+    </ul>
+		<ul>
+        <li class="img">
+        <a href="http://pl.jxedt.com/30560/" target="_blank">
+    		<img src="http://pic4.58cdn.com.cn/jl_pl/201503/n_s12727033479814946312_72f654a52a7ed3dd.jpg"/>
+        </a>
+        </li>
+        <li class="txt">
+    		<a href="http://pl.jxedt.com/30560/">沈阳远达陪练【</a>
+        </li>
+    </ul>
+		<ul>
+        <li class="img">
+        <a href="http://pl.jxedt.com/3679/" target="_blank">
+    		<img src="http://pic5.58cdn.com.cn/jl_pl/uptupian/n_s12705148494250666022_6010cb5663691021.jpg"/>
+        </a>
+        </li>
+        <li class="txt">
+    		<a href="http://pl.jxedt.com/3679/">沈阳丰田自动档</a>
+        </li>
+    </ul>
+		<ul>
+        <li class="img">
+        <a href="http://pl.jxedt.com/8600/" target="_blank">
+    		<img src="http://pic3.58cdn.com.cn/jl_pl/uptupian/n_s12705151554427482262_2a64065be075f1db.jpg"/>
+        </a>
+        </li>
+        <li class="txt">
+    		<a href="http://pl.jxedt.com/8600/">老王陪练 新手</a>
+        </li>
+    </ul>
+		<ul>
+        <li class="img">
+        <a href="http://pl.jxedt.com/16021/" target="_blank">
+    		<img src="http://pic3.58cdn.com.cn/www/n_s12741452567977467272_365765124cd6642e.jpg"/>
+        </a>
+        </li>
+        <li class="txt">
+    		<a href="http://pl.jxedt.com/16021/">内外路考新手上</a>
+        </li>
+    </ul>
+		<ul>
+        <li class="img">
+        <a href="http://pl.jxedt.com/6790/" target="_blank">
+    		<img src="http://pic7.58cdn.com.cn/www/n_v1bl2lwwm4o3vfoq3ulyma_6666f81f38fd44ce.jpg"/>
+        </a>
+        </li>
+        <li class="txt">
+    		<a href="http://pl.jxedt.com/6790/">金牌教练【透明</a>
+        </li>
+    </ul>
+		<ul>
+        <li class="img">
+        <a href="http://pl.jxedt.com/11299/" target="_blank">
+    		<img src="http://pic6.58cdn.com.cn/jl_pl/201402/n_s12705162258322929192_8045438b482b9813.jpg"/>
+        </a>
+        </li>
+        <li class="txt">
+    		<a href="http://pl.jxedt.com/11299/">沈洲陪驾公司</a>
+        </li>
+    </ul>
+		<ul>
+        <li class="img">
+        <a href="http://pl.jxedt.com/11329/" target="_blank">
+    		<img src="http://pic6.58cdn.com.cn/jl_pl/201408/n_s12705157341496864042_d7ba8b27cf03df74.jpg"/>
+        </a>
+        </li>
+        <li class="txt">
+    		<a href="http://pl.jxedt.com/11329/">100%好评的</a>
+        </li>
+    </ul>
+		<ul>
+        <li class="img">
+        <a href="http://pl.jxedt.com/16485/" target="_blank">
+    		<img src="http://pic4.58cdn.com.cn/jl_pl/201501/n_s12705076002016240102_d6b5105927674fe6.jpg"/>
+        </a>
+        </li>
+        <li class="txt">
+    		<a href="http://pl.jxedt.com/16485/">大众汽车专业陪</a>
+        </li>
+    </ul>
+		<ul>
+        <li class="img">
+        <a href="http://pl.jxedt.com/8241/" target="_blank">
+    		<img src="http://pic1.58cdn.com.cn/jl_pl/201408/n_s12705156758525974232_9dbc260928c12c24.jpg"/>
+        </a>
+        </li>
+        <li class="txt">
+    		<a href="http://pl.jxedt.com/8241/">诚信31589</a>
+        </li>
+    </ul>
+		<ul>
+        <li class="img">
+        <a href="http://pl.jxedt.com/12248/" target="_blank">
+    		<img src="http://pic7.58cdn.com.cn/jl_pl/201503/n_s12705088212452464042_6705ef0835abebfd.jpg"/>
+        </a>
+        </li>
+        <li class="txt">
+    		<a href="http://pl.jxedt.com/12248/">沈阳【都市雷锋</a>
+        </li>
+    </ul>
+	</div>
+
+<!--陪练列表-->
+<div class="pllist">
+
+    <ul>
+        <li>
+        	<a href="http://pl.jxedt.com/26222/" target="_blank">详情</a>
+        </li>
+    	<li class="p">70元</li>
+    	<li class="n">
+    		<a href="http://pl.jxedt.com/26222/" target="_blank">沈阳路安汽车陪练 1对1陪练</a>
+    	</li>
+		
+		<li class="xingji" title="星级推荐" style="width:0px"></li>
+				    </ul>
+    <ul>
+        <li>
+        	<a href="http://pl.jxedt.com/30560/" target="_blank">详情</a>
+        </li>
+    	<li class="p">70元</li>
+    	<li class="n">
+    		<a href="http://pl.jxedt.com/30560/" target="_blank">沈阳远达陪练【自动档卡罗拉大</a>
+    	</li>
+		
+		<li class="xingji" title="星级推荐" style="width:12px"></li>
+				    </ul>
+    <ul>
+        <li>
+        	<a href="http://pl.jxedt.com/3679/" target="_blank">详情</a>
+        </li>
+    	<li class="p">70元</li>
+    	<li class="n">
+    		<a href="http://pl.jxedt.com/3679/" target="_blank">沈阳丰田自动档手动档专业陪练</a>
+    	</li>
+		
+		<li class="xingji" title="星级推荐" style="width:0px"></li>
+				    </ul>
+    <ul>
+        <li>
+        	<a href="http://pl.jxedt.com/8600/" target="_blank">详情</a>
+        </li>
+    	<li class="p">70元</li>
+    	<li class="n">
+    		<a href="http://pl.jxedt.com/8600/" target="_blank">老王陪练 新手首选{自动，手</a>
+    	</li>
+		
+		<li class="xingji" title="星级推荐" style="width:24px"></li>
+				    </ul>
+    <ul>
+        <li>
+        	<a href="http://pl.jxedt.com/16021/" target="_blank">详情</a>
+        </li>
+    	<li class="p">70元</li>
+    	<li class="n">
+    		<a href="http://pl.jxedt.com/16021/" target="_blank">内外路考新手上路手动自动挡考</a>
+    	</li>
+		
+		<li class="xingji" title="星级推荐" style="width:0px"></li>
+				    </ul>
+    <ul>
+        <li>
+        	<a href="http://pl.jxedt.com/6790/" target="_blank">详情</a>
+        </li>
+    	<li class="p">65元</li>
+    	<li class="n">
+    		<a href="http://pl.jxedt.com/6790/" target="_blank">金牌教练【透明 唯物 理性逻</a>
+    	</li>
+		
+		<li class="xingji" title="星级推荐" style="width:36px"></li>
+				    </ul>
+    <ul>
+        <li>
+        	<a href="http://pl.jxedt.com/11299/" target="_blank">详情</a>
+        </li>
+    	<li class="p">70元</li>
+    	<li class="n">
+    		<a href="http://pl.jxedt.com/11299/" target="_blank">沈洲陪驾公司</a>
+    	</li>
+		
+		<li class="xingji" title="星级推荐" style="width:0px"></li>
+				    </ul>
+    <ul>
+        <li>
+        	<a href="http://pl.jxedt.com/11329/" target="_blank">详情</a>
+        </li>
+    	<li class="p">70元</li>
+    	<li class="n">
+    		<a href="http://pl.jxedt.com/11329/" target="_blank">100%好评的沈阳天天无忧汽</a>
+    	</li>
+		
+		<li class="xingji" title="星级推荐" style="width:36px"></li>
+				    </ul>
+    <ul>
+        <li>
+        	<a href="http://pl.jxedt.com/16485/" target="_blank">详情</a>
+        </li>
+    	<li class="p">70元</li>
+    	<li class="n">
+    		<a href="http://pl.jxedt.com/16485/" target="_blank">大众汽车专业陪练公司【318</a>
+    	</li>
+		
+		<li class="xingji" title="星级推荐" style="width:36px"></li>
+				    </ul>
+
+    <ul>
+        <li>
+        	<a href="http://pl.jxedt.com/shenyang/" target="_blank">更多</a>
+        </li>
+        <li class="p">70 元</li>
+        <li class="n">
+        	<a href="http://pl.jxedt.com/shenyang/" target="_blank">沈阳陪练—沈阳陪驾大全</a>
+        </li>
+        <li class="xingji" title="星级推荐" style="width:12px"></li>
+        <li class="renzheng" style="width:0px" title="已经通过驾校一点通实名认证"></li>
+        <li class="hot"></li>
+    </ul>
+
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+<div class="amainright">
+<div class="ablock">
+<div class="menu">
+	<h3>沈阳陪练预约</h3>
+	<a class="menua" href="http://pl.jxedt.com/shenyang/" target="_blank">更多&gt;&gt;</a>
+</div>
+<div class="plyulsist" id="plyulsist">
+<div id="splyulsist">
+	    <ul>
+      <li class="n">刘*</li>
+      <li class="s">女</li>
+      <li class="m">13674148***</li>
+      <li class="jl">
+    	 <a href="http://pl.jxedt.com/24225/" target="_blank">新阳陪练</a>
+      </li>
+    </ul>
+	    <ul>
+      <li class="n">李*</li>
+      <li class="s">女</li>
+      <li class="m">18900917***</li>
+      <li class="jl">
+    	 <a href="http://pl.jxedt.com/6790/" target="_blank">王多教练</a>
+      </li>
+    </ul>
+	    <ul>
+      <li class="n">经*</li>
+      <li class="s">女</li>
+      <li class="m">13614038***</li>
+      <li class="jl">
+    	 <a href="http://pl.jxedt.com/23198/" target="_blank">经教练</a>
+      </li>
+    </ul>
+	    <ul>
+      <li class="n">姜永*</li>
+      <li class="s">女</li>
+      <li class="m">18602457***</li>
+      <li class="jl">
+    	 <a href="http://pl.jxedt.com/24225/" target="_blank">新阳陪练</a>
+      </li>
+    </ul>
+	    <ul>
+      <li class="n">刘女*</li>
+      <li class="s">女</li>
+      <li class="m">13940040***</li>
+      <li class="jl">
+    	 <a href="http://pl.jxedt.com/3149613115754414174/" target="_blank">宏顺陪练</a>
+      </li>
+    </ul>
+	    <ul>
+      <li class="n">遇珊*</li>
+      <li class="s">女</li>
+      <li class="m">13478863***</li>
+      <li class="jl">
+    	 <a href="http://pl.jxedt.com/3149613115754414174/" target="_blank">宏顺陪练</a>
+      </li>
+    </ul>
+	    <ul>
+      <li class="n">杨宗*</li>
+      <li class="s">女</li>
+      <li class="m">13166660***</li>
+      <li class="jl">
+    	 <a href="http://pl.jxedt.com/16485/" target="_blank">沈阳</a>
+      </li>
+    </ul>
+	    <ul>
+      <li class="n">徐*</li>
+      <li class="s">女</li>
+      <li class="m">13332428***</li>
+      <li class="jl">
+    	 <a href="http://pl.jxedt.com/23198/" target="_blank">经教练</a>
+      </li>
+    </ul>
+	    <ul>
+      <li class="n">徐*</li>
+      <li class="s">女</li>
+      <li class="m">13332428***</li>
+      <li class="jl">
+    	 <a href="http://pl.jxedt.com/24565/" target="_blank">陈教练</a>
+      </li>
+    </ul>
+	    <ul>
+      <li class="n">范*</li>
+      <li class="s">女</li>
+      <li class="m">18842355***</li>
+      <li class="jl">
+    	 <a href="http://pl.jxedt.com/6497/" target="_blank">薛教练</a>
+      </li>
+    </ul>
+	    <ul>
+      <li class="n">马龙*</li>
+      <li class="s">女</li>
+      <li class="m">18504202***</li>
+      <li class="jl">
+    	 <a href="http://pl.jxedt.com/6790/" target="_blank">王多教练</a>
+      </li>
+    </ul>
+	    <ul>
+      <li class="n">徐*</li>
+      <li class="s">女</li>
+      <li class="m">15204042***</li>
+      <li class="jl">
+    	 <a href="http://pl.jxedt.com/24565/" target="_blank">陈教练</a>
+      </li>
+    </ul>
+	</div>
+</div>
+
+
+<div class="r_wd_dp">
+<div class="smenu">
+<div id="pl_wd" class="on" onclick="changewada('pl_wd','pl_dp')">陪练问答</div>
+<div id="pl_dp" onclick="changewada('pl_dp','pl_wd')">陪练点评</div>
+	<a class="menua" href="http://pl.jxedt.com/shenyang/" target="_blank">更多&gt;&gt;</a>
+</div>
+<div class="list">
+	
+<div id="pl_wd_list">
+        <div class="wdl">
+    	<a href="http://pl.jxedt.com/6258/wenda/" target="_blank">教练你好，我想问一下，自己有车，想要</a>
+    </div>
+        <div class="wdl">
+    	<a href="http://pl.jxedt.com/11329/wenda/" target="_blank">联系科目二是一对一吗？不需要等待什么</a>
+    </div>
+        <div class="wdl">
+    	<a href="http://pl.jxedt.com/6790/wenda/" target="_blank">想练习科目二，是一对一吗？不会需要等</a>
+    </div>
+        <div class="wdl">
+    	<a href="http://pl.jxedt.com/8241/wenda/" target="_blank">请问练习科目二是一对一吗？不会需要等</a>
+    </div>
+        <div class="wdl">
+    	<a href="http://pl.jxedt.com/24225/wenda/" target="_blank">请问是一对一的陪练吗？不用排队等待什</a>
+    </div>
+        <div class="wdl">
+    	<a href="http://pl.jxedt.com/12591/wenda/" target="_blank">请问学车，有最低，最高，年龄限制吗</a>
+    </div>
+        <div class="wdl">
+    	<a href="http://pl.jxedt.com/30068/wenda/" target="_blank">请问你们那可以练小型suv吗？</a>
+    </div>
+    </div>
+
+<div id="pl_dp_list" style="display:none">
+	    <div class="item">
+        <div class="n">沈阳客服</div>
+        <div class="p">好</div>
+        <div class="t">
+        	<a href="http://pl.jxedt.com/3165216579463151705/dianping/" target="_blank">非常喜欢，教练果然都如</a>
+        </div>
+    </div>
+	    <div class="item">
+        <div class="n">沈阳客服</div>
+        <div class="p">好</div>
+        <div class="t">
+        	<a href="http://pl.jxedt.com/3165216579463151705/dianping/" target="_blank">教练挺有耐心的，还得找</a>
+        </div>
+    </div>
+	    <div class="item">
+        <div class="n">沈阳客服</div>
+        <div class="p">好</div>
+        <div class="t">
+        	<a href="http://pl.jxedt.com/3165216579463151705/dianping/" target="_blank">服务态度很好，教练也很</a>
+        </div>
+    </div>
+	    <div class="item">
+        <div class="n">沈阳客服</div>
+        <div class="p">好</div>
+        <div class="t">
+        	<a href="http://pl.jxedt.com/3165216579463151705/dianping/" target="_blank">非常正规的公司，能让我</a>
+        </div>
+    </div>
+	    <div class="item">
+        <div class="n">经教练</div>
+        <div class="p">好</div>
+        <div class="t">
+        	<a href="http://pl.jxedt.com/23198/dianping/" target="_blank"> 经教练教学经验十分丰</a>
+        </div>
+    </div>
+	    <div class="item">
+        <div class="n">张教练</div>
+        <div class="p">好</div>
+        <div class="t">
+        	<a href="http://pl.jxedt.com/30560/dianping/" target="_blank">在网上找到远达陪驾,张</a>
+        </div>
+    </div>
+	    <div class="item">
+        <div class="n">张教练</div>
+        <div class="p">好</div>
+        <div class="t">
+        	<a href="http://pl.jxedt.com/30560/dianping/" target="_blank">首先非常感谢有经验的张</a>
+        </div>
+    </div>
+	</div>
+
+</div>
+</div>
+	<div class="clear"></div>
+</div>
+</div>
+</div><div class="clear"></div>
+<div class="main mt flinks">
+    <p class="friendlinks">
+        <a href="http://jiaxiao.jxedt.com/bj/" class='nopl' target="_blank">北京驾校</a>
+        <a href="http://jiaxiao.jxedt.com/tj/" target="_blank">天津驾校</a>
+        <a href="http://jiaxiao.jxedt.com/sh/" target="_blank">上海驾校</a>
+        <a href="http://jiaxiao.jxedt.com/cq/" target="_blank">重庆驾校</a>
+        <a href="http://jiaxiao.jxedt.com/hangzhou/" target="_blank">杭州驾校</a>
+        <a href="http://jiaxiao.jxedt.com/changchun/" target="_blank">长春驾校</a>
+        <a href="http://jiaxiao.jxedt.com/shenyang/" target="_blank">沈阳驾校</a>
+        <a href="http://jiaxiao.jxedt.com/dalian/" target="_blank">大连驾校</a>
+        <a href="http://jiaxiao.jxedt.com/xian/" target="_blank">西安驾校</a>
+        <a href="http://jiaxiao.jxedt.com/nanning/" target="_blank">南宁驾校</a>
+        <a href="http://jiaxiao.jxedt.com/chengdu/" target="_blank">成都驾校</a>
+        <a href="http://jiaxiao.jxedt.com/guiyang/" target="_blank">贵阳驾校</a>
+        <a href="http://jiaxiao.jxedt.com/kunming/" target="_blank">昆明驾校</a>
+        <a href="http://jiaxiao.jxedt.com/heb/" target="_blank">哈尔滨驾校</a>
+        <a href="http://jiaxiao.jxedt.com/hhht/" class='nopr' target="_blank">呼和浩特</a><br>
+        <a href="http://jiaxiao.jxedt.com/guangzhou/" class='nopl' target="_blank">广州驾校</a>
+        <a href="http://jiaxiao.jxedt.com/shenzhen/" target="_blank">深圳驾校</a>
+        <a href="http://jiaxiao.jxedt.com/lanzhou/" target="_blank">兰州驾校</a>
+        <a href="http://jiaxiao.jxedt.com/fuzhou/" target="_blank">福州驾校</a>
+        <a href="http://jiaxiao.jxedt.com/changsha/" target="_blank">长沙驾校</a>
+        <a href="http://jiaxiao.jxedt.com/nanchang/" target="_blank">南昌驾校</a>
+        <a href="http://jiaxiao.jxedt.com/wuhan/" target="_blank">武汉驾校</a>
+        <a href="http://jiaxiao.jxedt.com/nanjing/" target="_blank">南京驾校</a>
+        <a href="http://jiaxiao.jxedt.com/suzhou/" target="_blank">苏州驾校</a>
+        <a href="http://jiaxiao.jxedt.com/zhengzhou/" target="_blank">郑州驾校</a>
+        <a href="http://jiaxiao.jxedt.com/jinan/" target="_blank">济南驾校</a>
+        <a href="http://jiaxiao.jxedt.com/hefei/" target="_blank">合肥驾校</a>
+        <a href="http://jiaxiao.jxedt.com/taiyuan/" target="_blank">太原驾校</a>
+        <a href="http://jiaxiao.jxedt.com/sjz/" target="_blank">石家庄驾校</a>
+        <a href="http://jiaxiao.jxedt.com/wlmq/" class='nopr' target="_blank">乌鲁木齐</a><br>
+    </p>
+</div>
+<div class="clear"></div><!--shorturl-->
+<div class="main">
+	<div class="iteml allbox noleftm">
+    	<div class="title">学车动态<a class="more" target="_blank" href="http://info.jxedt.com"></a></div>
+        <div class="con">
+			<div class="first">
+            	<div class="img">
+					<img src="http://img.58cdn.com.cn/jxedt/site/images/news-02.jpg" width="100" height="75" alt="学车动态" />
+				</div>
+                <div class="mainlink">
+					<a target="_blank"  href="http://info.jxedt.com/info/6921.htm" class="b">自考驾照难啊？</a><br>
+					<a target="_blank" class="conn" href="http://info.jxedt.com/info/6921.htm">
+						北京正在研究不上驾校考照..
+						<span class="hongse_x">[阅读]</span>
+					</a>
+				</div>
+            </div>
+        	<div class="second">
+            	<ul>
+									<li>
+						<a href="http://info.jxedt.com/info/3093196493373374580.htm" target="_blank">学员先南昌推学车后付费 教..</a>
+					</li>
+									<li>
+						<a href="http://info.jxedt.com/info/3093196119711416435.htm" target="_blank">太原驾考路考模拟考试将能网..</a>
+					</li>
+									<li>
+						<a href="http://info.jxedt.com/info/3093195907110469747.htm" target="_blank">东莞驾考科目三将电子评判</a>
+					</li>
+									<li>
+						<a href="http://info.jxedt.com/info/3093195380976844914.htm" target="_blank">2015长沙驾校最新最权威..</a>
+					</li>
+									<li>
+						<a href="http://info.jxedt.com/info/3093194719551946867.htm" target="_blank">德州市驾校级别评定出炉 4..</a>
+					</li>
+								</ul>
+          </div>
+        </div>
+    </div>
+    <div class="iteml allbox">
+    	<div class="title">考试秘笈<a class="more" target="_blank" href="http://zhinan.jxedt.com/index_38_1.htm"></a></div>
+        <div class="con">
+        	<div class="first">
+            	<ul>
+									<li>
+						<a href="http://zhinan.jxedt.com/info/6841.htm" target="_blank">2016年驾考题库，考试满..</a>
+					</li>
+									<li>
+						<a href="http://zhinan.jxedt.com/info/7724.htm" target="_blank">2016驾考最新交警手势图..</a>
+					</li>
+									<li>
+						<a href="http://zhinan.jxedt.com/info/3996.htm" target="_blank">交警手势图解--考试图与动..</a>
+					</li>
+									<li>
+						<a href="http://zhinan.jxedt.com/info/7130.htm" target="_blank">交警手势大全_2016交警..</a>
+					</li>
+								</ul>
+			</div>
+        	<div class="second">
+            	<ul>
+									<li>
+						<a href="http://zhinan.jxedt.com/info/8313.htm" target="_blank">2015驾考：杭州江涵路科..</a>
+					</li>
+									<li>
+						<a href="http://zhinan.jxedt.com/info/6927.htm" target="_blank">倒车入库技巧图解</a>
+					</li>
+									<li>
+						<a href="http://zhinan.jxedt.com/info/7128.htm" target="_blank">场地考试技巧_2016场地..</a>
+					</li>
+									<li>
+						<a href="http://zhinan.jxedt.com/info/7127.htm" target="_blank">驾校一点通科目二新规视频推..</a>
+					</li>
+									<li>
+						<a href="http://zhinan.jxedt.com/info/6632.htm" target="_blank">2016驾考：五门必考小常..</a>
+					</li>
+								</ul>
+          </div>
+        </div>
+    </div>
+    <div class="iteml allbox">
+    	<div class="title">驾驶常识<a class="more" target="_blank" href="http://jiqiao.jxedt.com/index_10_1.htm"></a></div>
+        <div class="con">
+       	  <div class="first">
+            	<div class="img"><img src="http://img.58cdn.com.cn/jxedt/site/images/news-2.jpg" width="100" height="75" alt="驾校常识" /></div>
+                <div class="mainlink">
+					<a target="_blank"  href="http://zhinan.jxedt.com" class="b">申领、换证指南</a><br>
+					<a target="_blank" class="conn" href="http://zhinan.jxedt.com">机动车驾驶员初次申领指南..<span class="hongse_x">[阅读]</span></a>
+				</div>
+            </div>
+
+        	<div class="second">
+             	<ul>
+									<li>
+						<a href="http://jiqiao.jxedt.com/info/4603.htm" target="_blank">春风拂面人欲睡 疲劳驾驶隐..</a>
+					</li>
+									<li>
+						<a href="http://jiqiao.jxedt.com/info/455.htm" target="_blank">春季驾车赶走“瞌睡虫”</a>
+					</li>
+									<li>
+						<a href="http://jiqiao.jxedt.com/info/4498.htm" target="_blank">春季行车三大注意</a>
+					</li>
+									<li>
+						<a href="http://jiqiao.jxedt.com/info/5382.htm" target="_blank">春季驾车当心四个“坎”</a>
+					</li>
+									<li>
+						<a href="http://jiqiao.jxedt.com/info/8048.htm" target="_blank">这些必须懂 驾校不教的高速..</a>
+					</li>
+								</ul>
+          </div>
+        </div>
+    </div>
+    <div class="itemr allbox">
+    	<div class="title">学车须知<a class="more" target="_blank" href="http://zhinan.jxedt.com/index_7_1.htm"></a></div>
+        <div class="conr">
+        	<div class="first">
+            	<ul>
+                  <li><a href="http://zhinan.jxedt.com/info/67.htm" target="_blank">考驾报名条件</a> <a href="http://zhinan.jxedt.com/info/4655.htm" target="_blank" style="color:#FD7602" >学车流程</a></li>
+                  <li><a href="http://zhinan.jxedt.com/info/847.htm" target="_blank">学车择校指南</a> <a href="http://auto.jxedt.com/info/4522.htm" target="_blank">教练员选择标准</a></li>
+                  <li><a href="http://info.jxedt.com/info/4432.htm" target="_blank">培训费用知晓</a> <a href="http://zhinan.jxedt.com/info/1739.htm" target="_blank">交警新手势</a></li>
+                  <li><a href="http://zhinan.jxedt.com/index_38_1.htm" target="_blank">交规考试秘笈</a> <a href="http://zhinan.jxedt.com/index_8_1.htm" target="_blank">场考路考秘笈</a></li>
+                </ul>
+            </div>
+          <div class="second">
+            	<ul>
+                  <li><a href="http://zhinan.jxedt.com/info/1272.htm" target="_blank">新规考本全攻略</a> <a href="http://zhinan.jxedt.com/info/687.htm" target="_blank">晕车族学开车</a></li>
+                  <li><a href="http://zhinan.jxedt.com/info/4311.htm" target="_blank">考领C5照须知</a> <a href="http://zhinan.jxedt.com/info/1983.htm" target="_blank">增驾换证指南</a></li>
+                  <li><a href="http://zhinan.jxedt.com/info/3813.htm" target="_blank">驾照“直考”流程</a> <a href="http://zhinan.jxedt.com/info/3817.htm" target="_blank">c1增驾B2</a></li>
+                  <li><a href="http://zhinan.jxedt.com/info/321.htm" target="_blank">驾驶证使用规定</a> <a href="http://zhinan.jxedt.com/info/313.htm" target="_blank">准驾车型代码</a></li>
+                  <li><a href="http://zhinan.jxedt.com/info/3864.htm" target="_blank">学车意外处理</a> <a href="http://zhinan.jxedt.com/info/1656.htm" target="_blank">驾照常见问题</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+	<div class="clear"></div>
+</div><!--学车动态-->
+
+<div class="main">
+	<div class="itemleft">
+        <div class="itemlong allbox noleftm">
+            <div class="title">驾驶视频<a class="more" target="_blank" href="http://tv.jxedt.com"></a></div>
+      </div>
+        <div class="itemlong allbox">
+            <div class="title">场考视频<a class="more" target="_blank" href="http://tv.jxedt.com"></a></div>
+      </div>
+        <div class="itemlong allbox">
+            <div class="title">路考视频<a class="more" target="_blank" href="http://tv.jxedt.com"></a></div>
+      </div>
+        <div class="itemll allbox3">
+        	<ul>
+            	<li>
+					<a href="http://tv.jxedt.com/info/4057.htm" target="_blank">
+						<img border="0" src="http://img.58cdn.com.cn/jxedt/site/images/tv001.jpg" width="123" height="91" alt="驾照有新规定">
+					</a><br>
+					<a href="http://tv.jxedt.com/info/4057.htm"  target="_blank" class="huiseAU">驾照有新规定</a>
+				</li>
+                <li>
+					<a href="http://tv.jxedt.com/" target="_blank">
+						<img border="0" src="http://img.58cdn.com.cn/jxedt/site/images/tv002.jpg" width="123" height="91" alt="汽车驾驶教程">
+					</a><br>
+					<a href="http://tv.jxedt.com/"  target="_blank" class="huiseAU">汽车驾驶教程</a>
+				</li>
+                <li>
+					<a href="http://tv.jxedt.com/shigu03.asp" target="_blank">
+						<img border="0" src="http://img.58cdn.com.cn/jxedt/site/images/jgbz_3.jpg" width="123" height="91" alt="交通行为flash">
+					</a><br>
+					<a href="http://tv.jxedt.com/shigu03.asp"  target="_blank" class="huiseAU">交通行为flash</a>
+				</li>
+                <li>
+					<a href="http://tv.jxedt.com/shigu01.asp" target="_blank">
+						<img border="0" src="http://img.58cdn.com.cn/jxedt/site/images/jgbz_1.jpg" width="123" height="91" alt="道路交通标志">
+					</a><br>
+					<a href="http://tv.jxedt.com/shigu01.asp"  target="_blank" class="huiseAU">道路交通标志</a>
+				</li>
+                <li>
+					<a href="http://tv.jxedt.com/info/4042.htm" target="_blank">
+						<img border="0" src="http://img.58cdn.com.cn/jxedt/site/images/jgbz_2.jpg" width="123" height="91" alt="场地驾驶考试">
+					</a><br>
+					<a href="http://tv.jxedt.com/info/4042.htm"  target="_blank" class="huiseAU">场地驾驶考试</a>
+				</li>
+            </ul>
+        </div>
+     </div>
+    <div class="itemrong allbox">
+    	<div class="title">学车游戏<a class="more" target="_blank" href="http://jiqiao.jxedt.com/index_39_1.htm"></a></div>
+        <div class="conr">
+          	<div class="second">
+             	<ul>
+									<li>
+						<a href="http://jiqiao.jxedt.com/info/2021.htm" target="_blank">交通标志连连看_交通标志连..</a>
+					</li>
+									<li>
+						<a href="http://jiqiao.jxedt.com/info/6171.htm" target="_blank">法拉利车标拼图 </a>
+					</li>
+									<li>
+						<a href="http://jiqiao.jxedt.com/info/6170.htm" target="_blank">动感车标，很炫的车标构成</a>
+					</li>
+									<li>
+						<a href="http://jiqiao.jxedt.com/info/722.htm" target="_blank"><font color="#FF0000"><font color="..</font></a>
+					</li>
+									<li>
+						<a href="http://jiqiao.jxedt.com/info/3886.htm" target="_blank">湖南最牛驾校教练 倒桩只需..</a>
+					</li>
+									<li>
+						<a href="http://jiqiao.jxedt.com/info/2092.htm" target="_blank">mm跑跑卡丁车</a>
+					</li>
+								</ul>
+          </div>
+        </div>
+    </div>
+	<div class="clear"></div>
+</div><!--视频-->
+<div class="main">
+	<div class="iteml allbox noleftm">
+    	<div class="title">驾驶技巧<a class="more" target="_blank" href="http://jiqiao.jxedt.com/index_11_1.htm" title="更多驾驶技巧"></a></div>
+        <div class="con">
+       	  <div class="first">
+            	<div class="img"><img src="http://img.58cdn.com.cn/jxedt/site/images/news-3.jpg" width="100" height="75" alt="驾驶技巧" /></div>
+                <div class="mainlink">
+					<a target="_blank" class="b" href="http://jiqiao.jxedt.com/info/2017.htm">换档如何踩离合</a><br>
+					<a target="_blank" class="conn" href="http://jiqiao.jxedt.com/info/2017.htm">
+						换档如何踩离合一脚离合还..
+						<span class="hongse_x">[阅读]</span>
+					</a>
+				</div>
+            </div>
+        	<div class="second">
+            	<ul>
+									<li>
+						<a href="http://jiqiao.jxedt.com/info/7681.htm" target="_blank">春季自驾游的驾驶技巧</a>
+					</li>
+									<li>
+						<a href="http://jiqiao.jxedt.com/info/7680.htm" target="_blank">春季开车实用技巧分享</a>
+					</li>
+									<li>
+						<a href="http://jiqiao.jxedt.com/info/7576.htm" target="_blank">北方春节出行的十条行车技巧</a>
+					</li>
+									<li>
+						<a href="http://jiqiao.jxedt.com/info/8256.htm" target="_blank">驾校想学也学不到的四大驾驶..</a>
+					</li>
+									<li>
+						<a href="http://jiqiao.jxedt.com/info/7052.htm" target="_blank">省油技巧-汽车开车省油技巧..</a>
+					</li>
+								</ul>
+          </div>
+        </div>
+    </div>
+    <div class="iteml allbox">
+    	<div class="title">学车趣闻<a class="more" target="_blank" href="http://quwen.jxedt.com/index_15_1.htm" title="更多学车趣闻"></a></div>
+        <div class="con">
+        	<div class="first">
+            	<ul>
+									<li>
+						<a href="http://quwen.jxedt.com/info/8157.htm" target="_blank">换档练到脚抽筋 简单问题复..</a>
+					</li>
+									<li>
+						<a href="http://quwen.jxedt.com/info/7510.htm" target="_blank">学车何惧伤自尊</a>
+					</li>
+									<li>
+						<a href="http://quwen.jxedt.com/info/6837.htm" target="_blank">我在杭州的学车故事</a>
+					</li>
+									<li>
+						<a href="http://quwen.jxedt.com/info/6544.htm" target="_blank">说说我在三亚考驾照的经历</a>
+					</li>
+								</ul>
+			</div>
+        	<div class="second">
+				 <ul>
+									<li>
+						<a href="http://quwen.jxedt.com/info/3070554971977089140.htm" target="_blank">女子学车14年没通过 驾校..</a>
+					</li>
+									<li>
+						<a href="http://quwen.jxedt.com/info/8341.htm" target="_blank">连续14年考驾照不过 英一..</a>
+					</li>
+									<li>
+						<a href="http://quwen.jxedt.com/info/8318.htm" target="_blank">学车技巧：屡试不爽的停车入..</a>
+					</li>
+									<li>
+						<a href="http://quwen.jxedt.com/info/8317.htm" target="_blank">学车这么久,时间全都去哪儿..</a>
+					</li>
+									<li>
+						<a href="http://quwen.jxedt.com/info/8316.htm" target="_blank">学车路上有“五怕”你遭遇了..</a>
+					</li>
+								</ul>
+          </div>
+        </div>
+    </div>
+    <div class="iteml allbox">
+    	<div class="title">新手上路<a class="more" target="_blank" href="http://jiqiao.jxedt.com/index_34_1.htm" title="更多新手上路"></a></div>
+        <div class="con">
+       	  <div class="first">
+            	<div class="img"><img src="http://img.58cdn.com.cn/jxedt/site/images/news-4.jpg" width="100" height="75" alt="新手上路" /></div>
+                <div class="mainlink">
+					<a target="_blank"  href="http://jiqiao.jxedt.com/info/2090.htm" class="b">不熟悉的车怎么开</a><br>
+					<a target="_blank" class="conn" href="http://jiqiao.jxedt.com/info/2090.htm">
+						假期快到了,借车租车自驾游..
+						<span class="hongse_x">[阅读]</span>
+					</a>
+			</div>
+            </div>
+        	<div class="second">
+            	<ul>
+									<li>
+						<a href="http://jiqiao.jxedt.com/info/6801.htm" target="_blank">春节行车毫无压力 解析恶劣..</a>
+					</li>
+									<li>
+						<a href="http://jiqiao.jxedt.com/info/8133.htm" target="_blank">开车出行请确保最佳驾驶状态..</a>
+					</li>
+									<li>
+						<a href="http://jiqiao.jxedt.com/info/8130.htm" target="_blank">中秋出行需要注意的那些事儿</a>
+					</li>
+									<li>
+						<a href="http://jiqiao.jxedt.com/info/7742.htm" target="_blank">安全驾驶坐姿很重要</a>
+					</li>
+									<li>
+						<a href="http://jiqiao.jxedt.com/info/7735.htm" target="_blank">当蒙迪欧1.5T遇上翼虎1..</a>
+					</li>
+								</ul>
+          </div>
+        </div>
+    </div>
+    <div class="itemr allbox">
+    	<div class="title">交通标志<a class="more" target="_blank" href="http://tv.jxedt.com/shigu01.asp"></a></div>
+        <div class="conr">
+       	  <div class="first">
+            	<ul>
+                   <li>
+    					<a href="http://zhinan.jxedt.com/info/3709.htm" target="_blank" title="交通标志大全">交通标志大全</a> 
+    					<a href="http://tv.jxedt.com/shigu03.asp" target="_blank"  title="交通标志flash展示">交通标志flash</a>
+				   </li>
+                    <li>
+						<a href="http://zhinan.jxedt.com/info/512.htm" target="_blank" title="另类交通标志flash">另类交通标志flash（好玩）</a>
+					</li>
+                    <li>
+						<a href="http://jiqiao.jxedt.com/info/4730.htm" target="_blank" title="交警手势信号图解">交警手势信号</a>
+						<a href="http://zhinan.jxedt.com/info/2011.htm" target="_blank" title="八种新手势图解">八种新手势图解</a>
+					</li>
+                    <li>
+						<a href="http://jiqiao.jxedt.com/info/429.htm" target="_blank" title="色盲测试图">色盲测试图</a>
+						<a href="http://jiqiao.jxedt.com/info/304.htm" target="_blank" title="色盲色弱测试图谱">色盲色弱测试图</a>
+					</li>
+                   </ul>
+		   </div>
+        	<div class="second">
+            	<ul>
+                	<li>
+						<a href="http://jiqiao.jxedt.com/info/303.htm" target="_blank" title="汽车内部常见指示图标">汽车内部常见指示图标</a>
+					</li>
+                    <li>
+						<a href="http://jiqiao.jxedt.com/info/3690.htm" target="_blank" title="汽车仪表指示灯大全">汽车仪表指示灯大全</a>
+					</li>
+                    <li>
+						<a href="http://jiqiao.jxedt.com/info/411.htm" target="_blank" title="实习标志下载">实习标志下载（汽车/摩托车）</a>
+					</li>
+                    <li>
+						<a href="http://jiqiao.jxedt.com/info/5147.htm" target="_blank" title="一般交通事故图解（汇总）">一般交通事故图解（汇总</a>
+					</li>
+                    <li>
+						<a href="http://zhinan.jxedt.com/info/916.htm" target="_blank" title="另类遵守交通法规（辩证看）">另类遵守交通法规（辩证看</a>
+					</li>
+                    
+                 </ul>
+          </div>
+        </div>
+    </div>
+    <div class="clear"></div>
+</div><!--驾驶技巧-->
+
+<div class="main">
+	<div class="itemleft">
+        <div class="itemlong allbox noleftm">
+            <div class="title">香车美女<a class="more" target="_blank" href="http://photo.jxedt.com"></a></div>
+      </div>
+        <div class="itemlong allbox">
+            <div class="title">车展美女<a class="more" target="_blank" href="http://photo.jxedt.com"></a></div>
+      </div>
+        <div class="itemlong allbox">
+            <div class="title">香车美女<a class="more" target="_blank" href="http://photo.jxedt.com"></a></div>
+      </div>
+        <div class="itemll allbox3">
+          	<ul>
+				<li>
+					<a href="http://photo.jxedt.com/index_3.htm"  target="_blank">
+						<img border="0" src='http://pic2.58cdn.com.cn/www/201104/n_s12705275446989931182_b02d0910dafd07e2.jpg' width="123" height="91" alt="勾魂摄魄的美艳尤物">
+					</a><br>
+					<a href="http://photo.jxedt.com/index_3.htm"  target="_blank"class="huiseAU">勾魂摄魄的美艳尤物</a>
+				</li>
+				<li>
+					<a href="http://photo.jxedt.com/info/1527.htm"  target="_blank">
+						<img border="0" src='http://pic2.58cdn.com.cn/www/201108/n_s12705252607777258242_88e4ea4926a8f58e.jpg' width="123" height="91" alt="车展里的美女特警">
+					</a><br>
+					<a href="http://photo.jxedt.com/info/1527.htm"  target="_blank"class="huiseAU">车展里的美女特警</a>
+				</li>
+				<li>
+					<a href="http://photo.jxedt.com/info/2136.htm"  target="_blank">
+						<img border="0" src='http://pic5.58cdn.com.cn/www/201108/n_s12705252216591628202_a28ebac2de14b1c9.jpg' width="123" height="91" alt="车展上绝美清洁工妹妹">
+                    </a><br>
+                    <a href="http://photo.jxedt.com/info/2136.htm"  target="_blank"class="huiseAU">车展上绝美清洁工妹</a>
+                </li>
+				<li>
+                	<a href="http://photo.jxedt.com/info/4690.htm"  target="_blank">
+                		<img border="0" src='http://pic5.58cdn.com.cn/www/201108/n_s12705252678731422042_88e4ea4926a8f58e.jpg' width="123" height="91" alt="性感美女降服钢铁猛兽"></a><br>
+                			<a href="http://photo.jxedt.com/info/4690.htm"  target="_blank"class="huiseAU">性感美女降服钢铁猛</a>
+                </li>
+				<li>
+        			<a href="http://photo.jxedt.com/info/5011.htm"  target="_blank">
+        				<img border="0" src='http://pic6.58cdn.com.cn/www/201205/n_s12705230864305627122_24a05657dabe156b.jpg' width="123" height="91" alt="新手这样的路不敢开">
+        			</a><br>
+					<a href="http://photo.jxedt.com/info/5011.htm"  target="_blank"class="huiseAU">新手这样的路不敢开</a>
+                </li>
+                </ul>
+              </div>
+     </div>
+    <div class="itemrong allbox">
+    	<div class="title">实用工具<a class="more" target="_blank" href="http://www.jxedt.com/new.asp"></a></div>
+        <div class="conr">
+       	  <div class="second">
+             	<ul>
+                    <li>
+						<a target="_blank" href="http://m.jxedt.com/about/" style="color:#1B758E"  rel="nofollow">手机版</a>（
+						<a target="_blank" href="http://m.jxedt.com/about/" style="color:#1B758E">wap</a>
+						<a target="_blank" href="http://m.jxedt.com/about/android.html" style="color:#1B758E">安卓</a>
+						<a target="_blank" href="http://m.jxedt.com/about/iphone.html" style="color:#1B758E">iphone</a>）
+					</li>
+                    <li>
+						<a href="http://jiaxiao.jxedt.com" target="_blank" style="color:#1B758E">驾校查询</a>&nbsp;&nbsp;
+						<a href="http://jl.jxedt.com/" target="_blank" style="color:#1B758E">教练查询</a>&nbsp;
+						<a href="http://pl.jxedt.com/" target="_blank" style="color:#1B758E">陪练查询</a>
+					</li>
+                    <li>
+						<a href="http://mnks.jxedt.com/" target="_blank" style="color:#1B758E">科目一</a>&nbsp;&nbsp;
+						<a href="http://km4.jxedt.com/" target="_blank" style="color:#1B758E">科目四</a>&nbsp;&nbsp;
+						<a href="http://km4.jxedt.com/" target="_blank" style="color:#1B758E">题库下载</a>
+					</li>
+                    <li>
+						<a href="http://www.jxedt.com/weizhang.asp" target="_blank" style="color:#1B758E">全国机动车违章查询</a>
+					</li>
+                    <li>
+						<a href="http://app.jxedt.com/chepai/" target="_blank" style="color:#1B758E">车牌号查询</a>
+					</li>
+                    <li>
+						<a href="http://auto.jxedt.com/info/373.htm" target="_blank" style="color:#1B758E">全国汽车牌照号详解细表</a>
+					</li>
+                 </ul>
+            </div>
+        </div>
+    </div>
+	<div class="clear"></div>
+</div><!--香车美女-->
+<div class="main">
+	<div class="iteml allbox noleftm">
+    	<div class="title">汽车知识<a class="more" target="_blank" href="http://auto.jxedt.com/index_20_1.htm" title="更多汽车知识"></a></div>
+        <div class="con">
+       	  <div class="first">
+            	<div class="img">
+					<img src="http://img.58cdn.com.cn/jxedt/site/images/news-5.jpg" width="100" height="75" alt="汽车知识" />
+				</div>
+                <div class="mainlink">
+					<a target="_blank" class="b" href="http://news.jxedt.com/info/629.htm">红绿灯是谁发明的</a><br>
+					<a target="_blank" class="conn" href="http://news.jxedt.com/info/629.htm">
+						19世纪初,在英国中部的约克..
+						<span class="hongse_x">[阅读]</span>
+					</a>
+				</div>
+            </div>
+        	<div class="second">
+            	<ul>
+									<li>
+						<a href="http://auto.jxedt.com/info/629.htm" target="_blank">红绿灯是谁发明的</a>
+					</li>
+									<li>
+						<a href="http://auto.jxedt.com/info/6426.htm" target="_blank">驾驶执照的起源</a>
+					</li>
+									<li>
+						<a href="http://auto.jxedt.com/info/5932.htm" target="_blank">雨刷不是男人发明的？</a>
+					</li>
+									<li>
+						<a href="http://auto.jxedt.com/info/5169.htm" target="_blank">汽车驾照—世界上第一张机动..</a>
+					</li>
+									<li>
+						<a href="http://auto.jxedt.com/info/5168.htm" target="_blank">劳斯莱斯天使的传奇</a>
+					</li>
+								</ul>
+          </div>
+        </div>
+    </div>
+	<div class="iteml allbox">
+    	<div class="title">汽车保养<a class="more" target="_blank" href="http://tieba.jxedt.com/Theme_11.html" title="更多汽车保养"></a></div>
+
+        <div class="con">
+        	<div class="first">
+            	<ul>
+									<li>
+						<a href="http://auto.jxedt.com/info/5501.htm" target="_blank">开车族如何健康防春困 可勤..</a>
+					</li>
+									<li>
+						<a href="http://auto.jxedt.com/info/6849.htm" target="_blank">春季用车小常识 给爱车面面..</a>
+					</li>
+									<li>
+						<a href="http://auto.jxedt.com/info/6846.htm" target="_blank">警惕“咳喘” 春季汽车呼吸..</a>
+					</li>
+									<li>
+						<a href="http://auto.jxedt.com/info/6854.htm" target="_blank">春季汽车保养八大注意事项 ..</a>
+					</li>
+								</ul>
+			</div>
+        	<div class="second">
+            	<ul>
+									<li>
+						<a href="http://auto.jxedt.com/info/5076.htm" target="_blank">十一出游前学习防止疲劳驾驶</a>
+					</li>
+									<li>
+						<a href="http://auto.jxedt.com/info/5075.htm" target="_blank">国庆自驾 需要注意的山路驾..</a>
+					</li>
+									<li>
+						<a href="http://auto.jxedt.com/info/5098.htm" target="_blank">兵马未动粮草先行，你的十一..</a>
+					</li>
+									<li>
+						<a href="http://auto.jxedt.com/info/5097.htm" target="_blank">十一自驾游提示 出游之前先..</a>
+					</li>
+									<li>
+						<a href="http://auto.jxedt.com/info/8129.htm" target="_blank">中秋自驾 驾校一点通教您怎..</a>
+					</li>
+								</ul>
+          </div>
+        </div> 
+    </div>
+    <div class="iteml allbox">
+    	<div class="title">车友情感<a class="more" target="_blank" href="http://love.jxedt.com/index_16_1.htm" title="更多车友情感"></a></div>
+        <div class="con">
+       	  <div class="first">
+            	<div class="img"><img src="http://img.58cdn.com.cn/jxedt/site/images/news-6.jpg" width="100" height="75" alt="车友情感" /></div>
+                <div class="mainlink">
+					<a target="_blank" class="b" href="http://love.jxedt.com/">车友情感故事</a><br>
+					<a target="_blank" class="conn" href="http://love.jxedt.com/">
+    					为车友提供的情感倾诉空间..
+    					<span class="hongse_x">[阅读]</span>
+					</a>
+				</div>
+            </div>
+        	<div class="second">
+            	<ul>
+									<li>
+						<a href="http://love.jxedt.com/info/7451.htm" target="_blank">南充驾校教练被甩 写诗印传..</a>
+					</li>
+									<li>
+						<a href="http://love.jxedt.com/info/7316.htm" target="_blank">驾校教练让老婆跟车学驾驶 ..</a>
+					</li>
+									<li>
+						<a href="http://love.jxedt.com/info/7220.htm" target="_blank">学车恋上27岁小男友 43..</a>
+					</li>
+									<li>
+						<a href="http://love.jxedt.com/info/7135.htm" target="_blank">相约喝咖啡 自贡女学员遭驾..</a>
+					</li>
+									<li>
+						<a href="http://love.jxedt.com/info/6394.htm" target="_blank">烟台痴情小伙爱上驾校女教练..</a>
+					</li>
+								</ul>
+          </div>
+        </div>
+    </div>
+    <div class="itemr allbox">
+    	<div class="title">视频精选<a class="more" target="_blank" href="http://tv.jxedt.com/"></a></div>
+        <div class="conr">
+       	  <div class="first">
+            	<ul>
+                    <li>
+						<a target="_blank" title="如何顺利通过科目一考试" href="http://tv.jxedt.com/info/4696.htm">如何顺利通过科目一考试</a>
+					</li>
+                    <li>
+						<a target="_blank" title="最新交规科目二五门必考" href="http://zhinan.jxedt.com/info/6725.htm">最新交规科目二五门必考</a>
+					</li>
+                    <li>
+						<a target="_blank" title="新交规科目三考试视频详解" href="http://tv.jxedt.com/info/7102.htm">新交规科目三考试视频详解</a>
+					</li>
+                    <li>
+						<a target="_blank" title="科目四题库在哪里?" href="http://zhinan.jxedt.com/info/6829.htm">科目四题库在哪里?</a>
+					</li>
+
+                </ul>
+            </div>
+        	<div class="second">
+            	<ul>
+                    <li>
+						<a target="_blank" title="2015驾考科目二考试全程演示" href="http://tv.jxedt.com/info/7008.htm">2015驾考科目二考试全程演示</a>
+					</li>
+                    <li>
+						<a target="_blank" title="驾考夜间考试灯光使用" href="http://tv.jxedt.com/info/7012.htm">驾考夜间考试灯光使用</a>
+					</li>
+                    <li>
+						<a target="_blank" title="交警手势信号视频" href="http://jiqiao.jxedt.com/info/2020.htm">交警手势信号视频</a>
+					</li>
+                    <li>
+						<a target="_blank" title="倒车入库技巧视频透析" href="http://tv.jxedt.com/info/7007.htm">倒车入库技巧视频透析</a>
+					</li>
+                    <li>
+						<a target="_blank" title="道路交通标志flash动画演绎" href="http://tv.jxedt.com/shigu03.asp">道路交通标志flash动画演绎</a>
+					</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+	<div class="clear"></div>
+</div><!--汽车保养-->
+	
+	<link href="http://j2.58cdn.com.cn/jxedt/mobile/mijinew/css/pc_link.css" rel="stylesheet" type="text/css" />
+		<div class="main flinks mt">
+	<p class="friendlinks">
+	<strong>驾校疑难解答：</strong>
+		<a href="http://www.jxedt.com/wen/qita/" title="其他问题" target="_blank">其他问题</a>&nbsp;
+		<a href="http://www.jxedt.com/wen/" title="驾校问答" target="_blank">驾校问答</a>&nbsp;
+		<a href="http://www.jxedt.com/wen/zzz/" title="暂住证" target="_blank">暂住证</a>&nbsp;
+		<a href="http://www.jxedt.com/wen/yueche/" title="约车" target="_blank">约车</a>&nbsp;
+		<a href="http://www.jxedt.com/wen/lianche/" title="练车问题" target="_blank">练车问题</a>&nbsp;
+		<a href="http://www.jxedt.com/wen/kaoshi/" title="考试问题" target="_blank">考试问题</a>&nbsp;
+		<a href="http://www.jxedt.com/wen/bukao/" title="补考问题" target="_blank">补考问题</a>&nbsp;
+		<a href="http://www.jxedt.com/wen/baoming/" title="报名须知" target="_blank">报名须知</a>&nbsp;
+		<a href="http://www.jxedt.com/wen/xuefei/" title="学费" target="_blank">学费</a>&nbsp;
+		<a href="http://www.jxedt.com/wen/luxian/" title="路线" target="_blank">路线</a>&nbsp;
+		<a href="http://www.jxedt.com/wen/jiaolian/" title="教练" target="_blank">教练</a>&nbsp;
+		<a href="http://www.jxedt.com/wen/zbzl/" title="准备资料/证件" target="_blank">准备资料/证件</a>&nbsp;
+		<a href="http://www.jxedt.com/wen/ydhk/" title="异地户口" target="_blank">异地户口</a>&nbsp;
+		<a href="http://www.jxedt.com/wen/sj/" title="练车时间" target="_blank">练车时间</a>&nbsp;
+		<a href="http://www.jxedt.com/wen/cd/" title="练车场地" target="_blank">练车场地</a>&nbsp;
+		<a href="http://www.jxedt.com/wen/fy/" title="补考费用" target="_blank">补考费用</a>&nbsp;
+		<a href="http://www.jxedt.com/wen/zj/" title="增驾" target="_blank">增驾</a>&nbsp;
+		<a href="http://www.jxedt.com/wen/ysbb/" title="遗失补办" target="_blank">遗失补办</a>&nbsp;
+		<a href="http://www.jxedt.com/wen/xjhl/" title="新旧换领" target="_blank">新旧换领</a>&nbsp;
+		<a href="http://www.jxedt.com/wen/ydzy/" title="异地转移" target="_blank">异地转移</a>&nbsp;
+		<a href="http://www.jxedt.com/wen/jwjs/" title="境外驾驶证" target="_blank">境外驾驶证</a>&nbsp;
+		<a href="http://www.jxedt.com/wen/quzheng/" title="取证问题" target="_blank">取证问题</a>&nbsp;
+		<a href="http://www.jxedt.com/wen/bclx/" title="班车路线" target="_blank">班车路线</a>&nbsp;
+		<a href="http://www.jxedt.com/wen/gjlx/" title="公交路线" target="_blank">公交路线</a>&nbsp;
+		<a href="http://www.jxedt.com/wen/jljs/" title="教练接送" target="_blank">教练接送</a>&nbsp;
+		</p>
+	</div>
+		<div class="clear"></div>
+<!--foot-->
+<div class="foot mt">
+<div class="line"></div>
+<div class="ourlinks">
+    <a href="http://www.jxedt.com/about/jianjie.asp" rel="nofollow">网站介绍</a>|
+    <a href="http://www.jxedt.com/about/sitemap.asp" target="_blank" rel="nofollow">网站地图</a>|
+    <a href="http://www.jxedt.com/about/link.asp" target="_blank" rel="nofollow">合作链接</a>|
+    <a href="http://www.jxedt.com/about/laws.asp" target="_blank" rel="nofollow">免责声明</a>|
+    <a href="http://www.jxedt.com/about/ad.asp" target="_blank" rel="nofollow">广告服务</a>|
+    <a href="http://www.jxedt.com/help.asp" target="_blank" rel="nofollow">用户帮助</a>|
+    <a href="http://www.jxedt.com/about/lianxi.asp" target="_blank" rel="nofollow">联系我们</a>|
+    <a href="http://www.jxedt.com/about/index.asp" target="_blank" rel="nofollow">意见反馈</a>
+</div>
+<div class="ourpingtai">
+           驾校一点通（
+    <a href="http://www.jxedt.com">www.jxedt.com</a>
+          ）旗下平台：
+    <a href="http://jiaxiao.jxedt.com/" target="_blank">驾校平台</a>
+    <a href="http://jl.jxedt.com/" target="_blank">教练平台</a>
+    <a href="http://pl.jxedt.com/" target="_blank">陪练平台</a>
+    <a href="http://kaoshi.jxedt.com/" target="_blank">考试平台</a>
+    <br>杭州联桥网络科技有限公司 浙ICP备09002072号
+    <br>
+    <a href="http://www.58.com" rel="nofollow" target="_blank">58赶集集团旗下网站</a>
+</div>
+<center>
+	<img border="0" src="http://img.58cdn.com.cn/jxedt/site/images/ewm.png">
+</center>
+</div>
+<script>
+   $(document).ready(function(){
+   var  screenWidth=$(window).width();//获得当前网页可视宽度
+   var  bannWidth=(screenWidth-970)/2+970+10;
+   //alert(bannWidth);
+   $("#qrcode").css("left",bannWidth);
+   });
+</script>
+<style type="text/css">
+	#qrcode{
+	 position:fixed;
+	 left:1446.5px;
+	 top:30%;
+	 z-index:888;
+	}
+	img.x{
+	 position:absolute;
+	 right: 0px;
+     top: -13px;
+	 z-index:999;
+	}
+</style>
+
+
+<div id="qrcode">   
+	<a target="_blank" href="http://m.jxedt.com/about/">
+		<img border="0" src="http://pic5.58cdn.com.cn/opt/pic/n_v1bl2lwjhkf3qvmq77xuka_30ea4fe579d2740c.png"  />
+	</a>
+	<a onclick="this.parentNode.style.display='none'" href="javascript:;">
+		<img class="x"  src="http://pic5.58cdn.com.cn/opt/pic/n_v1bl2lwtmjgdqvmmzgy4ya_6c7ea76f39c78102.png"  />
+	</a>    
+</div>
+<script>document.domain="jxedt.com"</script>
+<script type="text/javascript" src="http://j2.58cdn.com.cn/jxedt/site/js/common.js"></script>
+<script type="text/javascript" src="http://j2.58cdn.com.cn/jxedt/site/js/headcommon.js?v=20150418"></script>
+<script type="text/javascript" src="http://j2.58cdn.com.cn/jxedt/site/js/site_index.js?v=20150418"></script>
+<script type="text/javascript" src="http://j2.58cdn.com.cn/jxedt/site/js/ShowDialogNew.js"></script>
+</body>
+﻿<script type="text/javascript">
+	document.write('<script type="text/javascript" src="http://track.58.com/adsys/jxedt_pcpagead?r='+ Math.random()+'"></scr'+'ipt>');
+</script>
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "//hm.baidu.com/hm.js?b54f0f8b3b75a8b7486c9adedf28f361";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+</html>
+<script type="text/javascript">
+			var _trackURL = "{'cate':'','area':'sy','channel':'cszd','pagetype':'other'}";
+	</script> 
+<script src="http://tracklog.58.com/referrer_jxedt_pc.js"></script>

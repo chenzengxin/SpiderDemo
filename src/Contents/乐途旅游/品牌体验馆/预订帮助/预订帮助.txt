@@ -1,0 +1,520 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>预订帮助_乐途商城预订帮助_乐途旅游网</title>
+<meta name="keywords" content="乐途客服，预订帮助，在线客服，自助服务，客服，选购技巧，选购流程">
+<meta name="description" content="乐途客服网站是乐途用户的网上客服平台，提供业务常见问题、会员自助、帮助信息搜索等在线自助服务和网上提问等客户服务">
+<link rel="shortcut icon" href="http://www.lotour.com/favicon2.ico" />
+<link rel="stylesheet" type="text/css" href="http://css.lotour.com/help_center.css" media="all" />
+<script type="text/javascript" src="http://js.lotour.net/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="http://js.lotour.net/jquery.slide.js"></script>
+<!--[if IE]>
+<script src="http://js.lotour.net/pie.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(function() {
+    $('.hereListL img,.commnLstL img').each(function() {
+        PIE.attach(this);
+    });
+});
+</script>
+<![endif]-->
+<!--[if IE 6]>
+    <script type="text/javascript" src="http://js.lotour.net/DD_belatedPNG.js" ></script>
+    <script type="text/javascript">
+        DD_belatedPNG.fix('.atMeIco a,.barQuote');
+    </script>
+<![endif]-->
+</head>
+
+<body>
+<!--=S 公共新顶 -->
+<!--=S 公共新顶 -->
+<div class="ltTopFix">
+	<link rel="stylesheet" type="text/css" href="http://css.lotour.net/lt_top.css?u67g" />
+	<div class="ltSection ltClear">
+      <div class="ltLogo"><a target="_blank" href="http://www.lotour.com/"><img src="http://img1.lotour.net/article/ltlogo_fix.png" width="131" height="34" alt="乐途旅游网" /></a></div>
+      <div class="ltTopNav">
+      	<ul class="clear">
+        	<li><h2><a href="http://www.lotour.com" target="_blank" title="首页">首页</a></h2></li>
+            <li><h2><a href="http://www.lotour.com/mudidi" target="_blank" title="目的地">目的地</a></h2></li>
+            <li class="topSubNav">
+            	<div class="topSubNavTit">
+                	<h2><a href="javascript:void(0)">发现</a></h2>
+                    <dl>
+						<dd><a href="http://www.lotour.com/zhoubianyou" target="_blank" title="周边游">周边游</a></dd>
+						<dd><a href="http://www.lotour.com/guoneiyou" target="_blank" title="国内游">国内游</a></dd>
+						<dd><a href="http://www.lotour.com/chujingyou" target="_blank" title="出境游">出境游</a></dd>
+					</dl>
+                </div>
+            </li>
+            <li class="topSubNav">
+            	<div class="topSubNavTit">
+                	<h2><a href="javascript:void(0)">社区</a></h2>
+                    <dl>
+						<dd class="sphl"><a href="http://my.lotour.com" target="_blank" title="部 落">部 落</a></dd>
+						<dd><a href="http://www.lotour.com/daren" target="_blank" title="大咖">大 咖</a></dd>
+						<dd><a href="http://bbs.lotour.com" target="_blank" title="常旅客">常旅客</a></dd>
+						<dd><a href="http://www.lotour.com/zijiayou/" target="_blank" title="自 驾">自 驾</a></dd>
+                                                <dd><a href="http://sc.lotour.com/" target="_blank" title="福 利">福 利</a></dd>
+                                                
+					</dl>
+                </div>
+            </li>
+            <li class="topSubNav">
+            	<div class="topSubNavTit">
+                	<h2><a href="http://d.lotour.com/" target="_blank" title="预订">预订</a></h2>
+                    <dl>
+                                                
+						<dd><a href="http://d.lotour.com/hotel/" target="_blank" title="酒店">酒 店</a></dd>
+						<dd><a href="http://d.lotour.com/dangdigentuan/" target="_blank" title="地接">地 接</a></dd>
+						<dd><a href="#" id="dujiaxianlu" target="_blank" title="度假">度 假</a></dd>
+                                                	
+					</dl>
+                </div>
+            </li>            
+        </ul>
+      </div>
+      <!--==S 搜索框 -->
+      <div class="ltSearch">
+        <script type="text/javascript" src="http://js.lotour.net/searchboxnew.js?23"></script> 
+        <form action="http://ip.lotour.com/home/mudidi" method="get" target="_blank" name="zonghe"> 
+        <div class="ltSeoBox">          
+          <div class="ltSeoInp">
+            <input type="text" value="输入您想去的目的地" autocomplete="off" name="keyword" id="keyword">
+            <input type="hidden" value="" name="keys" id="keys">
+          </div>
+        </div>
+        <div class="ltSeoBtn">
+          <input type="submit" id="btnzonghe" name="btnzonghe" />
+        </div>
+        </form>
+        <div id="hotcityhintDiv" style="z-index: 300001;" class="inputExtendBox sphl">
+            <ul id="scity" class="suggestBox"></ul>
+    	</div>
+        <div class="city_divtc" id="Search_Synthesize_Div" style="z-index: 3000006;"><div class="city_divtc_t"><a class="closex"></a><span>国内</span></div><div class="city_divtc_m"><ul><li><a href="http://shangqiu.lotour.com/" target="_blank" title=" 商丘"> 商丘</a></li><li><a href="http://xian.lotour.com/" target="_blank" title=" 西安"> 西安</a></li><li><a href="http://dandong.lotour.com/fengcheng/" target="_blank" title="凤城"> 凤城</a></li><li><a href="http://shannan.lotour.com/" target="_blank" title=" 山南"> 山南</a></li><li><a href="http://kunming.lotour.com/yunnanshilin/" target="_blank" title="石林"> 石林</a></li><li><a href="http://shangrao.lotour.com/guifeng/" target="_blank" title=" 龟峰"> 龟峰</a></li><li><a href="http://lijiang.lotour.com/" target="_blank" title="丽江">丽江</a></li><li><a href="http://zhoushan.lotour.com/" target="_blank" title="舟山">舟山</a></li><li><a href="http://huangshan.lotour.com/" target="_blank" title="黄山">黄山</a></li><li><a href="http://shaoxing.lotour.com/" target="_blank" title="绍兴">绍兴</a></li><li><a href="http://hangzhou.lotour.com/" target="_blank" title=" 杭州"> 杭州</a></li><li><a href="http://xiamen.lotour.com/" target="_blank" title=" 厦门"> 厦门</a></li><li><a href="http://jiaxing.lotour.com/wuzhenguzhen/" target="_blank" title=" 乌镇"> 乌镇</a></li><li><a href="http://qingdao.lotour.com/" target="_blank" title=" 青岛"> 青岛</a></li><li><a href="http://shanghai.lotour.com" target="_blank" title="上海">上海</a></li></ul></div><div class="city_divtc_t"><span>境外</span></div><div class="city_divtc_m"><ul><li><a href="http://tha.lotour.com/" target="_blank" title="泰国">泰国</a></li><li><a href="http://cam.lotour.com/" target="_blank" title="柬埔寨">柬埔寨</a></li><li><a href="http://tha.lotour.com/qingmai/" target="_blank" title="清迈">清迈</a></li><li><a href="http://aus.lotour.com/" target="_blank" title=" 澳大利亚"> 澳大利亚</a></li><li><a href="http://tha.lotour.com/pujifu/" target="_blank" title="普吉岛">普吉岛</a></li><li><a href="http://mas.lotour.com/shaba/" target="_blank" title="沙巴">沙巴</a></li><li><a href="http://pf.lotour.com/" target="_blank" title="大溪地">大溪地</a></li><li><a href="http://nep.lotour.com/" target="_blank" title="尼泊尔">尼泊尔</a></li><li><a href="http://fra.lotour.com/baliqu/" target="_blank" title="巴黎">巴黎</a></li><li><a href="http://taiwan.lotour.com/" target="_blank" title=" 台湾"> 台湾</a></li><li><a href="http://sri.lotour.com/" target="_blank" title=" 斯里兰卡"> 斯里兰卡</a></li><li><a href="http://gbr.lotour.com/lundun1/" target="_blank" title="伦敦">伦敦</a></li><li><a href="http://ina.lotour.com/balidao1/" target="_blank" title="巴厘岛">巴厘岛</a></li><li><a href="http://macao.lotour.com/" target="_blank" title="澳门">澳门</a></li><li><a href="http://fij.lotour.com/" target="_blank" title="斐济">斐济</a></li></ul></div></div>
+
+      </div>
+      <!--==E 搜索框 -->      
+<script src="http://js.lotour.net/mylotour/v1/mylotour_v2.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://js.lotour.net/lotour_v1.js"></script>
+<link rel="stylesheet" type="text/css" href="http://css.lotour.net/mylotour/v1/top_mylotour.css" />
+<script type="text/javascript" src="http://js.lotour.net/login/searchhotellogin_v3.js"></script>
+      <div class="ltLoginBox" id="gloLogin"> 
+      </div>
+    </div>
+</div>
+<!-- 想去浮层 -->
+<div id="dream_place">
+</div>
+<!-- 求助浮层 -->
+<div id="ask_topic" class="msgLayer msgMod" style="display:none;">
+</div>
+<div id="private_msg" class="msgLayer msgMod" style="display:none;">
+</div>
+<script type="text/javascript">
+  $(document).ready(function() {
+            $("#private_msg").PrivatePanel({
+                className: "msgLayer",
+                init: function () {
+                },
+                publish: function (arr) {
+                    alert("操作成功!");
+                }
+            }).hide();
+
+    $s.loadCss("http://css.lotour.net/mylotour/v1/wantgo_new");
+    $("#dream_place").DPPanel({
+    className: "msgLayer",
+    close: function () {
+    $(".layerBg").hide();
+    },
+    init: function () {
+    },
+    publish: function(arr) {
+    try{dplaceweiboTui($("#dream_place_reseaon").val())}catch(e){}
+    location.reload();
+    }
+    }).hide();
+  
+  $("#ask_topic").AskPanel({
+  className: "msgLayer",
+  close: function () {
+  $(".layerBg").hide();
+  },
+  init: function () {
+  },
+  publish: function (arr) {
+  $a("添加成功");
+  }
+  }).hide();
+
+  var askweibo = new PWeibo({
+  container: 'ask-weiboshare'
+  });
+  askweibo.create();
+  askweiboTui = function (txtcon) {
+  var content = "我在乐途旅游网发布了一条求助，求大家回复啊！";
+  content += "“" + txtcon + "”";
+  askweibo.send(content, function () {
+  });
+  };  
+  var returnAction=getUrlQueryString("returnAction");
+  if(returnAction!=null){
+  var returnRid=getUrlQueryString("rid");
+  switch (returnAction){
+  case "dplace":
+  $('#dream_place').fadeIn(500).loadDPPanel(returnRid,0,true);
+  $('.layerBg').css('height', $(document).height()).show();
+  break;
+  case "ask":
+  $.ajax({
+  cache: false,
+  type: "GET",
+  dataType: 'jsonp',
+  jsonp: 'callback',
+  url: "http://my.lotour.com/i/DPlace/DreamPlace/Regions/",
+  data: { dplaceId:0 , regionsList:returnRid},
+  success: function (data) {
+  data = data.Result.Data;
+  if (data.success == true) {
+  var dic = data.msg;
+  $.each(dic, function (i) {
+  $('#ask_topic').fadeIn(500).loadAskPanel(0,returnRid,dic[i].regionName,'addAskByRegion');
+  $('.layerBg').css('height', $(document).height()).show();
+  });
+  }
+  },
+  error: function (xhr, textStatus, errorThrown) {
+  }
+  });
+  break;
+  }
+  }
+  });
+
+  function getUrlQueryString(name) {
+  var curl=location.href;
+  if(curl.indexOf("#?#")>0){
+  try{
+  curl=curl.replace("#?#","!");
+  var urlparse=curl.split("!");
+  var parms =  urlparse[1].split("&");
+  for(var i=0;i<parms.length;i++){
+    var parm =parms[i].split("=");
+    if(parm[0].toLowerCase()==name.toLowerCase()){
+      return parm[1];
+    }
+  }
+  }catch(e){}
+  return null;
+  }else{
+  return getUrlQueryStr(name);
+  }
+  }
+  function getUrlQueryStr(name){
+  var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");
+    var r = window.location.search.substr(1).match(reg);
+    if (r != null) return unescape(r[2]); return null;
+  }
+
+
+
+  function AskHelp(){
+  $('#ask_topic').fadeIn(500).loadAskPanel(0);$('.layerBg').css('height', $(document).height()).show();
+  }
+  function WantGo(){
+  $('#dream_place').fadeIn(500).loadDPPanel('',0,true);$('.layerBg').css('height', $(document).height()).show();
+  }
+</script>
+<script type="text/javascript">
+if ($.cookie("CityID") == null||$.cookie("ChName") == null||$.cookie("IndexAreaName") == null) {
+      $.getScript("http://ip.lotour.com",function(){
+          $.cookie("CityID", result.regionid, { expires: 30, path: '/', domain: 'lotour.com' });
+          $.cookie("ChName", result.Chname, { expires: 30, path: '/', domain: 'lotour.com' });
+          $.cookie("IndexAreaName", result.regionname, { expires: 30, path: '/', domain: 'lotour.com' });
+          $("#dujiaxianlu").attr("href","http://d.lotour.com/dujiaxianlu/"+$.cookie("ChName")+"/");
+      });
+  }
+  else
+      $("#dujiaxianlu").attr("href","http://d.lotour.com/dujiaxianlu/"+$.cookie("ChName")+"/");
+
+              $(pageInit);
+                    var box;
+                    function pageInit() {
+                        box = $("#keyword").searchbox({  });
+                    }
+
+	$(function(){	
+		
+		var loginState = new lotourLoginState({});
+loginState.init();
+$(".topSubNavTit").mouseenter(function() {
+			$(this).parent().addClass("hover");
+			$(this).find("dl").stop().slideDown("fast");
+			}).mouseleave(function() {
+			$(this).find("dl").stop().slideUp("fast");
+			$(this).parent().removeClass("hover");
+		});
+					
+	})
+</script> 
+<!--=E 公共新顶 --> 
+<script type="text/javascript">
+            $(function () {
+                $(".ltFeedback").hide();
+            })
+</script>
+<!--=E 公共新顶 --> 
+
+<!--=S 面包屑 -->
+<div class="ltCrumb clear">
+	<a href="http://www.lotour.com/" target="_blank" title="">首页</a> &gt; 预订帮助 
+</div>
+<!--=E 面包屑 -->
+    
+<div class="ltSection clear mt15">    
+    <!--=S 左侧 -->
+     
+ <div class="ltHelpL">
+        <div class="ltHelpMenu">
+            
+            <dl>
+                <dt><i></i>酒店预订</dt>
+                    <dd id="lefti_jiudian-cz"><a  href="/yudingbangzhu/jiudian-cz">查找酒店</a></dd>
+                    <dd id="lefti_jiudian-xz"><a  href="/yudingbangzhu/jiudian-xz">选择酒店</a></dd>
+                    <dd id="lefti_jiudian-tjdd"><a  href="/yudingbangzhu/jiudian-tjdd">提交订单</a></dd>
+                    <dd id="lefti_jiudian-cjwt"><a  href="/yudingbangzhu/jiudian-cjwt">常见问题</a></dd>
+            </dl>
+            <dl>
+                <dt><i></i>线路预订</dt>
+                    <dd id="lefti_xianlu-cz"><a  href="/yudingbangzhu/xianlu-cz">查找线路</a></dd>
+                    <dd id="lefti_xianlu-xz"><a  href="/yudingbangzhu/xianlu-xz">选择线路</a></dd>
+                    <dd id="lefti_xianlu-tjdd"><a  href="/yudingbangzhu/xianlu-tjdd">提交订单</a></dd>
+                    <dd id="lefti_xianlu-cjwt"><a  href="/yudingbangzhu/xianlu-cjwt">常见问题</a></dd>
+                    <dd id="lefti_xianlu-aqzn"><a  href="/yudingbangzhu/xianlu-aqzn">安全指南</a></dd>
+            </dl>
+            <dl>
+                <dt><i></i>门票预订</dt>
+                    <dd id="lefti_menpiao-cz"><a  href="/yudingbangzhu/menpiao-cz">查找门票</a></dd>
+                    <dd id="lefti_menpiao-yd"><a  href="/yudingbangzhu/menpiao-yd">预订门票</a></dd>
+                    <dd id="lefti_menpiao-ydxz"><a  href="/yudingbangzhu/menpiao-ydxz">预订须知</a></dd>
+                    <dd id="lefti_menpiao-cjwt"><a  href="/yudingbangzhu/menpiao-cjwt">常见问题</a></dd>
+                    <dd id="lefti_menpiao-tptk"><a  href="/yudingbangzhu/menpiao-tptk">退票与退款</a></dd>
+            </dl>
+        </div>
+    </div>
+    <script type="text/javascript">
+        $(function () {
+            $('.ltHelpMenu dt').click(function () {
+                $(this).parent('dl').toggleClass('on');
+            })
+        })
+
+        $(function () {
+            var myindex = '';
+            var sindex = 'lefti_';
+
+            $("#" + sindex).addClass("on");
+
+
+        });
+    </script>
+
+    <!--=E 左侧 -->
+    
+    <!--=S 右侧 -->
+    <div class="ltHelpR">
+    	<div class="ltHelpBanner">
+        	<img src="http://img1.lotour.com/helpcenter/img/helpBanner1.jpg" />
+        </div>
+        <img src="http://img1.lotour.com/helpcenter/img/y1.png" class="mb20" />
+        <img src="http://img1.lotour.com/helpcenter/img/y2.png" />
+    </div>
+    <!--=E 右侧 -->
+</div>
+
+<!--=S 公共底 -->  
+<!--=S 公共底 -->  
+<div class="ltFooter">
+	<ul class="ltBottom clear">
+		<li>    
+			<dl>
+				<dt>关于我们</dt>
+				<dd><a href="http://corp.lotour.com/index.shtml" target="_blank" title="">乐途介绍</a></dd>
+				<dd><a href="http://corp.lotour.com/job_2.shtml" target="_blank" title="">招贤纳仕</a></dd>
+				<dd class="sphl"><a href="#" target="_blank" title="">智慧旅游</a></dd>
+				<dd><a href="http://corp.lotour.com/lotour_honour.shtml" target="_blank" title="">网站荣誉</a></dd>
+				<dd><a href="http://corp.lotour.com/contact.shtml" target="_blank" title="">联系我们</a></dd>
+			</dl>
+		</li>
+		<li>    
+			<dl>       
+				<dt>营销服务</dt>
+				<dd><a href="http://www.lotour.com/zhuanti/yingxiao/" target="_blank" title="乐途营销">乐途营销</a></dd>
+			</dl>
+		</li>
+		<li>  
+			<dl>
+				<dt>商家服务</dt>
+				<dd><a href="http://member.lotour.com/" target="_blank" title="商家入驻">商家入驻</a></dd>
+				<dd><a href="http://member.lotour.com/" target="_blank" title="商家登录">商家登录</a></dd>
+			</dl>
+		</li>
+		<li>  
+			<dl>
+				<dt>新手上路</dt>
+				<dd><a href="http://d.lotour.com/yudingbangzhu/" target="_blank" title="预订帮助">预订帮助</a></dd>
+				<dd><a href="http://corp.lotour.com/term.shtml" target="_blank" title="">服务条款</a></dd>
+                                <dd><a href="http://corp.lotour.com/copyright.shtml" target="_blank" title="">版权声明</a></dd>
+			</dl>
+		</li>
+		<li class="btmPartner">
+			<dl>
+				<dt>合作伙伴</dt>
+				<dd><a href="http://www.cnta.com/" target="_blank" title="国家旅游局">国家旅游局</a></dd>				
+				<dd><a href="http://travel.people.com.cn/" target="_blank" title="人民网旅游">人民网旅游</a></dd>
+				<dd class="clear"></dd>
+				<dd><a href="http://travel.gmw.cn/index.htm" target="_blank" title="光明网旅游">光明网旅游</a></dd>
+				<dd><a href="http://travel.cntv.cn/" target="_blank" title="央视网旅游">央视网旅游</a></dd>
+				<dd><a href="http://travel.chinadaily.com.cn/" target="_blank" title="中国日报网">中国日报网</a></dd>
+				<dd class="allLinks"><a href="http://corp.lotour.com/parter.shtml" target="_blank" title="">[全部]</a></dd>
+			</dl>
+		</li>
+		<li class="btmShare">  
+			<dl>
+				<dt>关注我们</dt>
+				<dd>
+					<div class="ltShare">						
+						<a title="进入QQ空间" target="_blank" href="http://user.qzone.qq.com/1726116704" class="ltQzone"></a>
+						<a title="进入新浪微博" target="_blank" href="http://weibo.com/lotour2005" class="ltSina"></a>
+						<a title="进入人人网" target="_blank" href="http://www.renren.com/600754913" class="ltRenren"></a>
+						<a title="进入腾讯微博" target="_blank" href="http://t.qq.com/lotourly" class="ltTqq"></a>
+						<a title="" href="javascript:void(0)" class="ltVcode"></a>						 
+					</div>
+					<div class="vCodeCon">
+						<div class="vCodeMod">
+							<h3>进入网站</h3>
+							<div class="vCodeBox"><img src="http://img1.lotour.net/home/vcode.png" width="80" height="80" alt="" /></div>
+							<p>浏览器扫一扫<br />手机浏览更方便</p>
+						</div>
+						<div class="vCodeMod">
+							<h3>官方微博</h3>
+							<div class="vCodeBox"><img src="http://img1.lotour.net/home/vcode1.png" width="80" height="80" alt="" /></div>
+							<p>扫描二维码<br />加我为好友</p>
+						</div>
+					</div>
+					<script type="text/javascript">						
+						$(".ltShare .ltVcode").mouseover(function() {							
+							$(this).parent().siblings(".vCodeCon").show();
+							}).mouseleave(function() {
+							$(this).parent().siblings(".vCodeCon").hide();							
+						});
+					</script>
+				</dd>
+			</dl>
+		</li>
+		<li class="btmWeixin">
+			<dl>
+				<dt>官方微信</dt>
+				<dd>
+					<div class="vCodeBox"><img src="http://img1.lotour.net/home/vcode1-1.jpg" width="88" height="88" alt="" /></div>
+				</dd>
+			</dl>	
+		</li>	
+	</ul>
+	<div class="ltfoot clear">
+		<div class="ltfootB">
+			<a class="btmLogo" target="_blank" href="http://www.lotour.com/" title="乐途旅游网"></a>
+			<p><a href="http://www.miibeian.gov.cn" target="_blank" title="">京ICP备12008860号-1</a>&nbsp;&nbsp;<a href="http://corp.lotour.com/licence_gd.shtml" target="_blank" title="">广电节目制作许可证：1313号</a>&nbsp;&nbsp;京公网安备：11010502001653<br />
+			<span class="Arial">Copyright &copy; 2005 - 2016&nbsp;&nbsp;<a href="http://www.lotour.com/" target="_blank">Lotour.com</a>&nbsp;&nbsp;All Rights Reserved.</span>&nbsp;<a href="http://www.lotour.com/" target="_blank" title="乐途旅游网">乐途旅游网</a>&nbsp;版权所有</p>
+			<a class="btmIco" target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202008020400006"></a>
+		</div>		
+	</div>
+</div>
+
+
+<!--=E 公共底 -->
+
+<script type="text/javascript" src="http://js.lotour.net/analytics/statsv2.js" defer charset="UTF-8"></script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-39387460-1']);
+    _gaq.push(['_setDomainName', 'lotour.com']);
+    _gaq.push(['_addOrganic', 'baidu', 'word']);
+    _gaq.push(['_addOrganic', 'soso', 'w']);
+    _gaq.push(['_addOrganic', '3721', 'name']);
+    _gaq.push(['_addOrganic', 'yodao', 'q']);
+    _gaq.push(['_addOrganic', 'vnet', 'kw']);
+    _gaq.push(['_addOrganic', 'sogou', 'query']);
+    _gaq.push(['_addOrganic', '360', 'q']);
+    _gaq.push(['_addOrganic', 'so', 'q']);
+    var full_url = location.pathname + location.search + location.hash;
+    _gaq.push(['_trackPageview', full_url]);
+    _gaq.push(['_trackPageLoadTime']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F317768ad40e6ddbe20f10e89b4712c35' type='text/javascript'%3E%3C/script%3E"));
+
+
+</script>
+
+<!--=E 公共底 -->
+
+
+<!--=S 表情框 --> 
+<div class="emot_panel" id="emot_panel_txt">
+  <span class="emot_close"><a href="javascript:void(0);"></a></span>
+    <ul class="emotlist">
+        <li><a href="javascript:void(0)" onclick="EmotAdd('喜')">
+            <img src="http://img1.lotour.com/mylotour/emot/喜.gif" /></a> </li>
+        <li><a href="javascript:void(0)" onclick="EmotAdd('诡笑')">
+            <img src="http://img1.lotour.com/mylotour/emot/诡笑.gif" /></a> </li>
+        <li><a href="javascript:void(0)" onclick="EmotAdd('爱')">
+            <img src="http://img1.lotour.com/mylotour/emot/爱.gif" /></a> </li>
+        <li><a href="javascript:void(0)" onclick="EmotAdd('悲')">
+            <img src="http://img1.lotour.com/mylotour/emot/悲.gif" /></a> </li>
+        <li><a href="javascript:void(0)" onclick="EmotAdd('吃')">
+            <img src="http://img1.lotour.com/mylotour/emot/吃.gif" /></a> </li>
+        <li><a href="javascript:void(0)" onclick="EmotAdd('调皮')">
+            <img src="http://img1.lotour.com/mylotour/emot/调皮.gif" /></a> </li>
+        <li><a href="javascript:void(0)" onclick="EmotAdd('钢帽')">
+            <img src="http://img1.lotour.com/mylotour/emot/钢帽.gif" /></a> </li>
+        <li><a href="javascript:void(0)" onclick="EmotAdd('汗')">
+            <img src="http://img1.lotour.com/mylotour/emot/汗.gif" /></a> </li>
+        <li><a href="javascript:void(0)" onclick="EmotAdd('好')">
+            <img src="http://img1.lotour.com/mylotour/emot/好.gif" /></a> </li>
+        <li><a href="javascript:void(0)" onclick="EmotAdd('惊讶')">
+            <img src="http://img1.lotour.com/mylotour/emot/惊讶.gif" /></a> </li>
+        <li><a href="javascript:void(0)" onclick="EmotAdd('哭')">
+            <img src="http://img1.lotour.com/mylotour/emot/哭.gif" /></a> </li>
+        <li><a href="javascript:void(0)" onclick="EmotAdd('酷')">
+            <img src="http://img1.lotour.com/mylotour/emot/酷.gif" /></a> </li>
+        <li><a href="javascript:void(0)" onclick="EmotAdd('困')">
+            <img src="http://img1.lotour.com/mylotour/emot/困.gif" /></a> </li>
+        <li><a href="javascript:void(0)" onclick="EmotAdd('玫瑰')">
+            <img src="http://img1.lotour.com/mylotour/emot/玫瑰.gif" /></a> </li>
+        <li><a href="javascript:void(0)" onclick="EmotAdd('怒')">
+            <img src="http://img1.lotour.com/mylotour/emot/怒.gif" /></a> </li>
+        <li><a href="javascript:void(0)" onclick="EmotAdd('胜利')">
+            <img src="http://img1.lotour.com/mylotour/emot/胜利.gif" /></a> </li>
+        <li><a href="javascript:void(0)" onclick="EmotAdd('衰')">
+            <img src="http://img1.lotour.com/mylotour/emot/衰.gif" /></a> </li>
+        <li><a href="javascript:void(0)" onclick="EmotAdd('偷笑')">
+            <img src="http://img1.lotour.com/mylotour/emot/偷笑.gif" /></a> </li>
+    </ul>  
+</div>
+<!--=E 表情框 -->
+ 
+
+</body>
+</html>
+
+

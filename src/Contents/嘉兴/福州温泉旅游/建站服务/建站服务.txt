@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link href="http://img.lotour.com/zip/20100208/20100208/style.css" rel="stylesheet" type="text/css" id="csssheet" /><title>乐途科技网</title>
+
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=gb2312">
+<link href="/share/member/dbdy/lotourDB/dbdy/css.css" type="text/css" rel="stylesheet">
+<script language="javascript" src="/share/js/XMLHttpRequest_dbnew.js"></script>
+<script language="JavaScript" src="http://www.lotour.com/include/js/lotourflash.js"></script>
+<script type="text/javascript" src="/share/js/cscon1.js"></script>
+</head>
+<body>
+<div class="main">
+<div class="header"><li class="logo"><img src="http://img.lotour.com/zip/20100208/20100208y/logo.gif" /></li><li class="tel"><img src="http://img.lotour.com/zip/20100208/20100208y/tel.gif" /></li></div>
+
+ <div class="menu" id="nav">
+       <ul>      <li id="n_index"><a href="http://tech.lotour.com" class="selec"></a></li>      <li id="n_jiejue"><a></a></li>      <li id="n_fuwu"><a href="http://tech.lotour.com/cpfw/zongshu.shtml" ></a></li>      <li id="n_use"><a href="http://tech.lotour.com/yyzs/"></a></li>      <li id="n_news"><a href="http://tech.lotour.com/technews"></a></li>      <li id="n_about"><a href="http://tech.lotour.com/gylt/keji.shtml"></a></li>    </ul>
+
+ </div>
+<div class="banner">
+  <!--焦点图开始-->
+   <!-- 焦点图开始 --> 
+<style>
+#YSlide{position:relative;z-index:1;margin:0 auto;width:930px;height:339px;overflow:hidden;}
+#YSlide .YSample{margin:0 auto;overflow:hidden;padding:0;}
+#YSlide .YSample,#YSlide .YSample img{width:930px;height:339px;}
+#YSlide .YSample strong{position:absolute;z-index:5;bottom:0px;left:0px;font-weight:normal;width:930px;height:40px;line-height:40px;text-indent:15px;font-size:14px;color:#FFF; border-top:1px #ccc solid;background-color:#000;opacity:.7;-moz-opacity:.7;filter:alpha(opacity=50);overflow:hidden;padding:0;}
+#YSlide #jSIndex{position:absolute;z-index:6;top:262px;left:526px;width:400px;text-align:right;height:40px;line-height:40px;overflow:hidden;padding:0;}
+#jSIndex a:link,#jSIndex a:visited,#jSIndex a:hover{position:relative;z-index:6;padding:1px 6px;border:1px solid #EFEFEF;color:#FFF;margin-right:4px;font-weight: normal;text-decoration:none;font-size:14px;background-color:#4295d4;}
+#jSIndex a:hover,#jSIndex a.current:link,#jSIndex a.current:visited,#jSIndex a.current:hover{background-color:#10b313;font-weight: bold;}
+</style>
+
+
+<div id="YSlide">
+      <p class="YSample"><a href="#1" title="符合中国旅游管理部门与企业运营之道"><img src="img/1.jpg"/></a><strong>合道：符合中国旅游管理部门与企业运营之道</strong></p>
+      <p class="YSample"><a href="#1"><img src="img/2.jpg"/></a><strong>兴业科技之势，聚信息革命之力，行创新发展之举</strong></p>
+      <p class="YSample"><a href="#1" title="符合中国旅游管理部门与企业运营之道"><img src="img/3.jpg"/></a><strong>中国旅游信息化整体解决方案服务商</strong></p>
+      <p id="jSIndex"><a href="#1" class="current">1</a><a href="#1">2</a><a href="#1">3</a></p>
+</div>
+    
+<script language="javascript" type="text/javascript" src="ytabs.js"></script>
+<script language="javascript" type="text/javascript">
+
+(function(){
+	YAO.YTabs({
+		tabs: YAO.getEl('jSIndex').getElementsByTagName('a'),
+		contents: YAO.getElByClassName('YSample', 'p', 'YSlide'),
+		defaultIndex: 0,
+		auto: true,
+		fadeUp: true
+	});
+})();
+
+</script>
+
+ <!-- 焦点图结束 -->  
+
+ <!--焦点图结束-->
+</div>
+<div class="list">
+		<div class="news">
+        	<div class="news_top"><h3>新闻中心</h3><p><a href="http://tech.lotour.com/technews/">更多&gt;&gt;</a></p>
+</div>
+            <div class="news_list">
+           <!-- Startwz -->
+<span><img src="http://img.lotour.com/zip/20100209/20100209h4/index_17.gif
+"/><a href="http://d.lotour.com/guonei/20100226/435443.shtml" target="_blank">乐途旅游跃升中国旅游网站竞争力前</a></span>
+
+<span><img src="http://img.lotour.com/zip/20100209/20100209h4/index_17.gif
+"/><a href="http://d.lotour.com/guonei/20100226/435414.shtml" target="_blank">假日办发布《2010春节黄金周旅</a></span>
+
+<span><img src="http://img.lotour.com/zip/20100209/20100209h4/index_17.gif
+"/><a href="http://d.lotour.com/guonei/20100226/435412.shtml" target="_blank">“中国旅游日”设立日专家意见征询</a></span>
+
+<span><img src="http://img.lotour.com/zip/20100209/20100209h4/index_17.gif
+"/><a href="http://d.lotour.com/jiangsu/20100226/435404.shtml" target="_blank">2010年全国旅游监管工作会议在</a></span>
+
+<span><img src="http://img.lotour.com/zip/20100209/20100209h4/index_17.gif
+"/><a href="http://d.lotour.com/jpn/20100226/435385.shtml" target="_blank">“全球百城世博旅游推广月”启动仪</a></span>
+<!-- Endwz -->
+            </div>
+        </div>
+        <div class="Service ">
+        	<div class="Service_top"><h3>产品服务</h3><p><a href="http://tech.lotour.com/technews/431294/">更多&gt;&gt;</a></p>
+</div>
+            <div class="Service_list">
+                 <!-- Startwz --><!-- Endwz -->
+            </div>
+        </div>
+        <div class="use ">
+        	<div class="use_top"><h3>应用展示</h3><p><a href="http://tech.lotour.com/yyzs/">更多&gt;&gt;</a></p></div>            <div class="use_list">            <span><a href="http://tech.lotour.com/yyzs/gjlyj.shtml" target="_blank"><img src="img/use2.JPG" /></a><p><a href="http://tech.lotour.com/yyzs/gjlyj.shtml" target="_blank">中国国家旅游局官方网站</a></p></span>             <span><a href="http://tech.lotour.com/yyzs/gjyjy.shtml" target="_blank"><img src="img/use1.JPG" /></a><p><a href="http://tech.lotour.com/yyzs/gjyjy.shtml" target="_blank">中国旅游研究院官方网站</a></p></span>                        </div>
+
+        </div>
+        
+</div>
+</div>
+<div style="height:10px; clear:both;"></div>
+<div class="foot"><div class="foot_nr"> 	<div class="foot_menu"><p><a href="http://tech.lotour.com/gylt/lianxi.shtml" target="_blank">联系我们</a> | <a href="http://tech.lotour.com/cpfoot/yinsi.shtml" target="_blank">隐私条约</a> | <a href="http://tech.lotour.com/cpfoot/shiyong.shtml" target="_blank">使用条款</a> </p><p>版权所有：2005-2010 乐途科技</p></div><div class="foot_menu2">京ICP备090877</div></div></div>
+
+</body>
+</html>

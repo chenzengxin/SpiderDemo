@@ -1,0 +1,955 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>北京周末游_周末游_乐途旅游网</title>
+    <meta name="keywords" content="北京周末游，周末游">
+    <meta name="description" content="这儿有北京最有范儿的生活方式，最精致的生活体验。来这儿消遣时光，收割私享，每周四午后更新，不见不散！">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="乐途旅游">
+    <meta name="application-name" content="旅途旅游 | lotour.com">
+    <meta name="apple-mobile-web-app-title" content="乐途旅游网">
+    <link rel="shortcut icon" href="http://www.lotour.com/favicon2.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=0.75, maximum-scale=1.0, user-scalable=no">
+    <meta name = "format-detection" content="telephone = no" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/utf8/base.css" media="all">
+    <link rel="stylesheet" href="http://css.lotour.com/2016/common.css" media="screen" />
+    <link rel="stylesheet" href="http://css.lotour.com/2016/index.css" media="screen" />
+    <link rel="stylesheet" href="http://css.lotour.com/zhoumo/zhoumo.css" media="screen" />
+    <!---->
+    <link href="http://img1.lotour.net/index/apple-touch-icon.png" rel="apple-touch-icon-precomposed">
+    <!--[if lt IE 9]>
+    <script src="http://js.lotour.net/html5.js"></script>
+    <![endif]-->
+    <script type="text/javascript" src="http://js.lotour.net/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="http://js.lotour.net/2016/common-noA.js"></script>
+    <script src="http://js.lotour.net/zhengwen/zhoumoyou.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            window.mobileAndTabletcheck = function () {
+                var check = false;
+                (function (a) { if (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i.test(a) || /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0, 4))) check = true })(navigator.userAgent || navigator.vendor || window.opera);
+                return check;
+            }
+            if (window.mobileAndTabletcheck()) {
+                location.href = "http://m.lotour.com/zhoumoyou/beijing/";
+            }
+    </script>
+</head>
+<body>
+    <!--顶部-->
+    <script src="http://js.lotour.net/login/searchtips_utf8.js" id="stip" type="text/javascript"></script>
+<script src="http://js.lotour.net/login/top.only_v3_utf8.js" type="text/javascript"></script><!---->
+<header>
+    <div class="header">
+        <div class="hl">
+            <h1>
+                <a class="logo1" href="http://www.lotour.com/" title="乐途旅游" target="_blank">
+                    <img src="http://img1.lotour.net/index/logo.png"></a>
+            </h1>
+            <nav>
+                <ul>
+                    <li><a href="http://www.lotour.com/" title="首页" class="a" target="_blank">首页</a></li>
+                    <li><a href="http://www.lotour.com/mudidi" title="目的地" class="a" target="_blank">目的地</a></li>
+                    <li><a href="http://www.lotour.com/zhuanti/pinpai/" title="品牌体验馆" class="a" target="_blank">品牌体验馆</a></li>
+                    <li class="put"><a href="javascript:void(0);" class="a">发现</a><div class="ly"><em></em><a href="http://www.lotour.com/zhoubianyou/" title="周边游" target="_blank">周边游</a><a href="http://www.lotour.com/guoneiyou/" title="国内游" target="_blank">国内游</a><a href="http://www.lotour.com/chujingyou/" title="出境游" class="edbr" target="_blank">出境游</a></div></li>
+                    <li><a href="http://www.lotour.com/daren/" title="大咖" class="a" target="_blank">大咖</a></li>
+                    <li><a href="http://www.lotour.com/zhoumoyou/beijing/" title="午后" class="a" target="_blank">午后</a></li>
+                    <li><a href="http://www.lotour.com/zijiayou/" title="自驾" class="a" target="_blank">自驾</a></li>
+                    <li class="put"><a href="javascript:void(0);" class="a">预订</a><div class="ly"><em></em><a href="http://d.lotour.com/hotel/" title="酒店" target="_blank">酒店</a><a href="http://d.lotour.com/dangdigentuan/" title="地接" target="_blank">地接</a><a id="dujiaxianlu" href="http://d.lotour.com/dujiaxianlu/beijing/" title="度假" class="edbr" target="_blank">度假</a></div></li>
+                
+                </ul>
+            </nav>
+        </div>
+        <div class="hr" id="rheader">
+            <div class="tool" style="display: none;">
+
+                <a class="t4" href="#"></a>
+
+                <div class="t3-layer">
+                    <img width="820" height="520" src="http://img1.lotour.com/2016/index/favlayer.jpg"><a href=""></a>
+                </div>
+
+            </div>
+
+            <div class="search noIndexS">
+                <form name="zonghe" method="get" action="http://ip.lotour.com/home/mudidi">
+                    <input class="txt" type="text" id="keyword" name="keyword" autocomplete="off" value=""/>
+                    <input type="hidden" value="" name="keys" id="keys"/>
+                    <input class="btn" type="submit" value="" name="btnzonghe" id="btnzonghe"/>
+                </form>
+                <div class="len"></div>
+                <div class="src-ly" style="display: none;"><a class="cls" href="javascript:void(0);"></a>
+
+                    <div class="in"><h6 class="h1">国内</h6>
+                        <ul class="clearfix">
+                            <li><a href="http://shangqiu.lotour.com/"> 商丘</a></li>
+                            <li><a href="http://shangrao.lotour.com/guifeng/">龟峰</a></li>
+                            <li><a href="http://xuchang.lotour.com/">许昌</a></li>
+                            <li><a href="http://shannan.lotour.com/"> 山南</a></li>
+                            <li><a href="http://kunming.lotour.com/yunnanshilin/">石林</a></li>
+                            <li><a href="http://changdu.lotour.com/">昌都</a></li>
+                            <li><a href="http://haerbin.lotour.com/">哈尔滨</a></li>
+                            <li><a href="http://zhoushan.lotour.com/">舟山</a></li>
+                            <li><a href="http://huangshan.lotour.com/">黄山</a></li>
+                            <li><a href="http://chengdu.lotour.com/">成都</a></li>
+                            <li><a href="http://hangzhou.lotour.com/">杭州</a></li>
+                            <li><a href="http://xiamen.lotour.com/"> 厦门</a></li>
+                            <li><a href="http://qingdao.lotour.com/">青岛</a></li>
+                            <li><a href="http://guilin.lotour.com/">桂林</a></li>
+                            <li><a href="http://huangshan.lotour.com/huizhouqu/">徽州</a></li>
+                        </ul>
+                        <h6 class="h2">出境</h6>
+                        <ul class="clearfix">
+                            <li><a href="http://tha.lotour.com/">泰国</a></li>
+                            <li><a href="http://cam.lotour.com/">柬埔寨</a></li>
+                            <li><a href="http://tha.lotour.com/qingmai/">清迈</a></li>
+                            <li><a href="http://aus.lotour.com/"> 澳大利亚</a></li>
+                            <li><a href="http://tha.lotour.com/pujifu/">普吉岛</a></li>
+                            <li><a href="http://mas.lotour.com/shaba/">沙巴</a></li>
+                            <li><a href="http://pf.lotour.com/">大溪地</a></li>
+                            <li><a href="http://nep.lotour.com/">尼泊尔</a></li>
+                            <li><a href="http://fra.lotour.com/baliqu/">巴黎</a></li>
+                            <li><a href="http://taiwan.lotour.com/"> 台湾</a></li>
+                            <li><a href="http://sri.lotour.com/"> 斯里兰卡</a></li>
+                            <li><a href="http://gbr.lotour.com/lundun1/">伦敦</a></li>
+                            <li><a href="http://ina.lotour.com/balidao1/">巴厘岛</a></li>
+                            <li><a href="http://macao.lotour.com/">澳门</a></li>
+                            <li><a href="http://fij.lotour.com/">斐济</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</header>
+    <!--顶部end-->
+    <script type="text/javascript">
+        jQuery("nav ul li").eq(5).find("a").addClass("aon");
+    </script>
+
+    <!--大幻灯-->
+    <div class="idx-focus">
+        <ul>
+            <li style="background-image: url(http://img1.lotour.net/Inspiration/2016/0425/20160425101703206624691_680.jpg);"><a href="http://www.lotour.com/zhengwen/1/lg-zmbj-10862.shtml" onclick="_gaq.push(['_trackPageview','/PageAction/wuhou/beijing/slideshow/01']);" target="_blank"></a>
+                <h5>金海湖，北京最有格调的度假地</h5>
+                <div class="txt-line">
+                    <p></p>
+                    <span>金海湖游艇酒店</span><p></p>
+                </div>
+                <div class="txt-lianxi"><span class="flo">平谷</span><span class="tel">010-61998517</span></div>
+
+                <div class="bg"></div>
+                <div class="bg2"></div>
+            </li>
+                        <li style="background-image: url(http://img1.lotour.net/Inspiration/2016/0823/20160823184046883326318_680.jpg);"><a href="http://www.lotour.com/zhengwen/1/lg-zmbj-10953.shtml" onclick="_gaq.push(['_trackPageview','/PageAction/wuhou/beijing/slideshow/02']);" target="_blank"></a>
+                <h5>皇家檐宇新雨巷 气蒸云梦御花园</h5>
+                <div class="txt-line">
+                    <p></p>
+                    <span>前门皇家驿站</span><p></p>
+                </div>
+                <div class="txt-lianxi"><span class="flo">东城</span><span class="tel">010-67017790</span></div>
+
+                <div class="bg"></div>
+                <div class="bg2"></div>
+            </li>
+                                     <li style="background-image: url(http://img1.lotour.net/Inspiration/2016/0825/201608251716238416689_680.jpg);"><a href="http://www.lotour.com/zhengwen/1/lg-zmbj-16313.shtml" onclick="_gaq.push(['_trackPageview','/PageAction/wuhou/beijing/slideshow/03']);" target="_blank"></a>
+                <h5>足不出北京的巴西之旅</h5>
+                <div class="txt-line">
+                    <p></p>
+                    <span>巴西烤肉餐厅</span><p></p>
+                </div>
+                <div class="txt-lianxi"><span class="flo">朝阳</span><span class="tel">010-84982288</span></div>
+
+                <div class="bg"></div>
+                <div class="bg2"></div>
+            </li>
+                    </ul>
+        <div class="pgs">
+            <i class=" on "><em></em></i>
+            <i class=""><em></em></i>
+            <i class=""><em></em></i>
+
+        </div>
+        <div class="bdBtnL prev"><a href="javascript:void(0)" title="上一个"></a></div>
+        <div class="bdBtnR next"><a href="javascript:void(0)" title="下一个"></a></div>
+
+        <div class="zhmo">
+            <div class="zhbox">
+                 <p class="p01">北京</p>
+                <p class="p02">私享生活</p>
+                <p class="p03">WEEKEND</p>
+            </div>
+        </div>
+
+    </div>
+    <!--大幻灯end-->
+
+    <div class="index-tips">
+        <p>
+             这儿有北京<span>最有范儿</span>的生活方式，<span>最精致</span>的生活体验。来这儿消遣时光，收割私享，每周四午后更新，不见不散！
+        </p>
+    </div>
+
+    <div class="zhwen-bg">
+        <div class="zhengwen">
+           <h2>满足你的私享style，从本周精选十佳私享生活体验开始</h2>
+           <p>Top ten private life experiences meet your any style</p>
+        </div>
+        <div class="zhbd-box">
+            <ul>
+                                <li class="rg big-box">
+                    <div>
+                        <a target="_blank" href="http://www.lotour.com/zhengwen/1/lg-zmbj-18277.shtml" class="img" onclick="">
+                            <img src="http://img1.lotour.net/Inspiration/2016/0809/20160809102155456802768_600.jpg" />
+                            <em><span class="bigTitle">走进古城老院 穿越奢华北京</span><i></i></em>
+                            <i class="i1"></i>
+                            <i class="i2"></i>
+                        </a>
+                        <p class="rk clearfix">
+                            <a>特色住宿</a><a>特色建筑</a><a>文化控</a>
+                        </p>
+                    </div>
+                    <div class="lianxi-big clearfix">
+                        <a target="_blank" href="http://zhuanlan.lotour.com/1721/wh-beijing/" class="floo" onclick="">
+                            <span><i>古城老院精品酒店</i></span>
+                        </a>
+                        <p>
+                            <span class="bdi">东城</span>
+                            <span class="btel">13488872021</span>
+                        </p>
+                    </div>
+                </li>
+                                                <li class="big-box  big-box-h">
+                    <div class="pic-box">
+                        <a target="_blank" href="http://www.lotour.com/zhengwen/1/lg-zmbj-18013.shtml" class="img" onclick="">
+                            <img src="http://img1.lotour.net/Inspiration/2016/0805/20160805104212014982600_300.jpg" />
+                            <em><span>一盃汤，世贸天阶新味道</span><i></i></em>
+                            <i class="i1"></i>
+                            <i class="i2"></i>
+                        </a>
+                        <p class="rk clearfix">
+                            <a>吃货</a>
+                        </p>
+                    </div>
+                    <div class="pic-box txt-box">
+                        <i class="jiao-l"></i>
+                        <a target="_blank" href="http://zhuanlan.lotour.com/1920/wh-beijing/" class="img" onclick="">
+                            <span class="shopName"><i>一盃汤</i></span>
+                        </a>
+                        <p class="lianxi clearfix">
+                            <span class="bdi">朝阳</span>
+                            <span class="btel">010-85887880</span>
+                        </p>
+                    </div>
+                </li>
+                                                <li class="big-box  big-box-h">
+                    <div class="pic-box rg">
+                        <a target="_blank" href="http://www.lotour.com/zhengwen/1/lg-zmbj-16313.shtml" class="img" onclick="">
+                            <img src="http://img1.lotour.net/Inspiration/2016/0825/201608251716238416689_300.jpg" />
+                            <em><span>足不出北京的巴西之旅</span><i></i></em>
+                            <i class="i1"></i>
+                            <i class="i2"></i>
+                        </a>
+                        <p class="rk clearfix">
+                            <a>吃货</a>
+                        </p>
+                    </div>
+                    <div class="pic-box txt-box">
+                        <i class="jiao-r"></i>
+                        <a target="_blank" href="http://zhuanlan.lotour.com/1993/wh-beijing/" class="img" onclick="">
+                            <span class="shopName"><i>巴西烤肉餐厅</i></span>
+                        </a>
+                        <p class="lianxi clearfix">
+                            <span class="bdi">朝阳</span>
+                            <span class="btel">010-84982288</span>
+                        </p>
+                    </div>
+                </li>
+                                                <li class="big-box">
+                    <div>
+                        <a target="_blank" href="http://www.lotour.com/zhengwen/1/lg-zmbj-12516.shtml" class="img" onclick="">
+                            <img src="http://img1.lotour.net/Inspiration/2016/0520/20160520102320274923951_600.jpg" />
+                            <em><span class="bigTitle">怀柔北极乡度假村的神秘之旅</span><i></i></em>
+                            <i class="i1"></i>
+                            <i class="i2"></i>
+                        </a>
+                        <p class="rk clearfix">
+                            <a>山</a><a>特色住宿</a>
+                        </p>
+                    </div>
+                    <div class="lianxi-big clearfix">
+                        <a target="_blank" href="http://zhuanlan.lotour.com/1632/wh-beijing/" class="floo" onclick="">
+                            <span><i>闲云山房</i></span>
+                        </a>
+                        <p>
+                            <span class="bdi">怀柔</span>
+                            <span class="btel">13832450682</span>
+                        </p>
+                    </div>
+                </li>
+                                                <li class="rg big-box  big-box-h">
+                    <div class="pic-box">
+                        <a target="_blank" href="http://www.lotour.com/zhengwen/1/lg-zmbj-10953.shtml" class="img" onclick="">
+                            <img src="http://img1.lotour.net/Inspiration/2016/0823/20160823184046883326318_300.jpg" />
+                            <em><span>皇家檐宇新雨巷 气蒸云梦御花园</span><i></i></em>
+                            <i class="i1"></i>
+                            <i class="i2"></i>
+                        </a>
+                        <p class="rk clearfix">
+                            <a>特色住宿</a>
+                        </p>
+                    </div>
+                    <div class="pic-box txt-box">
+                        <i class="jiao-l"></i>
+                        <a target="_blank" href="http://zhuanlan.lotour.com/1629/wh-beijing/" class="img" onclick="">
+                            <span class="shopName"><i>前门皇家驿站</i></span>
+                        </a>
+                        <p class="lianxi clearfix">
+                            <span class="bdi">东城</span>
+                            <span class="btel">010-67017790</span>
+                        </p>
+                    </div>
+                </li>
+                                                <li class="rg big-box  big-box-h">
+                    <div class="pic-box rg">
+                        <a target="_blank" href="http://www.lotour.com/zhengwen/1/lg-zmbj-18245.shtml" class="img" onclick="">
+                            <img src="http://img1.lotour.net/Inspiration/2016/0808/20160808171327909173453_300.jpg" />
+                            <em><span>给我一杯咖啡，我可以在这里坐一整天</span><i></i></em>
+                            <i class="i1"></i>
+                            <i class="i2"></i>
+                        </a>
+                        <p class="rk clearfix">
+                            <a>文艺范</a>
+                        </p>
+                    </div>
+                    <div class="pic-box txt-box">
+                        <i class="jiao-r"></i>
+                        <a target="_blank" href="http://zhuanlan.lotour.com/2057/wh-beijing/" class="img" onclick="">
+                            <span class="shopName"><i>老友记</i></span>
+                        </a>
+                        <p class="lianxi clearfix">
+                            <span class="bdi">朝阳</span>
+                            <span class="btel">18601191315</span>
+                        </p>
+                    </div>
+                </li>
+                                                <li class="rg big-box">
+                    <div>
+                        <a target="_blank" href="http://www.lotour.com/zhengwen/1/lg-zmbj-15227.shtml" class="img" onclick="">
+                            <img src="http://img1.lotour.net/Inspiration/2016/0826/20160826163132372614674_600.jpg" />
+                            <em><span class="bigTitle">在C5cafe里品味时光荏苒</span><i></i></em>
+                            <i class="i1"></i>
+                            <i class="i2"></i>
+                        </a>
+                        <p class="rk clearfix">
+                           <a>文艺范</a><a>吃货</a>
+                        </p>
+                    </div>
+                    <div class="lianxi-big clearfix">
+                        <a target="_blank" href="http://zhuanlan.lotour.com/1937/wh-beijing/" class="floo" onclick="">
+                            <span><i>C5cafe</i></span>
+                        </a>
+                        <p>
+                            <span class="bdi">朝阳</span>
+                            <span class="btel">010-58443705</span>
+                        </p>
+                    </div>
+                </li>
+                                                <li class="big-box  big-box-h">
+                    <div class="pic-box">
+                        <a target="_blank" href="http://www.lotour.com/zhengwen/1/lg-zmbj-10845.shtml" class="img" onclick="">
+                            <img src="http://img1.lotour.net/Inspiration/2016/0426/20160426144853253199047_300.jpg" />
+                            <em><span>我有一个梦想，诗意的栖居在这大地上</span><i></i></em>
+                            <i class="i1"></i>
+                            <i class="i2"></i>
+                        </a>
+                        <p class="rk clearfix">
+                            <a>文艺范</a>
+                        </p>
+                    </div>
+                    <div class="pic-box txt-box">
+                        <i class="jiao-l"></i>
+                        <a target="_blank" href="http://zhuanlan.lotour.com/1620/wh-beijing/" class="img" onclick="">
+                            <span class="shopName"><i>诗意栖居</i></span>
+                        </a>
+                        <p class="lianxi clearfix">
+                            <span class="bdi">东城</span>
+                            <span class="btel">010-65256505</span>
+                        </p>
+                    </div>
+                </li>
+                                                <li class="big-box  big-box-h">
+                    <div class="pic-box rg">
+                        <a target="_blank" href="http://www.lotour.com/zhengwen/1/lg-zmbj-12284.shtml" class="img" onclick="">
+                            <img src="http://img1.lotour.net/Inspiration/2016/0516/20160516201822336820162_300.jpg" />
+                            <em><span>箫韶九成，有凤来仪</span><i></i></em>
+                            <i class="i1"></i>
+                            <i class="i2"></i>
+                        </a>
+                        <p class="rk clearfix">
+                           <a>山</a><a>温泉</a>
+                        </p>
+                    </div>
+                    <div class="pic-box txt-box">
+                        <i class="jiao-r"></i>
+                        <a target="_blank" href="http://zhuanlan.lotour.com/1347/wh-beijing/" class="img" onclick="">
+                            <span class="shopName"><i>凤山温泉度假村</i></span>
+                        </a>
+                        <p class="lianxi clearfix">
+                            <span class="bdi">昌平</span>
+                            <span class="btel">15201647329</span>
+                        </p>
+                    </div>
+                </li>
+                            </ul>
+        </div>
+    </div>
+
+    <div class="idx-friend-bg">
+        <div class="idx-friend">
+            <div class="biaoti">
+                <h2>每月只有40个私享生活体验，足以让你发现北京的所有美好</h2>
+                <p>Forty life experiences every month offered for you , enough to discover the beauty of Beijing</p>
+            </div>
+
+            <div class="lr-txt clearfix">
+                ﻿<div class="fl">
+    <div class="mouth">
+        <div class="mo clearfix">
+                        <a class="yue">8月</a><span class="shu"> | </span>
+                                     <a  class="yue sma">9月</a> <span class="shu"> | </span>
+                       <a  class="yue sma on">10月私享生活</a>
+        </div>
+
+                <div class="mobox">
+                <h6><a>市区</a></h6>
+            <ul class="clearfix">
+                                    <li><a href="http://zhuanlan.lotour.com/1629/wh-beijing/" target="_blank" title="">前门皇家驿站</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1613/wh-beijing/" target="_blank" title="">什刹海皮影酒店</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1389/wh-beijing/" target="_blank" title="">瑜舍酒店</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1622/wh-beijing/" target="_blank" title="">宅咖啡</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1620/wh-beijing/" target="_blank" title="">诗意栖居</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1621/wh-beijing/" target="_blank" title="">壹咖啡</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1619/wh-beijing/" target="_blank" title="">卯咖啡</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1616/wh-beijing/" target="_blank" title="">双城咖啡</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2002/wh-beijing/" target="_blank" title="">镁颂雅品</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1618/wh-beijing/" target="_blank" title="">古耳咖啡</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1721/wh-beijing/" target="_blank" title="">古城老院精品酒店</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1996/wh-beijing/" target="_blank" title="">touch假日农场 </a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2057/wh-beijing/" target="_blank" title="">老友记</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1936/wh-beijing/" target="_blank" title="">三木的旧表店</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1958/wh-beijing/" target="_blank" title="">爱瓦盐疗</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2049/wh-beijing/" target="_blank" title="">四世同堂</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2021/wh-beijing/" target="_blank" title="">吾十小院</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2042/wh-beijing/" target="_blank" title="">I营养健康轻食餐厅</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1960/wh-beijing/" target="_blank" title="">元古本店</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1994/wh-beijing/" target="_blank" title="">黄玉石港式火锅</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1937/wh-beijing/" target="_blank" title="">C5cafe</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1736/wh-beijing/" target="_blank" title="">串鸟屋</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1992/wh-beijing/" target="_blank" title="">黄玉石阳光饼屋</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1398/wh-beijing/" target="_blank" title="">梧桐餐厅</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1920/wh-beijing/" target="_blank" title="">一盃汤</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1587/wh-beijing/" target="_blank" title="">聚齐儿</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1993/wh-beijing/" target="_blank" title="">巴西烤肉餐厅</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2040/wh-beijing/" target="_blank" title="">河豚先生</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2056/wh-beijing/" target="_blank" title="">花厨</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2041/wh-beijing/" target="_blank" title="">幼麒</a></li>
+                            </ul>
+                                            <h6><a>市郊</a></h6>
+            <ul class="clearfix">
+                                    <li><a href="http://zhuanlan.lotour.com/1623/wh-beijing/" target="_blank" title="">金海湖游艇酒店</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1329/wh-beijing/" target="_blank" title="">云峰山景区－童话树屋</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1600/wh-beijing/" target="_blank" title="">山楂小院</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1399/wh-beijing/" target="_blank" title="">顶秀美泉假日酒店</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1397/wh-beijing/" target="_blank" title="">长城脚下公社</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1932/wh-beijing/" target="_blank" title="">薄荷咖啡</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1405/wh-beijing/" target="_blank" title="">云上石屋</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1632/wh-beijing/" target="_blank" title="">闲云山房</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1347/wh-beijing/" target="_blank" title="">凤山温泉度假村</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2052/wh-beijing/" target="_blank" title="">Muse.z画室</a></li>
+                            </ul>
+        </div>
+        
+                 <div class="mobox">
+                <h6><a>市区</a></h6>
+            <ul class="clearfix">
+                                    <li><a href="http://zhuanlan.lotour.com/1629/wh-beijing/" target="_blank" title="">前门皇家驿站</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1619/wh-beijing/" target="_blank" title="">卯咖啡</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1616/wh-beijing/" target="_blank" title="">双城咖啡</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1613/wh-beijing/" target="_blank" title="">什刹海皮影酒店</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1620/wh-beijing/" target="_blank" title="">诗意栖居</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1618/wh-beijing/" target="_blank" title="">古耳咖啡</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1621/wh-beijing/" target="_blank" title="">壹咖啡</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1937/wh-beijing/" target="_blank" title="">C5cafe</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1721/wh-beijing/" target="_blank" title="">古城老院精品酒店</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1622/wh-beijing/" target="_blank" title="">宅咖啡</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1996/wh-beijing/" target="_blank" title="">touch假日农场 </a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1389/wh-beijing/" target="_blank" title="">瑜舍酒店</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2040/wh-beijing/" target="_blank" title="">河豚先生</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2002/wh-beijing/" target="_blank" title="">镁颂雅品</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2021/wh-beijing/" target="_blank" title="">吾十小院</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1992/wh-beijing/" target="_blank" title="">黄玉石阳光饼屋</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2042/wh-beijing/" target="_blank" title="">I营养健康轻食餐厅</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2057/wh-beijing/" target="_blank" title="">老友记</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1736/wh-beijing/" target="_blank" title="">串鸟屋</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1993/wh-beijing/" target="_blank" title="">巴西烤肉餐厅</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2041/wh-beijing/" target="_blank" title="">幼麒</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2056/wh-beijing/" target="_blank" title="">花厨</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1958/wh-beijing/" target="_blank" title="">爱瓦盐疗</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1994/wh-beijing/" target="_blank" title="">黄玉石港式火锅</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1960/wh-beijing/" target="_blank" title="">元古本店</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2049/wh-beijing/" target="_blank" title="">四世同堂</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1920/wh-beijing/" target="_blank" title="">一盃汤</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1936/wh-beijing/" target="_blank" title="">三木的旧表店</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1398/wh-beijing/" target="_blank" title="">梧桐餐厅</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1587/wh-beijing/" target="_blank" title="">聚齐儿</a></li>
+                            </ul>
+                                            <h6><a>市郊</a></h6>
+            <ul class="clearfix">
+                                    <li><a href="http://zhuanlan.lotour.com/1623/wh-beijing/" target="_blank" title="">金海湖游艇酒店</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1329/wh-beijing/" target="_blank" title="">云峰山景区－童话树屋</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1399/wh-beijing/" target="_blank" title="">顶秀美泉假日酒店</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1600/wh-beijing/" target="_blank" title="">山楂小院</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1932/wh-beijing/" target="_blank" title="">薄荷咖啡</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2052/wh-beijing/" target="_blank" title="">Muse.z画室</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1397/wh-beijing/" target="_blank" title="">长城脚下公社</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1405/wh-beijing/" target="_blank" title="">云上石屋</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1632/wh-beijing/" target="_blank" title="">闲云山房</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1347/wh-beijing/" target="_blank" title="">凤山温泉度假村</a></li>
+                            </ul>
+        </div>
+        
+
+        <div class="mobox moboxon">
+                            <h6><a>市区</a></h6> 
+            <ul class="clearfix">
+                                    <li><a href="http://zhuanlan.lotour.com/1629/wh-beijing/" target="_blank" title="">前门皇家驿站</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1613/wh-beijing/" target="_blank" title="">什刹海皮影酒店</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2160/wh-beijing/" target="_blank" title="">Metalhands</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1996/wh-beijing/" target="_blank" title="">touch假日农场 </a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2169/wh-beijing/" target="_blank" title="">红馆旗袍</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1618/wh-beijing/" target="_blank" title="">古耳咖啡</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1620/wh-beijing/" target="_blank" title="">诗意栖居</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1616/wh-beijing/" target="_blank" title="">双城咖啡</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1619/wh-beijing/" target="_blank" title="">卯咖啡</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1621/wh-beijing/" target="_blank" title="">壹咖啡</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1721/wh-beijing/" target="_blank" title="">古城老院精品酒店</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2115/wh-beijing/" target="_blank" title="">白夜照相馆</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2002/wh-beijing/" target="_blank" title="">镁颂雅品</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2117/wh-beijing/" target="_blank" title="">太一家料理</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1936/wh-beijing/" target="_blank" title="">三木的旧表店</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1937/wh-beijing/" target="_blank" title="">C5cafe</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2081/wh-beijing/" target="_blank" title="">秋刀鱼之味</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2021/wh-beijing/" target="_blank" title="">吾十小院</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1958/wh-beijing/" target="_blank" title="">爱瓦盐疗</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1993/wh-beijing/" target="_blank" title="">巴西烤肉餐厅</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1995/wh-beijing/" target="_blank" title="">福匠工作室</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2057/wh-beijing/" target="_blank" title="">老友记</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1960/wh-beijing/" target="_blank" title="">元古本店</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2093/wh-beijing/" target="_blank" title="">藏三昧</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2134/wh-beijing/" target="_blank" title="">墨念女塾生活馆</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1992/wh-beijing/" target="_blank" title="">黄玉石阳光饼屋</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2101/wh-beijing/" target="_blank" title="">土氣</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2042/wh-beijing/" target="_blank" title="">I营养健康轻食餐厅</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2164/wh-beijing/" target="_blank" title="">HOLIC</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2145/wh-beijing/" target="_blank" title="">Eatalia</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2056/wh-beijing/" target="_blank" title="">花厨</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1920/wh-beijing/" target="_blank" title="">一盃汤</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2178/wh-beijing/" target="_blank" title="">豊食堂</a></li>
+                            </ul>
+                                        <h6><a>市郊</a></h6>
+            <ul class="clearfix">
+                                    <li><a href="http://zhuanlan.lotour.com/1329/wh-beijing/" target="_blank" title="">云峰山景区－童话树屋</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1623/wh-beijing/" target="_blank" title="">金海湖游艇酒店</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1632/wh-beijing/" target="_blank" title="">闲云山房</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1347/wh-beijing/" target="_blank" title="">凤山温泉度假村</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/1932/wh-beijing/" target="_blank" title="">薄荷咖啡</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2142/wh-beijing/" target="_blank" title="">罗红摄影艺术馆</a></li>
+                                    <li><a href="http://zhuanlan.lotour.com/2052/wh-beijing/" target="_blank" title="">Muse.z画室</a></li>
+                            </ul>
+                    </div>
+
+    </div>
+    <div class="shenqing">
+        <a target="_blank" href="http://zhuanlan.lotour.com/">申请成为私享导师</a>
+        <p>让你的私享连接更多同好</p>
+    </div>
+
+</div>
+
+                ﻿<div class="fr">
+    <h6 class="clearfix">
+        <a href="http://www.lotour.com/zhengwen/" class="on" target="_blank">午后灵感文昨日阅读量排行</a><span>|</span>
+        <a href="http://www.lotour.com/zhengwen/" target="_blank">月度阅读量排行</a>
+    </h6>
+    <ul id="daylist" class="on" deffer="23850,18277,22080,18013,12284,21523,18245,12516,20710,10953,21519,15227,16313,12007,19258">
+                        <li class="clearfix">
+            <div class="lt">
+                <i class="num num1">1</i>
+                <a target="_blank" class="tt" href="http://www.lotour.com/zhengwen/2/lg-zmbj-23850.shtml" title="">向京展：如何让女儿的心理健康成长？</a>
+                <a target="_blank" class="at" href="http://zhuanlan.lotour.com/2275" title="">北京民生现代美术馆</a>
+            </div>
+            <span class="sn" deffer="23850"></span>
+        </li>
+                <li class="clearfix">
+            <div class="lt">
+                <i class="num num2">2</i>
+                <a target="_blank" class="tt" href="http://www.lotour.com/zhengwen/1/lg-zmbj-18277.shtml" title="">走进古城老院 穿越奢华北京</a>
+                <a target="_blank" class="at" href="http://zhuanlan.lotour.com/1721" title="">古城老院精品酒店</a>
+            </div>
+            <span class="sn" deffer="18277"></span>
+        </li>
+                <li class="clearfix">
+            <div class="lt">
+                <i class="num num3">3</i>
+                <a target="_blank" class="tt" href="http://www.lotour.com/zhengwen/2/lg-zmbj-22080.shtml" title="">一间不为人知的老店在尘世擦肩处沉香</a>
+                <a target="_blank" class="at" href="http://zhuanlan.lotour.com/2186" title="">繁体字咖啡</a>
+            </div>
+            <span class="sn" deffer="22080"></span>
+        </li>
+                <li class="clearfix">
+            <div class="lt">
+                <i class="num num4">4</i>
+                <a target="_blank" class="tt" href="http://www.lotour.com/zhengwen/1/lg-zmbj-18013.shtml" title="">一盃汤，世贸天阶新味道</a>
+                <a target="_blank" class="at" href="http://zhuanlan.lotour.com/1920" title="">一盃汤</a>
+            </div>
+            <span class="sn" deffer="18013"></span>
+        </li>
+                <li class="clearfix">
+            <div class="lt">
+                <i class="num num5">5</i>
+                <a target="_blank" class="tt" href="http://www.lotour.com/zhengwen/1/lg-zmbj-12284.shtml" title="">箫韶九成，有凤来仪</a>
+                <a target="_blank" class="at" href="http://zhuanlan.lotour.com/1347" title="">凤山温泉度假村</a>
+            </div>
+            <span class="sn" deffer="12284"></span>
+        </li>
+                <li class="clearfix">
+            <div class="lt">
+                <i class="num num6">6</i>
+                <a target="_blank" class="tt" href="http://www.lotour.com/zhengwen/2/lg-zmbj-21523.shtml" title="">手残的她 开了一家手艺铺子</a>
+                <a target="_blank" class="at" href="http://zhuanlan.lotour.com/2137" title="">手艺铺子</a>
+            </div>
+            <span class="sn" deffer="21523"></span>
+        </li>
+                <li class="clearfix">
+            <div class="lt">
+                <i class="num num7">7</i>
+                <a target="_blank" class="tt" href="http://www.lotour.com/zhengwen/1/lg-zmbj-18245.shtml" title="">给我一杯咖啡，我可以在这里坐一整天</a>
+                <a target="_blank" class="at" href="http://zhuanlan.lotour.com/2057" title="">老友记</a>
+            </div>
+            <span class="sn" deffer="18245"></span>
+        </li>
+                <li class="clearfix">
+            <div class="lt">
+                <i class="num num8">8</i>
+                <a target="_blank" class="tt" href="http://www.lotour.com/zhengwen/1/lg-zmbj-12516.shtml" title="">怀柔北极乡度假村的神秘之旅</a>
+                <a target="_blank" class="at" href="http://zhuanlan.lotour.com/1632" title="">闲云山房</a>
+            </div>
+            <span class="sn" deffer="12516"></span>
+        </li>
+                <li class="clearfix">
+            <div class="lt">
+                <i class="num num9">9</i>
+                <a target="_blank" class="tt" href="http://www.lotour.com/zhengwen/2/lg-zmbj-20710.shtml" title="">这家店，钥匙就在门口，推门进去就好</a>
+                <a target="_blank" class="at" href="http://zhuanlan.lotour.com/2134" title="">墨念女塾生活馆</a>
+            </div>
+            <span class="sn" deffer="20710"></span>
+        </li>
+                <li class="clearfix">
+            <div class="lt">
+                <i class="num num10">10</i>
+                <a target="_blank" class="tt" href="http://www.lotour.com/zhengwen/1/lg-zmbj-10953.shtml" title="">皇家檐宇新雨巷 气蒸云梦御花园</a>
+                <a target="_blank" class="at" href="http://zhuanlan.lotour.com/1629" title="">前门皇家驿站</a>
+            </div>
+            <span class="sn" deffer="10953"></span>
+        </li>
+                <li class="clearfix">
+            <div class="lt">
+                <i class="num num11">11</i>
+                <a target="_blank" class="tt" href="http://www.lotour.com/zhengwen/2/lg-zmbj-21519.shtml" title="">将全世界转瞬即逝的咖啡香种进肺腑</a>
+                <a target="_blank" class="at" href="http://zhuanlan.lotour.com/2164" title="">HOLIC</a>
+            </div>
+            <span class="sn" deffer="21519"></span>
+        </li>
+                <li class="clearfix">
+            <div class="lt">
+                <i class="num num12">12</i>
+                <a target="_blank" class="tt" href="http://www.lotour.com/zhengwen/1/lg-zmbj-15227.shtml" title="">在C5cafe里品味时光荏苒</a>
+                <a target="_blank" class="at" href="http://zhuanlan.lotour.com/1937" title="">C5cafe</a>
+            </div>
+            <span class="sn" deffer="15227"></span>
+        </li>
+                <li class="clearfix">
+            <div class="lt">
+                <i class="num num13">13</i>
+                <a target="_blank" class="tt" href="http://www.lotour.com/zhengwen/1/lg-zmbj-16313.shtml" title="">足不出北京的巴西之旅</a>
+                <a target="_blank" class="at" href="http://zhuanlan.lotour.com/1993" title="">巴西烤肉餐厅</a>
+            </div>
+            <span class="sn" deffer="16313"></span>
+        </li>
+                <li class="clearfix">
+            <div class="lt">
+                <i class="num num14">14</i>
+                <a target="_blank" class="tt" href="http://www.lotour.com/zhengwen/1/lg-zmbj-12007.shtml" title="">我要骑车，我要划船，还要在你心上拉屎</a>
+                <a target="_blank" class="at" href="http://zhuanlan.lotour.com/1639" title="">啤酒</a>
+            </div>
+            <span class="sn" deffer="12007"></span>
+        </li>
+                <li class="clearfix">
+            <div class="lt">
+                <i class="num num15">15</i>
+                <a target="_blank" class="tt" href="http://www.lotour.com/zhengwen/1/lg-zmbj-19258.shtml" title="">藏在家庭料理居酒屋 爱“你的敌人”</a>
+                <a target="_blank" class="at" href="http://zhuanlan.lotour.com/2093" title="">藏三昧</a>
+            </div>
+            <span class="sn" deffer="19258"></span>
+        </li>
+            </ul>
+
+    <ul id="monthlist" deffer="23047,22464,22080,21523,23696,23850,24077,24085,24061">
+                         <li class="clearfix">
+            <div class="lt">
+                <i class="num num1">1</i>
+                <a target="_blank" href="http://www.lotour.com/zhengwen/2/lg-zmbj-23047.shtml" class="tt" title="去距离愚公移山最近的串啤店飞一飞" onclick="return FocusCount('article','month');">去距离愚公移山最近的串啤店飞一飞</a>
+                <a target="_blank" class="at" href="http://zhuanlan.lotour.com/2226" title="胡同串子" onclick="return FocusCount('article','month');">胡同串子</a>
+            </div>
+            <span class="sn" deffer="23047"></span>
+        </li>
+                <li class="clearfix">
+            <div class="lt">
+                <i class="num num2">2</i>
+                <a target="_blank" href="http://www.lotour.com/zhengwen/2/lg-zmbj-22464.shtml" class="tt" title="6岁的毕加索在三里屯散着巧克力味儿" onclick="return FocusCount('article','month');">6岁的毕加索在三里屯散着巧克力味儿</a>
+                <a target="_blank" class="at" href="http://zhuanlan.lotour.com/2193" title="Galleria" onclick="return FocusCount('article','month');">Galleria</a>
+            </div>
+            <span class="sn" deffer="22464"></span>
+        </li>
+                <li class="clearfix">
+            <div class="lt">
+                <i class="num num3">3</i>
+                <a target="_blank" href="http://www.lotour.com/zhengwen/2/lg-zmbj-22080.shtml" class="tt" title="一间不为人知的老店在尘世擦肩处沉香" onclick="return FocusCount('article','month');">一间不为人知的老店在尘世擦肩处沉香</a>
+                <a target="_blank" class="at" href="http://zhuanlan.lotour.com/2186" title="繁体字咖啡" onclick="return FocusCount('article','month');">繁体字咖啡</a>
+            </div>
+            <span class="sn" deffer="22080"></span>
+        </li>
+                <li class="clearfix">
+            <div class="lt">
+                <i class="num num4">4</i>
+                <a target="_blank" href="http://www.lotour.com/zhengwen/2/lg-zmbj-21523.shtml" class="tt" title="手残的她 开了一家手艺铺子" onclick="return FocusCount('article','month');">手残的她 开了一家手艺铺子</a>
+                <a target="_blank" class="at" href="http://zhuanlan.lotour.com/2137" title="手艺铺子" onclick="return FocusCount('article','month');">手艺铺子</a>
+            </div>
+            <span class="sn" deffer="21523"></span>
+        </li>
+                <li class="clearfix">
+            <div class="lt">
+                <i class="num num5">5</i>
+                <a target="_blank" href="http://www.lotour.com/zhengwen/2/lg-zmbj-23696.shtml" class="tt" title="江户前古董碗 装着全北京最鲜的寿司" onclick="return FocusCount('article','month');">江户前古董碗 装着全北京最鲜的寿司</a>
+                <a target="_blank" class="at" href="http://zhuanlan.lotour.com/2263" title="鮨心屋" onclick="return FocusCount('article','month');">鮨心屋</a>
+            </div>
+            <span class="sn" deffer="23696"></span>
+        </li>
+                <li class="clearfix">
+            <div class="lt">
+                <i class="num num6">6</i>
+                <a target="_blank" href="http://www.lotour.com/zhengwen/2/lg-zmbj-23850.shtml" class="tt" title="向京展：如何让女儿的心理健康成长？" onclick="return FocusCount('article','month');">向京展：如何让女儿的心理健康成长？</a>
+                <a target="_blank" class="at" href="http://zhuanlan.lotour.com/2275" title="北京民生现代美术馆" onclick="return FocusCount('article','month');">北京民生现代美术馆</a>
+            </div>
+            <span class="sn" deffer="23850"></span>
+        </li>
+                <li class="clearfix">
+            <div class="lt">
+                <i class="num num7">7</i>
+                <a target="_blank" href="http://www.lotour.com/zhengwen/2/lg-zmbj-24077.shtml" class="tt" title="寻找食物的意境 在写食主义慢慢品初心" onclick="return FocusCount('article','month');">寻找食物的意境 在写食主义慢慢品初心</a>
+                <a target="_blank" class="at" href="http://zhuanlan.lotour.com/2286" title="写食主义" onclick="return FocusCount('article','month');">写食主义</a>
+            </div>
+            <span class="sn" deffer="24077"></span>
+        </li>
+                <li class="clearfix">
+            <div class="lt">
+                <i class="num num8">8</i>
+                <a target="_blank" href="http://www.lotour.com/zhengwen/2/lg-zmbj-24085.shtml" class="tt" title="有饭：把全世界各地的美味素食带到中国" onclick="return FocusCount('article','month');">有饭：把全世界各地的美味素食带到中国</a>
+                <a target="_blank" class="at" href="http://zhuanlan.lotour.com/2287" title="HaveFun!有饭" onclick="return FocusCount('article','month');">HaveFun!有饭</a>
+            </div>
+            <span class="sn" deffer="24085"></span>
+        </li>
+                <li class="clearfix">
+            <div class="lt">
+                <i class="num num9">9</i>
+                <a target="_blank" href="http://www.lotour.com/zhengwen/2/lg-zmbj-24061.shtml" class="tt" title="隐匿在市井中心最随性的复古店" onclick="return FocusCount('article','month');">隐匿在市井中心最随性的复古店</a>
+                <a target="_blank" class="at" href="http://zhuanlan.lotour.com/2285" title="equal" onclick="return FocusCount('article','month');">equal</a>
+            </div>
+            <span class="sn" deffer="24061"></span>
+        </li>
+            </ul>
+</div>
+
+            </div>
+        </div>
+
+    </div>
+
+    <div class="tan"></div>
+    <div class="tan_main">
+        <a href="javascript:;" class="close"></a>
+        <div class="tan_bg">
+            <p>打开微信扫一扫</p>
+            <img src="http://img1.lotour.net/zhoumo/zhoumo/ma.jpg">
+            <p>加入"午后私享生活"微信群</p>
+            <p>把你的私享讲给懂你的人听</p>
+
+        </div>
+    </div>
+
+    <div class="idx-tuijian-bg">
+        <div class="idx-tuijian">
+            <div class="biaoti2">
+                <p>私享生活，把你的美好讲给同好</p>
+                <p>想认识更多有逼格的小伙伴？快快加入，还有以下福利等你来拿！</p>
+                <span class="line"></span>
+                <a class="jiaru" href="javascript:void(0);" title="">立即加入</a>
+                <span class="line"></span>
+            </div>
+            ﻿ <div class="tuijian">
+                <ul class="clearfix">
+                    <li class="one">
+                        <a class="touxiang" href="http://zhuanlan.lotour.com/2095/wh-beijing/" target="_blank">
+                        <img src="http://img1.lotour.net/mudidiplay/2016/0822/2016082213532892329.jpg "/></a>
+                        <div class="tjbod">
+                            <h2>后海漫生活</h2>
+                            <p class="boline"></p>
+                            <span>任务要求</span>
+                            <div class="wen">
+                                <p>我有酒，你有故事么？撰写1000字左右的美文，突出我们不被打扰、寻求私享的情怀；15张左右的高品质图片，幽静、高雅的情怀。</p>
+                            </div>
+                            <p class="boline"></p>
+                            <span>福利</span>
+                            <div class="wen">
+                                <p>价值300元的夏日风情3小时无限畅饮</p>
+                            </div>
+                        </div>
+                    </li>
+
+                    <li class="two">
+                        <a class="touxiang" href="http://zhuanlan.lotour.com/2080/wh-beijing/" target="_blank">
+                            <img src="http://img1.lotour.net/Inspiration/2016/0818/20160818162839309507234_yuan.jpg"></a>
+                        <div class="tjbod">
+                            <h2>云朵朵厨房</h2>
+                            <p class="boline"></p>
+                            <span>任务要求</span>
+                            <div class="wen">
+                                <p>撰写800字左右的美文，突出高雅、素食西餐的特色；12张左右的高品质图片，风格清新。</p>
+                            </div>
+                            <p class="boline"></p>
+                            <span>福利</span>
+                            <div class="wen">
+                                <p>100元稿费，双人份素食西餐招牌菜</p>
+                            </div>
+                        </div>
+                    </li>
+
+                    <li class="three mr0">
+                        <a class="touxiang" href="http://zhuanlan.lotour.com/2043/wh-beijing/" target="_blank">
+                            <img src="http://img1.lotour.net/mudidiplay/2016/0803/201608031353214933d.jpg"></a>
+                        <div class="tjbod">
+                            <h2>无用生活空间</h2>
+                            <p class="boline"></p>
+                            <span>任务要求</span>
+                            <div class="wen">
+                                <p>撰写800字左右的美文，突出我们的特色；15张左右的高品质图片，风格暗黑系。</p>
+                            </div>
+                            <p class="boline"></p>
+                            <span>福利</span>
+                            <div class="wen">
+                                <p>深度参观门票和展览门票各两张</p>
+                            </div>
+                        </div>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!--=E bt -->
+    <div class="idx-footer-bg">
+  <div class="idx-footer clearfix">
+    <div class="fl">
+      <dl>
+        <dt>关于我们</dt>
+        <dd><a href="http://corp.lotour.com/index.shtml" target="_blank" onclick="return FocusCount('tail','101');" title="乐途介绍">乐途介绍</a></dd>
+        <dd><a href="http://corp.lotour.com/job_2.shtml" target="_blank" onclick="return FocusCount('tail','102');" title="招贤纳士">招贤纳士</a></dd>
+        <dd><a href="http://corp.lotour.com/lotour_honour.shtml" target="_blank" onclick="return FocusCount('tail','103');" title="网站荣誉">网站荣誉</a></dd>
+        <dd><a href="http://corp.lotour.com/contact.shtml" target="_blank" onclick="return FocusCount('tail','104');" title="联系我们">联系我们</a></dd>
+      </dl>
+      <dl>
+        <dt>商家服务</dt>
+        <dd><a href="http://www.lotour.com/zhuanti/yingxiao/" target="_blank" title="乐途营销" onclick="return FocusCount('tail','201');">乐途营销</a></dd>
+        <dd><a href="http://member.lotour.com/" target="_blank" title="商家登录" onclick="return FocusCount('tail','202');">商家登录</a></dd>
+      </dl>
+      <dl>
+        <dt>新手上路</dt>
+        <dd><a href="http://d.lotour.com/yudingbangzhu/" target="_blank" title="预订帮助" onclick="return FocusCount('tail','301');">预订帮助</a></dd>
+        <dd><a href="http://corp.lotour.com/term.shtml" target="_blank" title="服务条款" onclick="return FocusCount('tail','302');">服务条款</a></dd>
+        <dd><a href="http://corp.lotour.com/copyright.shtml" target="_blank" title="版权声明" onclick="return FocusCount('tail','303');">版权声明</a></dd>
+      </dl>
+      <div class="hb">
+        <section>合作伙伴</section>
+        <p> <a href="http://www.cnta.com/" target="_blank" title="国家旅游局" onclick="return FocusCount('tail','401');">国家旅游局</a> <a href="http://travel.people.com.cn/" target="_blank" title="人民网旅游" onclick="return FocusCount('tail','402');">人民网旅游</a><br/>
+          <a href="http://travel.gmw.cn/index.htm" target="_blank" title="光明网旅游" onclick="return FocusCount('tail','403');">光明网旅游</a> <a href="http://travel.cntv.cn/" target="_blank" title="央视网旅游" onclick="return FocusCount('tail','404');">央视网旅游</a> <a href="http://travel.chinadaily.com.cn/" target="_blank" title="中国日报网" onclick="return FocusCount('tail','405');">中国日报网</a><br/>
+          <a href="http://corp.lotour.com/parter.shtml" target="_blank" class="all" onclick="return FocusCount('tail','406');">[全部]</a> </p>
+      </div>
+    </div>
+    <div class="fr">
+      <div class="wechat">
+        <section>用微信收藏灵感</section>
+        <img src="http://img1.lotour.net/index/wechat.png" width="95" /></div>
+      <div class="follow">
+        <section>关注我们</section>
+        <ul>
+          <li class="sina"><a href="http://weibo.com/lotour2005" title="进入新浪微博" target="_blank" onclick="return FocusCount('attention','01');"></a></li>
+          <li class="qzone"><a title="进入QQ空间" target="_blank" href="http://user.qzone.qq.com/1726116704" onclick="return FocusCount('attention','02');"></a></li>
+          <li class="renren"><a title="进入人人网" target="_blank" href="http://www.renren.com/600754913" onclick="return FocusCount('attention','03');"></a></li>
+          <li class="qqweibo"><a title="进入腾讯微博" target="_blank" href="http://t.qq.com/lotourly" onclick="return FocusCount('attention','04');"></a></li>
+          <li class="wechat"><a href="javascript:void(0)"></a><img src="http://img1.lotour.net/home/vcode1-1.jpg"></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<footer>
+  <div class="footer clearfix"> <a href="http://www.lotour.com/" target="_blank" onclick="return FocusCount('logo','02');"><img src="http://img1.lotour.net/index/logo_ft.png" class="logo-ft" /></a>
+    <p><a href="http://www.miibeian.gov.cn" target="_blank" title="" onclick="return FocusCount('beian','');">京ICP备12008860号-1</a>  <a href="http://corp.lotour.com/licence_gd.shtml" target="_blank" title="" onclick="return FocusCount('beian','');">广电节目制作许可证：1313号</a>  <a style="display:inline-block;text-decoration:none;height:20px;line-height:20px;" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502001653" target="_blank"><img style="float:left;margin-right:2px" src="http://img1.lotour.net/ghs.png">京公网安备 11010502001653号</a><br/>
+      Copyright &copy; 2005 - 2016 <a href="http://www.lotour.com/" target="_blank" onclick="return FocusCount('beian','');">Lotour.com</a> All Rights Reserved. <a href="http://www.lotour.com/" target="_blank" title="乐途旅游网" onclick="return FocusCount('beian','');">乐途旅游网</a> 版权所有</p>
+<p class="wap"><img src="http://img1.lotour.net/index/bt.jpg"><img src="http://img1.lotour.net/home/vcode1-1.jpg" class="wap-wechat"></p>
+    <a target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202008020400006" class="pls" onclick="return FocusCount('beian','');"></a>
+    <a target="_blank" class="plc" href="http://about.58.com/fqz/index.html?utm_source=market&amp;spm=b-31580022738699-pe-f-829.hao360_101&amp;qq-pf-to=pcqq.group"><img src="http://img1.lotour.com/home/plc.png"></a>
+ </div>
+</footer>
+<!--home-->
+    <script type="text/javascript" src="http://js.lotour.net/analytics/statsv2.js"  charset="UTF-8"></script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-39387460-1']);
+    _gaq.push(['_setDomainName', 'lotour.com']);
+    _gaq.push(['_addOrganic', 'baidu', 'word']);
+    _gaq.push(['_addOrganic', 'soso', 'w']);
+    _gaq.push(['_addOrganic', '3721', 'name']);
+    _gaq.push(['_addOrganic', 'yodao', 'q']);
+    _gaq.push(['_addOrganic', 'vnet', 'kw']);
+    _gaq.push(['_addOrganic', 'sogou', 'query']);
+    _gaq.push(['_addOrganic', '360', 'q']);
+    _gaq.push(['_addOrganic', 'so', 'q']);
+    var full_url = location.pathname + location.search + location.hash;
+    _gaq.push(['_trackPageview', full_url]);
+    _gaq.push(['_trackPageLoadTime']);
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F317768ad40e6ddbe20f10e89b4712c35' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+    <script type="text/javascript" src="http://js.lotour.net/feedback_v1.js"></script>
+</body>
+</html>

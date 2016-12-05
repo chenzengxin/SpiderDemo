@@ -1,0 +1,880 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<meta name="baidu-tc-verification" content="6c989e9734dcae140397f66e6d4a1873" />
+<style type="text/css">
+<!--
+.myhtml { filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1); }
+.chengshi
+{
+border: solid 0px gray;
+width:100px;
+overflow: hidden;
+text-overflow: ellipsis;
+white-space: nowrap;
+course:hand;
+}
+h1 {
+font-size: 12px;
+display: inline;
+}
+
+-->
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>舟山二手车|舟山市二手车|舟山二手汽车|舟山二手车市场|舟山二手车网|二手货车|中国旧车网</title>
+<meta name="keywords" content="舟山二手车,舟山二手汽车,舟山二手车市场,舟山二手车网,旧车,舟山二手大货车,舟山二手拖挂,二手车交易市场,微型面包车，商务车,中巴车,大客车,大巴车,越野车,工程机械，农用机械">
+<meta name="description" content="舟山市二手车,舟山市二手车网专业提供舟山市二手车交易信息及舟山市二手车市场动态，每天大量审核各种舟山市二手车信息，尽量为您保证舟山市二手车信息的真实可靠性，提供最新的舟山市二手车市场资讯，让您更加了解舟山市二手车网络市场,舟山市二手车信息服务网可一目了然了解舟山市及其他省、市、县二手车价格、找满意二手车、快速卖车,真实丰富诚信的最新舟山市二手车、舟山市品牌二手车、舟山市个人二手车信息尽在中国旧车网 ">
+
+<meta http-equiv="Content-Language" content="zh-CN" />
+<link href="http://www.9che.com/cheimg/checss.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<!--头部开始-->
+<div id="headerbg">
+<div class="logo"><a href="http://www.9che.com/"><img src="http://www.9che.com/cheimg/cheimg01.gif" alt="二手车"></a></div>
+<div class="zhix"><a href="http://BeiJing.9che.com">北京</a><a href="http://TianJin.9che.com">天津</a><a href="http://ShangHai.9che.com">上海</a><a href="http://ChongQing.9che.com">重庆</a></div><div class="shengs"><a href="http://HeBei.9che.com">河北</a><a href="http://LiaoNing.9che.com">辽宁</a><A href="http://GuangXi.9che.com">广西</A><a href="http://JiLin.9che.com">吉林</a><a href="http://ShanDong.9che.com">山东</a><a href="http://ShanXi.9che.com">山西</a><a href="http://AnHui.9che.com">安徽</a><a href="http://ZheJiang.9che.com">浙江</a><a href="http://JiangSu.9che.com">江苏</a><a href="http://JiangXi.9che.com">江西</a><a href="http://GuangDong.9che.com">广东</a><a href="http://FuJian.9che.com">福建</a><a href="http://HaiNan.9che.com">海南</a><a href="http://HeNan.9che.com">河南</a><a href="http://GuiZhou.9che.com">贵州</a><a href="http://HuBei.9che.com">湖北</a><a href="http://HuNan.9che.com">湖南</a>
+	<a href="http://SiChuan.9che.com">四川</a><a href="http://YunNan.9che.com">云南</a><a href="http://ShanXiSheng.9che.com">陕西</a><a href="http://GanSu.9che.com">甘肃</a><a href="http://HeiLongJiang.9che.com">黑龙江</a><a href="http://NeiMengGu.9che.com">内蒙古</a><a href="http://QingHai.9che.com">青海</a><a href="http://NingXia.9che.com">宁夏</a><a href="http://XiZhang.9che.com">西藏</a><a href="http://XinJiang.9che.com">新疆</a><a href="http://XiangGang.9che.com">香港</a><a href="http://AoMen.9che.com">澳门</a><a href="http://TaiWan.9che.com">台湾</a><a href="city.html"><font color="red">城市地图</font></a> </div>
+<div class="clear"></div>
+</div>
+<!--头部结束-->
+<div class="clear"></div>
+<!--菜单开始-->
+
+<!--滚动图块结束-->
+<div class="topmenu"><a href="http://www.9che.com/"><img src="http://www.9che.com/cheimg/cheimg04.gif" alt="中国旧车网首页"/></a><a href="/demand/type_1.html"><img src="http://www.9che.com/cheimg/cheimg05.gif" alt="卖车信息"/></a><a href="/demand/type_2.html"><img src="http://www.9che.com/cheimg/cheimg06.gif" alt="买车信息"/></a><a href="http://www.9che.com/2che/demand/list_demand.php?type=出租&biaozhi=liebiao"><img src="http://www.9che.com/cheimg/cheimg07.gif" alt="租车信息"/></a><a href="http://www.9che.com/2che/demand/list_demand.php?type=求租&biaozhi=liebiao"><img src="http://www.9che.com/cheimg/cheimg08.gif" alt="求租信息"/></a><a href="http://www.9che.com/cardata/"><img src="http://www.9che.com/cheimg/cheimg09.gif" alt="新车报价"/></a><a href="http://www.9che.com/2che/index.php"><img src="http://www.9che.com/cheimg/cheimg10.gif" alt="租车"/></a><a href="http://zhoushan.dushifang.com/" target="_blank" title="舟山二手房"><img src="http://www.9che.com/cheimg/esf.gif" alt="舟山二手房" border="0" /></a>
+</div></div>
+<div class="clear"></div>
+<table width="1003px" align="center" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#FFFFFF" style="width: 1003px; margin: auto; padding: 0px;">
+  <tr>
+    <td height="0" align="left">
+	<a href="http://ZheJiang.9che.com"><b>浙江二手车</b></a>
+		&nbsp;<a href="http://HangZhou.9che.com">杭州</a>
+		&nbsp;<a href="http://NingBo.9che.com">宁波</a>
+		&nbsp;<a href="http://WenZhou.9che.com">温州</a>
+		&nbsp;<a href="http://JiaXing.9che.com">嘉兴</a>
+		&nbsp;<a href="http://HuZhou.9che.com">湖州</a>
+		&nbsp;<a href="http://ShaoXing.9che.com">绍兴</a>
+		&nbsp;<a href="http://JinHua.9che.com">金华</a>
+		&nbsp;<a href="http://QuZhou.9che.com">衢州</a>
+		&nbsp;<a href="http://ZhouShan.9che.com">舟山</a>
+		&nbsp;<a href="http://TaiZhouShi1.9che.com">台州</a>
+		&nbsp;<a href="http://LiShui.9che.com">丽水</a>
+	<br />
+	<h1><a href="">舟山二手车</a></h1> &nbsp;&nbsp;
+		&nbsp;<a href="http://DaiShan.9che.com">岱山二手车</a>
+		&nbsp;<a href="http://ShengSi.9che.com">嵊泗二手车</a>
+	 &nbsp;&nbsp;  &nbsp;&nbsp; <h2 style="font-size:12px;display: inline;">返回<a href="http://ZheJiang.9che.com">浙江二手车</a></h2>
+	</td>
+  </tr>
+</table>
+<!--菜单开始-->
+
+
+<div class="clear"></div>
+    <div style="width: 1003px; margin: auto; padding: 0px;">
+    <table width="1000" border="0" cellspacing="0" cellpadding="0">
+  <tr style="text-align: center">
+  	 <td><script language="JavaScript" src="http://www.9che.com/ads/9che_banner.js"></script>
+  	 	<script language="JavaScript" src="http://www.9che.com/ads/zdf990.js"></script>
+  	 	</td>
+
+
+  </tr>
+
+
+</table>
+
+</div>
+
+
+
+<div class="clear"></div>
+<div class="clear"></div>
+<div style="width:1003px;margin:auto;padding:0px;padding-top:5px;">
+<div class="chelist">
+<div><p>精品车源</p>
+      <span><a target="_blank" href="http://www.9che.com/member/buy.php?city=206&rank=24"><u><font color="#FF0000"><strong>我也要投放精品车源广告>></strong></font></u></a></span>
+<!-- Baidu Button BEGIN -->
+    <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare">
+        <span class="bds_more">分享到：</span>
+        <a class="bds_qzone">QQ空间</a>
+        <a class="bds_tsina">新浪微博</a>
+        <a class="bds_tqq">腾讯微博</a>
+        <a class="bds_renren">人人网</a>
+    </div>
+    <script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=12497" ></script>
+    <script type="text/javascript" id="bdshell_js"></script>
+    <script type="text/javascript">
+        document.getElementById("bdshell_js").src = "http://share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+    </script>
+<!-- Baidu Button END -->
+
+
+
+
+</div>
+</div>
+<div class="goodche"  style="padding:5px 0px 5px 0px">
+
+<ul>
+
+
+  <li><a href="http://www.9che.com/demand/11446382.html" target="_blank" title="欧曼 解放 天龙15853752991"><img src="/upload/K11447/mid_img/90841570580aa93343202.jpg.jpg" width=110 height=83 alt="欧曼 解放 天龙15853752991" /><span>欧曼 解放 天龙15853752991</span><span>面议 江苏 </span></a></li>
+  <li><a href="http://www.9che.com/member/buy.php?city=206&rank=1" target="_blank" title=""><img src="http://www.9che.com/member/citywaitbuy.gif" width=110 height=83 alt="" /><span></span><span>  </span></a></li>
+  <li><a href="http://www.9che.com/demand/11443880.html" target="_blank" title="出售解放j6天龙欧曼13053736881"><img src="/upload/K11444/mid_img/26856546657e8bee706c72.jpg.jpg" width=110 height=83 alt="出售解放j6天龙欧曼13053736881" /><span>出售解放j6天龙欧曼13053736881</span><span>面议 湖南 </span></a></li>
+  <li><a href="http://www.9che.com/demand/11440887.html" target="_blank" title="常年销售解放j6东风天龙欧曼15264799488"><img src="/upload/K11441/mid_img/168316146357b6673d430a2.jpg.jpg" width=110 height=83 alt="常年销售解放j6东风天龙欧曼15264799488" /><span>常年销售解放j6东风天龙欧曼15264799488</span><span>面议 山东 </span></a></li>
+  <li><a href="http://www.9che.com/member/buy.php?city=206&rank=4" target="_blank" title=""><img src="http://www.9che.com/member/citywaitbuy.gif" width=110 height=83 alt="" /><span></span><span>  </span></a></li>
+  <li><a href="http://www.9che.com/demand/11445065.html" target="_blank" title="销售各种性价比高的大货车"><img src="/upload/K11446/mid_img/15715100357f9c15271f63.jpg.jpg" width=110 height=83 alt="销售各种性价比高的大货车" /><span>销售各种性价比高的大货车</span><span>面议 山东 </span></a></li>
+  <li><a href="http://www.9che.com/member/buy.php?city=206&rank=6" target="_blank" title=""><img src="http://www.9che.com/member/citywaitbuy.gif" width=110 height=83 alt="" /><span></span><span>  </span></a></li>
+  <li><a href="http://www.9che.com/member/buy.php?city=206&rank=7" target="_blank" title=""><img src="http://www.9che.com/member/citywaitbuy.gif" width=110 height=83 alt="" /><span></span><span>  </span></a></li>
+
+</ul>
+
+</div><div class="clear"></div>
+
+
+</div>
+<div class="clear"></div>
+<!--滚动图块结束-->
+
+<!--中间块开始-->
+<div class="allbox1">
+<!--左块开始-->
+<div class="left">
+
+<!--图片列表-->
+<div class="piclist"><a href="/ershoujiaoche" title="二手轿车"><img src="http://www.9che.com/cheimg/cheimg17.gif"/></a><a href="/ershoumianbaoche" title="二手微型面包车"><img src="http://www.9che.com/cheimg/cheimg18.gif"/></a><a href="/ershouxiaohuoche" title="二手小型运输车"><img src="http://www.9che.com/cheimg/cheimg19.gif"/></a><a href="/ershoushangwuche" title="二手商务车"><img src="http://www.9che.com/cheimg/cheimg20.gif"/></a><a href="/ershouzhongbache" title="二手中巴车"><img src="http://www.9che.com/cheimg/cheimg21.gif"/></a><a href="/ershoudabache" title="二手大巴车"><img src="http://www.9che.com/cheimg/cheimg22.gif"/></a><a href="/ershouyueyeche" title="二手SUV越野车"><img src="http://www.9che.com/cheimg/cheimg23.gif"/></a><a href="/ershougongchengkuangshanjixie" title="二手工程矿山机械"><img src="http://www.9che.com/cheimg/cheimg24.gif"/></a><a href="/ershoumotoche" title="二手摩托车"><img src="http://www.9che.com/cheimg/cheimg25.gif"/></a><a href="/ershoudahuoche" title="二手大中型运输车"><img src="http://www.9che.com/cheimg/cheimg26.gif"/></a></div>
+
+<div class="clear"></div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="90%">
+<form method="get" action="/demand/list_demand.php">
+        <tbody><tr>
+          <td width="16%"><img src="/cheimg/cheimg37.gif"></td>
+          <td width="84%">
+
+		  <table border="0" cellpadding="0" cellspacing="0">
+                <tbody>
+                  <tr>
+                    <td height="28" width="406">
+                      <input name="name" id="demandname" onfocus="this.value=''" size="20">
+                      <select name="type" id="rate">
+                        <option value="">全部</option>
+
+                        <option value="1" selected="selected">├出售</option>
+                        <option value="2">└求购</option>
+                      </select> <select name="assort" id="select2">
+                        <option value="">全部</option>
+                        <option value="1">├小轿车</option>
+<option value="2">├微型面包车</option>
+<option value="3">├小型运输车</option>
+<option value="5">├商务车</option>
+<option value="6">├中巴车</option>
+<option value="7">├大巴车</option>
+<option value="8">├大中型运输车</option>
+<option value="9">├豪华车</option>
+<option value="11">├SUV及越野车</option>
+<option value="12">├工程机械矿山机械</option>
+<option value="13">├摩托车</option>
+<option value="18">└农用机械</option>
+
+
+                      </select>
+                    </td>
+                    <td width="75">
+<input name="imageField" src="/cheimg/cheimg16.gif" border="0" type="image">
+                    </td>
+                  </tr>
+				  <tr>
+				  <td>热门车型：<a href="/demand/list_demand.php?name=富康" target="_blank">富康</a>
+				  		<a href="/demand/list_demand.php?name=夏利" target="_blank">夏利</a>
+				  		<a href="/demand/list_demand.php?name=捷达" target="_blank">捷达</a>
+				  		<a href="/demand/list_demand.php?name=桑塔纳" target="_blank">桑塔纳</a>
+				  		<a href="/demand/list_demand.php?name=帕萨特" target="_blank">帕萨特</a>
+				  		<a href="/demand/list_demand.php?name=宝来" target="_blank">宝来</a>
+				  		<a href="/demand/list_demand.php?name=奔驰" target="_blank">奔驰</a>
+				  		<a href="/demand/list_demand.php?name=宝马" target="_blank">宝马</a>
+				  		<a href="/demand/list_demand.php?name=雅阁" target="_blank">雅阁</a>
+				  		<a href="/demand/list_demand.php?name=本田" target="_blank">本田</a>
+				  		<a href="/demand/list_demand.php?name=波罗" target="_blank">波罗</a>
+				  		<a href="/demand/list_demand.php?name=凯越" target="_blank">凯越</a>
+				  		</td>
+				  <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="/demand/search.php" target="_blank">更多＞＞</a></td></tr>
+
+            </tbody></table>
+</td>
+
+  </tr>
+</tbody>
+</form>
+</table>
+<!--卖车-->
+<div class="chelist">
+<div><p><a href="/demand/type_1.html">舟山二手车售车信息</a></p><span>舟山二手车更多售车信息<a href="/demand/type_1.html"><b>请点此>>>>>>></b>
+  </a></span></div>
+<table width="100%" border="0" cellpadding="6" cellspacing="1" bordercolor="#FFFFFF">
+  <tr bgcolor="#E9E9E9" align="center">
+    <td width="8%"><b>编号</b></td>
+    <td width="8%"><b>照片</b></td>
+    <td width="20%"><b>型号</b></td>
+    <td width="18%"><b>车类型</b></td>
+    <td width="13%"><b>城市</b></td>
+    <td width="8%"><b>价格</b></td>
+    <td width="10%"><b>发布时间</b></td>
+    <td width="15%"><b>原始购车时间</b></td>
+  </tr>
+  <tr bgcolor="">
+    <td align="center"><a href="/demand/11448603.html" target="_blank">11448603</a></td>
+    <td align="center"><a href="/demand/11448603.html" target="_blank">有</a></td>
+    <td><span class="chengshi"><a href="/demand/11448603.html" target="_blank">购车即送强险&nbsp;15853752991 </a><span></td>
+    <td><a href="/demand/11448603.html" target="_blank">大中型运输车</a></td>
+    <td><a href="/demand/11448603.html" target="_blank"><span class="chengshi" style='overflow:hidden'>浙江舟山市</span></a></td>
+    <td><a href="/demand/11448603.html" target="_blank">面议</a></td>
+    <td><a href="/demand/11448603.html" target="_blank">2016/11/5</a></td>
+    <td><a href="/demand/11448603.html" target="_blank"></a></td>
+  </tr>
+  <tr bgcolor="#E9E9E9">
+    <td align="center"><a href="/demand/11448016.html" target="_blank">11448016</a></td>
+    <td align="center"><a href="/demand/11448016.html" target="_blank">有</a></td>
+    <td><span class="chengshi"><a href="/demand/11448016.html" target="_blank">出售欧曼天龙解放&nbsp;购车即送…</a><span></td>
+    <td><a href="/demand/11448016.html" target="_blank">大中型运输车</a></td>
+    <td><a href="/demand/11448016.html" target="_blank"><span class="chengshi" style='overflow:hidden'>浙江舟山市</span></a></td>
+    <td><a href="/demand/11448016.html" target="_blank">面议</a></td>
+    <td><a href="/demand/11448016.html" target="_blank">2016/11/3</a></td>
+    <td><a href="/demand/11448016.html" target="_blank"></a></td>
+  </tr>
+  <tr bgcolor="">
+    <td align="center"><a href="/demand/11447409.html" target="_blank">11447409</a></td>
+    <td align="center"><a href="/demand/11447409.html" target="_blank">有</a></td>
+    <td><span class="chengshi"><a href="/demand/11447409.html" target="_blank">出售欧曼天龙解放&nbsp;购车即送…</a><span></td>
+    <td><a href="/demand/11447409.html" target="_blank">大中型运输车</a></td>
+    <td><a href="/demand/11447409.html" target="_blank"><span class="chengshi" style='overflow:hidden'>浙江舟山市</span></a></td>
+    <td><a href="/demand/11447409.html" target="_blank">面议</a></td>
+    <td><a href="/demand/11447409.html" target="_blank">2016/11/2</a></td>
+    <td><a href="/demand/11447409.html" target="_blank"></a></td>
+  </tr>
+  <tr bgcolor="#E9E9E9">
+    <td align="center"><a href="/demand/11446323.html" target="_blank">11446323</a></td>
+    <td align="center"><a href="/demand/11446323.html" target="_blank">有</a></td>
+    <td><span class="chengshi"><a href="/demand/11446323.html" target="_blank">解放j6双驱半挂车&nbsp;负责转户…</a><span></td>
+    <td><a href="/demand/11446323.html" target="_blank">大中型运输车</a></td>
+    <td><a href="/demand/11446323.html" target="_blank"><span class="chengshi" style='overflow:hidden'>浙江舟山市</span></a></td>
+    <td><a href="/demand/11446323.html" target="_blank">面议</a></td>
+    <td><a href="/demand/11446323.html" target="_blank">2016/10/20</a></td>
+    <td><a href="/demand/11446323.html" target="_blank"></a></td>
+  </tr>
+  <tr bgcolor="">
+    <td align="center"><a href="/demand/11445834.html" target="_blank">11445834</a></td>
+    <td align="center"><a href="/demand/11445834.html" target="_blank">有</a></td>
+    <td><span class="chengshi"><a href="/demand/11445834.html" target="_blank">出售二手车解放j6天龙1305373688…</a><span></td>
+    <td><a href="/demand/11445834.html" target="_blank">大中型运输车</a></td>
+    <td><a href="/demand/11445834.html" target="_blank"><span class="chengshi" style='overflow:hidden'>浙江舟山市</span></a></td>
+    <td><a href="/demand/11445834.html" target="_blank">面议</a></td>
+    <td><a href="/demand/11445834.html" target="_blank">2016/10/14</a></td>
+    <td><a href="/demand/11445834.html" target="_blank">2014.06</a></td>
+  </tr>
+  <tr bgcolor="#E9E9E9">
+    <td align="center"><a href="/demand/11445408.html" target="_blank">11445408</a></td>
+    <td align="center"><a href="/demand/11445408.html" target="_blank">有</a></td>
+    <td><span class="chengshi"><a href="/demand/11445408.html" target="_blank">二手东风天龙双驱康机半挂车&nbs…</a><span></td>
+    <td><a href="/demand/11445408.html" target="_blank">大中型运输车</a></td>
+    <td><a href="/demand/11445408.html" target="_blank"><span class="chengshi" style='overflow:hidden'>浙江舟山市</span></a></td>
+    <td><a href="/demand/11445408.html" target="_blank">80000</a></td>
+    <td><a href="/demand/11445408.html" target="_blank">2016/10/10</a></td>
+    <td><a href="/demand/11445408.html" target="_blank">2012.10</a></td>
+  </tr>
+  <tr bgcolor="">
+    <td align="center"><a href="/demand/11445311.html" target="_blank">11445311</a></td>
+    <td align="center"><a href="/demand/11445311.html" target="_blank">有</a></td>
+    <td><span class="chengshi"><a href="/demand/11445311.html" target="_blank">出售解放j6天龙欧曼13053736881 </a><span></td>
+    <td><a href="/demand/11445311.html" target="_blank">大中型运输车</a></td>
+    <td><a href="/demand/11445311.html" target="_blank"><span class="chengshi" style='overflow:hidden'>浙江舟山市</span></a></td>
+    <td><a href="/demand/11445311.html" target="_blank">面议</a></td>
+    <td><a href="/demand/11445311.html" target="_blank">2016/10/10</a></td>
+    <td><a href="/demand/11445311.html" target="_blank">2013.08</a></td>
+  </tr>
+  <tr bgcolor="#E9E9E9">
+    <td align="center"><a href="/demand/11445190.html" target="_blank">11445190</a></td>
+    <td align="center"><a href="/demand/11445190.html" target="_blank">有</a></td>
+    <td><span class="chengshi"><a href="/demand/11445190.html" target="_blank">出售二手车解放j6天龙1305373688…</a><span></td>
+    <td><a href="/demand/11445190.html" target="_blank">大中型运输车</a></td>
+    <td><a href="/demand/11445190.html" target="_blank"><span class="chengshi" style='overflow:hidden'>浙江舟山市</span></a></td>
+    <td><a href="/demand/11445190.html" target="_blank">面议</a></td>
+    <td><a href="/demand/11445190.html" target="_blank">2016/10/9</a></td>
+    <td><a href="/demand/11445190.html" target="_blank">2013.04</a></td>
+  </tr>
+  <tr bgcolor="">
+    <td align="center"><a href="/demand/11444753.html" target="_blank">11444753</a></td>
+    <td align="center"><a href="/demand/11444753.html" target="_blank">有</a></td>
+    <td><span class="chengshi"><a href="/demand/11444753.html" target="_blank">出售天龙雷诺375.420马力1305373…</a><span></td>
+    <td><a href="/demand/11444753.html" target="_blank">大中型运输车</a></td>
+    <td><a href="/demand/11444753.html" target="_blank"><span class="chengshi" style='overflow:hidden'>浙江舟山市</span></a></td>
+    <td><a href="/demand/11444753.html" target="_blank">面议</a></td>
+    <td><a href="/demand/11444753.html" target="_blank">2016/10/6</a></td>
+    <td><a href="/demand/11444753.html" target="_blank">2013.03</a></td>
+  </tr>
+  <tr bgcolor="#E9E9E9">
+    <td align="center"><a href="/demand/11444134.html" target="_blank">11444134</a></td>
+    <td align="center"><a href="/demand/11444134.html" target="_blank">有</a></td>
+    <td><span class="chengshi"><a href="/demand/11444134.html" target="_blank">14年东风天龙双导375马力&nbsp;1…</a><span></td>
+    <td><a href="/demand/11444134.html" target="_blank">大中型运输车</a></td>
+    <td><a href="/demand/11444134.html" target="_blank"><span class="chengshi" style='overflow:hidden'>浙江舟山市</span></a></td>
+    <td><a href="/demand/11444134.html" target="_blank">面议</a></td>
+    <td><a href="/demand/11444134.html" target="_blank">2016/09/28</a></td>
+    <td><a href="/demand/11444134.html" target="_blank">2014.07</a></td>
+  </tr>
+  <tr bgcolor="">
+    <td align="center"><a href="/demand/11444055.html" target="_blank">11444055</a></td>
+    <td align="center"><a href="/demand/11444055.html" target="_blank">有</a></td>
+    <td><span class="chengshi"><a href="/demand/11444055.html" target="_blank">出售二手车解放j6天龙1305373688…</a><span></td>
+    <td><a href="/demand/11444055.html" target="_blank">大中型运输车</a></td>
+    <td><a href="/demand/11444055.html" target="_blank"><span class="chengshi" style='overflow:hidden'>浙江舟山市</span></a></td>
+    <td><a href="/demand/11444055.html" target="_blank">面议</a></td>
+    <td><a href="/demand/11444055.html" target="_blank">2016/09/27</a></td>
+    <td><a href="/demand/11444055.html" target="_blank">2015.08</a></td>
+  </tr>
+  <tr bgcolor="#E9E9E9">
+    <td align="center"><a href="/demand/11443897.html" target="_blank">11443897</a></td>
+    <td align="center"><a href="/demand/11443897.html" target="_blank">有</a></td>
+    <td><span class="chengshi"><a href="/demand/11443897.html" target="_blank">出售解放j6天龙欧曼13053736881 </a><span></td>
+    <td><a href="/demand/11443897.html" target="_blank">大中型运输车</a></td>
+    <td><a href="/demand/11443897.html" target="_blank"><span class="chengshi" style='overflow:hidden'>浙江舟山市</span></a></td>
+    <td><a href="/demand/11443897.html" target="_blank">面议</a></td>
+    <td><a href="/demand/11443897.html" target="_blank">2016/09/26</a></td>
+    <td><a href="/demand/11443897.html" target="_blank">2016.04</a></td>
+  </tr>
+  <tr bgcolor="">
+    <td align="center"><a href="/demand/11443891.html" target="_blank">11443891</a></td>
+    <td align="center"><a href="/demand/11443891.html" target="_blank">有</a></td>
+    <td><span class="chengshi"><a href="/demand/11443891.html" target="_blank">出售二手车解放j6天龙1305373688…</a><span></td>
+    <td><a href="/demand/11443891.html" target="_blank">大中型运输车</a></td>
+    <td><a href="/demand/11443891.html" target="_blank"><span class="chengshi" style='overflow:hidden'>浙江舟山市</span></a></td>
+    <td><a href="/demand/11443891.html" target="_blank">面议</a></td>
+    <td><a href="/demand/11443891.html" target="_blank">2016/09/26</a></td>
+    <td><a href="/demand/11443891.html" target="_blank">2012.05</a></td>
+  </tr>
+  <tr bgcolor="#E9E9E9">
+    <td align="center"><a href="/demand/11442897.html" target="_blank">11442897</a></td>
+    <td align="center"><a href="/demand/11442897.html" target="_blank">有</a></td>
+    <td><span class="chengshi"><a href="/demand/11442897.html" target="_blank">出售天龙雷诺375.420马力1305373…</a><span></td>
+    <td><a href="/demand/11442897.html" target="_blank">大中型运输车</a></td>
+    <td><a href="/demand/11442897.html" target="_blank"><span class="chengshi" style='overflow:hidden'>浙江舟山市</span></a></td>
+    <td><a href="/demand/11442897.html" target="_blank">面议</a></td>
+    <td><a href="/demand/11442897.html" target="_blank">2016/09/3</a></td>
+    <td><a href="/demand/11442897.html" target="_blank">2013.05</a></td>
+  </tr>
+  <tr bgcolor="">
+    <td align="center"><a href="/demand/11442296.html" target="_blank">11442296</a></td>
+    <td align="center"><a href="/demand/11442296.html" target="_blank">有</a></td>
+    <td><span class="chengshi"><a href="/demand/11442296.html" target="_blank">二手解放j6双驱&nbsp;旧挂车置换…</a><span></td>
+    <td><a href="/demand/11442296.html" target="_blank">大中型运输车</a></td>
+    <td><a href="/demand/11442296.html" target="_blank"><span class="chengshi" style='overflow:hidden'>浙江舟山市</span></a></td>
+    <td><a href="/demand/11442296.html" target="_blank">120000</a></td>
+    <td><a href="/demand/11442296.html" target="_blank">2016/08/24</a></td>
+    <td><a href="/demand/11442296.html" target="_blank">2012.10</a></td>
+  </tr>
+  <tr bgcolor="#E9E9E9">
+    <td align="center"><a href="/demand/11442179.html" target="_blank">11442179</a></td>
+    <td align="center"><a href="/demand/11442179.html" target="_blank">有</a></td>
+    <td><span class="chengshi"><a href="/demand/11442179.html" target="_blank">二手解放j6双驱&nbsp;旧挂车置换…</a><span></td>
+    <td><a href="/demand/11442179.html" target="_blank">大中型运输车</a></td>
+    <td><a href="/demand/11442179.html" target="_blank"><span class="chengshi" style='overflow:hidden'>浙江舟山市</span></a></td>
+    <td><a href="/demand/11442179.html" target="_blank">120000</a></td>
+    <td><a href="/demand/11442179.html" target="_blank">2016/08/22</a></td>
+    <td><a href="/demand/11442179.html" target="_blank">2012.10</a></td>
+  </tr>
+</table>
+</div>
+
+
+
+<div class="clear"></div>
+    <div style="width: 728px; margin: auto; padding: 0px;">
+    <table width="727" border="0" cellspacing="0" cellpadding="0">
+  <tr style="text-align: center">
+  	  <td>
+<script language="JavaScript" src="http://www.9che.com/ads/9che_footerbanner.js"></script>
+	<script language="JavaScript" src="http://www.9che.com/ads/taobao.js"></script>
+<img src="http://www.9che.com/gcjx.jpg"/>
+      </td>
+
+  </tr>
+</table>
+</div>
+
+<!--买车-->
+
+
+
+
+
+<div class="chelist">
+<div><p><a href="/demand/type_2.html">舟山二手车求购信息</a></p><span>舟山二手车更多购车信息<a href="/demand/type_2.html"><b>请点此>>>>>>></b>
+  </a></span></div>
+<table width="100%" border="0" cellpadding="6" cellspacing="1" bordercolor="#FFFFFF">
+  <tr bgcolor="#E9E9E9" align="center">
+    <td width="8%"><b>编号</b></td>
+    <td width="8%"><b>照片</b></td>
+    <td width="35%"><b>型号</b></td>
+    <td width="18%"><b>车类型</b></td>
+    <td width="13%"><b>城市</b></td>
+    <td width="8%"><b>价格</b></td>
+    <td width="10%"><b>发布时间</b></td>
+  </tr>
+  <tr bgcolor="">
+    <td align="center"><a href="/demand/11151333.html" target="_blank">11151333</a></td>
+    <td align="center"><a href="/demand/11151333.html" target="_blank">无</a></td>
+    <td><a href="/demand/11151333.html" target="_blank">二手东风天龙双驱牵引头 </a></td>
+    <td><a href="/demand/11151333.html" target="_blank">大中型运输车</a></td>
+    <td><a href="/demand/11151333.html" target="_blank"><span class="chengshi">浙江舟山市</span></a></td>
+    <td><a href="/demand/11151333.html" target="_blank">70000</a></td>
+    <td><a href="/demand/11151333.html" target="_blank">2015/11/23</a></td>
+  </tr>
+  <tr bgcolor="#E9E9E9">
+    <td align="center"><a href="/demand/11109359.html" target="_blank">11109359</a></td>
+    <td align="center"><a href="/demand/11109359.html" target="_blank">无</a></td>
+    <td><a href="/demand/11109359.html" target="_blank">诚信销售二手解放J6双驱牵引头15…</a></td>
+    <td><a href="/demand/11109359.html" target="_blank">大中型运输车</a></td>
+    <td><a href="/demand/11109359.html" target="_blank"><span class="chengshi">浙江舟山市</span></a></td>
+    <td><a href="/demand/11109359.html" target="_blank">80000</a></td>
+    <td><a href="/demand/11109359.html" target="_blank">2015/10/25</a></td>
+  </tr>
+  <tr bgcolor="">
+    <td align="center"><a href="/demand/11081833.html" target="_blank">11081833</a></td>
+    <td align="center"><a href="/demand/11081833.html" target="_blank">无</a></td>
+    <td><a href="/demand/11081833.html" target="_blank">梁山二手车市场&nbsp;买卖各种牵…</a></td>
+    <td><a href="/demand/11081833.html" target="_blank">大中型运输车</a></td>
+    <td><a href="/demand/11081833.html" target="_blank"><span class="chengshi">浙江舟山市</span></a></td>
+    <td><a href="/demand/11081833.html" target="_blank">面议</a></td>
+    <td><a href="/demand/11081833.html" target="_blank">2015/10/11</a></td>
+  </tr>
+  <tr bgcolor="#E9E9E9">
+    <td align="center"><a href="/demand/10876137.html" target="_blank">10876137</a></td>
+    <td align="center"><a href="/demand/10876137.html" target="_blank">无</a></td>
+    <td><a href="/demand/10876137.html" target="_blank">买卖各种品牌牵引车15264799488梁…</a></td>
+    <td><a href="/demand/10876137.html" target="_blank">大中型运输车</a></td>
+    <td><a href="/demand/10876137.html" target="_blank"><span class="chengshi">浙江舟山市</span></a></td>
+    <td><a href="/demand/10876137.html" target="_blank">面议</a></td>
+    <td><a href="/demand/10876137.html" target="_blank">2015/07/26</a></td>
+  </tr>
+  <tr bgcolor="">
+    <td align="center"><a href="/demand/6215404.html" target="_blank">6215404</a></td>
+    <td align="center"><a href="/demand/6215404.html" target="_blank">无</a></td>
+    <td><a href="/demand/6215404.html" target="_blank">本田&nbsp;大众&nbsp;马六&nbsp;…</a></td>
+    <td><a href="/demand/6215404.html" target="_blank">小轿车</a></td>
+    <td><a href="/demand/6215404.html" target="_blank"><span class="chengshi">浙江舟山市</span></a></td>
+    <td><a href="/demand/6215404.html" target="_blank">50000</a></td>
+    <td><a href="/demand/6215404.html" target="_blank">2012/11/28</a></td>
+  </tr>
+  <tr bgcolor="#E9E9E9">
+    <td align="center"><a href="/demand/5617464.html" target="_blank">5617464</a></td>
+    <td align="center"><a href="/demand/5617464.html" target="_blank">无</a></td>
+    <td><a href="/demand/5617464.html" target="_blank">普桑 </a></td>
+    <td><a href="/demand/5617464.html" target="_blank">小轿车</a></td>
+    <td><a href="/demand/5617464.html" target="_blank"><span class="chengshi">浙江舟山市</span></a></td>
+    <td><a href="/demand/5617464.html" target="_blank">40000</a></td>
+    <td><a href="/demand/5617464.html" target="_blank">2012/09/8</a></td>
+  </tr>
+  <tr bgcolor="">
+    <td align="center"><a href="/demand/2203716.html" target="_blank">2203716</a></td>
+    <td align="center"><a href="/demand/2203716.html" target="_blank">无</a></td>
+    <td><a href="/demand/2203716.html" target="_blank">奥迪A6L3.0 </a></td>
+    <td><a href="/demand/2203716.html" target="_blank">小轿车</a></td>
+    <td><a href="/demand/2203716.html" target="_blank"><span class="chengshi">浙江舟山市</span></a></td>
+    <td><a href="/demand/2203716.html" target="_blank">280000</a></td>
+    <td><a href="/demand/2203716.html" target="_blank">2011/05/10</a></td>
+  </tr>
+  <tr bgcolor="#E9E9E9">
+    <td align="center"><a href="/demand/1623404.html" target="_blank">1623404</a></td>
+    <td align="center"><a href="/demand/1623404.html" target="_blank">无</a></td>
+    <td><a href="/demand/1623404.html" target="_blank">长安之星 </a></td>
+    <td><a href="/demand/1623404.html" target="_blank">微型面包车</a></td>
+    <td><a href="/demand/1623404.html" target="_blank"><span class="chengshi">浙江舟山市</span></a></td>
+    <td><a href="/demand/1623404.html" target="_blank">8000</a></td>
+    <td><a href="/demand/1623404.html" target="_blank">2010/12/26</a></td>
+  </tr>
+  <tr bgcolor="">
+    <td align="center"><a href="/demand/1108475.html" target="_blank">1108475</a></td>
+    <td align="center"><a href="/demand/1108475.html" target="_blank">无</a></td>
+    <td><a href="/demand/1108475.html" target="_blank">长安之星 </a></td>
+    <td><a href="/demand/1108475.html" target="_blank">微型面包车</a></td>
+    <td><a href="/demand/1108475.html" target="_blank"><span class="chengshi">浙江舟山市</span></a></td>
+    <td><a href="/demand/1108475.html" target="_blank">6000</a></td>
+    <td><a href="/demand/1108475.html" target="_blank">2010/04/24</a></td>
+  </tr>
+  <tr bgcolor="#E9E9E9">
+    <td align="center"><a href="/demand/876057.html" target="_blank">876057</a></td>
+    <td align="center"><a href="/demand/876057.html" target="_blank">无</a></td>
+    <td><a href="/demand/876057.html" target="_blank">丰田 </a></td>
+    <td><a href="/demand/876057.html" target="_blank">小轿车</a></td>
+    <td><a href="/demand/876057.html" target="_blank"><span class="chengshi">浙江舟山市</span></a></td>
+    <td><a href="/demand/876057.html" target="_blank">70000</a></td>
+    <td><a href="/demand/876057.html" target="_blank">2009/11/17</a></td>
+  </tr>
+  <tr bgcolor="">
+    <td align="center"><a href="/demand/870737.html" target="_blank">870737</a></td>
+    <td align="center"><a href="/demand/870737.html" target="_blank">无</a></td>
+    <td><a href="/demand/870737.html" target="_blank">长安之星 </a></td>
+    <td><a href="/demand/870737.html" target="_blank">微型面包车</a></td>
+    <td><a href="/demand/870737.html" target="_blank"><span class="chengshi">浙江舟山市</span></a></td>
+    <td><a href="/demand/870737.html" target="_blank">8000</a></td>
+    <td><a href="/demand/870737.html" target="_blank">2009/11/13</a></td>
+  </tr>
+  <tr bgcolor="#E9E9E9">
+    <td align="center"><a href="/demand/743944.html" target="_blank">743944</a></td>
+    <td align="center"><a href="/demand/743944.html" target="_blank">无</a></td>
+    <td><a href="/demand/743944.html" target="_blank">桑塔纳2000或普桑 </a></td>
+    <td><a href="/demand/743944.html" target="_blank">小轿车</a></td>
+    <td><a href="/demand/743944.html" target="_blank"><span class="chengshi">浙江舟山市</span></a></td>
+    <td><a href="/demand/743944.html" target="_blank">25000</a></td>
+    <td><a href="/demand/743944.html" target="_blank">2009/08/22</a></td>
+  </tr>
+  <tr bgcolor="">
+    <td align="center"><a href="/demand/660931.html" target="_blank">660931</a></td>
+    <td align="center"><a href="/demand/660931.html" target="_blank">无</a></td>
+    <td><a href="/demand/660931.html" target="_blank">马自达6 </a></td>
+    <td><a href="/demand/660931.html" target="_blank">小轿车</a></td>
+    <td><a href="/demand/660931.html" target="_blank"><span class="chengshi">浙江舟山市</span></a></td>
+    <td><a href="/demand/660931.html" target="_blank">80000</a></td>
+    <td><a href="/demand/660931.html" target="_blank">2009/07/3</a></td>
+  </tr>
+  <tr bgcolor="#E9E9E9">
+    <td align="center"><a href="/demand/601928.html" target="_blank">601928</a></td>
+    <td align="center"><a href="/demand/601928.html" target="_blank">无</a></td>
+    <td><a href="/demand/601928.html" target="_blank">45到50坐 </a></td>
+    <td><a href="/demand/601928.html" target="_blank">大巴车</a></td>
+    <td><a href="/demand/601928.html" target="_blank"><span class="chengshi">浙江舟山市</span></a></td>
+    <td><a href="/demand/601928.html" target="_blank">12</a></td>
+    <td><a href="/demand/601928.html" target="_blank">2009/06/3</a></td>
+  </tr>
+  <tr bgcolor="">
+    <td align="center"><a href="/demand/598453.html" target="_blank">598453</a></td>
+    <td align="center"><a href="/demand/598453.html" target="_blank">无</a></td>
+    <td><a href="/demand/598453.html" target="_blank">双排座小货车 </a></td>
+    <td><a href="/demand/598453.html" target="_blank">小型运输车</a></td>
+    <td><a href="/demand/598453.html" target="_blank"><span class="chengshi">浙江舟山市</span></a></td>
+    <td><a href="/demand/598453.html" target="_blank">15000</a></td>
+    <td><a href="/demand/598453.html" target="_blank">2009/06/2</a></td>
+  </tr>
+  <tr bgcolor="#E9E9E9">
+    <td align="center"><a href="/demand/598442.html" target="_blank">598442</a></td>
+    <td align="center"><a href="/demand/598442.html" target="_blank">无</a></td>
+    <td><a href="/demand/598442.html" target="_blank">小货的 </a></td>
+    <td><a href="/demand/598442.html" target="_blank">小型运输车</a></td>
+    <td><a href="/demand/598442.html" target="_blank"><span class="chengshi">浙江舟山市</span></a></td>
+    <td><a href="/demand/598442.html" target="_blank">15000</a></td>
+    <td><a href="/demand/598442.html" target="_blank">2009/06/2</a></td>
+  </tr>
+</table>
+</div>
+
+
+<div class="clear"></div>
+<div class="baidu3">
+<script language="JavaScript" src="http://www.9che.com/ads/adhainan.js"></script>
+</div>
+
+<!--租车等-->
+<div class="zhuche">
+<!--租-->
+<div class="zhuchebox">
+<div><p>租车信息</p><a href="/2che/demand/list_demand.php?type=出租&biaozhi=liebiao"><img src="http://www.9che.com/cheimg/cheimg29.gif"/></a></div>
+<table width="100%" border="0" cellpadding="6" cellspacing="1" bordercolor="#FFFFFF">
+  <tr bgcolor="#E9E9E9" align="center">
+    <td width="10%"><b>编号</b></td>
+    <td><b>型号</b></td>
+    <td width="30%"><b>城市</b></td>
+    <td width="12%"><b>价格</b></td>
+    <td width="25%"><b>时间</b></td>
+  </tr>
+  <tr bgcolor="">
+    <td><a href="/2che/demand/50849.html" target="_blank">50849</a></td>
+    <td><a href="/2che/demand/50849.html" target="_blank">其他车型</a></td>
+    <td><a href="/2che/demand/50849.html" target="_blank">浙江省舟山市</a></td>
+    <td><a href="/2che/demand/50849.html" target="_blank">面议</a></td>
+    <td><a href="/2che/demand/50849.html" target="_blank">2012/04/28</a></td>
+  </tr>
+  <tr bgcolor="#E9E9E9">
+    <td><a href="/2che/demand/21750.html" target="_blank">21750</a></td>
+    <td><a href="/2che/demand/21750.html" target="_blank">两箱轿车</a></td>
+    <td><a href="/2che/demand/21750.html" target="_blank">浙江省舟山市</a></td>
+    <td><a href="/2che/demand/21750.html" target="_blank">面议</a></td>
+    <td><a href="/2che/demand/21750.html" target="_blank">2009/04/18</a></td>
+  </tr>
+</table>
+
+</div>
+<!--求租-->
+<div class="zhuchebox1">
+<div><p>求租信息</p><a href="/2che/demand/list_demand.php?type=求租&biaozhi=liebiao"><img src="http://www.9che.com/cheimg/cheimg29.gif"/></a></div>
+<table width="100%" border="0" cellpadding="6" cellspacing="1" bordercolor="#FFFFFF">
+  <tr bgcolor="#E9E9E9" align="center">
+    <td width="10%"><b>编号</b></td>
+    <td><b>型号</b></td>
+    <td width="30%"><b>城市</b></td>
+    <td width="12%"><b>价格</b></td>
+    <td width="25%"><b>时间</b></td>
+  </tr>
+</table>
+
+</div>
+</div>
+<div class="clear"></div>
+
+</div>
+<!--左块结束-->
+
+<!--右块开始-->
+<div class="right">
+<div class="buyche"><a target="_blank" href="demand/add_demand.php?type=1"><img src="http://www.9che.com/cheimg/cheimg27.gif"/></a></div>
+<div class="newslist"><p>汽车知识</p><span><a href="#"><u>更多>></u></a></span></div>
+<div class="newsbox">
+<ul>
+<li><a href='news/8411.html' target=_blank>2013重庆汽车消费节12月精彩亮相 </a></li>
+<li><a href='news/8410.html' target=_blank>2013重庆汽车消费节&nbsp;&nbsp;&nb…</a></li>
+<li><a href='news/8409.html' target=_blank>微言大义：准备金率再上调&nbsp;今年…</a></li>
+<li><a href='news/8408.html' target=_blank>微言大义：日本地震对全球经济影响几…</a></li>
+<li><a href='news/8407.html' target=_blank>微博论市：日本地震对市场影响逐渐降…</a></li>
+<li><a href='news/8392.html' target=_blank>B2C电子商务实战经验分享 </a></li>
+<li><a href='news/8391.html' target=_blank>营销新锐：微博营销 </a></li>
+</ul>
+</div>
+
+<div class="buyche"><a target="_blank" href="demand/add_demand.php?type=2"><img src="http://www.9che.com/cheimg/cheimg31.gif"/></a></div>
+<div class="newslist"><p>汽车趣闻</p><span><a href="#"><u>更多>></u></a></span></div>
+<div class="newsbox">
+<ul>
+<li><a href='news/8217.html' target=_blank>如何投放互联网区域化广告 </a></li>
+<li><a href='news/8133.html' target=_blank>红旗盛世，尖端科技铸造汽车“诺亚方…</a></li>
+<li><a href='news/8129.html' target=_blank>卓越品质&#8226;超凡驾控&nbsp;试驾…</a></li>
+<li><a href='news/8128.html' target=_blank>力帆620将启动品鉴之旅 </a></li>
+<li><a href='news/8127.html' target=_blank>另眼看吉利：中国汽车产业08年寒冬车…</a></li>
+<li><a href='news/8126.html' target=_blank>比亚迪F3DM抢得电动车先机 </a></li>
+<li><a href='news/8042.html' target=_blank>抢先曝光&nbsp;兰博基尼Estoque四门…</a></li>
+</div>
+<div class="buyche"><a href="http://www.9che.com/2che/demand/add_demand.php"><img src="http://www.9che.com/cheimg/cheimg32.gif"/></a></div>
+<div class="buyche"><a href="http://www.9che.com/2che/demand/add_qiuzu.php"><img src="http://www.9che.com/cheimg/cheimg33.gif"/></a></div>
+
+<div class="clear"></div>
+
+<div style="width:220px;overflow:hidden;">
+
+<div class="clear"></div>
+<br />
+微信扫一扫，随时随地搜好车、精品车,还有各种买车优惠活动，添加我们微信步骤：打开微信-朋友们-添加朋友，然后扫描微信二维码，或者按号码查找，搜我们的微信号：zhunxinche(准新车的拼音)
+<a href="http://www.9che.com/ads/9cheweixin.jpg" target="_blank"><img src="http://www.9che.com/ads/9cheweixin.jpg" width=220 height=220 alt="中国旧车网微信公众号"  border="0"/></a>
+<div class="clear"></div>
+</div>
+   <div class="clear"></div>
+<!--右块结束-->
+&nbsp;  <a target="_blank" href="http://baa.bitauto.com/">汽车论坛</a>  <a target="_blank" href="http://www.yuqihuang.com/">黑枸杞</a>
+<a target="_blank" href="http://www.taoche.com/">二手车</a><a target="_blank" href="http://chezhan.bitauto.com/beijing/">北京车展</a>
+
+</div>
+<div class="clear"></div>
+<!-- 相邻城市 -->
+
+<div class="chelist" style="border:0;width:1003px;margin:0px;padding:0px">
+<div><p>相邻地区车源</p></div>
+</div>
+<div class="clear"></div>
+
+<div class="linkslist">
+<a target="_blank" href="http://HangZhou.9che.com">杭州二手车</a>
+<a target="_blank" href="http://NingBo.9che.com">宁波二手车</a>
+<a target="_blank" href="http://WenZhou.9che.com">温州二手车</a>
+<a target="_blank" href="http://JiaXing.9che.com">嘉兴二手车</a>
+<a target="_blank" href="http://HuZhou.9che.com">湖州二手车</a>
+<a target="_blank" href="http://ShaoXing.9che.com">绍兴二手车</a>
+<a target="_blank" href="http://JinHua.9che.com">金华二手车</a>
+<a target="_blank" href="http://QuZhou.9che.com">衢州二手车</a>
+<a target="_blank" href="http://TaiZhouShi1.9che.com">台州二手车</a>
+<a target="_blank" href="http://LiShui.9che.com">丽水二手车</a>
+</div>
+<div class="clear"></div>
+<style>
+hr
+{
+
+height:2px;color:blue;background-color:blue;border:none;margin:10px 0;
+
+}
+ul.hotcity li
+{
+
+float:left;width:60px;list-style:none;display:inline;
+
+}
+
+<!--[if lte IE 7]>
+hr{margin:2px 0}
+<![endif]-->
+</style>
+
+<div class="chelist" style="border:0;width:1003px;margin:0px;padding:0px">
+<div><p>热点城市</p></div>
+</div>
+<div class="linkslist">
+<ul class="hotcity">
+<li><A href="http://beijing.9che.com/">北京</A></li>
+<li><A href="http://tianjin.9che.com/">天津</A></li>
+<li><A href="http://shanghai.9che.com/">上海</A></li>
+<li><A href="http://chongqing.9che.com/">重庆</A></li>
+<li><A href="http://shijiazhuang.9che.com/">石家庄</A></li>
+<li><A href="http://shenyang.9che.com/">沈阳</A></li>
+<li><A href="http://haerbin.9che.com/">哈尔滨</A></li>
+<li><A href="http://changchun.9che.com/">长春</A></li>
+<li><A href="http://jinan.9che.com/">济南</A></li>
+<li><A href="http://qingdao.9che.com/">青岛</A></li>
+<li><A href="http://taiyuan.9che.com/">太原</A></li>
+<li><A href="http://hefei.9che.com/">合肥</A></li>
+<li><A href="http://hangzhou.9che.com/">杭州</A></li>
+<li><A href="http://ningbo.9che.com/">宁波</A></li>
+<li><A href="http://wenzhou.9che.com/">温州</A></li>
+<li><A href="http://nanjing.9che.com/">南京</A></li>
+<li><A href="http://xuzhou.9che.com/">徐州</A></li>
+<li><A href="http://changzhou.9che.com/">常州</A></li>
+<li><A href="http://wuxi.9che.com/">无锡</A></li>
+<li><A href="http://suzhou.9che.com/">苏州</A></li>
+<li><A href="http://nanchang.9che.com/">南昌</A></li>
+<li><A href="http://guangzhou.9che.com/">广州</A></li>
+<li><A href="http://shenzhen.9che.com/">深圳</A></li>
+<li><A href="http://zhuhai.9che.com/">珠海</A></li>
+<li><A href="http://fuzhou.9che.com/">福州</A></li>
+<li><A href="http://xiamen.9che.com/">厦门</A></li>
+<li><A href="http://haikou.9che.com/">海口</A></li>
+<li><A href="http://sanya.9che.com/">三亚</A></li>
+<li><A href="http://zhengzhou.9che.com/">郑州</A></li>
+<li><A href="http://luoyang.9che.com/">洛阳</A></li>
+<li><A href="http://wuhan.9che.com/">武汉</A></li>
+<li><A href="http://changsha.9che.com/">长沙</A></li>
+<li><A href="http://chengdu.9che.com/">成都</A></li>
+<li><A href="http://kunming.9che.com/">昆明</A></li>
+<li><A href="http://guiyang.9che.com/">贵阳</A></li>
+<li><A href="http://xian.9che.com/">西安</A></li>
+<li><A href="http://lanzhou.9che.com/">兰州</A></li>
+<li><A href="http://xining.9che.com/">西宁</A></li>
+<li><A href="http://yinchuan.9che.com/">银川</A></li>
+<li><A href="http://huhehaote.9che.com/">呼和浩特</A></li>
+<li><A href="http://nanning.9che.com/">南宁</A></li>
+<li><A href="http://lasa.9che.com/">拉萨</A></li>
+<li><A href="http://wulumuqi.9che.com/">乌鲁木齐</A></li>
+</ul>
+</div>
+<div class="clear"></div>
+
+
+
+<!--友情链接-->
+<div class="links"><img src="http://www.9che.com/cheimg/cheimg34.gif"/></div>
+<div class="linkslist">
+<a target="_blank" href="http://zhoushan.dushifang.com/">
+舟山二手房
+<a target="_blank" href="http://zhoushan.dushifang.com/zufang/">
+舟山租房
+</a>
+<a target="_blank" href="http://zhou.zu.anjuke.com/">舟山租房</a>
+<a target="_blank" href="http://www.chemao.com.cn/zs">舟山二手车交易市场</a>
+<a target="_blank" href="http://zhoushan.862sc.com/">舟山二手车</a>
+<a target="_blank" href="http://www.rong360.com/zhoushan/chedai/">舟山贷款买车</a>
+<a target="_blank" href="http://zhoushan.w.cn/">舟山分类信息</a>
+<a target="_blank" href="http://zhoushan.chetxia.com/">舟山汽车网</a>
+<a target="_blank" href="http://zhoushan.273.cn/">舟山二手车</a>
+<a target="_blank" href="http://zhoushan.taoche.com">舟山二手车</a>
+<a target="_blank" href="http://zhoushan.kuyiso.com/ershouche/">舟山二手车转让</a>
+<a target="_blank" href="http://zhoushan.tianqi.com/15/">舟山天气预报15天</a>
+<a target="_blank" href="http://ch.58.com/ershouche/">巢湖二手车</a>
+<a target="_blank" href="http://zhoushan.tdzyw.com">舟山土地出租</a>
+<a target="_blank" href="http://zhoushan.ssjzw.com/">舟山兼职网</a>
+<a target="_blank" href="http://www.tuniu.com/guide/d-zhoushan-3427/">舟山旅游</a>
+<a target="_blank" href="http://www.zhuna.cn/hotellist/e1245/">舟山酒店预订</a>
+<a target="_blank" href="http://hangzhou.baixing.com/cheliang/">杭州二手车</a>
+<a target="_blank" href="http://zhoushan.qwjian.com/">舟山房产网</a>
+<a target="_blank" href="http://zhoushan.58.com/ershouche/">舟山二手车网</a>
+<a target="_blank" href="http://zhoushan.lotour.com/">舟山旅游网</a>
+<a target="_blank" href="http://zhoushan.kuche.com/">舟山二手车</a>
+<a target="_blank" href="http://zhoushan.china2car.com">舟山二手车</a>
+<a target="_blank" href="http://car.bitauto.com/">汽车标志</a>
+<a target="_blank" href="http://zhoushan1.taotaocar.com">舟山二手车</a>
+</div>
+<div class="clear"></div>
+<!-- 然后将以下这段代码放到网页页尾 -->
+
+
+<div class="clear"></div>
+
+<script>
+function killErr(){
+ return true;
+}
+window.onerror=killErr;
+</script>
+<center>
+<div class="clear"></div>
+<div class="aboutus" ><a href="/about.html" target="_blank">关于我们</a>|<a href="mailto:haitao_01@163.com">联系我们</a>|<a href="/guanggao.mht">广告联系</a>|<a href="/link.html">友情链接</a>|<a href="http://www.miibeian.gov.cn/">渝ICP备07000333号</a>在线服务QQ <a href="http://wpa.qq.com/msgrd?V=1&amp;Uin=1455067308&amp;Site=9che&amp;Menu=yes" target="_blank"><img src="http://wpa.qq.com/pa?p=1:116333660:4"  border="0" alt="QQ" /></a>合作网站<a href="http://www.dushifang.com/" target="_blank">都市二手房网</a>    <a href="http://auto.sina.com.cn/beijingchezhan/" target="_blank">北京车展</a>
+<div class="clear"></div>
+
+<div class="botom"><TABLE align="center">
+<TR>
+	<TD><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=50010502000015"><img src="/9chebeian.jpg" border=0></a></TD>
+	<TD>
+
+
+
+
+	</TD>
+	<TD>
+	<div style="width:300px;margin:0 auto; padding:20px 0;">
+		 		<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=50010502000015" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="" style="float:left;"/><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">渝公网安备 50010502000015号</p></a>
+		 	</div>
+	</TD>
+</TR>
+<TR><TD></TD>
+	<TD>
+
+
+</TD></TR>
+</TABLE>
+
+
+<div style="display:none">
+<script language="javascript" type="text/javascript" src="http://js.users.51.la/742227.js"></script>
+<script src='http://w.cnzz.com/c.php?id=30014034' language='JavaScript' charset='gb2312'></script>
+<noscript><a href="http://www.51.la/?742227" target="_blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="http://img.users.51.la/742227.asp" style="border:none" /></a>
+</div>
+</center>
+</noscript>
+<div style="display:none;">
+<div id="p9che_midbanner">
+<script language="JavaScript" bak="http://www.9che.com/ads/9che_midbanner.js"></script>
+</div>
+<div id="p9che_footerbanner">
+<script language="JavaScript" bak="http://www.9che.com/ads/9che_footerbanner.js"></script>
+</div>
+<div id="p9che_endbanner">
+<script language="JavaScript" bak="http://www.9che.com/ads/9che_endbanner.js"></script>
+</div>
+<div id="p9che_end1banner">
+<script language="JavaScript" bak="http://www.9che.com/ads/9che_end1banner.js"></script>
+</div>
+</div>
+
+
+<script>
+if(document.getElementById('9che_midbanner'))
+    document.getElementById('9che_midbanner').innerHTML = document.getElementById('p9che_midbanner').innerHTML;
+if(document.getElementById('9che_footerbanner'))
+    document.getElementById('9che_footerbanner').innerHTML = document.getElementById('p9che_footerbanner').innerHTML;
+if(document.getElementById('9che_endbanner'))
+    document.getElementById('9che_endbanner').innerHTML = document.getElementById('p9che_endbanner').innerHTML;
+if(document.getElementById('9che_end1banner'))
+    document.getElementById('9che_end1banner').innerHTML = document.getElementById('p9che_end1banner').innerHTML;
+else
+    document.getElementById('p9che_end1banner').innerHTML='';
+
+</script>
+<script type="text/javascript">
+/*new_left_120*270，创建于2013-3-7*/
+var cpro_id = "u1228242";
+</script>
+

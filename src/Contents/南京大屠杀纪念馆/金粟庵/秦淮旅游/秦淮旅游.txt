@@ -1,0 +1,1761 @@
+
+
+<!DOCTYPE html>
+
+<html>
+    
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    
+    <meta name="description" content="乐途旅游网_秦淮旅游，提供秦淮，秦淮旅游景点推荐，秦淮旅游攻略，秦淮旅游玩法，最适合去秦淮旅游的季节，秦淮旅游注意事项，秦淮旅游线路，秦淮酒店预定，秦淮旅游地图等出行指南及旅行服务" />
+    <meta name="keywords" content="秦淮旅游_秦淮旅游攻略_秦淮旅游景点" />
+    <title>秦淮旅游_秦淮旅游攻略_秦淮旅游景点_乐途旅游网</title>
+    <link rel="shortcut icon" href="http://www.lotour.com/favicon2.ico" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/base.css" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/lt_top.css" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/common.css" media="all" /><link rel="stylesheet" type="text/css" href="http://css.lotour.net/brandhomeV3_3.css" />
+    <script type="text/javascript" src="http://js.lotour.net/jquery-1.8.3.min.js"></script>
+    <!--[if lt IE 9]><script type="text/javascript" src="http://js.lotour.net/PIE_IE678.js"></script><![endif]--><!--[if IE 9]><script type="text/javascript" src="http://js.lotour.net/PIE_IE9.js"></script><![endif]--><script type="text/javascript">$(function () {	if (window.PIE) { $('.flowItem,.flowPic img,.flowPingL img,.flowPing,.bd-video-con,.jq-list-l-up img,.u-head img').each(function () { PIE.attach(this); });} });</script><!--[if IE 6]><script type="text/javascript" src="http://js.lotour.net/DD_belatedPNG.js"></script><script type="text/javascript">DD_belatedPNG.fix('.logo img,.bdName,.bd-news,.bd-video-con,.bdWeather,.bd-msg,.bd-msg-xall,.lt-nav-new-bg,.bdNavWraper,.bdNav-sub dl,.map-btn,.mddNavWrap');</script><![endif]--><script type="text/javascript" src="http://js.lotour.net/zjy.js"></script>
+</head>
+
+<body class="">
+    
+<script type="text/javascript" src="http://js.lotour.net/login/searchhotellogin_v5.js"></script>
+<script src="http://js.lotour.net/mylotour/v1/mylotour_v2.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://js.lotour.net/lotour_v1.js"></script>
+<div class="lt-nav-new">
+	<a href="http://www.lotour.com/" target="_blank"><img class="logo" src="http://img1.lotour.com/bdhomeV2/new_logo.png" /></a>
+	<div class="nav-new-btn">
+    	<a href="#" class="btn"></a>
+    	<div class="nav-new-layer">
+        	<ul>
+            <li>
+            	<h5><a href="http://www.lotour.com/mudidi/" target="_blank">目的地</a></h5>
+                <div class="links">
+                    <a href="http://shangqiu.lotour.com/" target="_blank">商丘</a><a href="http://xian.lotour.com/" target="_blank">西安</a><a href="http://shannan.lotour.com/" target="_blank">西藏山南</a><a href="http://kunming.lotour.com/yunnanshilin/" target="_blank">石林</a>     <a href="http://shangrao.lotour.com/guifeng/" target="_blank">龟峰</a> <a href="http://xuchang.lotour.com/" target="_blank">许昌</a>                                                                         
+
+                </div>
+            </li>
+            <li class="sg">
+            	<h5>发&nbsp;&nbsp;&nbsp;现</h5>
+                <div class="links">
+                	<a href="http://www.lotour.com/zhoubianyou" target="_blank">周边游</a>
+                	<a href="http://www.lotour.com/guoneiyou" target="_blank">国内游</a>
+                	<a href="http://www.lotour.com/chujingyou" target="_blank">出境游</a>
+                </div>
+            </li>
+            <li class="sg">
+            	<h5>社&nbsp;&nbsp;&nbsp;区</h5>
+                <div class="links">
+                    <a href="http://www.lotour.com/daren/" target="_blank">大咖</a>
+                	<a href="http://www.lotour.com/zijiayou/" target="_blank">自驾</a>
+                    <a href="http://sc.lotour.com/" target="_blank">福利</a>
+                </div>
+            </li>
+            <li>
+            	<h5>预&nbsp;&nbsp;&nbsp;订</h5>
+                <div class="links">
+                    <a href="http://d.lotour.com/hotel/" target="_blank">酒店</a>
+                    <a href="http://d.lotour.com/jipiao/" target="_blank">机票</a>
+                	<a href="http://d.lotour.com/dangdigentuan/" target="_blank">地接</a>
+                	<a id="dujiaxianlu" href="http://d.lotour.com/dujiaxianlu/shanghai/" target="_blank">度假</a>
+                </div>
+            </li>
+            </ul>
+        </div>
+    </div>
+  <div class="ltCrumb clear"> <a href="http://www.lotour.com/" target="_blank" title="">首页</a>&nbsp;&gt;&nbsp;<a href="http://www.lotour.com/mudidi" target="_blank" title="">目的地</a>&nbsp;&gt; 
+      
+              <a href="http://jiangsu.lotour.com/" title="" target="_blank">江苏旅游</a>
+                  &gt;
+          
+              <a href="http://nanjing.lotour.com/" title="" target="_blank">南京旅游</a>
+                  
+                    [<a href="http://nanjing.lotour.com/sitemap.shtml" target="_blank" title="城市导航">城市导航</a>]
+               &gt;
+          
+      <h1><a  href="http://nanjing.lotour.com/qinhuai/" title="">秦淮旅游</a>
+              
+      </h1>
+  </div>
+  <div class="lt-nav-r">
+  	<div class="lt-nav-item lt-nav-item-srh">
+    	<b></b>
+        <div class="lt-srh-new">
+            <form action="http://ip.lotour.com/home/mudidi" method="get" target="_blank" name="zonghe">
+        	    <div class="lt-srh-l">
+                    <div class="lt-srh-new-clk">
+                        <a href="#" class="l1"><i></i><em></em></a>
+                    </div>
+                    <input type="text" value="点此搜索" name="keyword" id="keyword" class="ipt" />
+                    <input type="hidden" value="0" name="htype" id="htype" />
+                    <input type="hidden" value="" name="keys" id="keys" />
+                    <input type="submit" class="btn" id="btnzonghe" name="btnzonghe" value="" />
+                </div>               
+            </form>
+            <div class="lt-srh-new-layer">
+                <ul>
+                    <li class="l1"><a href="#"><i></i>搜目的地</a></li>
+                    <li class="l2"><a href="#"><i></i>搜达人</a></li>
+                    <li class="l3"><a href="#"><i></i>搜客栈酒店</a></li>
+                    <li class="l4"><a href="#"><i></i>搜当地跟团</a></li>
+                    <li class="l5"><a href="#"><i></i>搜度假线路</a></li>
+                </ul>
+            </div>
+            <div id="hotcityhintDiv" style="z-index: 300001;" class="inputExtendBox sphl">
+                <ul id="scity" class="suggestBox"></ul>
+            </div>
+            <div class="city_divtc" id="Search_Synthesize_Div" style="z-index: 3000006;"><div class="city_divtc_t"><a class="closex"></a><span>国内</span></div><div class="city_divtc_m"><ul><li><a href="http://shangqiu.lotour.com/" target="_blank" title=" 商丘"> 商丘</a></li><li><a href="http://xian.lotour.com/" target="_blank" title=" 西安"> 西安</a></li><li><a href="http://dandong.lotour.com/fengcheng/" target="_blank" title="凤城"> 凤城</a></li><li><a href="http://shannan.lotour.com/" target="_blank" title=" 山南"> 山南</a></li><li><a href="http://kunming.lotour.com/yunnanshilin/" target="_blank" title="石林"> 石林</a></li><li><a href="http://shangrao.lotour.com/guifeng/" target="_blank" title=" 龟峰"> 龟峰</a></li><li><a href="http://lijiang.lotour.com/" target="_blank" title="丽江">丽江</a></li><li><a href="http://zhoushan.lotour.com/" target="_blank" title="舟山">舟山</a></li><li><a href="http://huangshan.lotour.com/" target="_blank" title="黄山">黄山</a></li><li><a href="http://shaoxing.lotour.com/" target="_blank" title="绍兴">绍兴</a></li><li><a href="http://hangzhou.lotour.com/" target="_blank" title=" 杭州"> 杭州</a></li><li><a href="http://xiamen.lotour.com/" target="_blank" title=" 厦门"> 厦门</a></li><li><a href="http://jiaxing.lotour.com/wuzhenguzhen/" target="_blank" title=" 乌镇"> 乌镇</a></li><li><a href="http://qingdao.lotour.com/" target="_blank" title=" 青岛"> 青岛</a></li><li><a href="http://shanghai.lotour.com" target="_blank" title="上海">上海</a></li></ul></div><div class="city_divtc_t"><span>境外</span></div><div class="city_divtc_m"><ul><li><a href="http://tha.lotour.com/" target="_blank" title="泰国">泰国</a></li><li><a href="http://cam.lotour.com/" target="_blank" title="柬埔寨">柬埔寨</a></li><li><a href="http://tha.lotour.com/qingmai/" target="_blank" title="清迈">清迈</a></li><li><a href="http://aus.lotour.com/" target="_blank" title=" 澳大利亚"> 澳大利亚</a></li><li><a href="http://tha.lotour.com/pujifu/" target="_blank" title="普吉岛">普吉岛</a></li><li><a href="http://mas.lotour.com/shaba/" target="_blank" title="沙巴">沙巴</a></li><li><a href="http://pf.lotour.com/" target="_blank" title="大溪地">大溪地</a></li><li><a href="http://nep.lotour.com/" target="_blank" title="尼泊尔">尼泊尔</a></li><li><a href="http://fra.lotour.com/baliqu/" target="_blank" title="巴黎">巴黎</a></li><li><a href="http://taiwan.lotour.com/" target="_blank" title=" 台湾"> 台湾</a></li><li><a href="http://sri.lotour.com/" target="_blank" title=" 斯里兰卡"> 斯里兰卡</a></li><li><a href="http://gbr.lotour.com/lundun1/" target="_blank" title="伦敦">伦敦</a></li><li><a href="http://ina.lotour.com/balidao1/" target="_blank" title="巴厘岛">巴厘岛</a></li><li><a href="http://macao.lotour.com/" target="_blank" title="澳门">澳门</a></li><li><a href="http://fij.lotour.com/" target="_blank" title="斐济">斐济</a></li></ul></div></div>
+
+        </div>
+    </div>
+  	
+  	<div class="lt-login"></div>
+  </div>
+</div>
+
+<!-- 想去浮层 -->
+<div id="dream_place">
+</div>
+<!-- 求助浮层 -->
+<div id="ask_topic" class="msgLayer msgMod" style="display:none;">
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $s.loadCss("http://css.lotour.net/mylotour/v1/wantgo_new");
+        $("#dream_place").DPPanel({
+            className: "msgLayer",
+            close: function () {
+                //关闭时候执行
+                $(".layerBg").hide();
+            },
+            init: function () {
+                //初始化时候执行
+            },
+            publish: function (arr) {
+                //发布时候执行
+                try { dplaceweiboTui($("#dream_place_reseaon").val()) } catch (e) { }
+                location.reload();
+            }
+        }).hide();
+
+        $("#ask_topic").AskPanel({
+            className: "msgLayer",
+            close: function () {
+                //关闭时候执行
+                $(".layerBg").hide();
+            },
+            init: function () {
+                //初始化时候执行
+            },
+            publish: function (arr) {
+                //发布时候执行
+                $a("添加成功");
+            }
+        }).hide();
+
+        var askweibo = new PWeibo({
+            container: 'ask-weiboshare'
+        });
+        askweibo.create();
+        askweiboTui = function (txtcon) {
+            var content = "我在乐途旅游网发布了一条求助，求大家回复啊！";
+            content += "“" + txtcon + "”";
+            askweibo.send(content, function () {
+            });
+        };
+    });
+
+    
+
+    function AskHelp() {
+        $('#ask_topic').fadeIn(500).loadAskPanel(0); $('.layerBg').css('height', $(document).height()).show();
+    }
+    function WantGo() {
+        $('#dream_place').fadeIn(500).loadDPPanel('', 0, true); $('.layerBg').css('height', $(document).height()).show();
+    }
+
+    var SEARCHLEFT = -44, box;
+    if ($.cookie("CityID") == null || $.cookie("ChName") == null || $.cookie("IndexAreaName") == null) {
+        $.getScript("http://ip.lotour.com", function () {
+            $.cookie("CityID", result.regionid, { expires: 30, path: '/', domain: 'lotour.com' });
+            $.cookie("ChName", result.Chname, { expires: 30, path: '/', domain: 'lotour.com' });
+            $.cookie("IndexAreaName", result.regionname, { expires: 30, path: '/', domain: 'lotour.com' });
+            $("#dujiaxianlu").attr("href", "http://d.lotour.com/dujiaxianlu/" + $.cookie("ChName") + "/");
+        });
+    }
+    else
+        $("#dujiaxianlu").attr("href", "http://d.lotour.com/dujiaxianlu/" + $.cookie("ChName") + "/");
+
+    $('.lt-srh-new-layer li').click(function () {
+        var index = $(this).index();
+        $('.lt-srh-new-clk a').attr('class', 'l' + (index + 1));
+        if (index > 1) {
+            $("#htype").attr("value", index - 1);
+        }
+        else if (index == 1) {
+            $("#htype").attr("value", 5);
+        }
+        else {
+            $("#htype").attr("value", index);
+        }
+        $("keys").attr("value", "");
+        switch (index) {
+            case 0:
+                box = $("#keyword").searchbox({ "Left": SEARCHLEFT, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 1:
+                box = $("#keyword").searchbox({ "Flay": "xue_Daren", "Js": "", "Url": "http://my.lotour.com/DarenSearch/handler/AssociateDaren.ashx", "i": 1, "j": 5, "Top": 40, "Left": SEARCHLEFT, "tips": "" });
+                break;
+            case 2:
+                box = $("#keyword").searchbox({ "Flay": "xue_Hotel", "Js": "http://js.lotour.net/searchlayer/djmdd.js", "Url": "http://d.lotour.com/hotel/api/AssociateRegion", "i": 1, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 3:
+                box = $("#keyword").searchbox({ "Flay": "xue_Djxl_Mdd", "Js": "http://js.lotour.net/searchlayer/djmdd.js", "Url": "http://d.lotour.com/dangdigentuan/api-AssociateRegion", "i": 1, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 4:
+                box = $("#keyword").searchbox({ "Flay": "xue_OrderLine_Dest", "Js": "http://d.lotour.com/dujiaxianlu/api-AssociateCommonOsite?sSite=" + $.cookie("CityID") + "&randID=" + escape(new Date()) + "&callback=?", "Url": "http://beijing.lotour.com/dujiaxianlu/api-AssociateOSiteRegion", "i": 0, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+        }
+        $('.lt-srh-new-layer').hide()
+        return false;
+    }).eq(0).trigger("click");
+
+    var loginState = new lotourLoginState({});
+    //loginState.init();
+
+    //导航
+    $('.lt-nav-item').hover(function () {
+        $(this).find('.menu,.lt-srh-new').toggle()
+    })
+
+    $('.lt-srh-new-clk a').click(function () {
+        $('.lt-srh-new-layer').toggle();
+        return false
+    })
+    $('.lt-nav-item-srh').unbind('hover').click(function () {
+        $('.lt-srh-new').toggle();
+        //return false
+    });
+
+    $('.nav-new-btn').hover(function () {
+        $(this).find('.btn').toggleClass('btn-on');
+        $(this).find('.nav-new-layer').toggle();
+    });
+    $('.nav-new-layer li,.ltCommentList li').hover(function () {
+        $(this).toggleClass('hover');
+    });
+</script>
+<!--=S 头图 -->
+
+<div class="bdBannerWrap bdBannerChl mddBannerCh2">
+    
+    <div class="bd-main clearfix">
+		<div class="mdd-adv">
+			<script src="http://js.lotour.net/bcef/409.js" type="text/javascript"></script>
+		</div>
+		<div class="mddName clearfix">				
+			<h2><a title="秦淮旅游" class="bdName-tit" href="http://nanjing.lotour.com/qinhuai/">秦淮</a><a title="" href="javascript:void(0)" class="map-btn"></a>
+            
+			</h2>
+        
+			<div class="bdLikeNum"><span></span>人感兴趣</div>
+            
+			<div class="bdscore" id="rscore">
+				<a title="" href="http://nanjing.lotour.com/qinhuai/pingce/"><em></em><span>分</span></a>
+				<b></b>
+				<b></b>
+				<b></b>
+				<b></b>
+				<b></b>
+			</div>
+            
+			<div class="mdd-weather"></div>
+            									
+		</div>        
+	</div>    
+</div>
+<script type="text/javascript">
+    function SelectScour(){
+        $.getJSON("http://api.lotour.net/brandhome/Region/SelectRegionScore?regionId=203022&callback=?", function (data) {
+            var star1 = parseInt(data.Score / 2);
+            var scor = parseInt(data.Score);
+            var scor1 = parseInt((data.Score - scor) * 10);
+            $("#rscore").find("em").html(scor+"."+scor1);
+            for (var i = 0; i < star1; i++) {
+                $("#rscore>b:eq("+i+")").html("<i></i>");
+            }
+            $("#rscore>b:eq("+star1+")").html("<i style=\"width:"+parseInt((data.Score/2-star1)*100)+"%\"></i>");
+        });
+    }
+    
+    $(function () {
+        
+        SelectScour();
+        
+        var winw = $(window).width();	
+        $('.map-box').css({"margin-left":(winw-980)/2,"top":"233px","border":"1px solid #f5f5f5"});
+    });
+</script>
+
+
+<!--=S 地图弹层-->
+<div class="map-box ">
+	<a class="map-x" href="#" title="关闭"></a>		
+	<div class="map-con" id="J_miniMap">
+	</div>
+	
+</div>
+<!--=E 地图弹层-->
+<style type="text/css">
+.map-mark {
+    width: 24px;
+    height: 28px;
+    background: url(http://img1.lotour.net/lotour/biaodian-d.png) no-repeat -35px 0;
+    overflow: hidden;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 22px;
+    cursor: pointer;
+    position: relative;
+    z-index: 1008;
+}
+.map-mark.on {
+    background-position: -35px -35px;
+    z-index: 1009;
+}
+</style>
+<script type="text/javascript" src="http://js.lotour.net/map.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://js.lotour.net/jquery.tmpl.min.js"></script>
+<script type="text/javascript">
+    var mapInfo = {
+        lat: parseFloat('32.02'),
+        lng: parseFloat('118.8')
+    };
+    var miniMapBox = $('#J_miniMap'), miniMap, MiniMarker;
+
+    function initMiniMap() {
+        var latLng = new google.maps.LatLng(mapInfo.lat, mapInfo.lng);
+        var mapOptions = {
+            center: latLng,
+            zoom: 8,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+        miniMap = new google.maps.Map(miniMapBox.get(0), mapOptions);
+        var markerHtml = '<div class="map-mark"></div>';
+        new MiniMarker(miniMap, markerHtml, latLng);
+        
+
+        var marker = new google.maps.Marker({
+            position: latLng
+        });
+
+    }
+    function MarkerOverlay() {
+        var Overlay = function (map, text, latLng, ready) {
+            this.map = map;
+            this.text = text;
+            this.latLng = latLng;
+            this.ready = ready;
+            this.div = null;
+            this.setMap(this.map);
+        }
+
+        Overlay.prototype = new google.maps.OverlayView();
+
+        $.extend(Overlay.prototype, {
+            onAdd: function () {
+                var div = $('<div/>').html(this.text).css('position', 'absolute');
+                $(this.getPanes().overlayImage).append(div);
+                this.div = div;
+                if (typeof this.ready === 'function') {
+                    this.ready.call(this);
+                }
+            },
+            draw: function () {
+                var latLng = this.getProjection().fromLatLngToDivPixel(this.latLng);
+                this.div.css({
+                    'left': latLng.x - this.div.width() / 2,
+                    'bottom': -latLng.y
+                });
+            },
+            onRemove: function () {
+                this.div.remove();
+                this.div = null;
+            }
+        });
+
+        return Overlay;
+    }
+
+    function updateBrowse() {
+        var regionObj = new RegionBrowse(203022);
+        regionObj.updateBrowse()
+        $.getJSON("http://api.lotour.net/rss/dmspageview.ashx?id=203022&callback=?", function (data) {
+            var span = $("div.bdLikeNum").find("span");
+            span.html(data.pageview);
+        });
+    }
+    
+    $(function () {
+        updateBrowse();
+        //地图加载
+        var mapload = new MfwMapLoad(function () {
+            if (mapInfo == undefined || !$.isPlainObject(mapInfo) || $.isEmptyObject(mapInfo)) {
+                return;
+            }
+            MiniMarker = MarkerOverlay();
+            $(".map-btn").click(function () {
+                if($(".map-box").is(":hidden")){
+                    if($(".tkt-btn").length>0&&!$(".tkt-layer").is(":hidden")){
+                        $(".tkt-btn").trigger("click");
+                    }
+                    $(".map-box").show();
+                    initMiniMap();
+                }
+                else{
+                    $(".map-box").hide();
+                }
+            });
+            $(".bd-r-mapbtn,#abigmap").click(function(){
+                initMaxMap();
+            });
+        }, 5000, false);
+        mapload.autoLoadMap();
+        //地图弹层
+        
+        $(".map-x").click(function () {
+            $(".map-box").hide();
+        });
+    });
+</script>
+
+    
+<div class="mddNavWrap">
+    <div class="mddNavbg">
+	    <div class="mddNav">            
+		    <ul class="clearfix">         
+			    <li class="on"><a title="秦淮旅游必知" href="http://nanjing.lotour.com/qinhuai/"><span>必知</span></a></li>
+                
+                 <li class=""><a title="秦淮旅游景区" href="http://nanjing.lotour.com/qinhuai/jingqu/"><span>景区</span></a></li>                
+			         
+                <li class=""><a title="秦淮旅游游记" href="http://nanjing.lotour.com/qinhuai/lvyouyouji/"><span>游记</span></a></li>  
+                              
+			    <li class=""><a title="秦淮旅游口碑" href="http://nanjing.lotour.com/qinhuai/pingce/"><span>口碑</span></a></li>                
+			    <li class=""><a title="秦淮旅游文章" href="http://nanjing.lotour.com/qinhuai/news/"><span>文章</span></a></li>                
+			    
+                <li class=""><a title="秦淮旅游预订" href="http://nanjing.lotour.com/qinhuai/yuding/"><span>预订</span></a></li>
+                               	
+		    </ul>
+            <div class="bz-nav sphl">
+				    <dl class="clearfix">				
+					    <dd><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					    <dd><a href="javascript:void(0)" title="">玩法</a></dd>
+					    <dd><a href="javascript:void(0)" title="">资讯</a></dd>
+					    <dd><a href="javascript:void(0)" title="">住哪儿</a></dd>
+					    <dd><a href="javascript:void(0)" title="">包打听</a></dd>
+					    <dd><a href="javascript:void(0)" title="">如何到达</a></dd>					
+					    <dd><a href="javascript:void(0)" title="">附近城市</a></dd>
+					    <dt><a href="javascript:void(0)" title=""><span>手绘攻略</span></a></dt>
+				    </dl>
+			    </div>
+            <div class="bz-nav sphl">
+				<dl class="clearfix">
+					<dd class="nav1"><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					<dd class="nav2"><a href="javascript:void(0)" title="">旅行<br />月历</a></dd>
+					<dd class="nav3"><a href="javascript:void(0)" title="">必体验</a></dd>
+					<dd class="nav4"><a href="javascript:void(0)" title="">玩法</a></dd>
+					<dd class="nav5"><a href="javascript:void(0)" title="">抵达<br />住哪</a></dd>
+					<dd class="nav6"><a href="javascript:void(0)" title="">包打听</a></dd>
+					<dd class="nav7"><a href="javascript:void(0)" title="">周边<br />线路</a></dd>					
+				</dl>
+			</div>
+            <div class="bz-nav sphl">
+				<dl class="clearfix">
+					<dd class="nav1"><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					<dd class="nav3"><a href="javascript:void(0)" title="">必体验</a></dd>
+					<dd class="nav4"><a href="javascript:void(0)" title="">玩法</a></dd>
+					<dd class="nav5"><a href="javascript:void(0)" title="">重要<br />提示</a></dd>
+					<dd class="nav6"><a href="javascript:void(0)" title="">附近<br />景区</a></dd>
+					<dd class="nav7"><a href="javascript:void(0)" title="">城市<br />相关</a></dd>
+				</dl>
+			</div>
+	    </div>
+    </div>
+</div>
+
+    <div class="bd-main clearfix bd-main-yj">
+	<div class="bd-main-l">
+		
+<div class="mdd-jq-hot clearfix">
+	<div class="focusbox">
+		<a href="javascript:void(0);" class="btn btnPre" id="banner_index_pre1"><em></em><i></i></a>
+		<a href="javascript:void(0);" class="btn btnNext" id="banner_index_next1"><em></em><i></i></a>
+		<div class="banner_index">				
+			<div class="banner_con clearfix">
+				<ul class="banner_wrap" id="banner_index1">
+                    
+					<li>
+						<div class="mdd-jq-focus">
+							<a href="http://nanjing.lotour.com/zj/1094427" target="_blank" title=""><img src="http://img1.lotour.net/mudidi/201411/20141118/201411181648384628750_472.jpg" alt="" width="472" height="252" /></a>
+							<p>
+								<span class="from">
+                                    
+                                    由<b>莫小落</b>荣誉出品"
+                                    </span>
+							</p>
+						</div>	
+					</li>
+                    									
+				</ul>
+			</div>
+		</div>
+		<div class="indexBanner_num" id="index_numIco1"></div>				
+	</div>
+	<script type="text/javascript">
+		var ShowPre1 = new ShowPre({ box: "banner_index1", Pre: "banner_index_pre1", Next: "banner_index_next1", numIco: "index_numIco1", loop: 1, auto: 1 });
+		$(".focusbox").live("hover", function () { $(this).toggleClass("hover") });
+	</script>
+	<div class="mdd-jq-zongshu">
+		<h3 class="clearfix"><strong><a href="http://nanjing.lotour.com/qinhuai/jianjie/" target="_blank" title="">综述</a></strong></h3>
+		<p>秦淮区地处南京市主城东南,因秦淮河贯穿全境而得名,是古都金陵的起源,南京文化的摇篮,自古以来人文荟萃,商贾云集。这里历史古老悠久,文化底蕴深厚,名胜古迹斑斓,古典瑰丽动人,美称“江南锦绣之邦,金陵风雅之薮”。秦淮文化是金陵文化的精华,秦淮民俗民间文化则是古老秦…<a href="http://nanjing.lotour.com/qinhuai/jianjie/" target="_blank" title="">[详情]</a></p>
+	</div>
+</div>
+
+<div class="mdd-yj-tit clearfix">
+    
+    <h2><i class="i-c1"></i><strong>全部景区</strong></h2>
+	<a title="" target="_blank" href="http://nanjing.lotour.com/qinhuai/jingqu/" class="more">更多&gt;&gt;</a>
+    
+</div>
+
+<div class="mdd-jq-pic">
+	<ul class="clearfix">
+        
+		<li>
+			<a title="" target="_blank" href="http://nanjing.lotour.com/njfuzimiao/"><img width="224" height="144" alt="" src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.com/news/201504/224_2015040214264579425427.jpg"></a>
+			<h2><a title="" target="_blank" href="http://nanjing.lotour.com/njfuzimiao/">夫子庙秦淮风光</a></h2>
+			<div class="mdd-jq-fen clearfix">
+				<span class="span-nA">
+                    <i>5A</i>景区
+				</span>
+				<span class="span-fen"><i>7.5</i>分</span>						
+				<span class="like-num"><i>976716</i>人感兴趣</span>
+			</div>
+		</li>
+											
+	</ul>
+</div>
+
+		<div class="mdd-yj-tit clearfix">
+			<h2><i class="i-c3"></i><strong>游记</strong></h2>
+			<a class="more" href="http://nanjing.lotour.com/qinhuai/lvyouyouji/" target="_blank" title="">更多&gt;&gt;</a>
+		</div>  
+             	
+        <div class="bd-jq-list bd-wz-list">
+		    <ul class="clearfix">
+				 
+			    <li>
+                    <div class="jq-list-con clearfix">
+                        <div class="jq-list-l" deffer="5492673" footid="1097467">
+                      	    <div class="jq-list-l-up">
+                                <a href="http://my.lotour.com/i/5492673" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" width="75" height="75" /></a>
+                            </div>
+                            <div class="jq-list-l-down">
+                                <a href="http://my.lotour.com/i/5492673" target="_blank" title=""></a><span class="ano" style="display:none;"></span>
+                            </div>
+                        </div>
+                        <div class="jq-list-r">
+                            <div class="jq-hd" footid="1097467">								
+								<h2 class="jq-name jq-name2">
+                                    
+                                    <a title="【南京夫子庙秦淮风光带】—十里秦淮-千里绝唱" target="_blank" href="http://nanjing.lotour.com/zj/1097467">【南京夫子庙秦淮风光带】—十里秦淮-千里</a>
+                                    
+								</h2>
+                                <span class="wz-zan" ></span>	
+								<span class="wz-collect sphl"></span>							
+							</div>
+                            
+                            <p class="wz-info">
+                                
+                            </p>
+                            
+                            <p class="jq-txt">夫子庙中的秦淮河畔，是南京繁华所在地，一水相隔河两岸，一畔是南方地区会试的总考场江南贡院，另一畔则是南部教坊名妓聚集之地著名的有旧院、珠市。（家对过微信平台）秦<a title="" target="_blank" href="http://nanjing.lotour.com/zj/1097467">[详细]</a></p>
+                            
+                                <div class="gone-where clearfix"><em>2014年12月游览过</em><span></span>
+                             	<div class="gone-where-r">
+                                
+                                  <a title="" target="_blank" href="http://nanjing.lotour.com/njfuzimiao/">夫子庙秦淮风光</a>
+                                     	
+                                </div>
+                                </div>
+        
+                        </div>
+                        <div class="jq-list-bottom clearfix">
+                            
+                        </div>
+                    </div>
+			    </li>
+			    
+			    <li>
+                    <div class="jq-list-con clearfix">
+                        <div class="jq-list-l" deffer="5507050" footid="1122807">
+                      	    <div class="jq-list-l-up">
+                                <a href="http://my.lotour.com/i/5507050" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" width="75" height="75" /></a>
+                            </div>
+                            <div class="jq-list-l-down">
+                                <a href="http://my.lotour.com/i/5507050" target="_blank" title=""></a><span class="ano" style="display:none;"></span>
+                            </div>
+                        </div>
+                        <div class="jq-list-r">
+                            <div class="jq-hd" footid="1122807">								
+								<h2 class="jq-name jq-name2">
+                                    
+                                    <a title="成都青白江小姐找全套上门服务" target="_blank" href="http://nanjing.lotour.com/zj/1122807">成都青白江小姐找全套上门服务</a>
+                                    
+								</h2>
+                                <span class="wz-zan" ></span>	
+								<span class="wz-collect sphl"></span>							
+							</div>
+                            
+                            <p class="wz-info">
+                                
+                                <em class="em1"></em>天数：<b>3</b>天
+                                
+                                <em class="em2"></em>人均：<b>500</b>元
+                                
+                                <em class="em3"></em>和谁：<b>自己</b>
+                                
+                            </p>
+                            
+                            <p class="jq-txt">成都青白江小姐成都青白江服务【186-7777-8038】莉莉10－20分钟送到24小时营业无论朋友你常住,还是出差经过为您解除1天的疲惫`让您拥有1个甜蜜`轻松<a title="" target="_blank" href="http://nanjing.lotour.com/zj/1122807">[详细]</a></p>
+                            
+                                <div class="gone-where clearfix"><em>2014年11月游览过</em><span></span>
+                             	<div class="gone-where-r">
+                                
+                                  <a title="" target="_blank" href="http://nanjing.lotour.com/njfuzimiao/">夫子庙秦淮风光</a>
+                                     	
+                                </div>
+                                </div>
+        
+                        </div>
+                        <div class="jq-list-bottom clearfix">
+                            
+                            <a href="http://nanjing.lotour.com/zj/1122807" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201511/16475110_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://nanjing.lotour.com/zj/1122807" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201511/16475119_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://nanjing.lotour.com/zj/1122807" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201511/16475128_232.jpg" width="232" height="170" /></a>      
+                            
+                        </div>
+                    </div>
+			    </li>
+			    
+			    <li>
+                    <div class="jq-list-con clearfix">
+                        <div class="jq-list-l" deffer="5492673" footid="1096430">
+                      	    <div class="jq-list-l-up">
+                                <a href="http://my.lotour.com/i/5492673" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" width="75" height="75" /></a>
+                            </div>
+                            <div class="jq-list-l-down">
+                                <a href="http://my.lotour.com/i/5492673" target="_blank" title=""></a><span class="ano" style="display:none;"></span>
+                            </div>
+                        </div>
+                        <div class="jq-list-r">
+                            <div class="jq-hd" footid="1096430">								
+								<h2 class="jq-name jq-name2">
+                                    
+                                    <a title="南京夫子庙旅游攻略" target="_blank" href="http://nanjing.lotour.com/zj/1096430">南京夫子庙旅游攻略</a>
+                                    
+								</h2>
+                                <span class="wz-zan" ></span>	
+								<span class="wz-collect sphl"></span>							
+							</div>
+                            
+                            <p class="wz-info">
+                                
+                            </p>
+                            
+                            <p class="jq-txt">送走了金桂飘香的十月，寒风凛冽的十一月步伐匆匆，总想在月底来一场说走就走的旅行。考虑再三，决定和朋友驻足最具特色文化气息的南京夫子庙—一个集游览、购物、品尝风味<a title="" target="_blank" href="http://nanjing.lotour.com/zj/1096430">[详细]</a></p>
+                            
+                                <div class="gone-where clearfix"><em>2014年11月游览过</em><span></span>
+                             	<div class="gone-where-r">
+                                
+                                  <a title="" target="_blank" href="http://nanjing.lotour.com/njfuzimiao/">夫子庙秦淮风光</a>
+                                     	
+                                </div>
+                                </div>
+        
+                        </div>
+                        <div class="jq-list-bottom clearfix">
+                            
+                        </div>
+                    </div>
+			    </li>
+			    
+			    <li>
+                    <div class="jq-list-con clearfix">
+                        <div class="jq-list-l" deffer="5449099" footid="1015754">
+                      	    <div class="jq-list-l-up">
+                                <a href="http://my.lotour.com/i/5449099" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" width="75" height="75" /></a>
+                            </div>
+                            <div class="jq-list-l-down">
+                                <a href="http://my.lotour.com/i/5449099" target="_blank" title=""></a><span class="ano" style="display:none;"></span>
+                            </div>
+                        </div>
+                        <div class="jq-list-r">
+                            <div class="jq-hd" footid="1015754">								
+								<h2 class="jq-name jq-name2">
+                                    
+                                    <a title="快乐的旅途" target="_blank" href="http://nanjing.lotour.com/zj/1015754">快乐的旅途</a>
+                                    
+								</h2>
+                                <span class="wz-zan" ></span>	
+								<span class="wz-collect sphl"></span>							
+							</div>
+                            
+                            <p class="wz-info">
+                                
+                            </p>
+                            
+                            <p class="jq-txt">http://www.4shared.com/photo/aHZwTHNB/_20140103.htmlhttp://www.4shared.com/photo/sYnQruSe/_20140103.htmlhttp://www.4shared.com/photo/ID1ulchJ/_20140103.htmlhttp<a title="" target="_blank" href="http://nanjing.lotour.com/zj/1015754">[详细]</a></p>
+                            
+                                <div class="gone-where clearfix"><em>2014年1月游览过</em><span></span>
+                             	<div class="gone-where-r">
+                                
+                                  <a title="" target="_blank" href="http://nanjing.lotour.com/njfuzimiao/">夫子庙秦淮风光</a>
+                                     	
+                                </div>
+                                </div>
+        
+                        </div>
+                        <div class="jq-list-bottom clearfix">
+                            
+                        </div>
+                    </div>
+			    </li>
+			    
+			    <li>
+                    <div class="jq-list-con clearfix">
+                        <div class="jq-list-l" deffer="5426910" footid="566307">
+                      	    <div class="jq-list-l-up">
+                                <a href="http://my.lotour.com/i/5426910" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" width="75" height="75" /></a>
+                            </div>
+                            <div class="jq-list-l-down">
+                                <a href="http://my.lotour.com/i/5426910" target="_blank" title=""></a><span class="ano" style="display:none;"></span>
+                            </div>
+                        </div>
+                        <div class="jq-list-r">
+                            <div class="jq-hd" footid="566307">								
+								<h2 class="jq-name jq-name2">
+                                    
+                                    <a title="我去过秦淮河" target="_blank" href="http://nanjing.lotour.com/zj/566307">我去过秦淮河</a>
+                                    
+								</h2>
+                                <span class="wz-zan" ></span>	
+								<span class="wz-collect sphl"></span>							
+							</div>
+                            
+                            <p class="wz-info">
+                                
+                            </p>
+                            
+                            <p class="jq-txt">游秦淮秦淮河还是晚上更有味道。晚上河边两岸酒肆的灯一亮，倒映在漆黑的河面上，河水粼粼，摇摇曳曳，特别是红的上面还印有“酒”的红灯笼，没有现代很标志性的东西，所以<a title="" target="_blank" href="http://nanjing.lotour.com/zj/566307">[详细]</a></p>
+                            
+                                <div class="gone-where clearfix"><em>2012年1月游览过</em><span></span>
+                             	<div class="gone-where-r">
+                                
+                                  <a title="" target="_blank" href="http://nanjing.lotour.com/qhfgdqinhuaih/">秦淮河</a>
+                                     	
+                                </div>
+                                </div>
+        
+                        </div>
+                        <div class="jq-list-bottom clearfix">
+                            
+                            <a href="http://nanjing.lotour.com/zj/566307" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201301/6575207_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://nanjing.lotour.com/zj/566307" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201301/6575204_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://nanjing.lotour.com/zj/566307" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201301/6575206_232.jpg" width="232" height="170" /></a>      
+                            
+                        </div>
+                    </div>
+			    </li>
+			    
+			    <li>
+                    <div class="jq-list-con clearfix">
+                        <div class="jq-list-l" deffer="5642270" footid="1669726">
+                      	    <div class="jq-list-l-up">
+                                <a href="http://my.lotour.com/i/5642270" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" width="75" height="75" /></a>
+                            </div>
+                            <div class="jq-list-l-down">
+                                <a href="http://my.lotour.com/i/5642270" target="_blank" title=""></a><span class="ano" style="display:none;"></span>
+                            </div>
+                        </div>
+                        <div class="jq-list-r">
+                            <div class="jq-hd" footid="1669726">								
+								<h2 class="jq-name jq-name2">
+                                    
+                                    <a title="三闯金陵，是归人还是过客？" target="_blank" href="http://nanjing.lotour.com/zj/1669726">三闯金陵，是归人还是过客？</a>
+                                    
+								</h2>
+                                <span class="wz-zan" ></span>	
+								<span class="wz-collect sphl"></span>							
+							</div>
+                            
+                            <p class="wz-info">
+                                
+                                <em class="em3"></em>和谁：<b>自己</b>
+                                
+                            </p>
+                            
+                            <p class="jq-txt">南京,现在的我不知道该怎么来诉说对这座城市的情感,我是爱还是恨,我是该走还是留,凌晨3点多的夜里,打开灯,听着雨声,敲打着键盘,想到哪里说到哪里吧。有人因为某个人而去到某<a title="" target="_blank" href="http://nanjing.lotour.com/zj/1669726">[详细]</a></p>
+                            
+                                <div class="gone-where clearfix"><em>2016年11月游览过</em><span></span>
+                             	<div class="gone-where-r">
+                                
+                                  <a title="" target="_blank" href="http://nanjing.lotour.com/njfuzimiao/">夫子庙秦淮风光</a>
+                                     
+                                     <strong>&gt;</strong>  
+                                     
+                                  <a title="" target="_blank" href="http://nanjing.lotour.com/">南京</a>
+                                     	
+                                </div>
+                                </div>
+        
+                        </div>
+                        <div class="jq-list-bottom clearfix">
+                            
+                            <a href="http://nanjing.lotour.com/zj/1669726" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201611/23797297_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://nanjing.lotour.com/zj/1669726" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201611/23797582_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://nanjing.lotour.com/zj/1669726" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201611/23797603_232.jpg" width="232" height="170" /></a>      
+                            
+                        </div>
+                    </div>
+			    </li>
+			    
+			    <li>
+                    <div class="jq-list-con clearfix">
+                        <div class="jq-list-l" deffer="5521312" footid="1670633">
+                      	    <div class="jq-list-l-up">
+                                <a href="http://my.lotour.com/i/5521312" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" width="75" height="75" /></a>
+                            </div>
+                            <div class="jq-list-l-down">
+                                <a href="http://my.lotour.com/i/5521312" target="_blank" title=""></a><span class="ano" style="display:none;"></span>
+                            </div>
+                        </div>
+                        <div class="jq-list-r">
+                            <div class="jq-hd" footid="1670633">								
+								<h2 class="jq-name jq-name2">
+                                    
+                                    <a title="对不起，我要去到梅香烂漫的花山间，不要再" target="_blank" href="http://nanjing.lotour.com/zj/1670633">对不起，我要去到梅香烂漫的花山间，不要再</a>
+                                    
+								</h2>
+                                <span class="wz-zan" ></span>	
+								<span class="wz-collect sphl"></span>							
+							</div>
+                            
+                            <p class="wz-info">
+                                
+                                <em class="em1"></em>天数：<b>2</b>天
+                                
+                                <em class="em3"></em>和谁：<b>朋友</b>
+                                
+                            </p>
+                            
+                            <p class="jq-txt">不止有诗和远方还要记得阳光和花香不知道有多久，不曾把自己浸透在鲜花的芬芳里。不知道有多久，没有呼吸自由的香气。在新春阳光照耀之时，迎着扑面哒花香，满心“梅好期待<a title="" target="_blank" href="http://nanjing.lotour.com/zj/1670633">[详细]</a></p>
+                            
+                                <div class="gone-where clearfix"><em>2016年3月游览过</em><span></span>
+                             	<div class="gone-where-r">
+                                
+                                  <a title="" target="_blank" href="http://nanjing.lotour.com/">南京</a>
+                                     
+                                     <strong>&gt;</strong>  
+                                     
+                                  <a title="" target="_blank" href="http://nanjing.lotour.com/meihuasz/">梅花山庄</a>
+                                     	
+                                </div>
+                                </div>
+        
+                        </div>
+                        <div class="jq-list-bottom clearfix">
+                            
+                            <a href="http://nanjing.lotour.com/zj/1670633" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201603/23875820_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://nanjing.lotour.com/zj/1670633" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201603/23875836_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://nanjing.lotour.com/zj/1670633" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201603/23875716_232.jpg" width="232" height="170" /></a>      
+                            
+                        </div>
+                    </div>
+			    </li>
+			    
+			    <li>
+                    <div class="jq-list-con clearfix">
+                        <div class="jq-list-l" deffer="5128153" footid="1619255">
+                      	    <div class="jq-list-l-up">
+                                <a href="http://my.lotour.com/i/5128153" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" width="75" height="75" /></a>
+                            </div>
+                            <div class="jq-list-l-down">
+                                <a href="http://my.lotour.com/i/5128153" target="_blank" title=""></a><span class="ano" style="display:none;"></span>
+                            </div>
+                        </div>
+                        <div class="jq-list-r">
+                            <div class="jq-hd" footid="1619255">								
+								<h2 class="jq-name jq-name2">
+                                    
+                                    <a title="年初三南京之行" target="_blank" href="http://nanjing.lotour.com/zj/1619255">年初三南京之行</a>
+                                    
+								</h2>
+                                <span class="wz-zan" ></span>	
+								<span class="wz-collect sphl"></span>							
+							</div>
+                            
+                            <p class="wz-info">
+                                
+                                <em class="em1"></em>天数：<b>5</b>天
+                                
+                            </p>
+                            
+                            <p class="jq-txt"><a title="" target="_blank" href="http://nanjing.lotour.com/zj/1619255">[详细]</a></p>
+                            
+                                <div class="gone-where clearfix"><em>2016年2月游览过</em><span></span>
+                             	<div class="gone-where-r">
+                                
+                                  <a title="" target="_blank" href="http://nanjing.lotour.com/yuhuataiqu/">雨花台区</a>
+                                     
+                                     <strong>&gt;</strong>  
+                                     
+                                  <a title="" target="_blank" href="http://nanjing.lotour.com/njfuzimiao/">夫子庙秦淮风光</a>
+                                     
+                                     <strong>&gt;</strong>  
+                                     
+                                  <a title="" target="_blank" href="http://nanjing.lotour.com/zhongshanling/">中山陵</a>
+                                     	
+                                </div>
+                                </div>
+        
+                        </div>
+                        <div class="jq-list-bottom clearfix">
+                            
+                            <a href="http://nanjing.lotour.com/zj/1619255" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201602/20801669_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://nanjing.lotour.com/zj/1619255" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201602/20801801_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://nanjing.lotour.com/zj/1619255" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201602/20801647_232.jpg" width="232" height="170" /></a>      
+                            
+                        </div>
+                    </div>
+			    </li>
+			    
+			    <li>
+                    <div class="jq-list-con clearfix">
+                        <div class="jq-list-l" deffer="5519547" footid="1145275">
+                      	    <div class="jq-list-l-up">
+                                <a href="http://my.lotour.com/i/5519547" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" width="75" height="75" /></a>
+                            </div>
+                            <div class="jq-list-l-down">
+                                <a href="http://my.lotour.com/i/5519547" target="_blank" title=""></a><span class="ano" style="display:none;"></span>
+                            </div>
+                        </div>
+                        <div class="jq-list-r">
+                            <div class="jq-hd" footid="1145275">								
+								<h2 class="jq-name jq-name2">
+                                    
+                                    <a title="【大侠视界】秦淮夜，谁与我眠！" target="_blank" href="http://nanjing.lotour.com/zj/1145275">【大侠视界】秦淮夜，谁与我眠！</a>
+                                    
+								</h2>
+                                <span class="wz-zan" ></span>	
+								<span class="wz-collect sphl"></span>							
+							</div>
+                            
+                            <p class="wz-info">
+                                
+                                <em class="em2"></em>人均：<b>1000</b>元
+                                
+                                <em class="em3"></em>和谁：<b>自己</b>
+                                
+                            </p>
+                            
+                            <p class="jq-txt">设为封面臆想中的秦淮河，一定是游船花坊如织，两岸的酒肆也肯定有的，临河的窗子肯定开着，软软的吴侬软语也肯定有，委婉清秀的江南女子也必不可少，或抚琴、或吟歌、或品<a title="" target="_blank" href="http://nanjing.lotour.com/zj/1145275">[详细]</a></p>
+                            
+                                <div class="gone-where clearfix"><em>2015年8月游览过</em><span></span>
+                             	<div class="gone-where-r">
+                                
+                                  <a title="" target="_blank" href="http://nanjing.lotour.com/njfuzimiao/">夫子庙秦淮风光</a>
+                                     	
+                                </div>
+                                </div>
+        
+                        </div>
+                        <div class="jq-list-bottom clearfix">
+                            
+                            <a href="http://nanjing.lotour.com/zj/1145275" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201508/18281096_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://nanjing.lotour.com/zj/1145275" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201508/18281132_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://nanjing.lotour.com/zj/1145275" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201508/18280943_232.jpg" width="232" height="170" /></a>      
+                            
+                        </div>
+                    </div>
+			    </li>
+			    
+			    <li>
+                    <div class="jq-list-con clearfix">
+                        <div class="jq-list-l" deffer="5444949" footid="1114809">
+                      	    <div class="jq-list-l-up">
+                                <a href="http://my.lotour.com/i/5444949" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" width="75" height="75" /></a>
+                            </div>
+                            <div class="jq-list-l-down">
+                                <a href="http://my.lotour.com/i/5444949" target="_blank" title=""></a><span class="ano" style="display:none;"></span>
+                            </div>
+                        </div>
+                        <div class="jq-list-r">
+                            <div class="jq-hd" footid="1114809">								
+								<h2 class="jq-name jq-name2">
+                                    
+                                    <a title="南京--从你的世界走过" target="_blank" href="http://nanjing.lotour.com/zj/1114809">南京--从你的世界走过</a>
+                                    
+								</h2>
+                                <span class="wz-zan" ></span>	
+								<span class="wz-collect sphl"></span>							
+							</div>
+                            
+                            <p class="wz-info">
+                                
+                                <em class="em1"></em>天数：<b>1</b>天
+                                
+                                <em class="em2"></em>人均：<b>3000</b>元
+                                
+                                <em class="em3"></em>和谁：<b>亲子游</b>
+                                
+                            </p>
+                            
+                            <p class="jq-txt"><a title="" target="_blank" href="http://nanjing.lotour.com/zj/1114809">[详细]</a></p>
+                            
+                                <div class="gone-where clearfix"><em>2015年3月游览过</em><span></span>
+                             	<div class="gone-where-r">
+                                
+                                  <a title="" target="_blank" href="http://nanjing.lotour.com/nanjingzongtongfu/">总统府</a>
+                                     
+                                     <strong>&gt;</strong>  
+                                     
+                                  <a title="" target="_blank" href="http://nanjing.lotour.com/qhfgdqinhuaih/">秦淮河</a>
+                                     	
+                                </div>
+                                </div>
+        
+                        </div>
+                        <div class="jq-list-bottom clearfix">
+                            
+                            <a href="http://nanjing.lotour.com/zj/1114809" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201503/21648478_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://nanjing.lotour.com/zj/1114809" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201503/21648489_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://nanjing.lotour.com/zj/1114809" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201503/21648687_232.jpg" width="232" height="170" /></a>      
+                            
+                        </div>
+                    </div>
+			    </li>
+			    	    
+			</ul>
+        </div>
+        
+	</div>
+	
+    <div class="bd-main-r">
+		  
+<h2 class="bd-r-tit"><a title="" target="_blank" href="http://nanjing.lotour.com/qinhuai/news/">鲜闻</a></h2>		
+<ul class="bd-r-hot clearfix">
+    
+        <li><em class="on">1</em><a href="http://www.lotour.com/zhengwen/2/lg-jc-23986.shtml" target="_blank" title="夜色阑珊迷人 桨声灯影里的十里秦淮河">夜色阑珊迷人 桨声灯影里的十里秦淮河</a></li>     
+    
+        <li><em class="">2</em><a href="http://www.lotour.com/zhengwen/2/lg-jc-24343.shtml" target="_blank" title="秦淮河畔，梦一夜21年前的童年之旅">秦淮河畔，梦一夜21年前的童年之旅</a></li>     
+    
+        <li><em class="">3</em><a href="http://www.lotour.com/zhengwen/1/lg-jc-6275.shtml" target="_blank" title="南京夫子庙，桨声灯影里的秦淮河">南京夫子庙，桨声灯影里的秦淮河</a></li>     
+    
+        <li><em class="">4</em><a href="http://www.lotour.com/zhengwen/2/lg-jc-21367.shtml" target="_blank" title="藏在秦淮河边的世外桃源">藏在秦淮河边的世外桃源</a></li>     
+    
+        <li><em class="">5</em><a href="http://www.lotour.com/zhengwen/2/lg-jc-20179.shtml" target="_blank" title="去“古老金陵第一园”的瞻园走走">去“古老金陵第一园”的瞻园走走</a></li>     
+    
+        <li><em class="">6</em><a href="http://www.lotour.com/zhengwen/2/lg-jc-20125.shtml" target="_blank" title="去南京看看“人群灯影里的秦淮河”">去南京看看“人群灯影里的秦淮河”</a></li>     
+    
+        <li><em class="">7</em><a href="http://www.lotour.com/zhengwen/1/lg-jc-12351.shtml" target="_blank" title="秦淮古意">秦淮古意</a></li>     
+    
+        <li><em class="">8</em><a href="http://www.lotour.com/zhengwen/1/lg-jc-13346.shtml" target="_blank" title="秦淮河上桃叶渡，六朝金粉繁华处">秦淮河上桃叶渡，六朝金粉繁华处</a></li>     
+    
+        <li><em class="">9</em><a href="http://www.lotour.com/zhengwen/1/lg-mt-13277.shtml" target="_blank" title="报恩塔之谜">报恩塔之谜</a></li>     
+    
+        <li><em class="">10</em><a href="http://www.lotour.com/zhengwen/1/lg-jc-11443.shtml" target="_blank" title="秦淮河畔，不谈悲喜，不争朝夕">秦淮河畔，不谈悲喜，不争朝夕</a></li>     
+    
+</ul>
+
+<h2 class="bd-r-tit"><a title="" target="_blank" href="http://nanjing.lotour.com/qinhuai/news/">热门景区</a></h2>
+<ul class="bd-r-where clear">
+    
+        <li><a class="on" href="http://nanjing.lotour.com/meihuasz/" title="梅花山庄旅游">梅花山庄</a></li>     
+    
+        <li><a class="" href="http://nanjing.lotour.com/chenlifugg/" title="陈立夫公馆旅游">陈立夫公馆</a></li>     
+    
+        <li><a class="" href="http://nanjing.lotour.com/jljjzzjcfyz/" title="金陵制造局遗迹旅游">金陵制造局遗迹</a></li>     
+    
+        <li><a class="" href="http://nanjing.lotour.com/nanjingsbljt/" title="南京圣保罗教堂旅游">南京圣保罗教堂</a></li>     
+    
+        <li><a class="" href="http://nanjing.lotour.com/dongfangysy/" title="东方艺术院旅游">东方艺术院</a></li>     
+    
+        <li><a class="" href="http://nanjing.lotour.com/qiqiaoweng/" title="七桥瓮旅游">七桥瓮</a></li>     
+    
+        <li><a class="" href="http://nanjing.lotour.com/baixiaquyyh/" title="月牙湖旅游">月牙湖</a></li>     
+    
+        <li><a class="" href="http://nanjing.lotour.com/yinzishangwhyz/" title="窨子山古文化遗址旅游">窨子山古文化遗址</a></li>     
+    
+        <li><a class="" href="http://nanjing.lotour.com/zhouchutaiyizhi/" title="周处台遗址旅游">周处台遗址</a></li>     
+    
+        <li><a class="on" href="http://nanjing.lotour.com/ganxizhaidi/" title="甘熙宅第旅游">甘熙宅第</a></li>     
+    
+        <li><a class="on" href="http://nanjing.lotour.com/njfuzimiao/" title="夫子庙秦淮风光旅游">夫子庙秦淮风光</a></li>     
+    
+        <li><a class="" href="http://nanjing.lotour.com/nanjingdhm/" title="南京东华门旅游">南京东华门</a></li>     
+    
+        <li><a class="" href="http://nanjing.lotour.com/mingchenghsbwg/" title="明城垣史博物馆旅游">明城垣史博物馆</a></li>     
+    
+        <li><a class="" href="http://nanjing.lotour.com/jinlingkejingc/" title="金陵刻经处旅游">金陵刻经处</a></li>     
+    
+        <li><a class="on" href="http://nanjing.lotour.com/baoensitayz/" title="报恩寺塔遗址旅游">报恩寺塔遗址</a></li>     
+    
+        <li><a class="" href="http://nanjing.lotour.com/shiliangcaigj/" title="史量才故居旅游">史量才故居</a></li>     
+    
+        <li><a class="" href="http://nanjing.lotour.com/qifengshiguan/" title="棋峰试馆旅游">棋峰试馆</a></li>     
+    
+        <li><a class="" href="http://nanjing.lotour.com/wuchaomengy/" title="午朝门公园旅游">午朝门公园</a></li>     
+    
+        <li><a class="on" href="http://nanjing.lotour.com/tangzijiebihua/" title="太平天国壁画旅游">太平天国壁画</a></li>     
+    
+        <li><a class="" href="http://nanjing.lotour.com/wanganshigjbsy/" title="王安石故居半山园旅游">王安石故居半山园</a></li>     
+    
+</ul>
+
+<h2 class="bd-r-tit sphl">TA们也想去</h2>		
+<ul class="bd-r-xq clearfix sphl">						
+</ul>
+<script type="text/javascript">
+    function WantList() {
+        var authors="";
+        $.getJSON("http://api.lotour.net/brandhome/MudidiTag/GetWantUser?callback=?&regionId=203022&depth=4&number=12", function (data) {
+            $.each(data,function(i,value){
+                $("<li userid=\""+value+"\"><a href=\"http://my.lotour.com/i/"+value+"/\" target=\"_blank\" title=\"\" class=\"u-head\"><img src=\"http://img.lotour.net/zip/20110411/index_mrtu.jpg\" width=\"54\" height=\"54\" alt=\"\" /></a></li>").prependTo("ul.bd-r-xq");
+                authors+=value+(i<data.length-1 ? "," : "");
+            });
+            if (authors != "") {
+                $.getJSON("http://api.lotour.net/i/Common/GetMembersMessage?memberIds=" + authors + "&callback=?", function (data) {
+                    if (data.Success) {
+                        var result = data.Result.Data;
+                        $.each(result, function (i) {
+                            var res = result[i];
+                            var _this = $("li[userid=" + res.MemberId + "]")
+                            _this.find("img").attr("src", "http://img.lotour.net/UserPhoto/" + res.Photo);
+                            _this.find("a").attr("title", res.NickName);
+                        });
+                    }
+                });
+                $("ul.bd-r-xq").removeClass("sphl").prev().removeClass("sphl");
+            }
+        });
+    }
+    $(function () {
+        WantList();
+    });
+</script>
+<h2 class="bd-r-tit sphl"><a title="" target="_blank" href="http://nanjing.lotour.com/qinhuai/yuding/">预订</a></h2>		
+<ul class="serTxtList clearfix sphl">
+	<li class="sphl"></li>
+	<li class="sphl"></li>
+	<li class="sphl"></li>
+</ul>
+<script type="text/javascript">
+    var newsData = {"RegionId":203022,"RegionType":2,"chName":"qinhuai","RegionName":"秦淮"};
+    function GetDateStr(AddDayCount) {
+        var dd = new Date();
+        dd.setDate(dd.getDate() + AddDayCount); //获取AddDayCount天后的日期
+        var y = dd.getFullYear();
+        var m = dd.getMonth() + 1; //获取当前月份的日期
+        var d = dd.getDate();
+        return y + "-" + m + "-" + d;
+    }
+    function Tuijian() {
+        var stat = document.domain.split('.')[0];
+        if (newsData.RegionType != 0) {
+            $.ajax({
+                cache: false,
+                type: "GET",
+                url: "http://d.lotour.com/hotel/api/GethotelCountAndLowestPricenew",
+                dataType: "jsonp",
+                data: { "regionid": newsData.RegionId, "regiontype": newsData.RegionType, "sdate": GetDateStr(1), "edate": GetDateStr(2) },
+                success: function (data) {
+                    if (data.Count > 0) {
+                        $(".serTxtList>li:eq(0)").append("<span class=\"ser-hotel\" title=\"客栈酒店\"></span><a href=\"http://d.lotour.com/hotel/"+data.RetunUrl+"/\" target=\"_blank\">"+(newsData.RegionType==3?"周边":"")+"共" + data.Count + "家客栈酒店，<b>￥"+ data.LowestPrice + "</b>元起</a>").removeClass("sphl");
+                        $(".serTxtList").removeClass("sphl").prev().removeClass("sphl");
+                    }
+                }
+            });
+        }
+        
+        $.ajax({
+            cache: false,
+            type: "GET",
+            url: "/dijiexianlu/api-GetLineCountAndLowestPrice_" + stat + "-" + newsData.chName,
+            dataType: "jsonp",
+            success: function (data) {
+                if (data.Count > 0) {
+                    $(".serTxtList>li:eq(1)").append("<span class=\"ser-dijie\" title=\"当地跟团\"></span><a href=\"http://d.lotour.com/dangdigentuan/"+newsData.chName+"-"+newsData.chName+"/\" target=\"_blank\">共" + data.Count + "条当地跟团线路，<b>￥" + data.LowestPrice + "</b>元起</a>").removeClass("sphl");
+                    $(".serTxtList").removeClass("sphl").prev().removeClass("sphl");
+                }
+            }
+        });
+        
+        $.ajax({
+            cache: false,
+            type: "GET",
+            url: "/dujiaxianlu/api-GetLineCountAndLowestPrice_" + jQuery.cookie("ChName") + "-" + newsData.chName,
+            dataType: "jsonp",
+            success: function (data) {
+                if (data.Count > 0) {
+                    $(".serTxtList>li:eq(2)").append("<span class=\"ser-line\" title=\"度假线路\"></span><a href=\"http://d.lotour.com/dujiaxianlu/"+jQuery.cookie("ChName")+"-"+newsData.chName+"\" target=\"_blank\">"+jQuery.cookie("IndexAreaName") + "到" + newsData.RegionName + "，共" + data.Count + "条度假线路，<b>￥" + data.LowestPrice + "</b>元起</a>").removeClass("sphl");
+                    $(".serTxtList").removeClass("sphl").prev().removeClass("sphl");
+                }
+            }
+        });
+    }
+    $(function () {
+        Tuijian();
+    });
+</script>
+
+    </div>
+</div>
+<script type="text/javascript">
+    $(function () {
+        $(".jq-list-l").each(function (i) {
+            var _this = $(this), author = _this.attr("deffer"), footid = _this.attr("footid");
+            var div = $(".jq-hd[footid=" + footid + "]");
+            $.getJSON("http://my.lotour.com/i/Common/GetMemberMessage?memberId=" + author + "&callback=?", function (data) {
+                if (data.Success) {
+                    var result = data.Result.Data;
+                    _this.find("img").attr("src", "http://img.lotour.net/UserPhoto/" + result.Photo);
+                    _this.find("a").attr("title", result.NickName).eq(1).html(result.NickName);
+                    if (result.VStatus > 0) {
+                        var span = _this.find("span");
+                        span.show();
+                        if (result.VStatus == 2) {
+                            span.removeClass("ano");
+                        }
+                    }
+                }
+            });
+            $.getJSON("http://api.lotour.net/i/Services/ServerForFoot?id=" + footid + "&callback=?", function (data) {
+                div.find("span.wz-zan").html("<b></b>" + data.Result.Data.PraiseCount);
+                div.find("span.wz-collect").html("<b></b>" + data.Result.Data.TransCount);
+            });
+        });
+        $('img[original]').lazyload({
+            effect: "fadeIn"
+        });
+    });
+</script>
+
+<!--=S 灵感推荐 -->
+<a class="lg-tuijian-btn" href="javascript:void(0)"></a>
+<div class="lg-tuijian">
+	<div class="lg-tuijian-con">
+    	<a class="lg-tuijian-x" href="javascript:void(0)"></a>
+        <h2 class="lg-tuijian-tit">秦淮旅游灵感推荐
+             
+            <a href="http://www.lotour.com/zhengwen/r103" target="_blank" title="">更多&gt;&gt;</a>
+        
+        </h2>
+        <ul class="lg-tuijian-list clearfix">
+        
+        	<li>
+            	<div class="img"><a href="http://www.lotour.com/zhengwen/2/lg-jc-23986.shtml" target="_blank" title=""><img src="http://img1.lotour.net/Inspiration/2016/1029/20161029213500416314373_1920_590.jpg" width="130" height="84" alt=""></a></div>
+                <div class="txt">
+                	<h3><a href="http://www.lotour.com/zhengwen/2/lg-jc-23986.shtml" target="_blank" title="夜色阑珊迷人 桨声灯影里的十里秦淮河">夜色阑珊迷人 桨声灯影里的十里秦淮河</a></h3>
+                    <p>作者：<a href="http://zhuanlan.lotour.com/408" target="_blank" title="">风月无边</a></p>
+                    <div class="tags">
+                    	<a href="http://www.lotour.com/zhengwen/x3731" target="_blank" title="江河">江河</a>
+                    </div>
+                </div>
+            </li>
+        
+        	<li>
+            	<div class="img"><a href="http://www.lotour.com/zhengwen/2/lg-jc-24343.shtml" target="_blank" title=""><img src="http://img1.lotour.net/Inspiration/2016/1102/2016110209453045161318_1920_590.jpg" width="130" height="84" alt=""></a></div>
+                <div class="txt">
+                	<h3><a href="http://www.lotour.com/zhengwen/2/lg-jc-24343.shtml" target="_blank" title="秦淮河畔，梦一夜21年前的童年之旅">秦淮河畔，梦一夜21年前的童年之旅</a></h3>
+                    <p>作者：<a href="http://zhuanlan.lotour.com/1009" target="_blank" title="">驴说旅行</a></p>
+                    <div class="tags">
+                    	<a href="http://www.lotour.com/zhengwen/x4135" target="_blank" title="风情街">风情街</a><a href="http://www.lotour.com/zhengwen/x3709" target="_blank" title="园林">园林</a><a href="http://www.lotour.com/zhengwen/x3710" target="_blank" title="地标建筑">地标建筑</a><a href="http://www.lotour.com/zhengwen/x3779" target="_blank" title="特色住宿">特色住宿</a>
+                    </div>
+                </div>
+            </li>
+        
+        	<li>
+            	<div class="img"><a href="http://www.lotour.com/zhengwen/2/lg-jc-21367.shtml" target="_blank" title=""><img src="http://img1.lotour.net/Inspiration/2016/0921/20160921200900268523896_1920_590.jpg" width="130" height="84" alt=""></a></div>
+                <div class="txt">
+                	<h3><a href="http://www.lotour.com/zhengwen/2/lg-jc-21367.shtml" target="_blank" title="藏在秦淮河边的世外桃源">藏在秦淮河边的世外桃源</a></h3>
+                    <p>作者：<a href="http://zhuanlan.lotour.com/1309" target="_blank" title="">在别处的完美生活</a></p>
+                    <div class="tags">
+                    	<a href="http://www.lotour.com/zhengwen/x3709" target="_blank" title="园林">园林</a>
+                    </div>
+                </div>
+            </li>
+            
+        </ul>
+    </div>	
+</div>
+<script type="text/javascript">
+    $(function () {
+        $(".lg-tuijian-list li:last").css("margin-right", "0px");
+        if ($(window).width() < 1200) {
+            $(".lg-tuijian").addClass("lg-tuijian-s");
+        } else {
+            $(".lg-tuijian").removeClass("lg-tuijian-s");
+        }
+        $(".lg-tuijian-btn").mouseover(function () {
+            $(this).css("left", "-75px");
+            $(".lg-tuijian").stop().animate({ 'left': '0' }, 800, 'linear');
+        }).trigger("mouseover");
+        $(".lg-tuijian-x").click(function () {
+            $(".lg-tuijian").stop().animate({ 'left': '-100%' }, 500, 'linear');
+            $(".lg-tuijian-btn").stop().animate({ 'left': '0' }, 600, 'linear');
+        });
+
+    });
+</script>
+<!--=E 灵感推荐 -->
+
+    
+    <div class="main bdMain">
+        
+
+<div class="content">
+    <h2 class="conlist-tit">— 南京旅游行政区划 —</h2>
+    <div class="conlist-con">
+    
+        <dl>
+            <dt><a href="http://nanjing.lotour.com/gaochun/" title="高淳">高淳</a></dt>
+            <dd>
+            
+                <a href="http://nanjing.lotour.com/gaochunyaochi/" title="高淳瑶池">高淳瑶池</a>
+          
+                <a href="http://nanjing.lotour.com/guchenghushidi/" title="固城湖湿地">固城湖湿地</a>
+          
+                <a href="http://nanjing.lotour.com/yuquansi/" title="玉泉寺">玉泉寺</a>
+          
+                <a href="http://nanjing.lotour.com/shengbstyskb/" title="圣保寺塔园石刻碑">圣保寺塔园石刻碑</a>
+          
+                <a href="http://nanjing.lotour.com/gaochunyouzishan/" title="游子山">游子山</a>
+          
+                <a href="http://nanjing.lotour.com/gcchunxilaojie/" title="淳溪老街">淳溪老街</a>
+          
+                <a href="http://nanjing.lotour.com/shijiuhu/" title="石臼湖">石臼湖</a>
+          
+                <a href="http://nanjing.lotour.com/xuhe/" title="胥河">胥河</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://nanjing.lotour.com/lishuixian/" title="溧水县">溧水县</a></dt>
+            <dd>
+            
+                <a href="http://nanjing.lotour.com/niuchengyizhi/" title="牛城遗址">牛城遗址</a>
+          
+                <a href="http://nanjing.lotour.com/songyinmu/" title="宋瑛墓">宋瑛墓</a>
+          
+                <a href="http://nanjing.lotour.com/lszhouyuan/" title="周园">周园</a>
+          
+                <a href="http://nanjing.lotour.com/lsxfjbkjy/" title="傅家边科技园">傅家边科技园</a>
+          
+                <a href="http://nanjing.lotour.com/lishuiwxcs/" title="无想禅寺">无想禅寺</a>
+          
+                <a href="http://nanjing.lotour.com/nanjingtianshengqiao/" title="天生桥">天生桥</a>
+          
+                <a href="http://nanjing.lotour.com/dajinshan/" title="大金山">大金山</a>
+          
+                <a href="http://nanjing.lotour.com/lishuixbwg/" title="溧水博物馆">溧水博物馆</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://nanjing.lotour.com/liuhequ/" title="六合">六合</a></dt>
+            <dd>
+            
+                <a href="http://nanjing.lotour.com/guizishan/" title="桂子山">桂子山</a>
+          
+                <a href="http://nanjing.lotour.com/dadunzigwhyz/" title="大墩子遗址">大墩子遗址</a>
+          
+                <a href="http://nanjing.lotour.com/chengqiaodzmd/" title="程桥东周墓地">程桥东周墓地</a>
+          
+                <a href="http://nanjing.lotour.com/njliuhedzhgy/" title="瓜埠山景区">瓜埠山景区</a>
+          
+                <a href="http://nanjing.lotour.com/guizishanlsly/" title="桂子山烈士陵园">桂子山烈士陵园</a>
+          
+                <a href="http://nanjing.lotour.com/shijinta/" title="仕金塔">仕金塔</a>
+          
+                <a href="http://nanjing.lotour.com/guizishanshizl/" title="桂子山石柱林">桂子山石柱林</a>
+          
+                <a href="http://nanjing.lotour.com/liuhewenmiao/" title="六合文庙">六合文庙</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://nanjing.lotour.com/jiangning/" title="江宁">江宁</a></dt>
+            <dd>
+            
+                <a href="http://nanjing.lotour.com/liushunstnyy/" title="六顺生态农艺园">六顺生态农艺园</a>
+          
+                <a href="http://nanjing.lotour.com/nanjingyuanrd/" title="南京猿人洞">南京猿人洞</a>
+          
+                <a href="http://nanjing.lotour.com/longshanshangzhy/" title="龙山上庄园">龙山上庄园</a>
+          
+                <a href="http://nanjing.lotour.com/jiangjieshitswq/" title="蒋介石汤山温泉">蒋介石汤山温泉</a>
+          
+                <a href="http://nanjing.lotour.com/pingtanjiangjunshan/" title="将军山">将军山</a>
+          
+                <a href="http://nanjing.lotour.com/guyuanrendong/" title="古猿人洞">古猿人洞</a>
+          
+                <a href="http://nanjing.lotour.com/yanglongsz/" title="养龙山庄">养龙山庄</a>
+          
+                <a href="http://nanjing.lotour.com/jnshitangcun/" title="石塘村">石塘村</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://nanjing.lotour.com/yuhuataiqu/" title="雨花台区">雨花台区</a></dt>
+            <dd>
+            
+                <a href="http://nanjing.lotour.com/nanjingjjslyfjq/" title="将军山">将军山</a>
+          
+                <a href="http://nanjing.lotour.com/nanjingkejiguan/" title="南京科技馆">南京科技馆</a>
+          
+                <a href="http://nanjing.lotour.com/huaqiaocun/" title="华侨村">华侨村</a>
+          
+                <a href="http://nanjing.lotour.com/boniguowm/" title="浡泥国王墓">浡泥国王墓</a>
+          
+                <a href="http://nanjing.lotour.com/yaonancunmmsk/" title="明墓石刻">明墓石刻</a>
+          
+                <a href="http://nanjing.lotour.com/juhuataigy/" title="菊花台公园">菊花台公园</a>
+          
+                <a href="http://nanjing.lotour.com/yuhuatai/" title="雨花台">雨花台</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://nanjing.lotour.com/qixia/" title="栖霞">栖霞</a></dt>
+            <dd>
+            
+                <a href="http://nanjing.lotour.com/muyanfjmsq/" title="幕燕景区">幕燕景区</a>
+          
+                <a href="http://nanjing.lotour.com/qixiasishelita/" title="栖霞寺舍利塔">栖霞寺舍利塔</a>
+          
+                <a href="http://nanjing.lotour.com/nanjingtxzjng/" title="陶行知纪念馆">陶行知纪念馆</a>
+          
+                <a href="http://nanjing.lotour.com/llcjhwxhm/" title="萧宏墓">萧宏墓</a>
+          
+                <a href="http://nanjing.lotour.com/dengtingzhenmu/" title="邓廷桢墓">邓廷桢墓</a>
+          
+                <a href="http://nanjing.lotour.com/xiaorongmusdsk/" title="萧融墓神道石刻">萧融墓神道石刻</a>
+          
+                <a href="http://nanjing.lotour.com/baguazjrsz/" title="八卦洲假日山庄">八卦洲假日山庄</a>
+          
+                <a href="http://nanjing.lotour.com/yanshansedong/" title="岩山十二洞">岩山十二洞</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://nanjing.lotour.com/pukou/" title="浦口">浦口</a></dt>
+            <dd>
+            
+                <a href="http://nanjing.lotour.com/pukouzzqsty/" title="珍珠泉生态园">珍珠泉生态园</a>
+          
+                <a href="http://nanjing.lotour.com/shuimodanian/" title="水墨大埝">水墨大埝</a>
+          
+                <a href="http://nanjing.lotour.com/chuhe/" title="滁河">滁河</a>
+          
+                <a href="http://nanjing.lotour.com/xianfengrunzeshuju/" title="先锋润泽书局">先锋润泽书局</a>
+          
+                <a href="http://nanjing.lotour.com/laoshangjslgy/" title="老山森林公园">老山森林公园</a>
+          
+                <a href="http://nanjing.lotour.com/jiangnanlsxt/" title="江南陆师学堂">江南陆师学堂</a>
+          
+                <a href="http://nanjing.lotour.com/pukoudangxz/" title="浦口党小组">浦口党小组</a>
+          
+                <a href="http://nanjing.lotour.com/jiangpuyiliany/" title="艺莲苑">艺莲苑</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://nanjing.lotour.com/gulou/" title="鼓楼区">鼓楼区</a></dt>
+            <dd>
+            
+                <a href="http://nanjing.lotour.com/wangjingweigg/" title="汪精卫公馆">汪精卫公馆</a>
+          
+                <a href="http://nanjing.lotour.com/jiangnanssxt/" title="江南水师学堂">江南水师学堂</a>
+          
+                <a href="http://nanjing.lotour.com/yiheluggq/" title="颐和路公馆区">颐和路公馆区</a>
+          
+                <a href="http://nanjing.lotour.com/nanjingbdst/" title="南京广播电视塔">南京广播电视塔</a>
+          
+                <a href="http://nanjing.lotour.com/jiangsukexueg/" title="江苏科技馆">江苏科技馆</a>
+          
+                <a href="http://nanjing.lotour.com/nanjingwygj/" title="魏源故居">魏源故居</a>
+          
+                <a href="http://nanjing.lotour.com/wutaishantyg/" title="五台山体育馆">五台山体育馆</a>
+          
+                <a href="http://nanjing.lotour.com/guloudazhongt/" title="鼓楼大钟亭">鼓楼大钟亭</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://nanjing.lotour.com/qinhuai/" title="秦淮">秦淮</a></dt>
+            <dd>
+            
+                <a href="http://nanjing.lotour.com/zhouchutaiyizhi/" title="周处台遗址">周处台遗址</a>
+          
+                <a href="http://nanjing.lotour.com/baixiaquyyh/" title="月牙湖">月牙湖</a>
+          
+                <a href="http://nanjing.lotour.com/baoensitayz/" title="报恩寺塔遗址">报恩寺塔遗址</a>
+          
+                <a href="http://nanjing.lotour.com/jinlian/" title="金粟庵">金粟庵</a>
+          
+                <a href="http://nanjing.lotour.com/lixiangjgjclg/" title="李香君故居陈列馆">李香君故居陈列馆</a>
+          
+                <a href="http://nanjing.lotour.com/qifengshiguan/" title="棋峰试馆">棋峰试馆</a>
+          
+                <a href="http://nanjing.lotour.com/dongfangysy/" title="东方艺术院">东方艺术院</a>
+          
+                <a href="http://nanjing.lotour.com/ligongci/" title="李公祠">李公祠</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://nanjing.lotour.com/xuanwu/" title="玄武">玄武</a></dt>
+            <dd>
+            
+                <a href="http://nanjing.lotour.com/gmdzxdsslclsjz/" title="国民党史料陈列室">国民党史料陈列室</a>
+          
+                <a href="http://nanjing.lotour.com/dazhongtinggy/" title="大钟亭公园">大钟亭公园</a>
+          
+                <a href="http://nanjing.lotour.com/jiangsuzlg/" title="江苏展览馆">江苏展览馆</a>
+          
+                <a href="http://nanjing.lotour.com/minsubowuguannj/" title="民俗博物馆">民俗博物馆</a>
+          
+                <a href="http://nanjing.lotour.com/nanjingdzbwg/" title="南京地质博物馆">南京地质博物馆</a>
+          
+                <a href="http://nanjing.lotour.com/xuanwuhu1/" title="玄武湖">玄武湖</a>
+          
+                <a href="http://nanjing.lotour.com/xiyuanly/" title="煦园">煦园</a>
+          
+                <a href="http://nanjing.lotour.com/jiuhuashangy/" title="九华山公园">九华山公园</a>
+          
+          </dd>
+        </dl>
+      
+    </div>
+</div>
+
+        <div class="content">
+            <div class="travel-recom">    	<h2 class="travel-t">国内游目的地推荐</h2>        <ul class="traver-c clear">        	<li><a title="" target="_blank" href="http://beijing.lotour.com/">北京</a></li><li><a title="" target="_blank" href="http://haerbin.lotour.com/">哈尔滨</a></li><li><a title="" target="_blank" href="http://dalian.lotour.com">大连</a></li><li><a title="" target="_blank" href="http://sanya.lotour.com/">三亚</a></li><li><a title="" target="_blank" href="http://lijiang.lotour.com/">丽江</a></li><li><a title="" target="_blank" href="http://nanjing.lotour.com/">南京</a></li><li><a title="" target="_blank" href="http://hangzhou.lotour.com/">杭州</a></li><li><a title="" target="_blank" href="http://chongqing.lotour.com/">重庆</a></li><li><a title="" target="_blank" href="http://chengdu.lotour.com/">成都</a></li><li><a title="" target="_blank" href="http://yangzhou.lotour.com/">扬州</a></li><li><a title="" target="_blank" href="http://shanghai.lotour.com/">上海</a></li><li><a title="" target="_blank" href="http://xiamen.lotour.com/">厦门</a></li><li><a title="" target="_blank" href="http://qinhuangdao.lotour.com/">秦皇岛</a></li><li><a title="" target="_blank" href="http://jssuzhou.lotour.com/">苏州</a></li><li><a title="" target="_blank" href="http://shangrao.lotour.com/">上饶</a></li><li><a title="" target="_blank" href="http://leshan.lotour.com/">乐山</a></li><li><a title="" target="_blank" href="http://tianjin.lotour.com/">天津</a></li><li><a title="" target="_blank" href="http://huangshan.lotour.com/">黄山</a></li><li><a title="" target="_blank" href="http://guangzhou.lotour.com/">广州</a></li><li><a title="" target="_blank" href="http://wenzhou.lotour.com/">温州</a></li><li><a title="" target="_blank" href="http://hangzhou.lotour.com/">杭州</a></li><li><a title="" target="_blank" href="http://xian.lotour.com/">西安</a></li><li><a title="" target="_blank" href="http://luoyang.lotour.com/">洛阳</a></li><li><a title="" target="_blank" href="http://chengde.lotour.com/">承德</a></li><li><a title="" target="_blank" href="http://qingdao.lotour.com/">青岛</a></li><li><a title="" target="_blank" href="http://weihai.lotour.com/">威海</a></li><li><a title="" target="_blank" href="http://jinan.lotour.com/">济南</a></li></li><li><a title="" target="_blank" href="http://taian.lotour.com/">泰安</a></li><li><a title="" target="_blank" href="http://beihai.lotour.com/">北海</a></li><li><a title="" target="_blank" href="http://changsha.lotour.com/">长沙</a></li><li><a title="" target="_blank" href="http://dalibaizu.lotour.com/">大理</a></li><li><a title="" target="_blank" href="http://guiyang.lotour.com/">贵阳</a></li><li><a title="" target="_blank" href="http://guilin.lotour.com/">桂林</a></li><li><a title="" target="_blank" href="http://haikou.lotour.com/">海口</a></li><li><a title="" target="_blank" href="http://hulunbeier.lotour.com/">呼伦贝尔</a></li><li><a title="" target="_blank" href="http://kaifeng.lotour.com/">开封</a></li><li><a title="" target="_blank" href="http://kunming.lotour.com/">昆明</a></li><li><a title="" target="_blank" href="http://lasa.lotour.com/">拉萨</a></li><li><a title="" target="_blank" href="http://mudanjiang.lotour.com/">牡丹江</a></li><li><a title="" target="_blank" href="http://ningbo.lotour.com/">宁波</a></li><li><a title="" target="_blank" href="http://qiqihaer.lotour.com/">齐齐哈尔</a></li><li><a title="" target="_blank" href="http://shaoxing.lotour.com/">绍兴</a></li><li><a title="" target="_blank" href="http://shenzhen.lotour.com/">深圳</a></li><li><a title="" target="_blank" href="http://shenyang.lotour.com/">沈阳</a></li><li><a title="" target="_blank" href="http://shijiazhuang.lotour.com/">石家庄</a></li><li><a title="" target="_blank" href="http://wulumuqi.lotour.com/">乌鲁木齐</a></li><li><a title="" target="_blank" href="http://wuxi.lotour.com/">无锡</a></li><li><a title="" target="_blank" href="http://wuhan.lotour.com/">武汉</a></li><li><a title="" target="_blank" href="http://yinchuan.lotour.com/">银川</a></li><li><a title="" target="_blank" href="http://zhuhai.lotour.com/">珠海</a></li>                   </ul>        <h2 class="travel-t">出境游目的地推荐</h2>        <ul class="traver-c clear">  <li><a title="" target="_blank" href="http://jpn.lotour.com/">日本</a></li><li><a title="" target="_blank" href="http://kor.lotour.com/">韩国</a></li><li><a title="" target="_blank" href="http://ind.lotour.com/">印度 </a></li><li><a title="" target="_blank" href="http://nep.lotour.com/">尼泊尔</a></li><li><a title="" target="_blank" href="http://tha.lotour.com/">泰国 </a></li><li><a title="" target="_blank" href="http://cam.lotour.com/">柬埔寨</a></li><li><a title="" target="_blank" href="http://gbr.lotour.com/">英国 </a></li><li><a title="" target="_blank" href="http://fra.lotour.com/">法国</a></li><li><a title="" target="_blank" href="http://tur.lotour.com/">土耳其</a></li><li><a title="" target="_blank" href="http://aus.lotour.com/">澳大利亚</a></li><li><a title="" target="_blank" href="http://nzl.lotour.com/">新西兰</a></li><li><a title="" target="_blank" href="http://ken.lotour.com/">肯尼亚</a></li><li><a title="" target="_blank" href="http://egy.lotour.com/">埃及</a></li><li><a title="" target="_blank" href="http://usa.lotour.com/">美国 </a></li> <li><a title="" target="_blank" href="http://mya.lotour.com/">缅甸</a></li><li><a title="" target="_blank" href="http://fin.lotour.com/">芬兰</a></li><li><a title="" target="_blank" href="http://swe.lotour.com/">瑞典</a></li><li><a title="" target="_blank" href="http://mri.lotour.com/">毛里求斯</a></li> </ul>    </div>
+
+        </div>
+        <div class="content">
+        <!--#include virtual="/share/commonfrag/frag_651.inc" -->
+        </div>
+         <script>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');  ga('create', 'UA-60187834-1', 'auto');  ga('send', 'pageview');</script>
+    </div>
+    
+<!--=S 公共底 -->  
+<div class="ltFooter">
+	<div class="ltfoot clear">
+		<div class="ltfootA">
+			<a href="http://corp.lotour.com/index.shtml" target="_blank" title="乐途介绍">乐途介绍</a><i>|</i><a href="http://corp.lotour.com/job_2.shtml" target="_blank" title="招贤纳士">招贤纳士</a><i>|</i><a href="http://corp.lotour.com/lotour_honour.shtml" target="_blank" title="网站荣誉">网站荣誉</a><i>|</i><a href="http://corp.lotour.com/contact.shtml" target="_blank" title="联系我们">联系我们</a><i>|</i><a href="http://corp.lotour.com/parter.shtml" target="_blank" title="合作伙伴">合作伙伴</a><i>|</i><a href="http://corp.lotour.com/adv_sev.shtml" target="_blank" title="营销形式">营销形式</a><i>|</i><a href="http://corp.lotour.com/adv_case.shtml" target="_blank" title="成功案例">成功案例</a><i>|</i><a href="http://member.lotour.com/" target="_blank" title="商家入驻">商家入驻</a><i>|</i><a href="http://member.lotour.com/" target="_blank" title="商家登录">商家登录</a><i>|</i><a href="http://d.lotour.com/yudingbangzhu/" target="_blank" title="预订帮助">预订帮助</a><i>|</i><a href="http://corp.lotour.com/term.shtml" target="_blank" title="服务条款">服务条款</a>
+		</div>
+		<div class="ltfootB">
+			<a class="btmLogo" target="_blank" href="http://www.lotour.com/" title="乐途旅游网"></a>
+			<p><a href="http://www.miibeian.gov.cn" target="_blank" title="">京ICP备12008860号-1</a>&nbsp;&nbsp;<a href="http://corp.lotour.com/licence_gd.shtml" target="_blank" title="">广电节目制作许可证：1313号</a>&nbsp;&nbsp;京公网安备：11010502001653<br />
+			<span class="Arial">Copyright &copy; 2005 - 2016&nbsp;&nbsp;<a href="http://www.lotour.com/" target="_blank">Lotour.com</a>&nbsp;&nbsp;All Rights Reserved.</span>&nbsp;<a href="http://www.lotour.com/" target="_blank" title="乐途旅游网">乐途旅游网</a>&nbsp;版权所有</p>
+			<a class="btmIco" target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202008020400006"></a>
+		</div>		
+	</div>
+</div>
+<!--=E 公共底 -->
+<script type="text/javascript" src="http://js.lotour.net/feedback_v1.js"></script><script type="text/javascript" src="http://js.lotour.net/analytics/statsv2.js" defer charset="UTF-8"></script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-39387460-1']);
+    _gaq.push(['_setDomainName', 'lotour.com']);
+    _gaq.push(['_addOrganic', 'baidu', 'word']);
+    _gaq.push(['_addOrganic', 'soso', 'w']);
+    _gaq.push(['_addOrganic', '3721', 'name']);
+    _gaq.push(['_addOrganic', 'yodao', 'q']);
+    _gaq.push(['_addOrganic', 'vnet', 'kw']);
+    _gaq.push(['_addOrganic', 'sogou', 'query']);
+    _gaq.push(['_addOrganic', '360', 'q']);
+    _gaq.push(['_addOrganic', 'so', 'q']);
+    var full_url = location.pathname + location.search + location.hash;
+    _gaq.push(['_trackPageview', full_url]);
+    _gaq.push(['_trackPageLoadTime']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F317768ad40e6ddbe20f10e89b4712c35' type='text/javascript'%3E%3C/script%3E"));
+
+
+</script>
+
+    <!--=S 右底工具条 -->
+<div class="toolbarNew">
+	<div class="tbarNewBtnS"></div>
+	<ul>
+		<li><a hidefocus="true" href="javascript:void(0);" method="been" deffer="203022" class="footmark" title=""><i></i><span>我去过</span></a></li>
+		<li><a hidefocus="true" href="javascript:void(0);" method="want" deffer="203022" class="addWantTo" title=""><i></i><span>我想去</span></a></li>
+		<li><a hidefocus="true" href="javascript:void(0);" method="help" deffer="203022" deffername="秦淮" class="help" title=""><i></i><span>发求助</span></a> </li>
+		<li class="tbarShare"> <a href="javascript:void(0);" class="tbarShareIco"> <i></i> <span>分享</span> </a>
+			<div class="sharecon"> 
+				<!-- Baidu Button BEGIN -->
+				<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare"> <span class="bds_more"></span> </div>
+				<script type="text/javascript" id="bdshare_js" data="type=tools&amp;mini=1&amp;uid=0" ></script> 
+				<script type="text/javascript" id="bdshell_js"></script> 
+				<script type="text/javascript">
+				    document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                </script> 
+				<!-- Baidu Button END --> 
+			</div>
+		</li>
+	</ul>
+	<script type="text/javascript">
+	    $(function () {
+	        $(window).scroll(function () {
+	            var st = $(document).scrollTop(), winh = $(window).height();
+	            if (st > 0) {
+	                if ($('.tbarS').length > 0) { return false }
+	                $('.tbarNewBtnS').click()
+	                $('.toolbarNew').addClass('tbarS')
+	            } else if (st <= 0) {
+	                $('.tbarNewBtn').click()
+	                $('.toolbarNew').removeClass('tbarS')
+	            }
+	        });
+	        $('.tbarNewGtop').live('click', function () { $("html, body").animate({ scrollTop: 0 }, 120); })
+	        $('.tbarNewBtnS').live('click', function () {
+	            $('.toolbarNew ul').stop().animate({ 'height': '312px' })
+	            $('.tbarNewGtop').stop().animate({ 'height': '45px' })
+	            $(this).addClass('tbarNewBtn').removeClass('tbarNewBtnS');
+	            return false
+	        })
+	        $('.tbarNewBtn').live('click', function () {
+	            $('.toolbarNew ul').stop().animate({ 'height': '0px' })
+	            $('.tbarNewGtop').stop().animate({ 'height': '3px' })
+	            $(this).addClass('tbarNewBtnS').removeClass('tbarNewBtn');
+	            return false
+	        })
+
+	        $("a[method=been]").click(function () {
+	            var regionid = $(this).attr("deffer");
+	            var a = $("a[method=been][deffer=" + regionid + "]");
+	            $.getJSON("http://my.lotour.com/login/login/islogin?callback=?&" + (new Date()), function (data) {
+	                if (data.uid > 0)
+	                    a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.uid + "/?rid=" + regionid, "target": "_blank" });
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.memberId + "/?rid=" + regionid, "target": "_blank" });
+	                    }, function (data) {
+	                        SetTopState();
+	                        a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.memberId + "/?rid=" + regionid, "target": "_blank" });
+	                    }, 1, "http://my.lotour.com/i/NotesPublish/replaceUid?rid=" + regionid);
+	                }
+	            });
+	        });
+	        $("a[method=want]").click(function () {
+	            var regionid = $(this).attr("deffer"), month = new Date().getMonth() + 1;
+	            var a = $("a[method=want][deffer=" + regionid + "]");
+	            $.getJSON("http://my.lotour.com/login/login/islogin?callback=?&" + (new Date()), function (data) {
+	                if (data.uid > 0) {
+	                    $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    $('.layerBg').css('height', $(document).height()).show();
+	                }
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    }, function (data) {
+	                        SetTopState();
+	                        $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    }, 1, location.href.toString().replace("#", "") + "?rid=" + regionid + "&ReturnAction=dplace");
+	                }
+	            });
+	        });
+	        $("a[method=help]").click(function () {
+	            var regionid = $(this).attr("deffer"), rname = $(this).attr("deffername");
+	            $.getJSON('http://my.lotour.com/login/login/islogin?callback=?&' + (new Date()), function (data) {
+	                if (data.uid > 0) {
+	                    showHelp(regionid, rname);
+	                }
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        showHelp(regionid, rname);
+	                    }, function (data) {
+	                        SetTopState();
+	                        showHelp(regionid, rname);
+	                    }, 1, location.href.toString().replace("#", "") + "?rid=" + regionid + "&ReturnAction=ask");
+	                }
+	            });
+	        });
+	    });
+	    function showHelp(regionid, rname) {
+	        $('#ask_topic').fadeIn(500).loadAskPanel(0);
+	        $('.layerBg').css('height', $(document).height()).show();
+	        $('#txtAskRegionSelect1').val(rname).attr('disabled', 'disabled');
+	        $('#hidAskTopicRegionId1').val(regionid);
+	        $.ajax({
+	            cache: false,
+	            type: "GET",
+	            dataType: 'jsonp',
+	            jsonp: 'callback',
+	            url: "http://my.lotour.com/i/DPlace/AskTopic/GetBeenCount/",
+	            data: { regionId: regionid },
+	            success: function (data) {
+	                data = data.Result.Data;
+	                if (data.count > 0) {
+	                    $("#BeenMsg").html(data.count + "专家为您解答");
+	                }
+	            },
+	            error: function (xhr, textStatus, errorThrown) {
+	            }
+	        });
+	    }
+  </script>
+	<div class="tbarNewGtop"></div>
+</div>
+<!--=E 右底工具条 -->
+</body>
+</html>

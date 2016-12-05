@@ -1,0 +1,2058 @@
+
+
+<!DOCTYPE html>
+
+<html>
+    
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    
+    <meta name="description" content="乐途旅游网_马尔代夫旅游，提供马尔代夫，马尔代夫旅游景点推荐，马尔代夫旅游攻略，马尔代夫旅游玩法，最适合去马尔代夫旅游的季节，马尔代夫旅游注意事项，马尔代夫旅游线路，马尔代夫酒店预定，马尔代夫旅游地图等出行指南及旅行服务" />
+    <meta name="keywords" content="马尔代夫旅游_马尔代夫旅游攻略_马尔代夫旅游景点" />
+    <title>马尔代夫旅游_马尔代夫旅游攻略_马尔代夫旅游景点_乐途旅游网</title>
+    <link rel="shortcut icon" href="http://www.lotour.com/favicon2.ico" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/base.css" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/lt_top.css" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/bizhi.css" />
+    <script type="text/javascript" src="http://js.lotour.net/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="http://js.lotour.net/scrollloop.js"></script><!--[if IE 6]><script type="text/javascript" src="http://js.lotour.net/DD_belatedPNG.js"></script><script type="text/javascript">DD_belatedPNG.fix('.logo img,.lt-nav-new-bg,.bdNavWraper,.map-btn,.mddNavWrap,.lx-mask');</script><![endif]-->
+</head>
+
+<body class="">
+    
+<script type="text/javascript" src="http://js.lotour.net/login/searchhotellogin_v5.js"></script>
+<script src="http://js.lotour.net/mylotour/v1/mylotour_v2.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://js.lotour.net/lotour_v1.js"></script>
+<div class="lt-nav-new">
+	<a href="http://www.lotour.com/" target="_blank"><img class="logo" src="http://img1.lotour.com/bdhomeV2/new_logo.png" /></a>
+	<div class="nav-new-btn">
+    	<a href="#" class="btn"></a>
+    	<div class="nav-new-layer">
+        	<ul>
+            <li>
+            	<h5><a href="http://www.lotour.com/mudidi/" target="_blank">目的地</a></h5>
+                <div class="links">
+                    <a href="http://shangqiu.lotour.com/" target="_blank">商丘</a><a href="http://xian.lotour.com/" target="_blank">西安</a><a href="http://shannan.lotour.com/" target="_blank">西藏山南</a><a href="http://kunming.lotour.com/yunnanshilin/" target="_blank">石林</a>     <a href="http://shangrao.lotour.com/guifeng/" target="_blank">龟峰</a> <a href="http://xuchang.lotour.com/" target="_blank">许昌</a>                                                                         
+
+                </div>
+            </li>
+            <li class="sg">
+            	<h5>发&nbsp;&nbsp;&nbsp;现</h5>
+                <div class="links">
+                	<a href="http://www.lotour.com/zhoubianyou" target="_blank">周边游</a>
+                	<a href="http://www.lotour.com/guoneiyou" target="_blank">国内游</a>
+                	<a href="http://www.lotour.com/chujingyou" target="_blank">出境游</a>
+                </div>
+            </li>
+            <li class="sg">
+            	<h5>社&nbsp;&nbsp;&nbsp;区</h5>
+                <div class="links">
+                    <a href="http://www.lotour.com/daren/" target="_blank">大咖</a>
+                	<a href="http://www.lotour.com/zijiayou/" target="_blank">自驾</a>
+                    <a href="http://sc.lotour.com/" target="_blank">福利</a>
+                </div>
+            </li>
+            <li>
+            	<h5>预&nbsp;&nbsp;&nbsp;订</h5>
+                <div class="links">
+                    <a href="http://d.lotour.com/hotel/" target="_blank">酒店</a>
+                    <a href="http://d.lotour.com/jipiao/" target="_blank">机票</a>
+                	<a href="http://d.lotour.com/dangdigentuan/" target="_blank">地接</a>
+                	<a id="dujiaxianlu" href="http://d.lotour.com/dujiaxianlu/shanghai/" target="_blank">度假</a>
+                </div>
+            </li>
+            </ul>
+        </div>
+    </div>
+  <div class="ltCrumb clear"> <a href="http://www.lotour.com/" target="_blank" title="">首页</a>&nbsp;&gt;&nbsp;<a href="http://www.lotour.com/mudidi" target="_blank" title="">目的地</a>&nbsp;&gt; 
+      
+      <h1><a  href="http://mdy.lotour.com/" title="">马尔代夫旅游</a>
+              
+      </h1>
+  </div>
+  <div class="lt-nav-r">
+  	<div class="lt-nav-item lt-nav-item-srh">
+    	<b></b>
+        <div class="lt-srh-new">
+            <form action="http://ip.lotour.com/home/mudidi" method="get" target="_blank" name="zonghe">
+        	    <div class="lt-srh-l">
+                    <div class="lt-srh-new-clk">
+                        <a href="#" class="l1"><i></i><em></em></a>
+                    </div>
+                    <input type="text" value="点此搜索" name="keyword" id="keyword" class="ipt" />
+                    <input type="hidden" value="0" name="htype" id="htype" />
+                    <input type="hidden" value="" name="keys" id="keys" />
+                    <input type="submit" class="btn" id="btnzonghe" name="btnzonghe" value="" />
+                </div>               
+            </form>
+            <div class="lt-srh-new-layer">
+                <ul>
+                    <li class="l1"><a href="#"><i></i>搜目的地</a></li>
+                    <li class="l2"><a href="#"><i></i>搜达人</a></li>
+                    <li class="l3"><a href="#"><i></i>搜客栈酒店</a></li>
+                    <li class="l4"><a href="#"><i></i>搜当地跟团</a></li>
+                    <li class="l5"><a href="#"><i></i>搜度假线路</a></li>
+                </ul>
+            </div>
+            <div id="hotcityhintDiv" style="z-index: 300001;" class="inputExtendBox sphl">
+                <ul id="scity" class="suggestBox"></ul>
+            </div>
+            <div class="city_divtc" id="Search_Synthesize_Div" style="z-index: 3000006;"><div class="city_divtc_t"><a class="closex"></a><span>国内</span></div><div class="city_divtc_m"><ul><li><a href="http://shangqiu.lotour.com/" target="_blank" title=" 商丘"> 商丘</a></li><li><a href="http://xian.lotour.com/" target="_blank" title=" 西安"> 西安</a></li><li><a href="http://dandong.lotour.com/fengcheng/" target="_blank" title="凤城"> 凤城</a></li><li><a href="http://shannan.lotour.com/" target="_blank" title=" 山南"> 山南</a></li><li><a href="http://kunming.lotour.com/yunnanshilin/" target="_blank" title="石林"> 石林</a></li><li><a href="http://shangrao.lotour.com/guifeng/" target="_blank" title=" 龟峰"> 龟峰</a></li><li><a href="http://lijiang.lotour.com/" target="_blank" title="丽江">丽江</a></li><li><a href="http://zhoushan.lotour.com/" target="_blank" title="舟山">舟山</a></li><li><a href="http://huangshan.lotour.com/" target="_blank" title="黄山">黄山</a></li><li><a href="http://shaoxing.lotour.com/" target="_blank" title="绍兴">绍兴</a></li><li><a href="http://hangzhou.lotour.com/" target="_blank" title=" 杭州"> 杭州</a></li><li><a href="http://xiamen.lotour.com/" target="_blank" title=" 厦门"> 厦门</a></li><li><a href="http://jiaxing.lotour.com/wuzhenguzhen/" target="_blank" title=" 乌镇"> 乌镇</a></li><li><a href="http://qingdao.lotour.com/" target="_blank" title=" 青岛"> 青岛</a></li><li><a href="http://shanghai.lotour.com" target="_blank" title="上海">上海</a></li></ul></div><div class="city_divtc_t"><span>境外</span></div><div class="city_divtc_m"><ul><li><a href="http://tha.lotour.com/" target="_blank" title="泰国">泰国</a></li><li><a href="http://cam.lotour.com/" target="_blank" title="柬埔寨">柬埔寨</a></li><li><a href="http://tha.lotour.com/qingmai/" target="_blank" title="清迈">清迈</a></li><li><a href="http://aus.lotour.com/" target="_blank" title=" 澳大利亚"> 澳大利亚</a></li><li><a href="http://tha.lotour.com/pujifu/" target="_blank" title="普吉岛">普吉岛</a></li><li><a href="http://mas.lotour.com/shaba/" target="_blank" title="沙巴">沙巴</a></li><li><a href="http://pf.lotour.com/" target="_blank" title="大溪地">大溪地</a></li><li><a href="http://nep.lotour.com/" target="_blank" title="尼泊尔">尼泊尔</a></li><li><a href="http://fra.lotour.com/baliqu/" target="_blank" title="巴黎">巴黎</a></li><li><a href="http://taiwan.lotour.com/" target="_blank" title=" 台湾"> 台湾</a></li><li><a href="http://sri.lotour.com/" target="_blank" title=" 斯里兰卡"> 斯里兰卡</a></li><li><a href="http://gbr.lotour.com/lundun1/" target="_blank" title="伦敦">伦敦</a></li><li><a href="http://ina.lotour.com/balidao1/" target="_blank" title="巴厘岛">巴厘岛</a></li><li><a href="http://macao.lotour.com/" target="_blank" title="澳门">澳门</a></li><li><a href="http://fij.lotour.com/" target="_blank" title="斐济">斐济</a></li></ul></div></div>
+
+        </div>
+    </div>
+  	
+  	<div class="lt-login"></div>
+  </div>
+</div>
+
+<!-- 想去浮层 -->
+<div id="dream_place">
+</div>
+<!-- 求助浮层 -->
+<div id="ask_topic" class="msgLayer msgMod" style="display:none;">
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $s.loadCss("http://css.lotour.net/mylotour/v1/wantgo_new");
+        $("#dream_place").DPPanel({
+            className: "msgLayer",
+            close: function () {
+                //关闭时候执行
+                $(".layerBg").hide();
+            },
+            init: function () {
+                //初始化时候执行
+            },
+            publish: function (arr) {
+                //发布时候执行
+                try { dplaceweiboTui($("#dream_place_reseaon").val()) } catch (e) { }
+                location.reload();
+            }
+        }).hide();
+
+        $("#ask_topic").AskPanel({
+            className: "msgLayer",
+            close: function () {
+                //关闭时候执行
+                $(".layerBg").hide();
+            },
+            init: function () {
+                //初始化时候执行
+            },
+            publish: function (arr) {
+                //发布时候执行
+                $a("添加成功");
+            }
+        }).hide();
+
+        var askweibo = new PWeibo({
+            container: 'ask-weiboshare'
+        });
+        askweibo.create();
+        askweiboTui = function (txtcon) {
+            var content = "我在乐途旅游网发布了一条求助，求大家回复啊！";
+            content += "“" + txtcon + "”";
+            askweibo.send(content, function () {
+            });
+        };
+    });
+
+    
+
+    function AskHelp() {
+        $('#ask_topic').fadeIn(500).loadAskPanel(0); $('.layerBg').css('height', $(document).height()).show();
+    }
+    function WantGo() {
+        $('#dream_place').fadeIn(500).loadDPPanel('', 0, true); $('.layerBg').css('height', $(document).height()).show();
+    }
+
+    var SEARCHLEFT = -44, box;
+    if ($.cookie("CityID") == null || $.cookie("ChName") == null || $.cookie("IndexAreaName") == null) {
+        $.getScript("http://ip.lotour.com", function () {
+            $.cookie("CityID", result.regionid, { expires: 30, path: '/', domain: 'lotour.com' });
+            $.cookie("ChName", result.Chname, { expires: 30, path: '/', domain: 'lotour.com' });
+            $.cookie("IndexAreaName", result.regionname, { expires: 30, path: '/', domain: 'lotour.com' });
+            $("#dujiaxianlu").attr("href", "http://d.lotour.com/dujiaxianlu/" + $.cookie("ChName") + "/");
+        });
+    }
+    else
+        $("#dujiaxianlu").attr("href", "http://d.lotour.com/dujiaxianlu/" + $.cookie("ChName") + "/");
+
+    $('.lt-srh-new-layer li').click(function () {
+        var index = $(this).index();
+        $('.lt-srh-new-clk a').attr('class', 'l' + (index + 1));
+        if (index > 1) {
+            $("#htype").attr("value", index - 1);
+        }
+        else if (index == 1) {
+            $("#htype").attr("value", 5);
+        }
+        else {
+            $("#htype").attr("value", index);
+        }
+        $("keys").attr("value", "");
+        switch (index) {
+            case 0:
+                box = $("#keyword").searchbox({ "Left": SEARCHLEFT, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 1:
+                box = $("#keyword").searchbox({ "Flay": "xue_Daren", "Js": "", "Url": "http://my.lotour.com/DarenSearch/handler/AssociateDaren.ashx", "i": 1, "j": 5, "Top": 40, "Left": SEARCHLEFT, "tips": "" });
+                break;
+            case 2:
+                box = $("#keyword").searchbox({ "Flay": "xue_Hotel", "Js": "http://js.lotour.net/searchlayer/djmdd.js", "Url": "http://d.lotour.com/hotel/api/AssociateRegion", "i": 1, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 3:
+                box = $("#keyword").searchbox({ "Flay": "xue_Djxl_Mdd", "Js": "http://js.lotour.net/searchlayer/djmdd.js", "Url": "http://d.lotour.com/dangdigentuan/api-AssociateRegion", "i": 1, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 4:
+                box = $("#keyword").searchbox({ "Flay": "xue_OrderLine_Dest", "Js": "http://d.lotour.com/dujiaxianlu/api-AssociateCommonOsite?sSite=" + $.cookie("CityID") + "&randID=" + escape(new Date()) + "&callback=?", "Url": "http://beijing.lotour.com/dujiaxianlu/api-AssociateOSiteRegion", "i": 0, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+        }
+        $('.lt-srh-new-layer').hide()
+        return false;
+    }).eq(0).trigger("click");
+
+    var loginState = new lotourLoginState({});
+    //loginState.init();
+
+    //导航
+    $('.lt-nav-item').hover(function () {
+        $(this).find('.menu,.lt-srh-new').toggle()
+    })
+
+    $('.lt-srh-new-clk a').click(function () {
+        $('.lt-srh-new-layer').toggle();
+        return false
+    })
+    $('.lt-nav-item-srh').unbind('hover').click(function () {
+        $('.lt-srh-new').toggle();
+        //return false
+    });
+
+    $('.nav-new-btn').hover(function () {
+        $(this).find('.btn').toggleClass('btn-on');
+        $(this).find('.nav-new-layer').toggle();
+    });
+    $('.nav-new-layer li,.ltCommentList li').hover(function () {
+        $(this).toggleClass('hover');
+    });
+</script>
+<!--=S 头图 -->
+
+<div class="bdBannerWrap bdBannerChl mddBannerCh2">
+    
+    <div class="bd-main clearfix">
+		<div class="mdd-adv">
+			<script src="http://js.lotour.net/bcef/410.js" type="text/javascript"></script>
+		</div>
+		<div class="mddName clearfix">				
+			<h2><a title="马尔代夫旅游" class="bdName-tit" href="http://mdy.lotour.com/">马尔代夫</a><a title="" href="javascript:void(0)" class="map-btn"></a>
+            
+			</h2>
+        
+			<div class="bdLikeNum"><span></span>人感兴趣</div>
+            
+			<div class="mdd-weather"></div>
+            									
+		</div>        
+	</div>    
+</div>
+<script type="text/javascript">
+    function SelectScour(){
+        $.getJSON("http://api.lotour.net/brandhome/Region/SelectRegionScore?regionId=374&callback=?", function (data) {
+            var star1 = parseInt(data.Score / 2);
+            var scor = parseInt(data.Score);
+            var scor1 = parseInt((data.Score - scor) * 10);
+            $("#rscore").find("em").html(scor+"."+scor1);
+            for (var i = 0; i < star1; i++) {
+                $("#rscore>b:eq("+i+")").html("<i></i>");
+            }
+            $("#rscore>b:eq("+star1+")").html("<i style=\"width:"+parseInt((data.Score/2-star1)*100)+"%\"></i>");
+        });
+    }
+    
+    $(function () {
+        
+        var winw = $(window).width();	
+        $('.map-box').css({"margin-left":(winw-980)/2,"top":"233px","border":"1px solid #f5f5f5"});
+    });
+</script>
+
+
+<!--=S 地图弹层-->
+<div class="map-box ">
+	<a class="map-x" href="#" title="关闭"></a>		
+	<div class="map-con" id="J_miniMap">
+	</div>
+	
+</div>
+<!--=E 地图弹层-->
+<style type="text/css">
+.map-mark {
+    width: 24px;
+    height: 28px;
+    background: url(http://img1.lotour.net/lotour/biaodian-d.png) no-repeat -35px 0;
+    overflow: hidden;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 22px;
+    cursor: pointer;
+    position: relative;
+    z-index: 1008;
+}
+.map-mark.on {
+    background-position: -35px -35px;
+    z-index: 1009;
+}
+</style>
+<script type="text/javascript" src="http://js.lotour.net/map.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://js.lotour.net/jquery.tmpl.min.js"></script>
+<script type="text/javascript">
+    var mapInfo = {
+        lat: parseFloat('1.9772469'),
+        lng: parseFloat('73.5361035')
+    };
+    var miniMapBox = $('#J_miniMap'), miniMap, MiniMarker;
+
+    function initMiniMap() {
+        var latLng = new google.maps.LatLng(mapInfo.lat, mapInfo.lng);
+        var mapOptions = {
+            center: latLng,
+            zoom: 8,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+        miniMap = new google.maps.Map(miniMapBox.get(0), mapOptions);
+        var markerHtml = '<div class="map-mark"></div>';
+        new MiniMarker(miniMap, markerHtml, latLng);
+        
+
+        var marker = new google.maps.Marker({
+            position: latLng
+        });
+
+    }
+    function MarkerOverlay() {
+        var Overlay = function (map, text, latLng, ready) {
+            this.map = map;
+            this.text = text;
+            this.latLng = latLng;
+            this.ready = ready;
+            this.div = null;
+            this.setMap(this.map);
+        }
+
+        Overlay.prototype = new google.maps.OverlayView();
+
+        $.extend(Overlay.prototype, {
+            onAdd: function () {
+                var div = $('<div/>').html(this.text).css('position', 'absolute');
+                $(this.getPanes().overlayImage).append(div);
+                this.div = div;
+                if (typeof this.ready === 'function') {
+                    this.ready.call(this);
+                }
+            },
+            draw: function () {
+                var latLng = this.getProjection().fromLatLngToDivPixel(this.latLng);
+                this.div.css({
+                    'left': latLng.x - this.div.width() / 2,
+                    'bottom': -latLng.y
+                });
+            },
+            onRemove: function () {
+                this.div.remove();
+                this.div = null;
+            }
+        });
+
+        return Overlay;
+    }
+
+    function updateBrowse() {
+        var regionObj = new RegionBrowse(374);
+        regionObj.updateBrowse()
+        $.getJSON("http://api.lotour.net/rss/dmspageview.ashx?id=374&callback=?", function (data) {
+            var span = $("div.bdLikeNum").find("span");
+            span.html(data.pageview);
+        });
+    }
+    
+    $(function () {
+        updateBrowse();
+        //地图加载
+        var mapload = new MfwMapLoad(function () {
+            if (mapInfo == undefined || !$.isPlainObject(mapInfo) || $.isEmptyObject(mapInfo)) {
+                return;
+            }
+            MiniMarker = MarkerOverlay();
+            $(".map-btn").click(function () {
+                if($(".map-box").is(":hidden")){
+                    if($(".tkt-btn").length>0&&!$(".tkt-layer").is(":hidden")){
+                        $(".tkt-btn").trigger("click");
+                    }
+                    $(".map-box").show();
+                    initMiniMap();
+                }
+                else{
+                    $(".map-box").hide();
+                }
+            });
+            $(".bd-r-mapbtn,#abigmap").click(function(){
+                initMaxMap();
+            });
+        }, 5000, false);
+        mapload.autoLoadMap();
+        //地图弹层
+        
+        $(".map-x").click(function () {
+            $(".map-box").hide();
+        });
+    });
+</script>
+
+ 
+<div class="mddNavWrap">
+    <div class="mddNavbg">
+	    <div class="mddNav">            
+		    <ul class="clearfix">         
+			    <li class="on"><a title="马尔代夫旅游必知" href="http://mdy.lotour.com/"><span>必知</span></a></li>
+                
+                 <li class=""><a title="马尔代夫旅游景区" href="http://mdy.lotour.com/jingqu/"><span>景区</span></a></li>                
+			         
+                <li class=""><a title="马尔代夫旅游游记" href="http://mdy.lotour.com/lvyouyouji/"><span>游记</span></a></li>  
+                              
+			    <li class=""><a title="马尔代夫旅游口碑" href="http://mdy.lotour.com/pingce/"><span>口碑</span></a></li>                
+			    <li class=""><a title="马尔代夫旅游文章" href="http://mdy.lotour.com/news/"><span>文章</span></a></li>                
+			    
+                <li class=""><a title="马尔代夫旅游预订" href="http://mdy.lotour.com/yuding/"><span>预订</span></a></li>
+                               	
+		    </ul>
+            <div class="bz-nav sphl">
+				    <dl class="clearfix">				
+					    <dd><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					    <dd><a href="javascript:void(0)" title="">玩法</a></dd>
+					    <dd><a href="javascript:void(0)" title="">资讯</a></dd>
+					    <dd><a href="javascript:void(0)" title="">住哪儿</a></dd>
+					    <dd><a href="javascript:void(0)" title="">包打听</a></dd>
+					    <dd><a href="javascript:void(0)" title="">如何到达</a></dd>					
+					    <dd><a href="javascript:void(0)" title="">附近城市</a></dd>
+					    <dt><a href="javascript:void(0)" title=""><span>手绘攻略</span></a></dt>
+				    </dl>
+			    </div>
+            <div class="bz-nav sphl">
+				<dl class="clearfix">
+					<dd class="nav1"><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					<dd class="nav2"><a href="javascript:void(0)" title="">旅行<br />月历</a></dd>
+					<dd class="nav3"><a href="javascript:void(0)" title="">必体验</a></dd>
+					<dd class="nav4"><a href="javascript:void(0)" title="">玩法</a></dd>
+					<dd class="nav5"><a href="javascript:void(0)" title="">抵达<br />住哪</a></dd>
+					<dd class="nav6"><a href="javascript:void(0)" title="">包打听</a></dd>
+					<dd class="nav7"><a href="javascript:void(0)" title="">周边<br />线路</a></dd>					
+				</dl>
+			</div>
+            <div class="bz-nav sphl">
+				<dl class="clearfix">
+					<dd class="nav1"><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					<dd class="nav3"><a href="javascript:void(0)" title="">必体验</a></dd>
+					<dd class="nav4"><a href="javascript:void(0)" title="">玩法</a></dd>
+					<dd class="nav5"><a href="javascript:void(0)" title="">重要<br />提示</a></dd>
+					<dd class="nav6"><a href="javascript:void(0)" title="">附近<br />景区</a></dd>
+					<dd class="nav7"><a href="javascript:void(0)" title="">城市<br />相关</a></dd>
+				</dl>
+			</div>
+	    </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(".bz-nav:eq(1)").removeClass("sphl");
+    $(function () {
+
+        var winw = $(window).width();
+        $('.map-box').css({ "margin-left": (winw - 980) / 2, "top": "233px", "border": "1px solid #f5f5f5" });
+
+        //滚动固定导航
+        $(window).scroll(function () {
+            var st = $(document).scrollTop(), toph = $(".lt-nav-new").height() + $(".bdBannerWrap").height();
+            if (st - toph >= 0) {
+                $(".mddNavWrap").addClass("mddNavWrapFix");
+                $(".bz-con1").addClass("pt-con1");
+                if ($.browser.msie && ($.browser.version == "6.0") && !$.support.style) {
+                    $(".mddNavWrap").css({ "top": st, "margin-top": "0" })
+                }
+            } else if (st - toph < 0) {
+                $(".mddNavWrap").removeClass("mddNavWrapFix");
+                $(".bz-con1").removeClass("pt-con1");
+                if ($.browser.msie && ($.browser.version == "6.0") && !$.support.style) {
+                    $(".mddNavWrap").css({ "top": "0", "margin-top": "0" })
+                }
+            }
+        });
+    });
+</script>
+<div class="bd-main bz-main clearfix">
+    <div class="bz-con clearfix bz-con1">
+        <div class="bz-con1-con">
+            <ul class="bz-con1-pic clearfix">
+                
+                <li class="pic-zi2 pic-2-2 pic-bg4" style="left:0px;top:0px">					
+					<div class="pic-wrap">
+						<h3><a href="http://mdy.lotour.com/zhengwen/2015/02/1262996.shtml" title="" target="_blank">蜜月首选</a></h3>
+						<p><a href="http://mdy.lotour.com/zhengwen/2015/02/1262996.shtml" title="" target="_blank">蓝天白云作幕、碧海沙滩为席，椰林树影作证，牵着厮守爱人的双手，抛开一切尘世的喧嚣，在纯白沙滩上许下一生的诺言。因为大自然才是最好的浪漫策划师...</a><a target="_blank" title="" href="http://mdy.lotour.com/zhengwen/2015/02/1262996.shtml" class="more">[详细]</a></p>
+					</div>			
+				</li>      
+                
+                <li class="pic-img pic-2-2 pic-bg4" style="left:0px;top:226px">
+					<div class="pic-wrap"> <a href="http://mdy.lotour.com/zhengwen/2015/02/1262996.shtml" title="" target="_blank"><img src="http://img2.lotour.net/mustknow/2015/0325/20150325160030992597.jpg" width="279" height="225" alt="将浪漫进行到底" title="将浪漫进行到底" /></a></div>
+					<b class="pic-j j-tl"></b>
+                    
+                    <i class="pic-line line-x1"></i>      
+                    
+                    <i class="pic-line line-y1"></i>
+                    
+				</li>
+                
+                <li class="pic-img pic-2-2 pic-bg2" style="left:280px;top:226px">
+					<div class="pic-wrap"> <a href="http://mdy.lotour.com/zhengwen/2015/02/1262995.shtml" title="" target="_blank"><img src="http://img3.lotour.net/mustknow/2015/0325/2015032515580057263208.jpg" width="279" height="225" alt="地球上最大的珊瑚国度" title="地球上最大的珊瑚国度" /></a></div>
+					<b class="pic-j j-br"></b>
+                    
+                    <i class="pic-line line-x1"></i>      
+                    
+                    <i class="pic-line line-y1"></i>
+                    
+				</li>
+                
+                <li class="pic-img pic-2-2 pic-bg2" style="left:700px;top:0px">
+					<div class="pic-wrap"> <a href="http://mdy.lotour.com/zhengwen/2015/02/1262995.shtml" title="" target="_blank"><img src="http://img3.lotour.net/mustknow/2015/0325/2015032515571703959559.jpg" width="279" height="225" alt="隐秘天堂" title="隐秘天堂" /></a></div>
+					<b class="pic-j j-br"></b>
+                    
+                    <i class="pic-line line-x1"></i>      
+                    
+                    <i class="pic-line line-y1"></i>
+                    
+				</li>
+                
+                <li class="pic-img pic-3-2 pic-bg4" style="left:280px;top:0px">
+					<div class="pic-wrap"> <a href="http://mdy.lotour.com/zhengwen/2015/02/1262996.shtml" title="" target="_blank"><img src="http://img1.lotour.net/mustknow/2015/0325/20150325155954807442.jpg" width="419" height="225" alt="蓝天白云，椰林树影，印度洋上的世外桃源" title="蓝天白云，椰林树影，印度洋上的世外桃源" /></a></div>
+					<b class="pic-j j-tl"></b>
+                    
+                    <i class="pic-line line-x1"></i>      
+                    
+                    <i class="pic-line line-y1"></i>
+                    
+                    <i class="pic-line line-y2"></i>
+                    
+				</li>
+                
+                <li class="pic-zi2 pic-3-2 pic-bg2" style="left:560px;top:226px">					
+					<div class="pic-wrap">
+						<h3><a href="http://mdy.lotour.com/zhengwen/2015/02/1262995.shtml" title="" target="_blank">天堂只等你50年</a></h3>
+						<p><a href="http://mdy.lotour.com/zhengwen/2015/02/1262995.shtml" title="" target="_blank">说起马尔代夫，除“天堂”二字外，人们还会想到“地狱”。因为据科学家们预测，如果全球继续变暖，这个美丽岛国最快在50年后就会葬身茫茫的印度洋中...</a><a target="_blank" title="" href="http://mdy.lotour.com/zhengwen/2015/02/1262995.shtml" class="more">[详细]</a></p>
+					</div>			
+				</li>      
+                
+				
+			</ul>
+        </div>
+    </div>
+    <div class="bz-con clearfix">
+        <h2 class="bz-con-tit clearfix"> <strong class="tit1"><a href="javascript:void(0)" title="">旅行月历</a></strong> </h2>
+        <div class="bz-lxmonth clearfix img-scroll">
+			<a class="lx-btn lx-btn-l prev" href="javascript:void(0)" title=""></a>			
+			<div class="lxmonth img-list">				
+				<ul class="clearfix">
+                    
+                    <li deffer="7" class="lx-danji">
+						<h3 class="clearfix"> <strong>5-7</strong><em></em><i></i> </h3>
+						<div class="lx-txt">天气炎热，平均气温在35℃左右，有对流雨。旅游淡季这段时期一般会有不少酒店进行设备维护、房屋检修等工作，所以经常放出特价房。</div>
+					</li>      
+                    
+                    <li deffer="8" class="lx-wangji">
+						<h3 class="clearfix"> <strong>8</strong><em></em><i></i> </h3>
+						<div class="lx-txt">尽管此时的马尔代夫天气炎热，雨水也比较多，但这个月份正值欧美的暑假假期，是一个小旺季，特别是来自意大利的游客比较多。</div>
+					</li>      
+                    
+                    <li deffer="11" class="lx-pingji">
+						<h3 class="clearfix"> <strong>9-11</strong><em></em><i></i> </h3>
+						<div class="lx-txt">10月初，正值中国的国庆长假，会带动马代的一个小旺季。另外万圣节的时候也是一个旺季，其余时间由于天气比较炎热，人都不是很多。</div>
+					</li>      
+                    
+                    <li deffer="16" class="lx-wangji">
+						<h3 class="clearfix"> <strong>12-4</strong><em></em><i></i> </h3>
+						<div class="lx-txt">此时阳光明媚，天气晴朗，特别受来自寒冷国家的游客追捧。再加上正值圣诞、新年、春节，全世界几乎都在过节，这时的价格飙到峰值…<a href="http://mdy.lotour.com/zhengwen/2015/03/1269382.shtml" target="_blank" title="">[详细]</a></div>
+					</li>      
+                    									
+				</ul>				
+				<b class="lx-mask"></b>
+			</div>
+			<a class="lx-btn lx-btn-r next" href="javascript:void(0)" title=""></a>				
+		</div>
+		<script type="text/javascript"> scrollloop('.img-scroll', '.prev', '.next', '.img-list', 3, false); </script>
+    </div>
+    <div class="bz-con clearfix">
+        <div class="bz-con-tit clearfix"> 
+			<ul class="bz-tab-tit" id="youchi">
+				<li><strong class="tit2"><a class="on" href="javascript:void(0)" title="">游</a></strong></li>
+				<li><strong class="tit2"><a href="javascript:void(0)" title="">吃</a></strong></li>
+				<li><strong class="tit2"><a href="javascript:void(0)" title="">购</a></strong></li>
+				<li><strong class="tit2"><a href="javascript:void(0)" title="">娱</a></strong></li>
+			</ul>			
+		</div>
+        <div class="bz-tab bz-tab-con bz-tab-you">
+			<a class="more" title="更多" target="_blank" href="http://mdy.lotour.com/jingqu/">更多</a>
+			<ul class="bi-list bi-list3 clearfix">
+                
+                <li class="first">
+                    <h3><span>天堂岛</span></h3>
+                    <a title="天堂岛旅游" target="_blank" href="http://mdy.lotour.com/tiantangdao1/">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0326/2015032613053306272839.jpg" width="335" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>天堂岛</span></h4>
+                            <p class="text">葱茏的树木，五彩的鲜花，银白的沙滩，尤其让人感到惊叹的是散落在人间的度假天堂，惬意诱人的椰林沙滩，旖...<span>[详细]</span></p>
+                            
+                        </div>
+                    </a>
+                    <p class="like">9713人感兴趣</p>
+				</li>
+                    
+                <li>
+                    <h3><span>太阳岛</span></h3>
+                    <a title="太阳岛旅游" target="_blank" href="http://mdy.lotour.com/sunisland/">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0424/2015042408493702330688.jpg" width="201" height="129" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>太阳岛</span></h4>
+                            <p class="text">太阳岛（SunIsland）位于南马尔代夫阿...<span>[详细]</span></p>
+                            
+                        </div>
+                    </a>
+                    <p class="like">13049人感兴趣</p>
+				</li>      
+                
+                <li>
+                    <h3><span>双鱼岛</span></h3>
+                    <a title="双鱼岛旅游" target="_blank" href="http://mdy.lotour.com/shuangyudao1/">
+                    	<img src="http://img2.lotour.net/mustknow/2015/0423/2015042323082548945956.jpg" width="201" height="129" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>双鱼岛</span></h4>
+                            <p class="text">拥有长达2公里的洁白美丽的海滩、设施现代舒适...<span>[详细]</span></p>
+                            
+                        </div>
+                    </a>
+                    <p class="like">28718人感兴趣</p>
+				</li>      
+                
+                <li>
+                    <h3><span>满月岛</span></h3>
+                    <a title="满月岛旅游" target="_blank" href="http://mdy.lotour.com/manyuedao/">
+                    	<img src="http://img2.lotour.net/mustknow/2015/0423/2015042323065516220931.jpg" width="201" height="129" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>满月岛</span></h4>
+                            <p class="text">满月岛(FullMoon)是马尔代夫非常著名...<span>[详细]</span></p>
+                            
+                        </div>
+                    </a>
+                    <p class="like">7229人感兴趣</p>
+				</li>      
+                
+                <li>
+                    <h3><span>伊露岛</span></h3>
+                    <a title="伊露岛旅游" target="_blank" href="http://mdy.lotour.com/yiludao/">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0326/2015032613060647132793.jpg" width="201" height="129" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>伊露岛</span></h4>
+                            <p class="text">伊露岛美丽的掌形白色沙滩，是马尔代夫最具神秘...<span>[详细]</span></p>
+                            
+                        </div>
+                    </a>
+                    <p class="like">8257人感兴趣</p>
+				</li>      
+                
+                <li>
+                    <h3><span>卡尼岛</span></h3>
+                    <a title="卡尼岛旅游" target="_blank" href="http://mdy.lotour.com/kanidao1/">
+                    	<img src="http://img3.lotour.net/mustknow/2015/0326/2015032613063872916410.jpg" width="201" height="129" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>卡尼岛</span></h4>
+                            <p class="text">卡尼岛，印度洋上的绿洲花园，处处是花，处处是...<span>[详细]</span></p>
+                            
+                        </div>
+                    </a>
+                    <p class="like">28894人感兴趣</p>
+				</li>      
+                
+                <li>
+                    <h3><span>蜜月岛</span></h3>
+                    <a title="蜜月岛旅游" target="_blank" href="http://mdy.lotour.com/miyuedao/">
+                    	<img src="http://img2.lotour.net/mustknow/2015/0423/20150423230747883218.jpg" width="201" height="129" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>蜜月岛</span></h4>
+                            <p class="text">蜜月岛位于马尔代夫北部珊瑚岛的最东边，珍珠般...<span>[详细]</span></p>
+                            
+                        </div>
+                    </a>
+                    <p class="like">23742人感兴趣</p>
+				</li>      
+                
+			</ul>
+		</div>
+		<div class="bz-tab bz-tab-con" style="display:none">
+			<ul class="bi-list clearfix">
+                
+                <li>
+					<h3><span>咖尔迪亚</span></h3>
+                    <a title="咖尔迪亚" target="_blank" href="http://mdy.lotour.com/zhengwen/2015/03/1269383.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0514/2015051408455644226195.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>咖尔迪亚</span></h4>
+                            <p class="text">被称为“咖尔迪亚（garudia）”的美食是马尔代夫传统的家庭菜肴。只有在来客人的时候以及有庆祝活动的时候才会制作这种菜肴。因此只...<span>[详细]</span></p>
+                            <p>价格：价格不等</p>
+                        </div>
+                    </a>					
+				</li>      
+                
+                <li>
+					<h3><span>马尔代夫淑女</span></h3>
+                    <a title="马尔代夫淑女" target="_blank" href="http://mdy.lotour.com/zhengwen/2015/03/1269384.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0514/2015051408460641168238.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>马尔代夫淑女</span></h4>
+                            <p class="text">马尔代夫在度假酒店以外的地方严格禁酒（甚至马尔代夫员工在酒店内也不许喝酒）。所以度假旅馆只提供游客不含酒精的饮品。首都马累只允许设...<span>[详细]</span></p>
+                            <p>价格：价格不等</p>
+                        </div>
+                    </a>					
+				</li>      
+                
+                <li>
+					<h3><span>主食与特色菜</span></h3>
+                    <a title="主食与特色菜" target="_blank" href="http://mdy.lotour.com/zhengwen/2015/03/1269385.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0514/2015051408462817581275.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>主食与特色菜</span></h4>
+                            <p class="text">椰子、芒果、木瓜和菠萝是马尔代夫种植的所有植物。另一样土产品就是鱼类，这就解释了马尔代夫菜肴为何自古以来如此简单。然而，马尔代夫与...<span>[详细]</span></p>
+                            <p>价格：价格不等</p>
+                        </div>
+                    </a>					
+				</li>      
+                
+                <li>
+					<h3><span>海鲜</span></h3>
+                    <a title="海鲜" target="_blank" href="http://mdy.lotour.com/zhengwen/2015/05/1278894.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0514/2015051408465314143605.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>海鲜</span></h4>
+                            <p class="text">马尔代夫是一个四面环海的珊瑚礁国，所以这里吃的东西，总也离不开一个“海”字，又由于宗教习惯，马尔代夫人不吃猪肉，而所需的牛肉需从国...<span>[详细]</span></p>
+                            <p>价格：价格不等</p>
+                        </div>
+                    </a>					
+				</li>      
+                
+                <li>
+					<h3><span>杜法意翅泰</span></h3>
+                    <a title="杜法意翅泰" target="_blank" href="http://mdy.lotour.com/zhengwen/2015/05/1278895.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0514/2015051408470480754142.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>杜法意翅泰</span></h4>
+                            <p class="text">杜法意翅泰（DhufaaEchetai）是马尔代夫群岛风靡的一种嘴嚼的小食。这种小食的材料有槟榔果、槟榔叶、丁香及酸果、烟叶等，椭...<span>[详细]</span></p>
+                            <p>价格：价格不等</p>
+                        </div>
+                    </a>					
+				</li>      
+                
+			</ul>	
+		</div>
+		<div class="bz-tab bz-tab-con" style="display:none">
+			<ul class="bi-list clearfix">
+                
+                <li>
+                    <h3><span>工艺品</span></h3>
+                    <a title="工艺品" target="_blank" href="http://mdy.lotour.com/zhengwen/2015/03/1269386.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0514/201505140856465122798.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>工艺品</span></h4>
+                            <p class="text">在马累的街头，最多的是工艺品店，卖些木雕的鱼、椰壳做的船、艳丽的手绘画。马尔代夫的木雕十分有名，其中的木雕鱼最为著名。在木雕工艺中...<span>[详细]</span></p>
+                            <p>价格：价格不等</p>
+                        </div>
+                    </a>				
+				</li>      
+                
+                <li>
+                    <h3><span>鱼制品</span></h3>
+                    <a title="鱼制品" target="_blank" href="http://mdy.lotour.com/zhengwen/2015/03/1269387.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0514/2015051408565896260360.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>鱼制品</span></h4>
+                            <p class="text">马尔代夫的渔业资源发达，因此特产也以丰富的海洋水产品为主。这里的特产也大多数为海产品。所以不管怎样，来到这里买上点这里的海鲜土特产...<span>[详细]</span></p>
+                            <p>价格：价格不等</p>
+                        </div>
+                    </a>				
+				</li>      
+                
+                <li>
+                    <h3><span>木漆盒子</span></h3>
+                    <a title="木漆盒子" target="_blank" href="http://mdy.lotour.com/zhengwen/2015/03/1269388.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0514/2015051408571057902462.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>木漆盒子</span></h4>
+                            <p class="text">马尔代夫当地的手工制品中最受欢迎的就是木漆盒子了。木漆盒子的原材料是Funa植物，而且这里的制作方法很是精湛，大多十分美观，造型也...<span>[详细]</span></p>
+                            <p>价格：价格不等</p>
+                        </div>
+                    </a>				
+				</li>      
+                
+                <li>
+                    <h3><span>纺织品</span></h3>
+                    <a title="纺织品" target="_blank" href="http://mdy.lotour.com/zhengwen/2015/05/1278896.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0514/2015051408573454412532.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>纺织品</span></h4>
+                            <p class="text">纺织品商店遍布于马累的街巷，深受喜欢量身定做、而非购买成品的当地妇女的喜爱。数以百计的纺织品商店售卖各种想象得到的质地、设计和颜色...<span>[详细]</span></p>
+                            <p>价格：价格不等</p>
+                        </div>
+                    </a>				
+				</li>      
+                
+                <li>
+                    <h3><span>海滨纪念品</span></h3>
+                    <a title="海滨纪念品" target="_blank" href="http://mdy.lotour.com/zhengwen/2015/05/1278897.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0514/2015051408575180217057.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>海滨纪念品</span></h4>
+                            <p class="text">若要将度假的回忆以更物质的形式带回家，ChandhaneeMagu北端的纪念品商店是一个完美的选择。木制烟缸、海龟形盐和胡椒瓶、贝...<span>[详细]</span></p>
+                            <p>价格：价格不等</p>
+                        </div>
+                    </a>				
+				</li>      
+                
+			</ul>	
+		</div>
+		<div class="bz-tab bz-tab-con" style="display:none">
+			<ul class="bi-list bi-list2 clearfix">
+                
+                <li class="first">
+					<h3><span>潜水</span></h3>
+                    <a title="潜水" target="_blank" href="http://mdy.lotour.com/zhengwen/2015/03/1269393.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0514/2015051409043703717287.jpg" width="516" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>潜水</span></h4>
+                            <p class="text">马累岛有自己的潜水俱乐部，但相比各环礁，马累岛周围的水域没什么可期待的，在这里只是纯粹的学习潜水技能而已。SeaExplorers...<span>[详细]</span></p>
+                            <p>价格：价格不等</p>
+                        </div>
+                    </a>
+				</li>      
+                
+                <li class="">
+					<h3><span>鲸鱼潜艇</span></h3>
+                    <a title="鲸鱼潜艇" target="_blank" href="http://mdy.lotour.com/zhengwen/2015/03/1269392.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0514/2015051409050090812910.jpg" width="215" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>鲸鱼潜艇</span></h4>
+                            <p class="text">乘坐潜艇到水深40米左右的地方观赏鱼类和珊瑚，并不是看鲸鱼。对于潜水爱好者来说这个实在是太小巫了，但对于不会潜水又想欣赏水下风光的...<span>[详细]</span></p>
+                            <p>价格：75美元</p>
+                        </div>
+                    </a>
+				</li>      
+                
+                <li class="">
+					<h3><span>海上明珠的巡游</span></h3>
+                    <a title="海上明珠的巡游" target="_blank" href="http://mdy.lotour.com/zhengwen/2015/03/1269390.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0514/2015051409044895362691.jpg" width="215" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>海上明珠的巡游</span></h4>
+                            <p class="text">马尔代夫所特有的巡游岛屿活动：搭乘多尼船出发，去拜访几个迷你的岛屿，它们各自拥有不同的建筑风格，有的现代化，有的原始风味十足，大部...<span>[详细]</span></p>
+                            <p>价格：价格不等</p>
+                        </div>
+                    </a>
+				</li>      
+                
+			</ul>	
+		</div>	
+    </div>
+    <div class="bz-con clearfix">		
+		<h2 class="bz-con-tit clearfix"> <strong class="tit3"><a href="javascript:void(0)" title="">玩法</a></strong> <a class="more" title="更多" target="_blank" href="http://mdy.lotour.com/lvyouyouji/">更多</a> </h2>
+		<ul class="bz-wf clearfix">
+            
+              <li>
+				<h3><em class="i-miji"></em><span><a title="沉醉在天堂般的马尔代夫" target="_blank" href="http://mdy.lotour.com/zj/1112943">沉醉在天堂般的马尔代夫</a></span></h3>
+				<p class="wf-text">定下这次旅行时间很匆忙，我们决定选择一个免签的目的地，能够帅气的拿起行李就出发。很多次旅行都选择了携程的自由行，这次也不...<a title="" target="_blank" href="http://mdy.lotour.com/zj/1112943">[详细]</a></p>
+				<p class="wf-place wf-place2" deffer="4425743"><a href="http://my.lotour.com/i/4425743" target="_blank" title=""></a><i class="sphl">V</i><span>2015年3月游览过：</span> 
+                    
+                                  <a title="" target="_blank" href="http://mdy.lotour.com/">马尔代夫</a>
+                                     	
+				</p>
+			</li>      
+              
+              <li>
+				<h3><em class="i-miji"></em><span><a title="《两情相悦，岁月静好》爱在马尔代夫" target="_blank" href="http://mdy.lotour.com/zj/1111763">《两情相悦，岁月静好》爱在马尔代夫</a></span></h3>
+				<p class="wf-text">蓝天白云，椰林树影，水清沙白，坐落于印度洋的世外桃源，七彩缤纷的珊瑚，目不暇接的热带鱼群，充满着赤道活力的原始海洋，远离...<a title="" target="_blank" href="http://mdy.lotour.com/zj/1111763">[详细]</a></p>
+				<p class="wf-place wf-place2" deffer="4865530"><a href="http://my.lotour.com/i/4865530" target="_blank" title=""></a><i class="sphl">V</i><span>2015年2月游览过：</span> 
+                    
+                                  <a title="" target="_blank" href="http://mdy.lotour.com/">马尔代夫</a>
+                                     	
+				</p>
+			</li>      
+              
+              <li>
+				<h3><em class="i-miji"></em><span><a title="马尔代夫莉莉岛8天6晚阳光沙滩（下）" target="_blank" href="http://mdy.lotour.com/zj/1107541">马尔代夫莉莉岛8天6晚阳光沙滩（下）</a></span></h3>
+				<p class="wf-text">浮潜+比基尼+脚踏船+夕阳巡游~~~日出~~~用屋里的胶囊咖啡机冲一杯，早餐还没开始，在躺椅上喝杯咖啡~~浮潜~~继续沿...<a title="" target="_blank" href="http://mdy.lotour.com/zj/1107541">[详细]</a></p>
+				<p class="wf-place wf-place2" deffer="4604468"><a href="http://my.lotour.com/i/4604468" target="_blank" title=""></a><i class="sphl">V</i><span>2015年1月游览过：</span> 
+                    
+                                  <a title="" target="_blank" href="http://mdy.lotour.com/">马尔代夫</a>
+                                     	
+				</p>
+			</li>      
+              
+              <li>
+				<h3><em class="i-miji"></em><span><a title="马尔代夫莉莉岛8天6晚阳光沙滩（上）" target="_blank" href="http://mdy.lotour.com/zj/1107540">马尔代夫莉莉岛8天6晚阳光沙滩（上）</a></span></h3>
+				<p class="wf-text">选岛（不能免俗），偶尔看到一个叫作Lilybeach的一价全包岛，浮潜A级，服务一流。在那之后莉莉就一直在脑海中挥之不去...<a title="" target="_blank" href="http://mdy.lotour.com/zj/1107540">[详细]</a></p>
+				<p class="wf-place wf-place2" deffer="4604468"><a href="http://my.lotour.com/i/4604468" target="_blank" title=""></a><i class="sphl">V</i><span>2015年1月游览过：</span> 
+                    
+                                  <a title="" target="_blank" href="http://mdy.lotour.com/">马尔代夫</a>
+                                     	
+				</p>
+			</li>      
+              
+              <li>
+				<h3><em class="i-miji"></em><span><a title="等我们老了——马尔代夫中央格兰德蜜月旅行" target="_blank" href="http://mdy.lotour.com/zj/1110787">等我们老了——马尔代夫中央格兰德蜜月旅行</a></span></h3>
+				<p class="wf-text">挚爱记得这样的天空和那一天的落日这样的大海和那一天的相拥有你一路陪伴走过今年对我来说，是生命里重要的经历，我们结婚了。马...<a title="" target="_blank" href="http://mdy.lotour.com/zj/1110787">[详细]</a></p>
+				<p class="wf-place wf-place2" deffer="4610467"><a href="http://my.lotour.com/i/4610467" target="_blank" title=""></a><i class="sphl">V</i><span>2015年1月游览过：</span> 
+                    
+                                  <a title="" target="_blank" href="http://mdy.lotour.com/">马尔代夫</a>
+                                     	
+				</p>
+			</li>      
+              
+              <li>
+				<h3><em class="i-miji"></em><span><a title="最美最详细的马尔代夫宁静岛游记" target="_blank" href="http://mdy.lotour.com/zj/1114213">最美最详细的马尔代夫宁静岛游记</a></span></h3>
+				<p class="wf-text">阅读提示：本次蜜月行我们拍摄了大量照片及视频，数量太多，整理很费时间，所以分篇更新，尽量呈现最完美的一面给大家；水平有限...<a title="" target="_blank" href="http://mdy.lotour.com/zj/1114213">[详细]</a></p>
+				<p class="wf-place wf-place2" deffer="5494892"><a href="http://my.lotour.com/i/5494892" target="_blank" title=""></a><i class="sphl">V</i><span>2013年3月游览过：</span> 
+                    
+                                  <a title="" target="_blank" href="http://mdy.lotour.com/">马尔代夫</a>
+                                     	
+				</p>
+			</li>      
+              
+            
+        </ul>
+    </div>
+    <div class="bz-con bz-mapr clearfix">
+		<div class="bz-con-tit clearfix" id="dmap"> 
+			<ul>
+				<li><strong class="tit4"><a class="on" href="javascript:void(0)" id="test" title="">抵达</a></strong></li>
+				<li><strong class="tit4"><a href="javascript:void(0)" title="">住哪</a></strong></li>				
+			</ul>			
+		</div>
+        <div class="bz-con-l2">
+            <div class="bz-map" id="jq-map-l">  </div>
+            <p class="sphl"><span><a title="" target="_blank" href="http://d.lotour.com/hotel/mdy" id="ahotel"></a></span></p>
+        </div>
+        <div class="bz-tab bz-tab2">
+            <div class="bz-con-r2">
+				<div class="roll-con">
+					<ul class="bz-map-list bz-map-list2 bz-map-list3">
+                        
+                              <li>
+							      <h2 class="h-tit h-tit1">飞机</h2>
+                            
+							<h3 class="clearfix" deffer="0"><a href="http://mdy.lotour.com/zhengwen/2015/02/1262943.shtml" title="" target="_blank"><i class="bz-mdot">A</i><span>马累国际机场</span></a></h3>
+                          
+                              <li>
+							      <h2 class="h-tit h-tit4">轮渡</h2>
+                            
+							<h3 class="clearfix" deffer="1"><a href="http://mdy.lotour.com/zhengwen/2015/02/1262945.shtml" title="" target="_blank"><i class="bz-mdot">B</i><span>瓦宾法鲁岛</span></a></h3>
+                          
+							<h3 class="clearfix" deffer="2"><a href="http://mdy.lotour.com/zhengwen/2015/02/1262945.shtml" title="" target="_blank"><i class="bz-mdot">C</i><span>薇拉瓦鲁岛</span></a></h3>
+                          
+							<h3 class="clearfix" deffer="3"><a href="http://mdy.lotour.com/zhengwen/2015/02/1262945.shtml" title="" target="_blank"><i class="bz-mdot">D</i><span>阿格桑娜岛</span></a></h3>
+                          			
+					</ul>
+				</div>
+				<div class="roll-btn clearfix">
+					<a class="roll-up" href="javascript:void(0)" title=""></a>
+					<a class="roll-dwon" href="javascript:void(0)" title=""></a>					
+				</div>
+			</div>
+        </div>
+        <div class="bz-tab bz-tab2">
+			<div class="bz-con-r2">
+				<div class="roll-con">
+					<ul class="bz-map-list bz-map-list2">
+                    
+                        <li deffer="4914">
+							<h3 class="clearfix"><a href="javascript:void(0)" title=""><i class="bz-mdot">A</i><span>天堂岛</span></a></h3>
+							<p>五星级的度假岛，银白色的沙滩，晶莹剔透的浅海湾，将带给你一次心灵触动的感受。</p>
+							<p class="map-hotels" defferid="4914" deffertype="0"></p>
+						</li>  
+                    
+                        <li deffer="4868">
+							<h3 class="clearfix"><a href="javascript:void(0)" title=""><i class="bz-mdot">B</i><span>卡尼岛</span></a></h3>
+							<p>岛上的酒店由著名的地中海俱乐部经营，踏上岛上那一刻起，似乎真的走进了天堂的后花园。</p>
+							<p class="map-hotels" defferid="4868" deffertype="0"></p>
+						</li>  
+                    
+                        <li deffer="375">
+							<h3 class="clearfix"><a href="javascript:void(0)" title=""><i class="bz-mdot">C</i><span>马累</span></a></h3>
+							<p>酒店多以平房形式沿海而建，内有许多设施，离房间两、三步便是软绵绵洁白的沙滩和珊瑚海。</p>
+							<p class="map-hotels" defferid="375" deffertype="0"></p>
+						</li>  
+                    
+                        <li deffer="4869">
+							<h3 class="clearfix"><a href="javascript:void(0)" title=""><i class="bz-mdot">D</i><span>满月岛</span></a></h3>
+							<p>豪华的喜来登Shine水疗中心位于其私人岛屿上，美丽的礁湖是进行各种刺激水上运动的绝佳场所。</p>
+							<p class="map-hotels" defferid="4869" deffertype="0"></p>
+						</li>  
+                    
+					</ul>
+				</div>
+				<div class="roll-btn clearfix">
+					<a class="roll-up" href="javascript:void(0)" title=""></a>
+					<a class="roll-dwon" href="javascript:void(0)" title=""></a>					
+				</div>
+			</div>
+		</div>		
+    </div>
+    <div class="bz-con clearfix">
+		<div class="bz-con-l baodating">			
+			<div class="bz-con-tit clearfix">
+				<strong class="tit5"><a href="javascript:void(0)" title="">包打听</a></strong> 
+				<ul class="dating-tit">
+					<li><strong><a class="on" href="javascript:void(0)" title="">重要提示</a></strong></li>
+					<li><strong><a href="javascript:void(0)" title="">市内交通</a></strong></li>
+					<li><strong><a href="javascript:void(0)" title="">本地生活</a></strong></li>
+					<li><strong><a href="javascript:void(0)" title="">签证消费</a></strong></li>				
+				</ul>			
+			</div>
+			<div class="bz-tab">
+				<div class="roll-btn roll-btn2 clearfix">
+					<a class="roll-up" href="javascript:void(0)" title=""></a>
+					<a class="roll-dwon" href="javascript:void(0)" title=""></a>					
+				</div>
+				<div class="bz-dating roll-con">
+					<ul class="bz-tips-list">
+                    
+                        <li><b>禁忌</b> 不要对小孩乱拍照。</li>      
+                    
+                        <li><b>安全</b> 在马累的主要危险就是摩托车会冷不防地从某个角落以极速窜出来。在过马路之前，要保持机警并四处看看。</li>      
+                    
+                        <li><b>拍照</b> 在马累旅游，有些地方是不能够拍照的，例如海岸警卫队所在地，所以在拍照前，一定要先问清楚。</li>      
+                    
+                        <li><b>潜水</b> 浮潜前建议购买或租用水底相机，可以为你留下令人难忘的奇妙水世界美景。岛上一次性水底相机售价17美元，出租参考价格25美元。</li>      
+                    
+                        <li><b>洗漱用品</b> 马尔代夫旅游岛大多不提供牙刷、拖鞋等，建议游客自行携带。</li>      
+                    
+                        <li><b>抵达</b> 游客乘飞机到达马累的时间如果在晚上11点之后，当晚就不能再乘坐航程1小时以上的快艇。次日搭乘水上飞机前往。</li>      
+                    
+                        <li><b>安全</b> 小岛周围浅滩看似平静，实则暗流涌动，危险很大。下水前须先向岛上救生员、 潜水教练等专业人员了解水域情况及注意事项，切勿急于下水。</li>      
+                    
+                        <li><b>风俗禁忌</b> 当地居民不食猪肉，不饮酒，严禁偶像崇拜，妇女出行必须穿遮体长裙，男士不能穿短裤，禁止裸泳，不要穿泳装在餐厅用餐。</li>      
+                    
+                        <li><b>特产</b> 不可以携带海水、失事船只残骸碎片、岛上的贝壳（不是可购买商品）或珊瑚出马尔代夫。购买由海龟制成的物品也是违法的。</li>      
+                    
+                        <li><b>罚款</b> 严禁私自在岛上钓鱼、采摘或践踏珊瑚，严禁在酒店房间内煮食，以上事项违者罚款可达美金5000元。</li>      
+                    
+                    </ul>
+                </div>
+            </div>
+            <div class="bz-tab">
+				<div class="roll-btn roll-btn2 clearfix">
+					<a class="roll-up" href="javascript:void(0)" title=""></a>
+					<a class="roll-dwon" href="javascript:void(0)" title=""></a>					
+				</div>
+				<div class="bz-dating roll-con">
+					<ul class="bz-q-list">
+                    
+                        <li class="hover">
+							<h3><em></em><span>马尔代夫公交方便便宜吗？有公交卡吗？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">马尔代夫实在太小了，连公交车都没有，当地人的主要出行方式是水上飞机、快艇和摩托车。
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>     
+                    
+                        <li class="">
+							<h3><em></em><span>马尔代夫打车合算吗？起步价多少钱？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">只有在首都马累会有出租车。不过这座城市的面积本身不大，即使步行也不会花掉你太多的体力。首都马累岛街上的出租车基本不停车载客，也极少看到空驶的出租车。想乘坐出租车时要打电话叫车，并说...<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262977.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>     
+                    
+                        <li class="">
+							<h3><em></em><span>马尔代夫的出租车叫车电话是多少？可以使用打车软件吗？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">电召的士电话：（+00960）—3323132、3325757、3322454，没有打车软件。
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>     
+                    
+                        <li class="">
+							<h3><em></em><span>马尔代夫是否适合租车旅游？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">马尔代夫是个岛国，全国由1200余个小珊瑚岛屿组成，所以并不适合租车旅行。如果停留时间比较长、需要包船出海的，可以考虑去谈个好价格来乘坐快艇。<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262974.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>     
+                    
+                        <li class="">
+							<h3><em></em><span>马尔代夫的特色交通工具？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">境内航班是在马尔代夫基本被忽略的一种交通工具，它比快艇速度快，比水上飞机便宜。路程在80海里以内可以选择快艇，80到150海里选水上飞机，超过150海里就可以选境内航班了。搭乘境内...<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262952.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>     
+                    
+                    </ul>
+                </div>
+            </div>
+            <div class="bz-tab">
+				<div class="roll-btn roll-btn2 clearfix">
+					<a class="roll-up" href="javascript:void(0)" title=""></a>
+					<a class="roll-dwon" href="javascript:void(0)" title=""></a>					
+				</div>
+				<div class="bz-dating roll-con">
+					<ul class="bz-q-list">
+                    
+                       <li class="hover">
+							<h3><em></em><span>初到马尔代夫，怎样才能快速地获取一份当地的旅游地图？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">马累岛的游客中心位于滨海大街(BoduthakurufaanuMagu)12号，3楼；在机场也有一家。可提供免费地图和宣传册。当地有许多旅行社，不过如果已经到了马尔代夫，找旅行社的...<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262986.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>在马尔代夫，刷信用卡方便吗？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">商店、酒店、餐厅、摆渡可以接受美元。但购买小额物品或者付小费还是拉菲亚比较划算，找回的零钱都是拉菲亚，离境时在机场可以换回美元。度假村通用美元和拉菲亚，可使用国际信用卡和旅行支票，...<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262983.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>在马尔代夫，银联卡取现方便吗？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">滨海大街上集中了各大银行，StateBankofIndia、BankofMaldives、BankofCeylon、HSBCBank等全都有。在ATM机上可以用国际信用卡取现，但没...<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262982.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>马尔代夫治安怎么样？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">整体来说，马尔代夫的治安还算比较不错。当你乘船或者水上飞机前往度假岛时，请一定看管好随身的行李，不要让行李离开自己的视线。抵达度假岛码头后，请及时清点行李数量，以免丢失。酒店的工作...<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262979.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>去马尔代夫旅游面临的主要健康风险是什么？就医方便吗？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">在马尔代夫旅行，常见的病况有两种：一种是水土不服造成的腹泻，一种是因天气炎热、摄入水少造成的脱水。每个度假村都有医疗室，如果严重可以转到马累岛或者各个环礁的中心城市。马累岛上接待外...<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262973.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>马尔代夫的气候怎么样？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">马尔代夫共和国（原名马尔代夫群岛）位于南亚，北纬4度，东经73度，具有明显的热带雨林气候特征，无四季之分。年降水量1900毫米，年平均气温28℃。<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262972.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>马尔代夫有什么独特的风土人情？要注意什么？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">1.马尔代夫是信奉伊斯兰教的国家，男女授受不亲，不要轻易与当地女性打招呼或拉手。2.不能邀请马尔代夫本土人喝含有酒精的饮料。3.游泳衣当然是必不可少，但禁止穿泳装在餐厅用餐。需带上...<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262970.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>马尔代夫旅游有问题找谁咨询？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">马累岛的游客中心位于滨海大街(BoduthakurufaanuMagu)12号，3楼；在机场也有一家。可提供免费地图和宣传册。当地有许多旅行社，不过如果已经到了马尔代夫，找旅行社的...<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262969.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>马尔代夫的wifi热点多吗？上网方便吗？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">马累岛上的网吧收费较低，并且有免费无线网。各度假村都接通了网络，可以方便地使用各种网络即时通讯工具与外界沟通。有些度假村还提供无线网络。
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>马尔代夫人都说方言吗，我会不会有语言障碍？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">马尔代夫官方语言是迪维希语(Divehi)，这是一种古老的锡兰语，来自斯里兰卡，后来又混入了英语、阿拉伯语、印度语等元素。英语作为第二种语言被广泛使用，在马累岛及各度假村，受过教育...<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262968.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>当地邮局网点多吗？寄包裹方便吗？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">马累岛上有一个主要的邮局(MainPostOffice)，机场也有一家比较小的邮局。度假村的小商店里可以买到明信片和邮票，在前台通常备有邮箱。寄明信片每张10拉菲亚，普通信件每封1...<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262967.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>马尔代夫旅游，如何保持通迅“巧省钱”？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">1)开通国际漫游业务的中国移动手机可在马代当地使用，拨打当地电话(4.99元/分钟)，拨打国内电话需拨0086+号码(12.99元/分钟)。2)可以选择中国移动推出的**139优惠...<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262966.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>马尔代夫有哪些不可错过的节庆活动？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">大多数马尔代夫的节日都是按伊斯兰阴历来算的，每年日子都不同，如果节日正好赶上周五或周六，那么紧接着的那个工作日就是假日。Ramazan伊斯兰素月，又叫斋月，是马尔代夫重要的宗教活动...<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262964.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>在马尔代夫大街上，WC方便吗？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">马累岛上的公厕收费2拉菲亚。滨海大道上没有公厕。比较好找的一家公厕在在滨海大道后边的一条小街，AmeerAhmedMagu街的东端，找到BistroJade和HSBCBank就不远...<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262962.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>在马尔代夫住宿选在哪里比较好啊？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">对马代而言，“一岛一酒店”是它最大的特色，加之，选择马代即代表你认同了一种放松心情的简单方式，期待一次亲水的浪漫之旅，你所入住的酒店可以极大程度代表马代在你心中的认知。酒店价格可以...<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262961.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>去马尔代夫旅游要带什么衣服过去？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">夏季度假的穿衣选择当然是舒适为主，男士T恤+短裤，想要拍美照的女士们除了各种仙裙外，不妨也准备一身适合做运动的服装。虽然晚上也不会冷，但出入一些较正规的用餐场所时，还是建议大家套一...<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262960.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>请问马尔代夫旅游什么时候是淡季？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">马尔代夫位于赤道附近，属热带海洋性气候。由于受季风影响，这里全年平均气温大约摄氏30度，温差小湿度大，是全年皆适合旅游休假的好地方。马尔代夫有两个鲜明的季节：干季（每年11月末至次...<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262959.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>马尔代夫的消费水平怎么样？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">来马尔代夫，一定要提前在机场兑换或者在国内准备足够的小额美元，方便支付小费（如当地惯例，每天收拾房间及早、午、晚餐时，各人须付小费美金1元）。由于物资的缺乏以及运输的不便，岛上的物...<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262958.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>去马尔代夫旅游一些常用的紧急电话。</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">马累国际机场：（+00960）—3322211、当地紧急呼叫：112、救护102、火警118、匪警119
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>去马尔代夫的最佳季节是什么时候？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">12月—次年3月：此时阳光明媚，天气晴朗，特别受来自寒冷国家的游客追捧。万圣节前后价格比较高，仅次于圣诞节。5月初：超旺季。因为正逢五一劳动节，是中国和俄罗斯的假期。7月中旬—9月...<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262957.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>马尔代夫有什么可以带回家的特产？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">当地可购买的土产有贝壳产品、芦苇垫子、木漆盒子。马尔代夫严禁出口任何种类的珊瑚。游客不可擅自收集沙滩或海中的贝壳，购买贝壳需要前往当地受承认的商店。<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262956.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>马尔代夫常见的一些文字标识。</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">A-SalamAlekum：你好ValeKumuSalam：再见MiKihavaraka：多少钱Kihine：你好Shukuria：谢谢Aa：是Noo：不Enge：好的AguBod...<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262954.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>马尔代夫美食多吗？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">马尔代夫是穆斯林国家，禁食猪肉。但是这里是海岛国家，盛产鱼虾蟹。最常见的菜是咖喱，是从邻国印度、斯里兰卡传入的。地道的马尔代夫食物除了充满地方色彩，也总离不开大海。他们喜欢吃加有刺...<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262953.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>马尔代夫主要的人口构成。</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">马尔代夫人口35.9万（2007年），均为马尔代夫族。
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>马尔代夫的电源插座和我们一样吗？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">马尔代夫电压为220—240V，插头多为双头扁脚、三头圆脚，可以考虑自带转换器，不过一些高档度假村也会免费提供转换器。
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>马尔代夫有多少年的历史了？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">马尔代夫历史悠久，大事频繁，除了16世纪被葡萄牙短暂占领外，它一直是一个主权独立的国家。20世纪50年代中期成为英国的保护国，并在1965年获得完全独立。那一年它也加入了联合国。该...<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262947.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>去马尔代夫玩一趟大概要花费多少？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">马尔代夫旅游起步价6000—10000元之间的岛屿有：康杜马岛、梦幻岛、天堂岛、白金岛、蓝色美人蕉岛；10000—15000元之间的岛屿有：泰姬珊瑚岛、满月岛、双鱼岛、椰子岛、瓦度...<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262946.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                    </ul>
+                </div>
+            </div>
+            <div class="bz-tab">
+				<div class="roll-btn roll-btn2 clearfix">
+					<a class="roll-up" href="javascript:void(0)" title=""></a>
+					<a class="roll-dwon" href="javascript:void(0)" title=""></a>					
+				</div>
+				<div class="bz-dating roll-con">
+					<ul class="bz-q-list">
+                    
+                        <li class="hover">
+							<h3><em></em><span>办理赴马尔代夫的签证需要准备哪些资料？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">自2007年11月26日起，持有有效旅行证件和返程机票的中国公民赴马尔代夫旅游，无需再办理签证，并可在马境内免签证停留30天，而“旅游”既包括个人旅游也包括团队旅游。边检部门确认自...<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262989.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                        <li class="">
+							<h3><em></em><span>马尔代夫有没有中国的使领馆，在哪里？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">中国驻马尔代夫大使馆地址：381a,bauddhalokamawatha,colombo7,srilanka电话：（+00960）—7458160传真：（+00960）—33078...<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262987.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                        <li class="">
+							<h3><em></em><span>在马尔代夫使用什么货币，货币汇率大概是多少？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">马累岛上使用Rufiya(拉菲亚)，简写作RF。1人民币=2.46拉菲亚，1美元=15拉菲亚(汇率随时变化)。纸币面额有500、100、50、20、10、5、2；硬币面额50、25...<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262985.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                        <li class="">
+							<h3><em></em><span>在马尔代夫旅游怎样退税？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">马尔代夫没有针对国外游客的购物退税政策。
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                        <li class="">
+							<h3><em></em><span>在马尔代夫会日夜颠倒吗？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">马尔代夫和巴基斯坦在同一时区，比北京时间晚3小时。值得注意的是大多数度假村的营业时间比马累时间早一小时，好让他们的客人产生错觉，觉得傍晚漫长而自己起床的时间比较晚，这在安排接送时间...<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262965.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                        <li class="">
+							<h3><em></em><span>在马尔代夫，需要扮演“土豪”给小费吗？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">马尔代夫不属于小费国家，但对某些服务人员还是要付小费的，比如行李员和收拾房间的服务生。餐厅和出租车不用付小费，账单上一般已经加了10%的服务费。<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262963.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                        <li class="">
+							<h3><em></em><span>进出马尔代夫海关手续麻烦不？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">不能携带酒类饮料、猪肉制品或其他伊斯兰教忌讳的东西。同时，携带海水、失事船只残骸碎片、岛上的贝壳（不是可购买商品）或珊瑚出马尔代夫也不可以。购买由海龟制成的物品也属违法。军火、武器...<a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/02/1262951.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="bz-con-r">
+			<h2 class="bz-con-tit clearfix"> <strong class="tit5"><a href="javascript:void(0)" title="">鲜闻</a></strong> <a class="more" title="更多" target="_blank" href="http://mdy.lotour.com/news/">更多</a> </h2>
+			<ul class="bz-news-list">
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-26222.shtml" target="_blank" title="走，我们去大海中央看日落">走，我们去大海中央看日落</a> <span>2016-11-28</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-25114.shtml" target="_blank" title="马尔代夫，天堂与海洋的梦幻">马尔代夫，天堂与海洋的梦幻</a> <span>2016-11-16</span></li>      
+                
+                <li class=""><a href="http://mdy.lotour.com/zhengwen/2016/11/1323113.shtml" target="_blank" title="征服大海，索尼A7RII马尔代夫水下摄影">征服大海，索尼A7RII马尔代夫水下摄影</a> <span>2016-11-09</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/1/lg-jc-10412.shtml" target="_blank" title="Lux岛 安享印度洋上的奢华">Lux岛 安享印度洋上的奢华</a> <span>2016-11-02</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/1/lg-jc-8061.shtml" target="_blank" title="在马尔代夫的海底来场浪漫邂逅">在马尔代夫的海底来场浪漫邂逅</a> <span>2016-10-20</span></li>      
+                
+                <li class="newsline"><a href="http://www.lotour.com/zhengwen/1/lg-jc-19550.shtml" target="_blank" title="上帝馈赏的碧玉项链，君可曾见否？">上帝馈赏的碧玉项链，君可曾见否？</a> <span>2016-10-17</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/1/lg-jc-9938.shtml" target="_blank" title="在马尔代夫 教你有逼格的拍照">在马尔代夫 教你有逼格的拍照</a> <span>2016-09-29</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/1/lg-jc-18958.shtml" target="_blank" title="穿着婚纱，在马尔代夫瘫到天荒地老">穿着婚纱，在马尔代夫瘫到天荒地老</a> <span>2016-08-21</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/1/lg-jc-18993.shtml" target="_blank" title="马尔代夫双鱼岛，麦兜的梦想我实现了">马尔代夫双鱼岛，麦兜的梦想我实现了</a> <span>2016-08-18</span></li>      
+                
+                <li class=""><a href="http://mdy.lotour.com/zhengwen/2016/08/1321944.shtml" target="_blank" title="情侣票选住宿最棒目的地TOP 10，Agoda独家揭密！">情侣票选住宿最棒目的地TOP 10，Ago...</a> <span>2016-08-12</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/1/lg-jc-16100.shtml" target="_blank" title="马尔代夫 离天堂最近的地方">马尔代夫 离天堂最近的地方</a> <span>2016-07-13</span></li>      
+                
+                <li class="newsline"><a href="http://www.lotour.com/zhengwen/1/lg-jc-13321.shtml" target="_blank" title="与世隔绝的天堂休假之马尔代夫">与世隔绝的天堂休假之马尔代夫</a> <span>2016-06-25</span></li>      
+                
+                <li class=""><a href="http://mdy.lotour.com/zj/1107541" target="_blank" title="马尔代夫莉莉岛8天6晚阳光沙滩（下）">马尔代夫莉莉岛8天6晚阳光沙滩（下）</a> <span>2015-01-27</span></li>      
+                
+                <li class=""><a href="http://mdy.lotour.com/zj/1107540" target="_blank" title="马尔代夫莉莉岛8天6晚阳光沙滩（上）">马尔代夫莉莉岛8天6晚阳光沙滩（上）</a> <span>2015-01-26</span></li>      
+                
+                <li class=""><a href="http://mdy.lotour.com/zj/1110787" target="_blank" title="等我们老了——马尔代夫中央格兰德蜜月旅行">等我们老了——马尔代夫中央格兰德蜜月旅行</a> <span>2015-01-25</span></li>      
+                
+                <li class=""><a href="http://mdy.lotour.com/zj/1670971" target="_blank" title="每个人身体里，都住着一个鲁滨逊">每个人身体里，都住着一个鲁滨逊</a> <span>2016-11-21</span></li>      
+                
+                
+            </ul>
+        </div>
+    </div>
+    <div class="bz-con clearfix">		
+		<div class="bz-con-tit clearfix">
+			<strong class="tit6"><a href="javascript:void(0)" title="">马尔代夫周边</a></strong> 
+			<ul class="zhoubian-tit">
+                
+                  <li><strong class="tit7"><a class="on" href="javascript:void(0)" title=""><i>6</i>蜜月跳岛</a></strong></li>    
+                			
+			</ul>			
+		</div>
+        
+           <div class="bz-tab" style="">
+			<div class="bz-con-l2">
+				<div class="bz-map"> <img width="520" height="508" src="http://img1.lotour.net/mustknow/2015/0325/2015032517293485263114.jpg" alt="" /> </div>				
+			</div>
+			<div class="bz-con-r3">
+				<div class="line-days"><span>6天</span></div>
+				<h3><a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/03/1269419.shtml" title="">蜜月跳岛</a></h3>
+				<p><p>第1天：<a href="http://mdy.lotour.com/weilasalu/" target="_blank" title="安莎娜薇拉瓦鲁岛">安莎娜薇拉瓦鲁岛</a>也叫海龟岛，面积不大，环境幽静且私密性好，小两口度蜜月再好不过了。从<a href="http://mdy.lotour.com/malei1/" target="_blank" title="马累">马累</a>机场坐水上飞机过去约40分钟。第2天：海上日出的景色很漂亮，当然想看的话就不能睡懒觉啦。继续享受浪漫二人世界，做做Spa、泡泡牛奶浴，无比美好。傍晚去黄昏海钓，扮一回浪漫版的渔人。第3天：依然尽情放松，你可以睡个懒觉，晚点起来。在海景别墅慵懒地度过甜蜜时光，或者去沙滩上自由自在地晒太阳。第4天：前往<a href="http://mdy.lotour.com/angsana/" target="_blank" title="阿格桑娜岛">阿格桑娜岛</a>，依然是一个隐秘幽静的小岛。浮潜、深潜环境非常不错。另外，还可坐2分钟快艇到对岸的<a href="http://mdy.lotour.com/wabinfaludao/" target="_blank" title="瓦宾法鲁岛">瓦宾法鲁岛</a>玩。第5天：今天就彻底放松吧，如果还想玩浮潜或深潜，都随心就好。第6天：离开海岛，去逛逛首都马累，感受马尔代夫的人文风光，还能挑选一些纪念品。<br /></p></p>
+			</div>
+		</div>   
+        
+	</div>
+
+</div>
+<script type="text/javascript">
+    var poi_list = [{"Latitude": 4.188772,"Longitude": 73.528516,"ScenicId":0},{"Latitude": 4.309919,"Longitude": 73.423959,"ScenicId":1},{"Latitude": 2.979888,"Longitude": 73.016237,"ScenicId":2},{"Latitude": 4.306688,"Longitude": 73.416105,"ScenicId":3}];
+    var poi_list1 = [{"Latitude": 4.283526,"Longitude": 73.554365,"ScenicId":4914},{"Latitude": 4.342498,"Longitude": 73.607363,"ScenicId":4868},{"Latitude": 4.174199,"Longitude": 73.510915,"ScenicId":375},{"Latitude": 4.249995,"Longitude": 73.54576,"ScenicId":4869}];
+    var mddid = parseInt('374');
+    var mdd_center = { lat:parseFloat('1.9772469'), lng:parseFloat('73.5361035'), zoom:parseInt('8') },map;
+    var marker_handle;
+    var markers = { };
+    var currPop;
+    var allPop = { };
+    var currOtherPop;
+    var allOtherPop = { };
+        var abc = ['A','B','C','D','E','F','G','H','I','J'];
+        $(window).on('resize', function () {
+            init_mapsize();//重绘页面
+        });
+        function initMaxMap(){
+            marker_handle = MarkerOverlay();
+            map_draw('jq-map-l', mdd_center, poi_list, "");
+            init_mapsize();    
+        }
+
+        //初始化地图浮层尺寸
+        function init_mapsize(){
+            $('#jq-map-l').width(520);
+            $('#jq-map-l').height(508);
+        }
+        //绘制地图上的数据
+        function map_draw(box, mdd_center, poi_list1, kmz) {
+            //地图
+            var myLatLng = new google.maps.LatLng(mdd_center.lat, mdd_center.lng);
+            var myOptions = {
+                zoom : mdd_center.zoom,
+                center : myLatLng,
+                panControl : true,
+                mapTypeId: google.maps.MapTypeId.ROADMAP
+            };
+            map = new google.maps.Map(document.getElementById(box), myOptions);
+            if(kmz!=''){
+                var areaborder = new google.maps.KmlLayer(kmz, {
+                    clickable:false
+                    //preserveViewport:mdd.preserveViewport
+                });
+                areaborder.setMap(map);
+            }
+            if(poi_list1.length==0) return;
+            var bounds = new google.maps.LatLngBounds();
+            var pagesize = poi_list1.length>10 ? 10 : poi_list1.length;
+            var order = 0;
+            //数据清空
+            markers = { };
+            allPop = { };
+            allOtherPop = { };
+            for(var i = 0; i < pagesize; i++){
+                var p = poi_list1[i];
+                var poi_id = p.ScenicId;
+                var latlng = new google.maps.LatLng(parseFloat(p.Latitude), parseFloat(p.Longitude));
+                bounds.extend(latlng);
+                var markerHtml = '<div class="map-mark" data-id="' + poi_id + '">'+abc[order]+'</div>';
+                var order = order + 1;       
+                markers[poi_id] = new marker_handle(map, markerHtml, latlng, function(){
+                });
+                markers[poi_id].id = poi_id;
+            }
+            map.fitBounds(bounds);
+        }
+
+        function GetDateStr(AddDayCount) {
+            var dd = new Date();
+            dd.setDate(dd.getDate() + AddDayCount); //获取AddDayCount天后的日期
+            var y = dd.getFullYear();
+            var m = dd.getMonth() + 1; //获取当前月份的日期
+            var d = dd.getDate();
+            return y + "-" + m + "-" + d;
+        }
+    $(function () {
+        setTimeout(function () { initMaxMap(); },3000);
+
+        $(".map-hotels").each(function () {
+            var _this = $(this), regionid = _this.attr("defferid"), regiontype = _this.attr("deffertype");
+            if (regiontype > 0) {
+                $.ajax({
+                    cache: false,
+                    type: "GET",
+                    url: "http://d.lotour.com/hotel/api/GethotelCountAndLowestPricenew",
+                    dataType: "jsonp",
+                    data: { "regionid": regionid, "regiontype": regiontype, "sdate": GetDateStr(1), "edate": GetDateStr(2) },
+                    success: function (data) {
+                        if (data.Count > 0) {
+                            _this.html("<i></i><a href=\"http://d.lotour.com/hotel/"+data.RetunUrl+"\" target=\"_blank\" title=\"\">共有" + data.Count + "家酒店<b>" + data.LowestPrice + "</b>元起</a>");
+                        }
+                    }
+                });
+            }
+        });
+
+        
+        
+
+        //左侧导航
+        $('.bz-nav:eq(1) dd').live('click', function () {
+            $(this).find("a").addClass("on");
+            $(this).siblings("dd").find("a").removeClass("on");
+            var index = $(this).parent().find("dd:visible").index($(this)),
+				 h = $('.bz-con').eq(index).offset().top - 60;
+            if (h < 318) {
+                $("html, body").animate({
+                    scrollTop: 233
+                }, 400);
+            } else {
+                $("html, body").animate({
+                    scrollTop: h
+                }, 400);
+            }
+        });
+        $(window).scroll(function () {
+            $('.bz-con').each(function () {
+                if ($(this).offset().top >= $(document).scrollTop() - $(this).outerHeight(true) + 120) {
+                    $('.bz-nav:eq(1) dd').eq($('.bz-con').index($(this))).find("a").addClass("on");
+                    $('.bz-nav:eq(1) dd').eq($('.bz-con').index($(this))).siblings("dd").find("a").removeClass("on");
+                    return false
+                }
+            });
+            var rollh = $(".bz-main").height() + 216 - $(".bz-nav:eq(1)").height();
+            if (rollh < $(document).scrollTop()) {
+                $(".bz-nav:eq(1)").hide();
+            } else {
+                $(".bz-nav:eq(1)").show();
+            };
+        });
+
+        //个性	
+        $(".bz-con1-con li").live("hover", function () {
+            $(this).toggleClass("hover");
+        });
+
+        //必体验
+        $(".bi-list li").mouseenter(function() {
+            $(this).find("h3").hide();
+            $(this).find(".mask").stop().slideDown();			
+        }).mouseleave(function() {
+            $(this).find(".mask").stop().slideUp("fast");	
+            $(this).find("h3").show();
+        });	
+
+        //包打听		
+        $(".bz-q-list li").live("hover", function () {
+            $(this).addClass("hover");
+            $(this).siblings("li").removeClass("hover");
+        });
+        $('.bz-tips-list li').live("hover", function () {
+            $(this).toggleClass("hover");
+        });
+        $('.baodating .roll-btn a').live('click', function () {
+            $(this).parent().siblings(".roll-con:not(:hidden)").find("li").removeClass("hover");
+        });
+
+        //tab切换
+        $(".bz-con-tit li").hover(function () {
+            var _this = $(this), ul = _this.parent(), li = ul.find('li'), index = li.index(_this);
+            ul.parent().siblings(".bz-tab").hide().eq(index).show();
+            li.find('a').removeClass("on");
+            _this.find('a').addClass("on");
+            var div=ul.parents("#dmap");
+            if(div.length>0){
+                if(index==0){
+                    map_draw('jq-map-l', mdd_center, poi_list, "");
+                    $("#ahotel").parents("p").addClass("sphl");
+                }
+                else{
+                    map_draw('jq-map-l', mdd_center, poi_list1, "");
+                    $("#ahotel").parents("p").removeClass("sphl");
+                }
+            }
+        });
+
+        $(".bz-map-list:eq(0) h3").hover(function(){
+            $('.map-mark[data-id='+$(this).attr('deffer')+']').toggleClass('on');
+        });
+
+        $(".bz-map-list:eq(1) li").hover(function(){
+            $('.map-mark[data-id='+$(this).attr('deffer')+']').toggleClass('on');
+        });
+
+        //地图右侧滚动
+        function maprRoll(){
+            $('.roll-con ul').each(function(){
+                var ulH=$(this).height(), n=Math.ceil(ulH/480);
+                $(this).css("height",ulH);	
+                if(ulH>504){
+                    $(this).css("height",n*480);					
+                }else{
+                    $(this).parent().siblings(".roll-btn").hide();
+                }				
+            });			
+			
+            $('.roll-up').live('click', function(){								
+                var $this = $(this).parent().siblings(".roll-con:not(:hidden)"), dltop = $this.scrollTop(), dlh = $('.roll-con ul').height()-450;
+                $this.animate({scrollTop: $this.scrollTop() - 480},200);				
+            });		
+            $('.roll-dwon').live('click', function () {		
+                var $this = $(this).parent().siblings(".roll-con"), dltop = $this.scrollTop(), dlh = $('.roll-con ul').height()-450;
+                $this.animate({scrollTop: $this.scrollTop() + 480},200);				
+            });		
+        };
+        maprRoll();
+
+        $(".wf-place2").each(function () {
+            var _this = $(this), author = _this.attr("deffer");
+            $.getJSON("http://my.lotour.com/i/Common/GetMemberMessage?memberId=" + author + "&callback=?", function (data) {
+                if (data.Success) {
+                    var result = data.Result.Data;
+                    _this.find("a").eq(0).html(result.NickName);
+                    if (result.VStatus > 0) {
+                        _this.find("i").removeClass("sphl");
+                        if (result.VStatus == 2) {
+                            _this.find("i").addClass("i-red");
+                        }
+                        else {
+                            _this.find("i").addClass("i-blue");
+                        }
+                    }
+                }
+            });
+        });
+    });
+</script>
+
+<!--=S 灵感推荐 -->
+<a class="lg-tuijian-btn" href="javascript:void(0)"></a>
+<div class="lg-tuijian">
+	<div class="lg-tuijian-con">
+    	<a class="lg-tuijian-x" href="javascript:void(0)"></a>
+        <h2 class="lg-tuijian-tit">马尔代夫旅游灵感推荐
+        
+            <a href="http://www.lotour.com/zhengwen/w374" target="_blank" title="">更多&gt;&gt;</a>
+        
+        </h2>
+        <ul class="lg-tuijian-list clearfix">
+        
+        	<li>
+            	<div class="img"><a href="http://www.lotour.com/zhengwen/2/lg-jc-26222.shtml" target="_blank" title=""><img src="http://img1.lotour.net/Inspiration/2016/1127/20161127212630786785830_1920_590.jpg" width="130" height="84" alt=""></a></div>
+                <div class="txt">
+                	<h3><a href="http://www.lotour.com/zhengwen/2/lg-jc-26222.shtml" target="_blank" title="走，我们去大海中央看日落">走，我们去大海中央看日落</a></h3>
+                    <p>作者：<a href="http://zhuanlan.lotour.com/21" target="_blank" title="">托斯卡纳</a></p>
+                    <div class="tags">
+                    	<a href="http://www.lotour.com/zhengwen/x3735" target="_blank" title="海滩海岛">海滩海岛</a>
+                    </div>
+                </div>
+            </li>
+         
+        	<li>
+            	<div class="img"><a href="http://www.lotour.com/zhengwen/2/lg-jc-25114.shtml" target="_blank" title=""><img src="http://img1.lotour.net/Inspiration/2016/1115/20161115015314185656546_1920_590.jpg" width="130" height="84" alt=""></a></div>
+                <div class="txt">
+                	<h3><a href="http://www.lotour.com/zhengwen/2/lg-jc-25114.shtml" target="_blank" title="马尔代夫，天堂与海洋的梦幻">马尔代夫，天堂与海洋的梦幻</a></h3>
+                    <p>作者：<a href="http://zhuanlan.lotour.com/785" target="_blank" title="">墨香丶诗韵</a></p>
+                    <div class="tags">
+                    	<a href="http://www.lotour.com/zhengwen/x3735" target="_blank" title="海滩海岛">海滩海岛</a>
+                    </div>
+                </div>
+            </li>
+         
+        	<li>
+            	<div class="img"><a href="http://www.lotour.com/zhengwen/1/lg-jc-8061.shtml" target="_blank" title=""><img src="http://img1.lotour.net/Inspiration/2016/0317/20160317060730248283363_1920_590.jpg" width="130" height="84" alt=""></a></div>
+                <div class="txt">
+                	<h3><a href="http://www.lotour.com/zhengwen/1/lg-jc-8061.shtml" target="_blank" title="在马尔代夫的海底来场浪漫邂逅">在马尔代夫的海底来场浪漫邂逅</a></h3>
+                    <p>作者：<a href="http://zhuanlan.lotour.com/100" target="_blank" title="">Jianier</a></p>
+                    <div class="tags">
+                    	<a href="http://www.lotour.com/zhengwen/x3752" target="_blank" title="潜水">潜水</a><a href="http://www.lotour.com/zhengwen/x3735" target="_blank" title="海滩海岛">海滩海岛</a>
+                    </div>
+                </div>
+            </li>
+           
+        </ul>
+    </div>	
+</div>
+<script type="text/javascript">
+    $(function(){
+        $(".lg-tuijian-list li:last").css("margin-right","0px");
+        if ($(window).width() < 1200) {
+            $(".lg-tuijian").addClass("lg-tuijian-s");
+        } else {
+            $(".lg-tuijian").removeClass("lg-tuijian-s");
+        }
+        $(".lg-tuijian-btn").mouseover(function(){
+            $(this).css("left","-75px");
+            $(".lg-tuijian").stop().animate({ 'left':'0' },800,'linear');		
+        }).trigger("mouseover");
+        $(".lg-tuijian-x").click(function(){		
+            $(".lg-tuijian").stop().animate({ 'left':'-100%' },500,'linear');
+            $(".lg-tuijian-btn").stop().animate({ 'left':'0' },600,'linear');		
+        });
+	
+    });
+</script>
+<!--=E 灵感推荐 -->
+
+    
+    <div class="main bdMain">
+        
+
+<div class="content">
+    <h2 class="conlist-tit">— 马尔代夫旅游行政区划 —</h2>
+    <div class="conlist-con">
+    
+        <dl>
+            <dt><a href="http://mdy.lotour.com/malei1/" title="马累">马累</a></dt>
+            <dd>
+            
+                <a href="http://mdy.lotour.com/zuanshidao/" title="钻石岛">钻石岛</a>
+          
+                <a href="http://mdy.lotour.com/diliuganlamudao/" title="第六感拉姆岛">第六感拉姆岛</a>
+          
+                <a href="http://mdy.lotour.com/wabinfaludao/" title="瓦宾法鲁岛">瓦宾法鲁岛</a>
+          
+                <a href="http://mdy.lotour.com/lilidao/" title="莉莉岛">莉莉岛</a>
+          
+                <a href="http://mdy.lotour.com/weilasalu/" title="安莎娜薇拉瓦鲁岛">安莎娜薇拉瓦鲁岛</a>
+          
+                <a href="http://mdy.lotour.com/xingfudao/" title="幸福岛">幸福岛</a>
+          
+                <a href="http://mdy.lotour.com/niyamadao/" title="尼亚玛岛">尼亚玛岛</a>
+          
+                <a href="http://mdy.lotour.com/yiludao/" title="伊露岛">伊露岛</a>
+          
+          </dd>
+        </dl>
+      
+    </div>
+</div>
+
+        <div class="content">
+            <div class="travel-recom">    	<h2 class="travel-t">国内游目的地推荐</h2>        <ul class="traver-c clear">        	<li><a title="" target="_blank" href="http://beijing.lotour.com/">北京</a></li><li><a title="" target="_blank" href="http://haerbin.lotour.com/">哈尔滨</a></li><li><a title="" target="_blank" href="http://dalian.lotour.com">大连</a></li><li><a title="" target="_blank" href="http://sanya.lotour.com/">三亚</a></li><li><a title="" target="_blank" href="http://lijiang.lotour.com/">丽江</a></li><li><a title="" target="_blank" href="http://nanjing.lotour.com/">南京</a></li><li><a title="" target="_blank" href="http://hangzhou.lotour.com/">杭州</a></li><li><a title="" target="_blank" href="http://chongqing.lotour.com/">重庆</a></li><li><a title="" target="_blank" href="http://chengdu.lotour.com/">成都</a></li><li><a title="" target="_blank" href="http://yangzhou.lotour.com/">扬州</a></li><li><a title="" target="_blank" href="http://shanghai.lotour.com/">上海</a></li><li><a title="" target="_blank" href="http://xiamen.lotour.com/">厦门</a></li><li><a title="" target="_blank" href="http://qinhuangdao.lotour.com/">秦皇岛</a></li><li><a title="" target="_blank" href="http://jssuzhou.lotour.com/">苏州</a></li><li><a title="" target="_blank" href="http://shangrao.lotour.com/">上饶</a></li><li><a title="" target="_blank" href="http://leshan.lotour.com/">乐山</a></li><li><a title="" target="_blank" href="http://tianjin.lotour.com/">天津</a></li><li><a title="" target="_blank" href="http://huangshan.lotour.com/">黄山</a></li><li><a title="" target="_blank" href="http://guangzhou.lotour.com/">广州</a></li><li><a title="" target="_blank" href="http://wenzhou.lotour.com/">温州</a></li><li><a title="" target="_blank" href="http://hangzhou.lotour.com/">杭州</a></li><li><a title="" target="_blank" href="http://xian.lotour.com/">西安</a></li><li><a title="" target="_blank" href="http://luoyang.lotour.com/">洛阳</a></li><li><a title="" target="_blank" href="http://chengde.lotour.com/">承德</a></li><li><a title="" target="_blank" href="http://qingdao.lotour.com/">青岛</a></li><li><a title="" target="_blank" href="http://weihai.lotour.com/">威海</a></li><li><a title="" target="_blank" href="http://jinan.lotour.com/">济南</a></li></li><li><a title="" target="_blank" href="http://taian.lotour.com/">泰安</a></li><li><a title="" target="_blank" href="http://beihai.lotour.com/">北海</a></li><li><a title="" target="_blank" href="http://changsha.lotour.com/">长沙</a></li><li><a title="" target="_blank" href="http://dalibaizu.lotour.com/">大理</a></li><li><a title="" target="_blank" href="http://guiyang.lotour.com/">贵阳</a></li><li><a title="" target="_blank" href="http://guilin.lotour.com/">桂林</a></li><li><a title="" target="_blank" href="http://haikou.lotour.com/">海口</a></li><li><a title="" target="_blank" href="http://hulunbeier.lotour.com/">呼伦贝尔</a></li><li><a title="" target="_blank" href="http://kaifeng.lotour.com/">开封</a></li><li><a title="" target="_blank" href="http://kunming.lotour.com/">昆明</a></li><li><a title="" target="_blank" href="http://lasa.lotour.com/">拉萨</a></li><li><a title="" target="_blank" href="http://mudanjiang.lotour.com/">牡丹江</a></li><li><a title="" target="_blank" href="http://ningbo.lotour.com/">宁波</a></li><li><a title="" target="_blank" href="http://qiqihaer.lotour.com/">齐齐哈尔</a></li><li><a title="" target="_blank" href="http://shaoxing.lotour.com/">绍兴</a></li><li><a title="" target="_blank" href="http://shenzhen.lotour.com/">深圳</a></li><li><a title="" target="_blank" href="http://shenyang.lotour.com/">沈阳</a></li><li><a title="" target="_blank" href="http://shijiazhuang.lotour.com/">石家庄</a></li><li><a title="" target="_blank" href="http://wulumuqi.lotour.com/">乌鲁木齐</a></li><li><a title="" target="_blank" href="http://wuxi.lotour.com/">无锡</a></li><li><a title="" target="_blank" href="http://wuhan.lotour.com/">武汉</a></li><li><a title="" target="_blank" href="http://yinchuan.lotour.com/">银川</a></li><li><a title="" target="_blank" href="http://zhuhai.lotour.com/">珠海</a></li>                   </ul>        <h2 class="travel-t">出境游目的地推荐</h2>        <ul class="traver-c clear">  <li><a title="" target="_blank" href="http://jpn.lotour.com/">日本</a></li><li><a title="" target="_blank" href="http://kor.lotour.com/">韩国</a></li><li><a title="" target="_blank" href="http://ind.lotour.com/">印度 </a></li><li><a title="" target="_blank" href="http://nep.lotour.com/">尼泊尔</a></li><li><a title="" target="_blank" href="http://tha.lotour.com/">泰国 </a></li><li><a title="" target="_blank" href="http://cam.lotour.com/">柬埔寨</a></li><li><a title="" target="_blank" href="http://gbr.lotour.com/">英国 </a></li><li><a title="" target="_blank" href="http://fra.lotour.com/">法国</a></li><li><a title="" target="_blank" href="http://tur.lotour.com/">土耳其</a></li><li><a title="" target="_blank" href="http://aus.lotour.com/">澳大利亚</a></li><li><a title="" target="_blank" href="http://nzl.lotour.com/">新西兰</a></li><li><a title="" target="_blank" href="http://ken.lotour.com/">肯尼亚</a></li><li><a title="" target="_blank" href="http://egy.lotour.com/">埃及</a></li><li><a title="" target="_blank" href="http://usa.lotour.com/">美国 </a></li> <li><a title="" target="_blank" href="http://mya.lotour.com/">缅甸</a></li><li><a title="" target="_blank" href="http://fin.lotour.com/">芬兰</a></li><li><a title="" target="_blank" href="http://swe.lotour.com/">瑞典</a></li><li><a title="" target="_blank" href="http://mri.lotour.com/">毛里求斯</a></li> </ul>    </div>
+
+        </div>
+        <div class="content">
+        <!--#include virtual="/share/commonfrag/frag_651.inc" -->
+        </div>
+         <script>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');  ga('create', 'UA-61162546-1', 'auto');  ga('send', 'pageview');</script>
+    </div>
+    
+<!--=S 公共底 -->  
+<div class="ltFooter">
+	<div class="ltfoot clear">
+		<div class="ltfootA">
+			<a href="http://corp.lotour.com/index.shtml" target="_blank" title="乐途介绍">乐途介绍</a><i>|</i><a href="http://corp.lotour.com/job_2.shtml" target="_blank" title="招贤纳士">招贤纳士</a><i>|</i><a href="http://corp.lotour.com/lotour_honour.shtml" target="_blank" title="网站荣誉">网站荣誉</a><i>|</i><a href="http://corp.lotour.com/contact.shtml" target="_blank" title="联系我们">联系我们</a><i>|</i><a href="http://corp.lotour.com/parter.shtml" target="_blank" title="合作伙伴">合作伙伴</a><i>|</i><a href="http://corp.lotour.com/adv_sev.shtml" target="_blank" title="营销形式">营销形式</a><i>|</i><a href="http://corp.lotour.com/adv_case.shtml" target="_blank" title="成功案例">成功案例</a><i>|</i><a href="http://member.lotour.com/" target="_blank" title="商家入驻">商家入驻</a><i>|</i><a href="http://member.lotour.com/" target="_blank" title="商家登录">商家登录</a><i>|</i><a href="http://d.lotour.com/yudingbangzhu/" target="_blank" title="预订帮助">预订帮助</a><i>|</i><a href="http://corp.lotour.com/term.shtml" target="_blank" title="服务条款">服务条款</a>
+		</div>
+		<div class="ltfootB">
+			<a class="btmLogo" target="_blank" href="http://www.lotour.com/" title="乐途旅游网"></a>
+			<p><a href="http://www.miibeian.gov.cn" target="_blank" title="">京ICP备12008860号-1</a>&nbsp;&nbsp;<a href="http://corp.lotour.com/licence_gd.shtml" target="_blank" title="">广电节目制作许可证：1313号</a>&nbsp;&nbsp;京公网安备：11010502001653<br />
+			<span class="Arial">Copyright &copy; 2005 - 2016&nbsp;&nbsp;<a href="http://www.lotour.com/" target="_blank">Lotour.com</a>&nbsp;&nbsp;All Rights Reserved.</span>&nbsp;<a href="http://www.lotour.com/" target="_blank" title="乐途旅游网">乐途旅游网</a>&nbsp;版权所有</p>
+			<a class="btmIco" target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202008020400006"></a>
+		</div>		
+	</div>
+</div>
+<!--=E 公共底 -->
+<script type="text/javascript" src="http://js.lotour.net/feedback_v1.js"></script><script type="text/javascript" src="http://js.lotour.net/analytics/statsv2.js" defer charset="UTF-8"></script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-39387460-1']);
+    _gaq.push(['_setDomainName', 'lotour.com']);
+    _gaq.push(['_addOrganic', 'baidu', 'word']);
+    _gaq.push(['_addOrganic', 'soso', 'w']);
+    _gaq.push(['_addOrganic', '3721', 'name']);
+    _gaq.push(['_addOrganic', 'yodao', 'q']);
+    _gaq.push(['_addOrganic', 'vnet', 'kw']);
+    _gaq.push(['_addOrganic', 'sogou', 'query']);
+    _gaq.push(['_addOrganic', '360', 'q']);
+    _gaq.push(['_addOrganic', 'so', 'q']);
+    var full_url = location.pathname + location.search + location.hash;
+    _gaq.push(['_trackPageview', full_url]);
+    _gaq.push(['_trackPageLoadTime']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F317768ad40e6ddbe20f10e89b4712c35' type='text/javascript'%3E%3C/script%3E"));
+
+
+</script>
+
+    <!--=S 右底工具条 -->
+<div class="toolbarNew">
+	<div class="tbarNewBtnS"></div>
+	<ul>
+		<li><a hidefocus="true" href="javascript:void(0);" method="been" deffer="374" class="footmark" title=""><i></i><span>我去过</span></a></li>
+		<li><a hidefocus="true" href="javascript:void(0);" method="want" deffer="374" class="addWantTo" title=""><i></i><span>我想去</span></a></li>
+		<li><a hidefocus="true" href="javascript:void(0);" method="help" deffer="374" deffername="马尔代夫" class="help" title=""><i></i><span>发求助</span></a> </li>
+		<li class="tbarShare"> <a href="javascript:void(0);" class="tbarShareIco"> <i></i> <span>分享</span> </a>
+			<div class="sharecon"> 
+				<!-- Baidu Button BEGIN -->
+				<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare"> <span class="bds_more"></span> </div>
+				<script type="text/javascript" id="bdshare_js" data="type=tools&amp;mini=1&amp;uid=0" ></script> 
+				<script type="text/javascript" id="bdshell_js"></script> 
+				<script type="text/javascript">
+				    document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                </script> 
+				<!-- Baidu Button END --> 
+			</div>
+		</li>
+	</ul>
+	<script type="text/javascript">
+	    $(function () {
+	        $(window).scroll(function () {
+	            var st = $(document).scrollTop(), winh = $(window).height();
+	            if (st > 0) {
+	                if ($('.tbarS').length > 0) { return false }
+	                $('.tbarNewBtnS').click()
+	                $('.toolbarNew').addClass('tbarS')
+	            } else if (st <= 0) {
+	                $('.tbarNewBtn').click()
+	                $('.toolbarNew').removeClass('tbarS')
+	            }
+	        });
+	        $('.tbarNewGtop').live('click', function () { $("html, body").animate({ scrollTop: 0 }, 120); })
+	        $('.tbarNewBtnS').live('click', function () {
+	            $('.toolbarNew ul').stop().animate({ 'height': '312px' })
+	            $('.tbarNewGtop').stop().animate({ 'height': '45px' })
+	            $(this).addClass('tbarNewBtn').removeClass('tbarNewBtnS');
+	            return false
+	        })
+	        $('.tbarNewBtn').live('click', function () {
+	            $('.toolbarNew ul').stop().animate({ 'height': '0px' })
+	            $('.tbarNewGtop').stop().animate({ 'height': '3px' })
+	            $(this).addClass('tbarNewBtnS').removeClass('tbarNewBtn');
+	            return false
+	        })
+
+	        $("a[method=been]").click(function () {
+	            var regionid = $(this).attr("deffer");
+	            var a = $("a[method=been][deffer=" + regionid + "]");
+	            $.getJSON("http://my.lotour.com/login/login/islogin?callback=?&" + (new Date()), function (data) {
+	                if (data.uid > 0)
+	                    a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.uid + "/?rid=" + regionid, "target": "_blank" });
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.memberId + "/?rid=" + regionid, "target": "_blank" });
+	                    }, function (data) {
+	                        SetTopState();
+	                        a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.memberId + "/?rid=" + regionid, "target": "_blank" });
+	                    }, 1, "http://my.lotour.com/i/NotesPublish/replaceUid?rid=" + regionid);
+	                }
+	            });
+	        });
+	        $("a[method=want]").click(function () {
+	            var regionid = $(this).attr("deffer"), month = new Date().getMonth() + 1;
+	            var a = $("a[method=want][deffer=" + regionid + "]");
+	            $.getJSON("http://my.lotour.com/login/login/islogin?callback=?&" + (new Date()), function (data) {
+	                if (data.uid > 0) {
+	                    $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    $('.layerBg').css('height', $(document).height()).show();
+	                }
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    }, function (data) {
+	                        SetTopState();
+	                        $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    }, 1, location.href.toString().replace("#", "") + "?rid=" + regionid + "&ReturnAction=dplace");
+	                }
+	            });
+	        });
+	        $("a[method=help]").click(function () {
+	            var regionid = $(this).attr("deffer"), rname = $(this).attr("deffername");
+	            $.getJSON('http://my.lotour.com/login/login/islogin?callback=?&' + (new Date()), function (data) {
+	                if (data.uid > 0) {
+	                    showHelp(regionid, rname);
+	                }
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        showHelp(regionid, rname);
+	                    }, function (data) {
+	                        SetTopState();
+	                        showHelp(regionid, rname);
+	                    }, 1, location.href.toString().replace("#", "") + "?rid=" + regionid + "&ReturnAction=ask");
+	                }
+	            });
+	        });
+	    });
+	    function showHelp(regionid, rname) {
+	        $('#ask_topic').fadeIn(500).loadAskPanel(0);
+	        $('.layerBg').css('height', $(document).height()).show();
+	        $('#txtAskRegionSelect1').val(rname).attr('disabled', 'disabled');
+	        $('#hidAskTopicRegionId1').val(regionid);
+	        $.ajax({
+	            cache: false,
+	            type: "GET",
+	            dataType: 'jsonp',
+	            jsonp: 'callback',
+	            url: "http://my.lotour.com/i/DPlace/AskTopic/GetBeenCount/",
+	            data: { regionId: regionid },
+	            success: function (data) {
+	                data = data.Result.Data;
+	                if (data.count > 0) {
+	                    $("#BeenMsg").html(data.count + "专家为您解答");
+	                }
+	            },
+	            error: function (xhr, textStatus, errorThrown) {
+	            }
+	        });
+	    }
+  </script>
+	<div class="tbarNewGtop"></div>
+</div>
+<!--=E 右底工具条 -->
+</body>
+</html>

@@ -1,0 +1,188 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="keywords" content="媒体分析 广告形式 招商合作 诚信会员 友情链接 法律顾问 招贤纳仕 成功案例 乐途历程 乐途地图 联系我们">
+<meta name="description" content="乐途旅游网的乐途简介是对网站的整体性介绍，让网友更详细的了解乐途旅游网的整体框架和信息内容">
+<link rel="shortcut icon" href="http://www.lotour.com/favicon2.ico" />
+<title>乐途简介_乐途旅游网</title>
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #FFA826;
+	scrollbar-face-color:#FFB84E;/*竖条*/
+	scrollbar-highlight-color:#FFD89D;/*边1*/
+	scrollbar-3dlight-color:#FFEED5;
+	scrollbar-darkshadow-color:#FF9000;
+	scrollbar-shadow-color:#C4BEB6;
+	scrollbar-arrow-color:#747474;/*箭头*/
+	scrollbar-track-color:#FFEBCC;
+}
+body,td,th {
+	color: #666666;
+	line-height: 20px;
+	font-size: 12px;
+}
+a {
+	font-size: 12px;
+	color: #FFFFFF;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a:hover {
+	text-decoration: underline;
+	color: #FFFFFF;
+}
+a:active {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.STYLE3 {
+	font-family: Arial;
+	font-size: 9px;
+	font-weight: normal;
+}
+a.l2:link {
+	text-decoration: none;
+	color: #ffffff;
+}
+a.l2:visited {
+	text-decoration: none;
+	color: #ffffff;
+}
+a.l2:hover {
+	text-decoration: underline;
+	color: #ffffff;
+}
+a.l2:active {
+	text-decoration: underline;
+	color: #ffffff;
+}
+.style8 {color: #666666}
+-->
+</style>
+<script type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<script language="javascript" src="jianjie.js"></script>
+</head>
+
+<body onLoad="MM_preloadImages('images/menu01_2.jpg','images/menu02_2.jpg','images/menu03_2.jpg','images/menu04_2.jpg','images/menu05_2.jpg','images/menu07_2.jpg','images/menu08_2.jpg','images/menu09_2.jpg')">
+<center>
+<table width="1004" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="images/head01.jpg" width="284" height="144"></td>
+    <td><img src="images/head02.jpg" width="260" height="144"></td>
+    <td><img src="images/head03.jpg" width="239" height="144"></td>
+    <td><img src="images/head04.jpg" width="221" height="144"></td>
+  </tr>
+</table>
+<table width="1004" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="160" valign="top" background="images/table_bg1.jpg"><table border="0" cellpadding="0" cellspacing="0" background="images/table_bg1.jpg">
+      <tr>
+        <td><a href="http://www.lotour.com" target="_blank"  onClick="hidemenu();" onMouseOver="MM_swapImage('Image6','','images/menu01_2.jpg',1)" onMouseOut="MM_swapImgRestore()" onFocus="this.blur()"><img src="images/menu01_1.jpg" name="Image6" width="160" height="48" border="0"></a></td>
+      </tr>
+      <tr>
+        <td><a href="about.html" onClick="hidemenu();showmenu('Image7','jianjie');" onMouseOver="MM_swapImage('Image7','','images/menu02_2.jpg',1);" onMouseOut="MM_swapImgRestore()" onFocus="this.blur()"><img src="images/menu02_1.jpg" name="Image7" width="160" height="28" border="0"></a></td>
+      </tr>
+	   <tr>
+        <td><a href="http://member.lotour.com/" target="_blank"  onClick="hidemenu();" onMouseOver="MM_swapImage('Image9','','images/menu04_2.jpg',1)" onMouseOut="MM_swapImgRestore()" onFocus="this.blur()"><img src="images/menu04_1.jpg" name="Image9" width="160" height="28" border="0"></a></td>
+      </tr>
+      <tr>
+        <td><a href="adv_sev.html" onClick="hidemenu();showmenu('Image8','guanggao');" onMouseOver="MM_swapImage('Image8','','images/menu03_2.jpg',1);" onMouseOut="MM_swapImgRestore()" onFocus="this.blur()"><img src="images/menu03_1.jpg" name="Image8" width="160" height="28" border="0"></a></td>
+      </tr>
+
+	  <tr>
+        <td><a href="job_1.html" onClick="hidemenu();showmenu('Image11','zhaoxian');" onMouseOver="MM_swapImage('Image11','','images/menu06_2.jpg',1);" onMouseOut="MM_swapImgRestore()" onFocus="this.blur()"><img src="images/menu06_1.jpg" name="Image11" width="160" height="28" border="0"></a></td>
+      </tr>
+     
+	  <tr>
+        <td><a href="term.html" target="_parent"  onClick="hidemenu();"  onMouseOver="MM_swapImage('Imfwtk','','images/menu10_2.jpg',1)" onMouseOut="MM_swapImgRestore()" onFocus="this.blur()"><img src="images/menu10_1.jpg" name="Imfwtk" width="160" height="28" border="0"></a></td>
+      </tr>
+	  <tr>
+        <td><a href="legal.html" target="_parent"  onClick="hidemenu();"  onMouseOver="MM_swapImage('Image12','','images/menu07_2.jpg',1)" onMouseOut="MM_swapImgRestore()" onFocus="this.blur()"><img src="images/menu07_2.jpg" name="Image12" width="160" height="28" border="0"></a></td>
+      </tr>
+	  <tr>
+        <td><a href="link.html" target="_parent"  onClick="hidemenu();" onMouseOver="MM_swapImage('Image13','','images/menu08_2.jpg',1)" onMouseOut="MM_swapImgRestore()" onFocus="this.blur()"><img src="images/menu08_1.jpg" name="Image13" width="160" height="28" border="0"></a></td>
+      </tr>
+	  <tr>
+        <td><a href="lotour_map.html" target="_parent"  onClick="hidemenu();" onMouseOver="MM_swapImage('Image15','','images/menu11_2.jpg',1)" onMouseOut="MM_swapImgRestore()" onFocus="this.blur()"><img src="images/menu11_1.jpg" name="Image15" width="160" height="28" border="0"></a></td>
+      </tr>
+      <tr>
+        <td><a href="http://member.lotour.com/chat0/suggest/addsuggest.aspx" target="_parent"  onClick="hidemenu();" onMouseOver="MM_swapImage('Image16','','images/menu12_2.jpg',1)" onMouseOut="MM_swapImgRestore()" onFocus="this.blur()"><img src="images/menu12_1.jpg" name="Image16" width="160" height="28" border="0"></a></td>
+      </tr>
+      <tr>
+        <td><a href="contact.html" target="_parent"  onClick="hidemenu();" onMouseOver="MM_swapImage('Image14','','images/menu09_2.jpg',1)" onMouseOut="MM_swapImgRestore()" onFocus="this.blur()"><img src="images/menu09_1.jpg" name="Image14" width="160" height="27" border="0"></a></td>
+      </tr>
+    </table></td>
+    <td width="678" valign="top" bgcolor="#FFFFFF"><table width="510" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td height="25">&nbsp;</td>
+      </tr>
+      <tr>
+        <td><img src="images/test13.jpg" width="196" height="35"></td>
+      </tr>
+    </table>
+<table width="671" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="671" style="padding-top:35px;padding-right:35px;padding-left:31px;padding-bottom:35px"><p>　　北京京翰律师事务所创建于2005年，办公场所位于享有&ldquo;陆路码头&rdquo;、&ldquo;花乡&rdquo;和&nbsp;&ldquo;航天城&rdquo;盛誉的、新兴的总部经济区的北京丰台科技园。秉承不断创新及追求卓越的现代法律理念，伴随着国家法治环境的改善和法治进程的加快，不断规范成熟，京翰以优秀的专业人才，先进豪华的办公环境，辅以完善的管理制度及充足勤恳的管理人员，使京翰得以高效的运作，高效的服务客户。在京翰帮助客户取得成功的同时，自身也因此得到了快速发展，成长为拥有几十名员工、千余平米办公面积的大型合伙制律师事务所。&nbsp;<strong></strong><br>
+  <br>
+  &nbsp; &nbsp;作为一家业务覆盖中外、客户群体广泛的综合性法律服务机构，京翰以杰出的业务能力为客户提供全方位的法律服务，无论是传统优势领域，还是新兴的业务领域，京翰始终处于中国法律服务的前沿。
+          <p>&nbsp;&nbsp; &nbsp;京翰律师均在国内外著名高等学府受过正规、严格的法学教育及专业训练，其中一些律师拥在国外律师事务所或其他商业机构工作的经验。多数律师为执业多年、具有丰富执业经验的资深律师。京翰律师以卓越的专业知识为向客户提供针对性强，质量高，富有效率的法律服务，促进客户在中国及全球的成功。<br>
+<br>
+            &nbsp; &nbsp;京翰始终坚持以社会效益第一、经济效益第二、全心全意为客户服务为办所方针；以坚持治所从严，办案从精为办所宗旨，全力打造优秀律师事务所，争当行业典范。 </p>
+          <p>地址：北京市丰台区航丰路1号时代财富天地1405-1409<br>
+           邮编：100070<br> 
+            电话：010-58090088<br>
+            传真：010-58090071 <br>
+            电子邮箱：bjjinghan@chinalawedu.com
+          </p></td>
+      </tr>
+    </table>  
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td><IFRAME frameBorder=0  marginHeight=0 
+                        marginWidth=0 scrolling=no 
+                        src="banquan.htm " 
+                        height=25 width=667></IFRAME></td>
+        </tr>
+    </table>    </td>
+    <td width="166" valign="top" background="images/table_bg2.jpg"><img src="images/head05.jpg" width="166" height="149"></td>
+  </tr>
+</table>
+</center>
+<script src='http://w.cnzz.com/c.php?id=30028854' language='JavaScript' charset='gb2312'></script>
+</body>
+</html>

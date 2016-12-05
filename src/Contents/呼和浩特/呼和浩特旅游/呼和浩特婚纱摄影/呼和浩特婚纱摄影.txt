@@ -1,0 +1,441 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>呼和浩特婚纱摄影_呼和浩特摄影工作室_呼和浩特婚纱影楼_幸福婚嫁网</title>
+<meta name="keywords" content="呼和浩特婚纱摄影,呼和浩特摄影工作室,呼和浩特婚纱影楼" />
+<meta name="description" content="幸福婚嫁网呼和浩特站为您提供呼和浩特婚纱摄影商家信息,最新的呼和浩特婚纱摄影电话、呼和浩特婚纱摄影地址、价格及优惠活动信息,是发布呼和浩特婚纱摄影信息最快的结婚网站。" />
+<link type="text/css" rel="stylesheet" href="http://img1.xfwed.com/s/2015/css/style.css" />
+<script type="text/javascript" src="http://img1.xfwed.com/s/2015/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://img1.xfwed.com/s/2015/js/js.js"></script>
+<script type="text/javascript" src="http://img1.xfwed.com/s/2015/js/jquery-1.9.1.js"></script>
+<script type="text/javascript" src="http://img1.xfwed.com/s/2015/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="http://img1.xfwed.com/s/2015/js/responsiveslides.js"></script>
+<script type="text/javascript" src="http://img1.xfwed.com/s/2015/js/home.js"></script>
+<script type="text/javascript" src="http://img1.xfwed.com/s/2015/js/site.js"></script>
+</head>
+<body>
+<div class="top">
+  <div class="wrap ml">
+    <div class="top-l txl fl">您好，欢迎来到呼和浩特婚纱摄影</div>
+    <div class="top-r txr fr">
+      <ul>
+        <script language="JavaScript" src="/aspx/userState.aspx" type="text/javascript"></script>
+      </ul>
+    </div>
+  </div>
+</div>
+<div id="header">
+  <div class="header wrap ml  oh"> <a href="http://hu.xfwed.com" title="呼和浩特婚纱摄影" class="logo"><img src="http://img1.xfwed.com/s/2015/images/logo.gif" alt="呼和浩特婚纱摄影" width="220" height="59"></a> <span class="page-name">呼和浩特<span>[<a href="http://www.xfwed.com/index.htm" title="切换">切换</a>]</span></span>
+    <div class="search-header">
+      <form name="form_search" id="form_search" action="http://vip.xfwed.com/search/" onsubmit="return checkForm();" method="get" target="_blank">
+        <input name="keys" id="keys" type="text" class="head-search-in" value="" placeholder="请输入您要找的商家名称">
+        <input name="submitsearch" type="submit" class="head-s-but" value="搜索">
+      </form>
+    </div>
+    <div class="gzxf"> <span>关注幸福：</span> <a class="tqq" href="http://e.t.qq.com/xfwedcom" target="_blank" rel="nofollow"></a> <a class="sn" href="http://weibo.com/xfwed" target="_blank" rel="nofollow"></a> <a class="qzone" href="http://user.qzone.qq.com/896903213/" target="_blank" rel="nofollow"></a> <a class="wx" href="#" target="_blank" rel="nofollow"></a> </div>
+  </div>
+</div>
+<div id="nav">
+  <div class="nav  wrap ml  ">
+    <div class="right-nav">
+      <p><a href="http://www.xfwed.com/ketang/" target="_blank" title="结婚资讯">资讯</a><a href="http://www.xfwed.com/gonglue/" target="_blank" title="结婚攻略">结婚攻略</a><a href="http://www.xfwed.com/wenda/" target="_blank" title="结婚知识问答">问答</a><a href="http://pic.xfwed.com/" target="_blank" title="婚纱照片分享">图库</a><a href="http://www.xfwed.com/show/" target="_blank" title="婚礼实拍">婚礼秀</a><a href="http://www.xfwed.com/topic/" target="_blank" title="婚嫁专题">专题</a><a href="http://www.xfwed.com/help/xinnianggongju.html" target="_blank" title="新娘结婚工具">工具</a></p>
+    </div>
+    <div class="nav-all txl"> <a href="javascript:" class="open-nav">全部商家分类<font size="-3"> ▼</font></a>
+      <ul class="nav-allul" style="display: none;">
+        <li class="m1"><a href="http://hu.xfwed.com/yinglou/" title="呼和浩特婚纱影楼">品牌影楼</a></li>
+        <li class="m2"><a href="http://hu.xfwed.com/hunsha/" title="呼和浩特摄影工作室">摄影工作室</a></li>
+        <li class="m3"><a href="http://hu.xfwed.com/wedding/" title="呼和浩特婚庆公司">婚庆策划</a></li>
+        <li class="m4"><a href="http://hu.xfwed.com/diamond/" title="呼和浩特婚戒首饰">婚戒首饰</a></li>
+        <li class="m5"><a href="http://hu.xfwed.com/dress/" title="呼和浩特婚纱礼服">婚纱礼服</a></li>
+        <li class="m6"><a href="http://hu.xfwed.com/yp/" title="呼和浩特婚礼用品">婚礼用品</a></li>
+        <li class="m7"><a href="http://hu.xfwed.com/hunli/" title="呼和浩特婚礼">四大金刚</a></li>
+      </ul>
+    </div>
+    <div class="nav-l">
+      <div class="new"><img width="21" height="14" alt="呼和浩特婚纱摄影优惠" src="http://img1.xfwed.com/s/2015/images/new.gif"></div>
+      <ul>
+        <li><a href="http://hu.xfwed.com/" title="呼和浩特婚纱摄影">首页</a></li>
+        <li><a href="http://hu.xfwed.com/sheying/" title="呼和浩特婚纱摄影排名">婚纱摄影</a></li>
+        <li><a href="http://hu.xfwed.com/wedding/" title="呼和浩特婚庆公司">婚庆服务</a></li>
+        <li><a href="http://hu.xfwed.com/coupon/" title="呼和浩特婚纱摄影优惠">12月特惠</a></li>
+        <li><a href="http://bbs.xfwed.com/hu/" title="呼和浩特结婚论坛" target="_blank">论坛</a></li>
+        <li><a href="http://www.xfwed.com/lvpai/" title="旅拍" target="_blank">旅拍</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="ad">
+<a href="http://www.xfwed.com/show/" target="_blank" rel="nofollow"><img src="http://www.xfwed.com/images/ColumnFolder/201507/C635719046752308842.jpg" width="1200" height="90" alt="婚礼真人秀" title="婚礼真人秀"/></a>
+</div>
+<div class="ibanner">
+  <div class="wrap ml oh">
+    <div class="ibleft fl">
+      <div class="ib-tit ibod pdl19">3步轻松拍婚纱照</div>
+      <span class="step3 pdl19">您的婚期：</span>
+      <input class="ibsel mgl19" id="weizhi" type="text" placeholder="请输入您的婚期" />
+      <span class="step3 mgl19">您拍婚纱照的预算为：</span>
+      <select class="ibsel mgl19" id="yusuan">
+        <option value="预算不限">预算不限</option>
+        <option value="3000元以下">3000元以下</option>
+        <option value="3000-5000元">3000-5000元</option>
+        <option value="5000-8000元">5000-8000元</option>
+        <option value="8000元以上">8000元以上</option>
+      </select>
+      <span class="step3 mgl19">您想要拍摄的风格：</span>
+      <select class="ibsel mgl19" id="fengge">
+        <option value="风格不限">风格不限</option>
+        <option value="唯美时尚">唯美时尚</option>
+        <option value="奢华宫廷">奢华宫廷</option>
+        <option value="个性定制">个性定制</option>
+        <option value="韩式风格">韩式风格</option>
+      </select>
+      <input type="submit" class="sub1 mgl19" id="submitinfo" value="立即查看" />
+    </div>
+    <div class="ibcenter fl ml19">
+      <div class="banner" style="overflow: hidden;">
+        <div id="wrapper">
+          <div class="homewrap-slider">
+            <ul class="rslides" id="home-slider">
+              <li><a href="http://www.xfwed.com/lvpai/" target="_blank" rel="nofollow" style="background:url(http://www.xfwed.com/images/ColumnFolder/201610/C636130053085691190.jpg) no-repeat center top;" title="全球旅拍"></a><p class="caption"></p></li>
+<li><a href="http://www.xfwed.com/gonglue/" target="_blank" rel="nofollow" style="background:url(http://www.xfwed.com/images/ColumnFolder/201507/C635719434236101647.gif) no-repeat center top;" title="结婚攻略"></a><p class="caption"></p></li>
+
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="ibright fr">
+      <ul>
+        <div class="ib-tit ibod1">呼和浩特婚纱摄影排行榜</div>
+        <li class="v"><a href="http://vip.xfwed.com/hhhtrococo" target="_blank" title="大连/三亚洛可可婚纱摄影会馆">大连/三亚洛可可婚纱摄影会馆</a></li>
+<li><a href="http://vip.xfwed.com/lidesy" target="_blank" title="呼和浩特摩登视觉婚纱摄影">呼和浩特摩登视觉婚纱摄影</a></li>
+<li><a href="http://vip.xfwed.com/htcdjsy" target="_blank" title="呼和浩特天长地久国际婚纱会馆">呼和浩特天长地久国际婚纱会馆</a></li>
+<li><a href="http://vip.xfwed.com/hhhtsh" target="_blank" title="呼和浩特拾光影像婚纱摄影">呼和浩特拾光影像婚纱摄影</a></li>
+<li><a href="http://vip.xfwed.com/ffsjsy" target="_blank" title="呼和浩特非凡视觉婚纱摄影集团">呼和浩特非凡视觉婚纱摄影集团</a></li>
+<li><a href="http://vip.xfwed.com/zunjue4" target="_blank" title="大连尊爵皇家婚纱摄影流行馆">大连尊爵皇家婚纱摄影流行馆</a></li>
+<li><a href="http://vip.xfwed.com/zxar" target="_blank" title="呼和浩特知心爱人婚纱摄影">呼和浩特知心爱人婚纱摄影</a></li>
+<li><a href="http://vip.xfwed.com/hhhtgsy" target="_blank" title="呼和浩特古摄影">呼和浩特古摄影</a></li>
+<li class="last"><a href="http://vip.xfwed.com/hhhtwwxn" target="_blank" title="呼和浩特薇薇新娘婚纱摄影">呼和浩特薇薇新娘婚纱摄影</a></li>
+
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="price oh">
+  <div class="wrap ml oh">
+    <div class="btit bb">呼和浩特婚纱摄影优惠<span></span><span class="more mt10 fz12"><a href="http://hu.xfwed.com/sheying/hd.html" target="_blank">更多&gt;</a></span></div>
+    <ul class="mt20 oh">
+      <li class="fl prmr"><div class="pic"><a href="http://vip.xfwed.com/hhhtwwxn/huodong.html" target="_blank" title="呼和浩特薇薇新娘婚纱摄影"><img src="http://www.xfwed.com/images/ColumnFolder/201507/C635721224720051472.jpg" alt="呼和浩特薇薇新娘婚纱摄影"></a><div class="ptit"><a href="http://vip.xfwed.com/hhhtwwxn/huodong.html" target="_blank" title="呼和浩特薇薇新娘婚纱摄影">呼和浩特薇薇新娘婚纱摄影</a></div></div><div class="desc"><span class="pink fz18  ml10">￥3699</span>&nbsp;&nbsp;<span class="hua fz12 ml30">门店价：￥8499</span></div><div class="tit"><a href="http://vip.xfwed.com/hhhtwwxn/order.html" target="_blank" rel="nofollow">[薇薇新娘] 国际摄影机构，为天下新人照出最美的你</a></div></li><li class="fl prmr"><div class="pic"><a href="http://vip.xfwed.com/hhhtgsy/huodong.html" target="_blank" title="呼和浩特古摄影"><img src="http://www.xfwed.com/images/ColumnFolder/201405/C635357711527343750.jpg" alt="呼和浩特古摄影"></a><div class="ptit"><a href="http://vip.xfwed.com/hhhtgsy/huodong.html" target="_blank" title="呼和浩特古摄影">呼和浩特古摄影</a></div></div><div class="desc"><span class="pink fz18  ml10">￥3699</span>&nbsp;&nbsp;<span class="hua fz12 ml30">门店价：￥4699</span></div><div class="tit"><a href="http://vip.xfwed.com/hhhtgsy/order.html" target="_blank" rel="nofollow">[古摄影] 婚纱艺术秉承“原创”的摄影理念,成为婚纱摄影行业的领先者</a></div></li><li class="fl prmr"><div class="pic"><a href="http://vip.xfwed.com/jujiao" target="_blank" title="聚焦婚纱摄影全球旅拍"><img src="http://www.xfwed.com/images/ColumnFolder/201610/C636130870936119559.jpg" alt="聚焦婚纱摄影全球旅拍"></a><div class="ptit"><a href="http://vip.xfwed.com/jujiao" target="_blank" title="聚焦婚纱摄影全球旅拍">聚焦婚纱摄影全球旅拍</a></div></div><div class="desc"><span class="pink fz18  ml10">￥7999</span>&nbsp;&nbsp;<span class="hua fz12 ml30">门店价：￥7999</span></div><div class="tit"><a href="http://vip.xfwed.com/jujiao/youhuiquan.html" target="_blank" rel="nofollow">聚焦摄影，不一样的自己</a></div></li><li class="fr"><div class="pic"><a href="http://vip.xfwed.com/rococo1999" target="_blank" title="大连洛可可婚纱摄影"><img src="http://www.xfwed.com/images/ColumnFolder/201507/C635718844808848337.jpg" alt="大连洛可可婚纱摄影"></a><div class="ptit"><a href="http://vip.xfwed.com/rococo1999" target="_blank" title="大连洛可可婚纱摄影">大连洛可可婚纱摄影</a></div></div><div class="desc"><span class="pink fz18  ml10">￥5699</span>&nbsp;&nbsp;<span class="hua fz12 ml30">门店价：￥7999</span></div><div class="tit"><a href="http://vip.xfwed.com/rococo1999/order.html" target="_blank" rel="nofollow">大连洛可可婚纱摄影“冰爽尝鲜”年中大促，给利回馈</a></div></li>
+    </ul>
+  </div>
+</div>
+<div class="zhuti oh">
+  <div class="wrap ml">
+    <div class="btit bb">呼和浩特婚纱摄影主题<span></span><span class="more mt10 fz12"><a href="http://hu.xfwed.com/sheying/" target="_blank">更多&gt;</a></span></div>
+    <div class="mt20">
+      <ul>
+        <li class="txc fl ztmr"><a href="http://vip.xfwed.com/mnls/photo.html" target="_blank" title="[蒙娜丽莎] 会馆"><img src="http://www.xfwed.com/images/ColumnFolder/201507/C635718829666412239.jpg" alt="[蒙娜丽莎] 会馆" /></a><div class="ztit"><a href="http://vip.xfwed.com/mnls/photo.html" target="_blank" title="[蒙娜丽莎] 会馆">[蒙娜丽莎] 会馆</a></div></li><li class="txc fl ztmr"><a href="http://vip.xfwed.com/jujiao/photo.html" target="_blank" title="[聚焦摄影] 韩式"><img src="http://www.xfwed.com/images/ColumnFolder/201507/C635718831558610467.jpg" alt="[聚焦摄影] 韩式" /></a><div class="ztit"><a href="http://vip.xfwed.com/jujiao/photo.html" target="_blank" title="[聚焦摄影] 韩式">[聚焦摄影] 韩式</a></div></li><li class="txc fl ztmr"><a href="http://vip.xfwed.com/newyork/photo.html" target="_blank" title="[纽约纽约婚纱] 爱从欣赏开始"><img src="http://www.xfwed.com/images/ColumnFolder/201507/C635718832784030557.jpg" alt="[纽约纽约婚纱] 爱从欣赏开始" /></a><div class="ztit"><a href="http://vip.xfwed.com/newyork/photo.html" target="_blank" title="[纽约纽约婚纱] 爱从欣赏开始">[纽约纽约婚纱] 爱从欣赏开始</a></div></li><li class="txc fr"><a href="http://vip.xfwed.com/qhdwdgd" target="_blank" title="[秦皇岛花瓣摄影] 心随海动"><img src="http://www.xfwed.com/images/ColumnFolder/201507/C635718835773621552.jpg" alt="[秦皇岛花瓣摄影] 心随海动" /></a><div class="ztit"><a href="http://vip.xfwed.com/qhdwdgd" target="_blank" title="[秦皇岛花瓣摄影] 心随海动">[秦皇岛花瓣摄影] 心随海动</a></div></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="ad">
+	<script language="JavaScript">var __dc_uid="24";var __dc_key="hu";</script>
+    <script src="http://www.xfwed.com/channel/list.js"></script>
+</div>
+<div class="service oh mt20">
+  <div class="wrap ml">
+    <div class="btit bb">呼和浩特婚庆服务<span></span><span class="more mt10 fz12"><a href="http://hu.xfwed.com/wedding/">婚庆公司</a>&nbsp;&nbsp;<a href="http://hu.xfwed.com/dress/">婚纱礼服</a>&nbsp;&nbsp;<a href="http://hu.xfwed.com/diamond/">钻石婚戒&gt;</a></span></div>
+    <div class="mt20">
+      <div class="sleft fl mr20">
+        <ul class="rslides" id="hunqing-slider">
+          <li><a href="http://pic.xfwed.com/photo109712.html" target="_blank" rel="nofollow"><img src="http://www.xfwed.com/images/ColumnFolder/201507/C635718808919285571.jpg" alt="27种悬吊式梦幻桌花" /></a><p class="caption"></p></li>
+        </ul>
+      </div>
+      <div class="smid fl ">
+        <ul>
+          <li class="fl"><div class="smpic"><a href="http://vip.xfwed.com/qingcheng" target="_blank" title="至爱倾城婚礼策划"><img src="http://www.xfwed.com/images/ColumnFolder/201507/C635719636515751382.jpg" alt="至爱倾城婚礼策划" /></a></div><div class="smtit"><a href="http://vip.xfwed.com/qingcheng" target="_blank" title="至爱倾城婚礼策划">至爱倾城婚礼策划</a></div></li><li class="fr"><div class="smpic"><a href="http://vip.xfwed.com/huahaige" target="_blank" title="花海阁婚礼策划"><img src="http://www.xfwed.com/images/ColumnFolder/201507/C635719636725113356.jpg" alt="花海阁婚礼策划" /></a></div><div class="smtit"><a href="http://vip.xfwed.com/huahaige" target="_blank" title="花海阁婚礼策划">花海阁婚礼策划</a></div></li><li class="fl"><div class="smpic"><a href="http://vip.xfwed.com/hongbaihe" target="_blank" title="红百合婚礼策划"><img src="http://www.xfwed.com/images/ColumnFolder/201507/C635719637057182350.jpg" alt="红百合婚礼策划" /></a></div><div class="smtit"><a href="http://vip.xfwed.com/hongbaihe" target="_blank" title="红百合婚礼策划">红百合婚礼策划</a></div></li><li class="fr"><div class="smpic"><a href="http://vip.xfwed.com/photographer" target="_blank" title="中摄组婚礼跟拍"><img src="http://www.xfwed.com/images/ColumnFolder/201507/C635719638046068911.jpg" alt="中摄组婚礼跟拍" /></a></div><div class="smtit"><a href="http://vip.xfwed.com/photographer" target="_blank" title="中摄组婚礼跟拍">中摄组婚礼跟拍</a></div></li>
+        </ul>
+      </div>
+      <div class="sright fr ">
+        <ul>
+          <div class="ib-tit ibod1">呼和浩特婚庆服务排行榜</div>
+          <li><a href="http://vip.xfwed.com/aiweiyi521" target="_blank" title="呼和浩特麦锐婚礼会馆">呼和浩特麦锐婚礼会馆</a></li>
+<li><a href="http://vip.xfwed.com/hhlywh" target="_blank" title="内蒙古龙韵文化传媒有限公司">内蒙古龙韵文化传媒有限公司</a></li>
+<li><a href="http://vip.xfwed.com/jhl99" target="_blank" title="金葫芦文化传播有限公司">金葫芦文化传播有限公司</a></li>
+<li><a href="http://vip.xfwed.com/hhhtxfc" target="_blank" title="呼和浩特幸福船婚庆公司">呼和浩特幸福船婚庆公司</a></li>
+<li><a href="http://vip.xfwed.com/zhilove99" target="_blank" title="呼和浩特挚爱时尚婚礼">呼和浩特挚爱时尚婚礼</a></li>
+<li><a href="http://vip.xfwed.com/xilage" target="_blank" title="呼和浩特喜拉阁婚礼策划">呼和浩特喜拉阁婚礼策划</a></li>
+<li><a href="http://vip.xfwed.com/hhhtysqy" target="_blank" title="一生情缘主题婚礼会馆">一生情缘主题婚礼会馆</a></li>
+<li><a href="http://vip.xfwed.com/nmgyjy" target="_blank" title="亿加缘婚庆（婚纱）小馆">亿加缘婚庆（婚纱）小馆</a></li>
+<li><a href="http://vip.xfwed.com/hhhtkly" target="_blank" title="呼和浩特克洛伊婚礼会馆">呼和浩特克洛伊婚礼会馆</a></li>
+<li class="last"><a href="http://vip.xfwed.com/hhhttcdjsy" target="_blank" title="呼和浩特天长地久国际婚纱会馆">呼和浩特天长地久国际婚纱会馆</a></li>
+
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="xnclass oh mt20">
+  <div class="wrap ml">
+    <div class="btit bb">新娘课堂<span></span><span class="more mt10 fz12"><a href="http://www.xfwed.com/ketang/" target="_blank">更多&gt;</a></span></div>
+    <div class="xnc_l fl">
+      <ul>
+                <li>
+          <div class="xlpic fl"><a href="http://www.xfwed.com/ketang/photography/20161276925.html" target="_blank" title="谁说团体照都呆版无趣? 36张令人回味无穷的创意婚礼亲友团合照!"><img src="http://www.xfwed.com/images/columnfolder/201612/c636162736223320261.jpg" alt="谁说团体照都呆版无趣? 36张令人回味无穷的创意婚礼亲友团合照!" /></a></div>
+          <div class="xlcon fr">
+            <div class="xltit"><a href="http://www.xfwed.com/ketang/photography/20161276925.html" target="_blank" title="谁说团体照都呆版无趣? 36张令人回味无穷的创意婚礼亲友团合照!">谁说团体照都呆版无趣? 36张令人回味无穷的创意婚礼亲友团合照!</a></div>
+            <div class="xldesc"> 与亲友团和伴娘伴郎的合影，是婚礼纪实中不可错过的画面。然而比起新人写真的单纯两人世界，人数越多，对于摄影师来说，往往越难发挥构图上的创意，因此绝大多数的亲友照，都是以传统排排站的姿势呈现。然而，婚礼纪实除了必拍的经典画面外，最能展现创意的地方就是团体写真。让以下的创意典范成为你的灵感来源，让团体照不再呆版，透过画面添加丰富有趣的生命力和故事性!</div>
+            <div class="xltime">2016/12/2</div>
+          </div>
+        </li>
+        <li>
+          <div class="xlpic fl"><a href="http://www.xfwed.com/ketang/hunli/20161276924.html" target="_blank" title="新娘裙下的秘密武器就是它! 19双集美丽与舒适于一身的平底婚鞋!"><img src="http://www.xfwed.com/images/columnfolder/201612/c636162011478187474.jpg" alt="新娘裙下的秘密武器就是它! 19双集美丽与舒适于一身的平底婚鞋!" /></a></div>
+          <div class="xlcon fr">
+            <div class="xltit"><a href="http://www.xfwed.com/ketang/hunli/20161276924.html" target="_blank" title="新娘裙下的秘密武器就是它! 19双集美丽与舒适于一身的平底婚鞋!">新娘裙下的秘密武器就是它! 19双集美丽与舒适于一身的平底婚鞋!</a></div>
+            <div class="xldesc"> 很多人说女人离不开高跟鞋，但事实上踩着高跟的步伐，并非每个人都能适应。对于平时习惯穿平底鞋的女孩们来说，若在婚礼这天为了爱美，而付上脚痛和走路不自然的代价，实在是种折磨。许多本身个子高的新娘，或许也不希望穿上高跟鞋后显得比男士们都还高。体贴女孩们特殊需要的平底婚鞋，近年来在婚礼界人气大涨。时尚平底婚鞋不仅舒适，而且设计得精致美丽，让新娘美得更自在，忙碌一整天也不觉得脚底有负担! 让以下大受欢迎的平底婚鞋款式，成为让妳轻松享受婚礼的秘密武器!</div>
+            <div class="xltime">2016/12/1</div>
+          </div>
+        </li>
+
+      </ul>
+    </div>
+    <div class="xnc_r fr">
+      <div class="xrimg fl"><a href="http://www.xfwed.com/gonglue/hyyqdx/" target="_blank" title="婚宴邀请短信大全" class="mt20"><img src="http://www.xfwed.com/images/ColumnFolder/201507/C635718825911637478.jpg" alt="婚宴邀请短信大全" /><span class="ritit">婚宴邀请短信大全</span></a><a href="http://www.xfwed.com/gonglue/hunliyouxi/" target="_blank" title="婚礼游戏大全" class="mt20"><img src="http://www.xfwed.com/images/ColumnFolder/201507/C635718826941226367.jpg" alt="婚礼游戏大全" /><span class="ritit">婚礼游戏大全</span></a></div>
+      <ul class="fr mt20">
+        <li class="fir"><a href="http://hu.xfwed.com/gonglue.html" title="呼和浩特婚纱摄影资讯" target="_blank">呼和浩特婚纱摄影资讯</a></li>
+        <li><a href="http://hu.xfwed.com/n20140162752.html" title="呼和浩特婚纱摄影拍婚纱照穿什么鞋子好看 尽显完美婚纱摄影" target="_blank">呼和浩特婚纱摄影拍婚纱照穿什么鞋子好看 尽显完美婚纱摄影</a></li><li><a href="http://hu.xfwed.com/n20140162724.html" title="拍婚纱照穿什么鞋最合适 不同场景选择不同款式" target="_blank">拍婚纱照穿什么鞋最合适 不同场景选择不同款式</a></li><li><a href="http://hu.xfwed.com/n20140162697.html" title="呼和浩特婚纱摄影新人拍婚纱照姿势攻略 注意细节定格最美瞬间" target="_blank">呼和浩特婚纱摄影新人拍婚纱照姿势攻略 注意细节定格最美瞬间</a></li><li><a href="http://hu.xfwed.com/n20140162665.html" title="小胸新娘拍婚纱照穿什么内衣 塑造出迷人的胸部曲线" target="_blank">小胸新娘拍婚纱照穿什么内衣 塑造出迷人的胸部曲线</a></li><li><a href="http://hu.xfwed.com/n20140162630.html" title="呼和浩特婚纱摄影胖MM拍婚纱照注意 打造专属胖新娘的美丽" target="_blank">呼和浩特婚纱摄影胖MM拍婚纱照注意 打造专属胖新娘的美丽</a></li><li><a href="http://hu.xfwed.com/n20140162591.html" title="孕妈妈拍婚纱照注意事项 让婚纱照更加迷人" target="_blank">孕妈妈拍婚纱照注意事项 让婚纱照更加迷人</a></li><li><a href="http://hu.xfwed.com/n20140162565.html" title="呼和浩特婚纱摄影盘点新人拍海景婚纱照必备单品" target="_blank">呼和浩特婚纱摄影盘点新人拍海景婚纱照必备单品</a></li><li><a href="http://hu.xfwed.com/n20140162536.html" title="拍婚纱照如何挑选婚鞋 四个技巧尽显新娘魅力" target="_blank">拍婚纱照如何挑选婚鞋 四个技巧尽显新娘魅力</a></li><li><a href="http://hu.xfwed.com/n20140162516.html" title="呼和浩特婚纱摄影教你拍婚纱照巧妙挑选内衣" target="_blank">呼和浩特婚纱摄影教你拍婚纱照巧妙挑选内衣</a></li><li><a href="http://hu.xfwed.com/n20140162490.html" title="拍婚纱照穿什么鞋子 彰显新娘完美气质" target="_blank">拍婚纱照穿什么鞋子 彰显新娘完美气质</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="mtdp  oh mt20">
+  <div class="wrap ml">
+    <div class="btit bb">
+      <h1 class="fl">结婚美图</h1>
+      <span class="ml19 fl mt10">&nbsp;</span> <span class="mtag fl mt10 fz12"><a href="http://pic.xfwed.com/list_1.html" title="婚纱照风格" target="_blank">婚纱照</a></span> <span class="mtag fl mt10 fz12"><a href="http://pic.xfwed.com/list_2.html" title="个性写真欣赏" target="_blank">个性写真</a></span> <span class="mtag fl mt10 fz12"><a href="http://pic.xfwed.com/list_3.html" title="明星婚纱照片欣赏" target="_blank">明星婚纱照</a></span> <span class="mtag fl mt10 fz12"><a href="http://pic.xfwed.com/list_4.html" title="时尚婚礼" target="_blank">时尚婚礼</a></span> <span class="mtag fl mt10 fz12"><a href="http://pic.xfwed.com/list_5.html" title="婚纱礼服欣赏" target="_blank">婚纱礼服</a></span> <span class="mtag fl mt10 fz12"><a href="http://pic.xfwed.com/list_6.html" title="蜜月旅行" target="_blank">蜜月旅行</a></span> <span class="more mt10 fz12"><a href="http://pic.xfwed.com/" title="婚纱照片欣赏" target="_blank">更多&gt;</a></span> </div>
+    <div class="mtbox">
+      <div class="mtl fl oh">
+        <h1>婚纱照</h1>
+        <ul>
+          <li><a href="http://pic.xfwed.com/list_1_1_0_0_1.html" target="_blank">唯美风格</a></li>
+          <li><a href="http://pic.xfwed.com/list_1_14_0_0_1.html" target="_blank">韩式风格</a></li>
+          <li><a href="http://pic.xfwed.com/list_1_7_0_0_1.html" target="_blank">创意风格</a></li>
+          <li><a href="http://pic.xfwed.com/list_1_8_0_0_1.html" target="_blank">复古风格</a></li>
+          <li><a href="http://pic.xfwed.com/list_1_5_0_0_1.html" target="_blank">清纯风格</a></li>
+          <li><a href="http://www.xfwed.com/ketang/mingxinghs/" target="_blank">明星婚纱</a></li>
+        </ul>
+        <h1>明星婚纱</h1>
+        <ul>
+          <li><a href="http://pic.xfwed.com/list_3.html" target="_blank">明星婚纱照</a></li>
+          <li><a href="http://pic.xfwed.com/list_2.html" target="_blank">个性写真</a></li>
+          <li><a href="http://www.xfwed.com/tuku/mingxing/" target="_blank">明星写真</a></li>
+        </ul>
+        <h1>时尚婚礼</h1>
+        <ul>
+          <li><a href="http://pic.xfwed.com/list_4.html" target="_blank">时尚婚礼</a></li>
+          <li><a href="http://pic.xfwed.com/list_5.html" target="_blank">婚纱礼服</a></li>
+          <li><a href="http://pic.xfwed.com/list_6.html" target="_blank">蜜月旅行</a></li>
+          <li><a href="http://www.xfwed.com/tuku/xinniangpenghua/" target="_blank">新娘捧花</a></li>
+          <li><a href="http://www.xfwed.com/tuku/hunxie/" target="_blank">婚鞋</a></li>
+          <li><a href="http://www.xfwed.com/tuku/hunlishipin/" target="_blank">婚礼饰品</a></li>
+        </ul>
+        <h1>五花八门</h1>
+        <ul>
+          <li><a href="http://pic.xfwed.com/list_7.html" target="_blank">五花八门</a></li>
+          <li><a href="http://www.xfwed.com/tuku/meinvyouwu/" target="_blank">美女图库</a></li>
+          <li><a href="http://www.xfwed.com/ketang/room/" target="_blank">婚房装修</a></li>
+        </ul>
+        <span class="mtlspan"><a href="http://pic.xfwed.com/" title="婚纱照片欣赏" target="_blank">· <font color="#FF0000">300万</font>张海量美图&nbsp;每日更新</a></span> </div>
+      <div class="mtr fr oh">
+        <ul>
+          <li><a href="http://www.xfwed.com/ketang/mingxinghs/20161176919.html" target="_blank" title="高甜虐狗！陈紫函戴向宇旅行婚纱"><img src="http://www.xfwed.com/images/ColumnFolder/201612/C636162829600891153.jpg" alt="高甜虐狗！陈紫函戴向宇旅行婚纱" /><div class="mtit">高甜虐狗！陈紫函戴向宇旅行婚纱</div></a></li><li><a href="http://www.xfwed.com/ketang/miyue/20161176901.html" target="_blank" title="新婚蜜月旅游 带你浪漫带你飞"><img src="http://www.xfwed.com/images/ColumnFolder/201611/C636154968114185978.jpg" alt="新婚蜜月旅游 带你浪漫带你飞" /><div class="mtit">新婚蜜月旅游 带你浪漫带你飞</div></a></li><li><a href="http://pic.xfwed.com/photo176055.html" target="_blank" title="王俊凯街头写真 演绎美少年成长记"><img src="http://www.xfwed.com/images/ColumnFolder/201612/C636162827773856652.jpg" alt="王俊凯街头写真 演绎美少年成长记" /><div class="mtit">王俊凯街头写真 演绎美少年成长记</div></a></li><li><a href="http://pic.xfwed.com/photo176748.html" target="_blank" title="钟丽缇张伦硕中式婚纱照"><img src="http://www.xfwed.com/images/ColumnFolder/201611/C636147150404994285.jpg" alt="钟丽缇张伦硕中式婚纱照" /><div class="mtit">钟丽缇张伦硕中式婚纱照</div></a></li><li><a href="http://pic.xfwed.com/photo176054.html" target="_blank" title="国民弟弟吴磊 深秋时尚大片曝光"><img src="http://www.xfwed.com/images/ColumnFolder/201611/C636138562454723361.jpg" alt="国民弟弟吴磊 深秋时尚大片曝光" /><div class="mtit">国民弟弟吴磊 深秋时尚大片曝光</div></a></li><li><a href="http://pic.xfwed.com/photo176056.html" target="_blank" title="《爸爸4》阿拉蕾崔雅涵走红"><img src="http://www.xfwed.com/images/ColumnFolder/201611/C636138561933913572.jpg" alt="《爸爸4》阿拉蕾崔雅涵走红" /><div class="mtit">《爸爸4》阿拉蕾崔雅涵走红</div></a></li><li><a href="http://pic.xfwed.com/photo168563.html" target="_blank" title="FIESTAR成员Jei婚纱写真"><img src="http://www.xfwed.com/images/ColumnFolder/201608/C636065062284183363.jpg" alt="FIESTAR成员Jei婚纱写真" /><div class="mtit">FIESTAR成员Jei婚纱写真</div></a></li><li><a href="http://www.xfwed.com/ketang/hunshi/20160876598.html" target="_blank" title="DIY纽扣手捧花 与众不同的创意"><img src="http://www.xfwed.com/images/ColumnFolder/201608/C636072120411939516.jpg" alt="DIY纽扣手捧花 与众不同的创意" /><div class="mtit">DIY纽扣手捧花 与众不同的创意</div></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="gongju oh mt20">
+  <div class="wrap ml">
+    <ul>
+      <li class="fl gjmr"><a class="hovi" href="http://www.xfwed.com/help/xinnianggongju.html" target="_blank">结婚工具</a> </li>
+      <li class="fl gjmr jhgj ico1"> <a class="hov" href="http://www.xfwed.com/zt/jiehunzheng/" target="_blank">结婚登记</a> </li>
+      <li class="fl gjmr jhgj ico2"> <a class="hov" href="http://www.xfwed.com/tools/hetong/" target="_blank">合同模板</a> </li>
+      <li class="fl gjmr jhgj ico3"> <a class="hov" href="http://www.xfwed.com/zt/2010/hlzc/" target="_blank">致辞大全</a> </li>
+      <li class="fl gjmr jhgj ico4"> <a class="hov" href="http://www.xfwed.com/ketang/hunlixisu/20161076812.html" target="_blank">结婚吉日</a> </li>
+      <li class="fl gjmr jhgj ico5"> <a class="hov" href="http://www.xfwed.com/tools/music/" target="_blank">结婚音乐</a> </li>
+      <li class="fl gjmr jhgj ico6"> <a class="hov" href="http://bbs.xfwed.com/thread-27508-1-1.html" target="_blank">待办事项</a> </li>
+      <li class="fl gjmr jhgj ico7"> <a class="hov" href="http://www.xfwed.com/gonglue/" target="_blank">结婚攻略</a> </li>
+      <li class="fr jhgj ico8"> <a class="hov lasth" href="#">结婚计划表</a> </li>
+    </ul>
+  </div>
+</div>
+<div class="rmcs  oh mt20">
+  <div class="wrap ml">
+    <div class="rml fl">热门城市</div>
+    <div class="rmr fr">
+      <ul>
+        <li><a href="http://bj.xfwed.com/" title="北京婚纱摄影">北京</a></li>
+        <li><a href="http://sh.xfwed.com/" title="上海婚纱摄影">上海</a></li>
+        <li><a href="http://gz.xfwed.com/" title="广州婚纱摄影">广州</a></li>
+        <li><a href="http://sz.xfwed.com/" title="深圳婚纱摄影">深圳</a></li>
+        <li><a href="http://tianjin.xfwed.com/" title="天津婚纱摄影">天津</a></li>
+        <li><a href="http://cq.xfwed.com/" title="重庆婚纱摄影">重庆</a></li>
+        <li><a href="http://su.xfwed.com/" title="苏州婚纱摄影">苏州</a></li>
+        <li><a href="http://chengdu.xfwed.com/" title="成都婚纱摄影">成都</a></li>
+        <li><a href="http://wh.xfwed.com/" title="武汉婚纱摄影">武汉</a></li>
+        <li><a href="http://qingdao.xfwed.com/" title="青岛婚纱摄影">青岛</a></li>
+        <li><a href="http://hf.xfwed.com/" title="合肥婚纱摄影">合肥</a></li>
+        <li><a href="http://km.xfwed.com/" title="昆明婚纱摄影">昆明</a></li>
+        <li><a href="http://sanya.xfwed.com/" title="三亚婚纱摄影">三亚</a></li>
+        <li><a href="http://lj.xfwed.com/" title="丽江婚纱摄影">丽江</a></li>
+        <li><a href="http://gy.xfwed.com/" title="贵阳婚纱摄影">贵阳</a></li>
+        <li><a href="http://sjz.xfwed.com/" title="石家庄婚纱摄影">石家庄</a></li>
+        <li><a href="http://qhd.xfwed.com/" title="秦皇岛婚纱摄影">秦皇岛</a></li>
+        <li><a href="http://hrb.xfwed.com/" title="哈尔滨婚纱摄影">哈尔滨</a></li>
+        <li><a href="http://zz.xfwed.com/" title="郑州婚纱摄影">郑州</a></li>
+        <li><a href="http://cs.xfwed.com/" title="长沙婚纱摄影">长沙</a></li>
+        <li><a href="http://cc.xfwed.com/" title="长春婚纱摄影">长春</a></li>
+        <li><a href="http://nc.xfwed.com/" title="南昌婚纱摄影">南昌</a></li>
+        <li><a href="http://nj.xfwed.com/" title="南京婚纱摄影">南京</a></li>
+        <li><a href="http://wx.xfwed.com/" title="无锡婚纱摄影">无锡</a></li>
+        <li><a href="http://nt.xfwed.com/" title="南通婚纱摄影">南通</a></li>
+        <li><a href="http://shenyang.xfwed.com/" title="沈阳婚纱摄影">沈阳</a></li>
+        <li><a href="http://dl.xfwed.com/" title="大连婚纱摄影">大连</a></li>
+        <li><a href="http://jn.xfwed.com/" title="济南婚纱摄影">济南</a></li>
+        <li><a href="http://xa.xfwed.com/" title="西安婚纱摄影">西安</a></li>
+        <li><a href="http://ty.xfwed.com/" title="太原婚纱摄影">太原</a></li>
+        <li><a href="http://hz.xfwed.com/" title="杭州婚纱摄影">杭州</a></li>
+        <li><a href="http://nb.xfwed.com/" title="宁波婚纱摄影">宁波</a></li>
+        <li><a href="http://nn.xfwed.com/" title="南宁婚纱摄影">南宁</a></li>
+        <li><a href="http://hu.xfwed.com/" title="呼和浩特婚纱摄影">呼和浩特</a></li>
+        <li><a href="http://wlmq.xfwed.com/" title="乌鲁木齐婚纱摄影">乌鲁木齐</a></li>
+        <li><a href="http://www.xfwed.com/index.htm">更多&gt;</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="yqlj  oh mt20">
+  <div class="wrap ml">
+    <div class="yql fl">友情链接</div>
+    <div class="yqr fr">
+      <ul>
+        <li><a href="http://huhehaote.city8.com/roadview/" target="_blank">呼和浩特景点</a></li>
+<li><a href="http://fang.99fang.com/huhehaote/" target="_blank">呼和浩特租房</a></li>
+<li><a href="http://www.xituan.com/c-huhehaote/" target="_blank">呼和浩特婚纱摄影</a></li>
+<li><a href="http://hu.netbj.org.cn/" target="_blank">呼和浩特便捷网</a></li>
+<li><a href="http://hu.dadou.com/" target="_blank">呼和浩特生活网</a></li>
+<li><a href="http://neimenggu.tuliu.com/" target="_blank">内蒙古土地</a></li>
+<li><a href="http://huhehaote.525j.com.cn" target="_blank">呼和浩特家居装修</a></li>
+<li><a href="http://www.yizhaopin.com/huhehaote" target="_blank">呼和浩特招聘</a></li>
+<li><a href="http://www.bbhun.com/huhehaote/" target="_blank">呼和浩特婚纱摄影</a></li>
+<li><a href="http://hhht.haozu.com/community/" target="_blank">呼和浩特小区</a></li>
+<li><a href="http://huhehaote.525j.com.cn/" target="_blank">呼和浩特装修建材</a></li>
+<li><a href="http://huhehaote.tianqi.com" target="_blank">呼和浩特天气</a></li>
+<li><a href="http://huhehaote.lotour.com/" target="_blank">呼和浩特旅游</a></li>
+<li><a href="http://nmg.ganji.com/hunshasheying/" target="_blank">呼和浩特婚纱摄影</a></li>
+<li><a href="http://neimenggu.tuliu.com/" target="_blank">内蒙古土地流转</a></li>
+<li><a href="http://hhht.jxedt.com/" target="_blank">呼和浩特驾校一点通</a></li>
+<li><a href="http://www.meilele.com/huhehaote/" target="_blank">呼和浩特家具城</a></li>
+
+        <li><a href="javascript:" target="_blank">（友情链接QQ：787835815）</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div id="footer">
+  <div class="footer">
+    <p class="footer-nav"><a href="http://www.xfwed.com/about/about.htm" rel="nofollow">关于幸福</a><a href="http://www.xfwed.com/about/job.htm" rel="nofollow">人才招聘</a><a href="http://www.xfwed.com/kanli/cityadd.html" rel="nofollow">商家入驻</a><a href="http://www.xfwed.com/about/ad.htm" rel="nofollow">广告服务</a><a href="http://www.xfwed.com/about/lianxi.htm" rel="nofollow">联系我们</a><a href="http://www.xfwed.com/about/clause.htm" rel="nofollow">服务条款</a><a href="http://www.xfwed.com/about/state.htm" rel="nofollow">免责声明</a><a href="http://www.xfwed.com/index.htm">城市导航</a><a href="http://www.xfwed.com/about/opinion.htm" rel="nofollow">投诉意见</a>
+      <script src="http://www.xfwed.com/js/tongji.js" language="javascript"></script>
+    </p>
+    <p>&copy;2007-2016 www.xfwed.com All Rights Reserved. <a href="http://www.xfwed.com/" title="婚纱摄影">幸福婚嫁网</a> 版权所有 禁止非法复制 </p>
+    <p>电信与信息服务业务经营许可证：京ICP证090818号 京ICP备：13013799号-1 京公网安备11010502023853</p>
+  </div>
+</div>
+
+<!-- addresssms -->
+<div class=" m0a mb20 login submitinfo main">
+  <div class="title">提交您的需求信息<span class="more close mt5"><a href="javascript::" id="submitclose">X</a></span></div>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+      <tr>
+        <td width="93" height="50" align="right" class="f14px c49">姓名：</td>
+        <td><input name="txtName" type="text" id="txtName" class="ipt" maxlength="20" onfocus="this.style.background= '#ffffe0'; " onblur="this.style.background= ''; "></td>
+      </tr>
+      <tr>
+        <td height="60" align="right" class="f14px c49 mt">手机号：</td>
+        <td><input name="txtTel" type="text" id="txtTel" class="ipt" maxlength="15" onfocus="this.style.background= '#ffffe0'; " onblur="this.style.background= ''; " placeholder="请填写真实手机号码，接收手机短信"></td>
+      </tr>
+      <tr>
+        <td height="60">&nbsp;</td>
+        <td valign="middle"><table border="0" cellspacing="0" cellpadding="0">
+            <tbody>
+              <tr>
+                <td width="168"><input type="button" value="确认提交" class="subinfo" id="smsaddress" onclick="subInfo()"></td>
+                <td width="86" valign="bottom"></td>
+              </tr>
+            </tbody>
+          </table></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div data-widget-cid="widget-0" class="ui-mask" id="ui-mask" style=" display:none;position: fixed; top: 0px; left: 0px; width: 100%; height: 100%; z-index: 999998; opacity: 0.7; background-color: rgb(0, 0, 0);">
+<!-- //.addresssms -->
+<script type="text/javascript">
+$("#submitinfo").click(function(){
+	$(".ui-mask").css("display","block")
+	$(".submitinfo").css("display","block")
+})
+$("#submitclose").click(function(){
+	$(".ui-mask").css("display","none")
+	$(".submitinfo").css("display","none")
+})
+function subInfo()
+{
+	var weizhi=$("#weizhi").val();
+	var yusuan=$("#yusuan").val();
+	var fengge=$("#fengge").val();
+	var name=document.getElementById("txtName").value;
+	var tel=document.getElementById("txtTel").value;
+	if(name=="")
+	{
+		alert("姓名不能为空");
+		$("#txtAddressName").focus();
+		return false;
+	}
+	if(tel=="")
+	{
+		alert("手机号不能为空");
+		$("#txtAddressTel").focus();
+		return false;
+	}
+	if(!isMobil(tel))
+	{
+		alert("请输入正确的手机号码");
+		$("#txtAddressTel").focus();
+		return false;
+	}
+    $.ajax({
+	   async:false,
+	   type: "POST",
+	   url: "/post/sutInfo.aspx?city="+escape('呼和浩特')+"&name="+escape(name)+"&tel="+escape(tel)+"&weizhi="+escape(weizhi)+"&yusuan="+escape(yusuan)+"&fengge="+escape(fengge)+"&c="+MathRand(),
+	   success: function(msg){
+		 if(trim(msg)=="true"){
+			 alert("您的需求我们已经收到，我们将尽快与您取的联系！");
+			 $(".ui-mask").css("display","none");
+			 $(".submitinfo").css("display","none");
+		 }else{
+			 alert("有误,请稍候重试");
+		 }
+	   },
+	   error:function (XMLHttpRequest, textStatus, errorThrown){
+		   alert("有误,请稍候重试");
+	   }
+	});
+}
+</script>
+</body>
+</html>
+

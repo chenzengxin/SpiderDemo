@@ -1,0 +1,2230 @@
+<!doctype html>
+<head>
+    <meta charset="utf-8">
+    <title>广西二手车交易市场_广西二手车交易网_广西可靠二手车网站_广西二手汽车报价大全_中国二手车城</title>
+    <meta name="keywords" content="广西二手车，广西二手车交易市场，广西二手车市场，广西二手车交易网，广西二手车交易，正规广西二手车，广西二手车报价，广西收二手车，广西二手货车，广西二手车买卖，广西私家二手车，广西出售二手车信息" />
+    <meta name="description" content="广西二手车交易网是专业广西二手车网站，每天发布广西二手车交易市场的正规广西二手车，广西二手车行情每天更新，如新广西二手车市场价格，包括广西二手商务车，广西二手皮卡车,广西二手货车，另有丰富的广西私家二手车源出售，涉及广西收二手车，广西二手车买卖，另有广西二手车评估服务，被称作广西二手车之家。" />
+    <meta name="author" content="cn2che技术团队" />
+    <link href="/css/common/master.css" rel="stylesheet" type="text/css" />
+    <link href="/css/common/header.css" rel="stylesheet" type="text/css" />
+    <link href="/css/home.css" rel="stylesheet" type="text/css" />
+    <script src="http://siteapp.baidu.com/static/webappservice/uaredirect.js" type="text/javascript"></script>
+    <script type="text/javascript">uaredirect("http://m.cn2che.com/default.aspx");</script>
+</head>
+<body>
+    
+<div class="topnav">
+    <dl>
+        <dt>
+            <ul>
+                <li>广西二手车交易市场<strong> 400-703-2008</strong></li>
+                <script type="text/javascript" src="/aspx/loginstate.aspx"></script>
+            </ul>
+        </dt>
+        <dd>
+            <ul>
+                <!--<li><a href="/pinggushi.html" target="_blank" >评估师培训</a></li>
+                <li><a href="http://www.cn2che.com/map/carlist.html" target="_blank">最新二手车源</a></li>-->
+            </ul>
+        </dd>
+    </dl>
+</div>
+<div class="wrapnav">
+   <div class="subnav">
+        <!--头部横幅-->
+      
+      <!-- -->
+        <script type='text/javascript' src='/javascript/topImg.js'></script>
+     <!--<div id="activeid2"></div>
+        <div id="activeid"></div> -->
+        <div class="alllogo"><h1 id="alllogo"><a href="/" target="_blank" title="二手车交易市场网站">二手车</a></h1></div>
+        <div class="switch"><span class="qgz" id="diqu_rs" oid="566" nd="566" ns="gx">广西</span><span class="allcity" onmouseover="document.getElementById('switch').className='allshows'"  onmouseout="document.getElementById('switch').className='allhidden'"><span class="btn01">切换城市</span><span id="switch" class="allhidden"><span class="btn02">切换城市</span> 
+        <span class="allwrap"><dl><dt>城市站点</dt><dd>
+        <div class="choose"><span class="open" id="ProvinceMenu" onmouseover="this.className='shut';" onmouseout="this.className='open'"><a href="javascript:void(0)" id="select_pro">请选择...</a><span class="list01" id="list01"><a href="javascript:void(0);" pinyin="fj" oid="227">福建</a><a href="javascript:void(0);" pinyin="bj" oid="1">北京</a><a href="javascript:void(0);" pinyin="sh" oid="21">上海</a><a href="javascript:void(0);" pinyin="tj" oid="42">天津</a><a href="javascript:void(0);" pinyin="gd" oid="423">广东</a><a href="javascript:void(0);" pinyin="jx" oid="1763">江西</a><a href="javascript:void(0);" pinyin="zj" oid="3133">浙江</a><a href="javascript:void(0);" pinyin="ln" oid="1874">辽宁</a><a href="javascript:void(0);" pinyin="hunan" oid="1436">湖南</a><a href="javascript:void(0);" pinyin="cq" oid="62">重庆</a><a href="javascript:void(0);" pinyin="js" oid="1643">江苏</a><a href="javascript:void(0);" pinyin="sd" oid="2182">山东</a><a href="javascript:void(0);" pinyin="ah" oid="104">安徽</a><a href="javascript:void(0);" pinyin="sx" oid="2340">山西</a><a href="javascript:void(0);" pinyin="hebei" oid="814">河北</a><a href="javascript:void(0);" pinyin="henan" oid="998">河南</a><a href="javascript:void(0);" pinyin="hubei" oid="1320">湖北</a><a href="javascript:void(0);" pinyin="gx" oid="566">广西</a><a href="javascript:void(0);" pinyin="jl" oid="1573">吉林</a><a href="javascript:void(0);" pinyin="sc" oid="2589">四川</a><a href="javascript:void(0);" pinyin="hlj" oid="1176">黑龙江</a><a href="javascript:void(0);" pinyin="shanxi" oid="2471">陕西</a><a href="javascript:void(0);" pinyin="yn" oid="2987">云南</a><a href="javascript:void(0);" pinyin="qh" oid="2130">青海</a><a href="javascript:void(0);" pinyin="nmg" oid="1989">内蒙古</a><a href="javascript:void(0);" pinyin="hn" oid="788">海南</a><a href="javascript:void(0);" pinyin="gz" oid="690">贵州</a><a href="javascript:void(0);" pinyin="gs" oid="322">甘肃</a><a href="javascript:void(0);" pinyin="nx" oid="2103">宁夏</a><a href="javascript:void(0);" pinyin="xz" oid="2792">西藏</a><a href="javascript:void(0);" pinyin="xj" oid="2873">新疆</a><a href="javascript:void(0);" pinyin="xg" oid="3235">香港</a><a href="javascript:void(0);" pinyin="tw" oid="3242">台湾</a><a href="javascript:void(0);" pinyin="am" oid="3239">澳门</a></span></span></div>
+        <div class="choose" style="display: none;" id="cshow01"><span class="open" id="CityMenu" onmouseover="this.className='shut';shut1(2);" onmouseout="this.className='open'"><a href="javascript:void(0)" id="select_city">请选择...</a> <span class="list02" id="list02"></span></span></div>
+        <div class="choose" style="display: none;" id="cshow02"><span class="open" id="XianMenu" onmouseover="this.className='shut';shut1(3);" onmouseout="this.className='open'"><a href="javascript:void(0)" id="select_xian">请选择...</a> <span class="list03" id="list03"></span></span></div>
+        <input name="提交" type="button" onclick="doconfig()" class="input" value="进入站点" /><input id="hidpro" type="hidden" /><input id="hidcity" type="hidden" /><input id="hidxian" type="hidden" /></dd></dl>
+        <dl><dt>相关城市</dt><dd id="rs"></dd></dl>
+        <dl><dt>重点城市</dt><dd id="zong"><a target="_blank" href="http://bj.cn2che.com/">北京</a><a target="_blank" href="http://sh.cn2che.com/">上海</a><a target="_blank" href="http://guangzhou.cn2che.com/">广州</a><a target="_blank" href="http://shenzhen.cn2che.com/">深圳</a><a target="_blank" href="http://tj.cn2che.com/">天津</a><a target="_blank" href="http://fj.cn2che.com/">福建</a><a target="_blank" href="http://fuzhou.cn2che.com/">福州</a><a target="_blank" href="http://xiamen.cn2che.com/">厦门</a><a target="_blank" href="http://hefei.cn2che.com/">合肥</a><a target="_blank" href="http://nanjing.cn2che.com/">南京</a><a target="_blank" href="http://nanning.cn2che.com/">南宁</a><a target="_blank" href="http://hangzhou.cn2che.com/">杭州</a><a target="_blank" href="http://shijiazhuang.cn2che.com/">石家庄</a><a target="_blank" href="http://wuhan.cn2che.com/">武汉</a><a target="_blank" href="http://changsha.cn2che.com/">长沙</a><a target="_blank" href="http://changchun.cn2che.com/">长春</a><a target="_blank" href="http://suzhou.cn2che.com/">苏州</a><a target="_blank" href="http://shenyang.cn2che.com/">沈阳</a><a target="_blank" href="http://dalian.cn2che.com/">大连</a><a target="_blank" href="http://qingdao.cn2che.com/">青岛</a><a target="_blank" href="http://taiyuan.cn2che.com/">太原</a><a target="_blank" href="http://xian.cn2che.com/">西安</a><a target="_blank" href="http://chengdu.cn2che.com/">成都</a><a target="_blank" href="http://ningbo.cn2che.com/">宁波</a><a target="_blank" href="http://yichun.cn2che.com/">宜春</a><a target="_blank" href="http://gaoan.cn2che.com/">高安</a></dd></dl>
+        <ul><li class="tab01" id="tab000" onmouseover="switchnav(0,1,2);$('#All03').show();">按拼音选择</li><li class="tab02" id="tab001" onmouseover="switchnav(1,1,2);$('#All03').hide();">按省份选择</li></ul>
+        <dl><dt class="pinyin" id="All01"><a href="javascript:void(0)">A</a><a href="javascript:void(0)">B</a><a href="javascript:void(0)">C</a><a href="javascript:void(0)">D</a><a href="javascript:void(0)">E</a><a href="javascript:void(0)">F</a><a href="javascript:void(0)">G</a><a href="javascript:void(0)">H</a><a href="javascript:void(0)">J</a><a href="javascript:void(0)">K</a><a href="javascript:void(0)">L</a><a href="javascript:void(0)">M</a><a href="javascript:void(0)">N</a><a href="javascript:void(0)">O</a><a href="javascript:void(0)">P</a><a href="javascript:void(0)">Q</a><a href="javascript:void(0)">R</a> <a href="javascript:void(0)">S</a><a href="javascript:void(0)">T</a><a href="javascript:void(0)">W</a><a href="javascript:void(0)">X</a> <a href="javascript:void(0)">Y</a><a href="javascript:void(0)">Z</a></dt>
+        <dt id="All03" class="provinces"><a target="_blank" href="http://ah.cn2che.com/">安徽</a><a target="_blank" href="http://am.cn2che.com/">澳门</a><a target="_blank" href="http://ankang.cn2che.com/">安康</a><a target="_blank" href="http://anqing.cn2che.com/">安庆</a><a target="_blank" href="http://anshan.cn2che.com/">鞍山</a><a target="_blank" href="http://anshun.cn2che.com/">安顺</a><a target="_blank" href="http://anyang.cn2che.com/">安阳</a><a target="_blank" href="http://alashan.cn2che.com/">阿拉善盟</a><a target="_blank" href="http://aletaideou.cn2che.com/">阿勒泰地区</a><a target="_blank" href="http://abacangzuqiangzuzizhizhou.cn2che.com/">阿坝藏族羌族自治州</a><a target="_blank" href="http://akesudeou.cn2che.com/">阿克苏地区</a><a target="_blank" href="http://akesu.cn2che.com/">阿克苏</a><a target="_blank" href="http://atushi.cn2che.com/">阿图什</a><a target="_blank" href="http://aletai.cn2che.com/">阿勒泰</a></dt>
+        <dt class="provinces" style="display: none;" id="All02"><a href="http://fj.cn2che.com/">福建</a><a href="http://bj.cn2che.com/">北京</a><a href="http://sh.cn2che.com/">上海</a><a href="http://tj.cn2che.com/">天津</a><a href="http://gd.cn2che.com/">广东</a><a href="http://jx.cn2che.com/">江西</a><a href="http://zj.cn2che.com/">浙江</a><a href="http://ln.cn2che.com/">辽宁</a><a href="http://hunan.cn2che.com/">湖南</a><a href="http://cq.cn2che.com/">重庆</a><a href="http://js.cn2che.com/">江苏</a><a href="http://sd.cn2che.com/">山东</a><a href="http://ah.cn2che.com/">安徽</a><a href="http://sx.cn2che.com/">山西</a><a href="http://hebei.cn2che.com/">河北</a><a href="http://henan.cn2che.com/">河南</a><a href="http://hubei.cn2che.com/">湖北</a><a href="http://gx.cn2che.com/">广西</a><a href="http://jl.cn2che.com/">吉林</a><a href="http://sc.cn2che.com/">四川</a><a href="http://hlj.cn2che.com/">黑龙江</a><a href="http://shanxi.cn2che.com/">陕西</a><a href="http://yn.cn2che.com/">云南</a><a href="http://qh.cn2che.com/">青海</a><a href="http://nmg.cn2che.com/">内蒙古</a><a href="http://hn.cn2che.com/">海南</a><a href="http://gz.cn2che.com/">贵州</a><a href="http://gs.cn2che.com/">甘肃</a><a href="http://nx.cn2che.com/">宁夏</a><a href="http://xz.cn2che.com/">西藏</a><a href="http://xj.cn2che.com/">新疆</a><a href="http://xg.cn2che.com/">香港</a><a href="http://tw.cn2che.com/">台湾</a><a href="http://am.cn2che.com/">澳门</a></dt></dl></span></span></span>
+   </div>
+   <div class="searchwrap">
+       
+       <ul>
+            <li class="s01" ><a href="/buycar/"  target="_blank">二手车</a></li>
+            <li class="s02" ><a href="/qiugou/"  target="_blank">求购</a></li>
+            <!--<li class="s02" ><a href="/chuzu/"  target="_blank">出租</a></li>-->
+            <li class="s02" ><a href="/baojia/"  target="_blank">汽车报价</a></li>
+            <li class="s02" ><a href="http://search.cn2che.com/news.html"  target="_blank">资讯</a></li>
+        <!--   <li class="s02"  ><a href="http://bbs.cn2che.com/forum.php"  target="_blank" rel="nofollow">论坛</a></li>-->
+       </ul>
+       <dl><dt><span class="bg01"></span><span><input id="keyword" type="text" class="input01" value="请输入品牌或车型" onpropertychange="getkey(this,parseInt($('#hidtype').val()))" onfocus="initkey(this)"  onblur="outkey(this)" /></span></dt><dd><input id="hidtyp" type="hidden" value="" /><input id="hidtype" type="hidden" value="1" /><input id="hidzu" type="hidden" value="3" /><input id="searchbtn" type="button" class="button01" /></dd> </dl>
+       <dl id="searchbar" style="display: none;" onmouseover="$(this).css('display','')" onmouseout="$(this).css('display','none')"><div class="SearchMenu01"><ol id="hotkeysearch"></ol></div></dl>
+       <!--<div class="hotNav"><a href="/sjzt.html">商家展厅</a><a href="/rmtj.html">热门推荐</a><a href="/jingxiaoshang/" target="_blank">经销商</a><a href="/xiaxianche/" target="_blank">下线车</a><a href="/4s/" target="_blank">4s店置换</a>
+
+       </div>-->
+       
+ </div>
+
+   </div>
+   <div class="mainNav">
+        <span class="leftbg"></span><span class="rightbg"></span>
+       
+       <ul>
+            <li ><span class='td01'><a href="/" target="_blank">首 &nbsp;&nbsp;&nbsp;页</a></span></li>
+            <li ><a href="/buycar/" target="_blank">买二手车</a></li>
+            <li ><a href="/sellcar/" target="_blank">卖二手车</a></li>
+            <li ><a href="/ershouhuoche/" target="_blank">二手货车</a></li>
+            <li ><a href="/pinggu/" target="_blank">二手车评估</a></li>
+            <li ><a href="/daikuan/index.aspx" target="_blank">车城金融</a></li>
+            <li ><a href="http://jiameng.cn2che.com/" target="_blank">招商加盟</a></li>
+            <li ><a href="http://chechengtong.cn2che.com/" target="_blank">车城通</a></li>
+        <li style="background-image:none;"><a href="http://news.cn2che.com/" target="_blank">汽车新闻</a></li>
+        </ul>
+    </div>
+</div>
+
+<div style="display: none;"><script src="/javascript/common/tongji.js" type="text/javascript"></script>
+    <script>
+      var _hmt = _hmt || [];
+      (function () {
+          var hm = document.createElement("script");
+          hm.src = "//hm.baidu.com/hm.js?2b03203ce2c3445ef4a9f619085b42e8";
+          var s = document.getElementsByTagName("script")[0];
+          s.parentNode.insertBefore(hm, s);
+      })();
+</script>
+
+</div>
+
+
+    <div class="allmain">
+        <div class="quickbutton">
+    <ul>
+        <li class="button02"><a href="/freefabu/carbuy.html" target="_blank">我要买车</a></li>
+        <li class="button03"><a href="/freefabu/freefabu.html" target="_blank">我要卖车</a></li>
+        <li class="button02"><a href="/register.html" target="_blank">免费注册</a></li>
+        <li class="button03"><a href="http://my.cn2che.com/login.html" target="_blank">会员登录</a></li>
+        <li class="button01"><a href="/app/" target="_blank">手&nbsp;机&nbsp;APP&nbsp;客&nbsp;户&nbsp;端&nbsp;下&nbsp;载</a></li>
+    </ul>
+</div>
+
+        <div class="slides-ad" id="adcenter4"><ul id="slidesbox"><li class="slidesad"><a rel="nofollow" href="javascript:void(0)" onclick="javascript:window.open('http://a732471.web.cn2che.com/')"><img src="http://pic.cn2che.com/photos/2016/12/02/20161202180941989.jpg" alt="江西省万载县汽运有限公司二手车交易网广告" /></a></li></ul></div>
+        <div class="dealer-ad" id="focus02"><a rel="nofollo" href="http://www.cn2che.com/app/" target="_blank"><img src="http://pic.cn2che.com/photos/2014/03/06/20140306115903306.gif" alt="中国二手车城" width="250" height="105" border="0" /></a></div>
+        <div class="zhaoche">
+            
+<ul class="direct">
+
+   <!-- <li class="td01"><strong>搜索直达</strong></li>-->
+         
+    <li class="td01">  <strong> <a href="#" title="广西二手车">  搜索直达 </a>  </strong>   </li>
+
+    <li class="td01">
+        <div class="xlbg">
+            <div class="open" id="xlMenu" onmouseover="this.className='shut'" onmouseout="this.className='open'">
+                <a href="#" val="" id="brand_id">请选择品牌</a>
+                <dl class="xlbg01">
+                    <a href="#" title="按拼音选择 广西二手车"> <h3>按拼音选择  </h3> </a> 
+                    <dt class="pinyin" id="brand_pinyin"></dt>
+                    <dt class="category" id="brand_category"></dt>
+                </dl>
+            </div>
+        </div>
+    </li>
+    <li class="td01">
+        <div class="xlbg">
+            <div class="open" id="xlMenu" onmouseover="this.className='shut'" onmouseout="this.className='open'">
+                <a href="#" id="searil_id" val=""  title="请选择车系 广西二手车" >请选择车系</a>
+                <dl class="xlbg02">
+                    <dt class="category" id="searil"></dt>
+                </dl>
+            </div>
+        </div>
+    </li>
+    <li class="td01">
+        <div class="xlbg">
+            <div class="open" id="xlMenu" onmouseover="this.className='shut';showpro(1);" onmouseout="this.className='open';showpro(0);">
+                <a href="#" val="566" id="pro_zd">广西</a>
+                <dl class="xlbg03">
+                    <dt class="category" id="provinceList"></dt>
+                </dl>
+            </div>
+        </div>
+    </li>
+    <li class="td02">
+        <input id="searchok" type="button" class="input-img" />
+        <input  style="display:none"  hidden="hidden" id="hidDiQu" value="广西" />
+
+    </li>
+</ul>
+
+
+<ul class="cheicon">
+    <li class="hotbg01" id="hot000" onmouseover="switchnav(0,3,9)"><a href="/buycar/c1b0c0s0p0c0m0p1c0r566m0i0o0o2" title="广西二手轿车" target="_blank"><span class="che01">
+        <br />
+        轿车</span></a>
+    </li>
+    <li class="hotbg02" id="hot001" onmouseover="switchnav(1,3,9)"><a href="/buycar/c2b0c0s0p0c0m0p1c0r566m0i0o0o2" title="广西二手跑车" target="_blank"><span class="che02">
+        <br />
+        跑车</span></a>
+    </li>
+    <li class="hotbg02" id="hot002" onmouseover="switchnav(2,3,9)"><a href="/buycar/c3b0c0s0p0c0m0p1c0r566m0i0o0o2" title="广西二手越野车" target="_blank"><span class="che03">
+        <br />
+        越野车</span></a>
+    </li>
+    <li class="hotbg02" id="hot003" onmouseover="switchnav(3,3,9)"><a href="/buycar/c4b0c0s0p0c0m0p1c0r566m0i0o0o2" title="广西二手商务车" target="_blank"><span class="che04">
+        <br />
+        商务车</span></a>
+    </li>
+    <li class="hotbg02" id="hot004" onmouseover="switchnav(4,3,9)"><a href="/buycar/c8b0c0s0p0c0m0p1c0r566m0i0o0o2" title="广西二手面包车" target="_blank"><span class="che05">
+        <br />
+        面包车</span></a>
+    </li>
+    <li class="hotbg02" id="hot005" onmouseover="switchnav(5,3,9)"><a href="/buycar/c7b0c0s0p0c0m0p1c0r566m0i0o0o2" title="广西二手客车" target="_blank"><span class="che06">
+        <br />
+        客车</span></a>
+    </li>
+    <li class="hotbg02" id="hot006" onmouseover="switchnav(6,3,9)"><a href="/buycar/c6b0c0s0p0c0m0p1c0r566m0i0o0o2" title="广西二手皮卡" target="_blank"><span class="che08">
+        <br />
+        皮卡</span></a>
+    </li>
+    <li class="hotbg02" id="hot007" onmouseover="switchnav(7,3,9)"><a href="/buycar/c5b0c0s0p0c0m0p1c0r566m0i0o0o2" title="广西二手货车" target="_blank"><span class="che07">
+        <br />
+        货车</span></a>
+    </li>
+    <li class="hotbg02" id="hot008" onmouseover="switchnav(8,3,9)"><a href="/buycar/c10b0c0s0p0c0m0p1c0r566m0i0o0o2" title="广西二手下线车" target="_blank"><span class="che09">
+        <br />
+        专用车</span></a>
+    </li>
+</ul>
+
+<div class="cheicon" id="hotid01">
+
+    <dl>
+
+        <dt><a href="#" title="广西二手车热门车系">热门车系：</a></dt>
+
+        <dd>
+            <a href="/buycar/c1b26c20046s2406p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手雅阁">雅阁</a>
+            <a href="/buycar/c1b26c20046s2408p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手飞度">飞度</a>
+            <a href="/buycar/c1b8c20018s1796p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手帕萨特">帕萨特</a>
+            <a href="/buycar/c1b8c20017s2381p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手宝来">宝来</a>
+            <a href="/buycar/c1b8c20018s1797p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手高尔夫">高尔夫</a>
+            <a href="/buycar/c1b26c20045s1661p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手思域">思域</a>
+            <a href="/buycar/c1b8c20017s1765p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手速腾">速腾</a>
+            <a href="/buycar/c1b17c20033s2273p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手福克斯">福克斯</a>
+            <a href="/buycar/c1b7c20015s1991p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手凯美瑞">凯美瑞</a>
+            <a href="/buycar/c1b49c20078s2608p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手科鲁兹">科鲁兹</a>
+        </dd>
+        <dt class="moreche"><a href="/serial.html" target="_blank">全部车系<samp>>></samp></a></dt>
+    </dl>
+
+    <dl>
+
+        <dt><a href="#" title="广西二手车热门品牌">热门品牌：</a> </dt>
+
+        <dd>
+            <a href="/buycar/c1b2c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手奔驰">奔驰</a>
+            <a href="/buycar/c1b3c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手宝马">宝马</a>
+            <a href="/buycar/c1b30c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手日产">日产</a>
+            <a href="/buycar/c1b5c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手标致">标致</a>
+            <a href="/buycar/c1b6c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手雪铁龙">雪铁龙</a>
+            <a href="/buycar/c1b7c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手丰田">丰田</a>
+            <a href="/buycar/c1b8c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手大众">大众</a>
+            <a href="/buycar/c1b9c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手奥迪">奥迪</a>
+            <a href="/buycar/c1b10c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手斯柯达">斯柯达</a>
+            <a href="/buycar/c1b28c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手起亚">起亚</a>
+            <a href="/buycar/c1b13c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手现代">现代</a>
+        </dd>
+        <dt class="moreche"><a href="/pinpai.html" target="_blank">全部品牌<samp>>></samp></a></dt>
+    </dl>
+
+    <dl>
+
+        <dt><a href="#" title="广西二手车价格查询">价格查询：</a> </dt>
+
+        <dd>
+            <a href="/buycar/c1b0c0s0p1c0m0p1c0r566m0i0o0o2" target="_blank">3万以下</a>
+            <a href="/buycar/c1b0c0s0p2c0m0p1c0r566m0i0o0o2" target="_blank">3-5万</a>
+            <a href="/buycar/c1b0c0s0p3c0m0p1c0r566m0i0o0o2" target="_blank">5-8万</a>
+            <a href="/buycar/c1b0c0s0p4c0m0p1c0r566m0i0o0o2" target="_blank">8-10万</a>
+            <a href="/buycar/c1b0c0s0p5c0m0p1c0r566m0i0o0o2" target="_blank">10-15万</a>
+            <a href="/buycar/c1b0c0s0p6c0m0p1c0r566m0i0o0o2" target="_blank">15-20万</a>
+            <a href="/buycar/c1b0c0s0p7c0m0p1c0r566m0i0o0o2" target="_blank">20-30万</a>
+            <a href="/buycar/c1b0c0s0p8c0m0p1c0r566m0i0o0o2" target="_blank">30-50万</a>
+            <a href="/buycar/c1b0c0s0p9c0m0p1c0r566m0i0o0o2" target="_blank">50-100万</a>
+            <a href="/buycar/c1b0c0s0p10c0m0p1c0r566m0i0o0o2" target="_blank">100万以上</a>
+        </dd>
+    </dl>
+    <dl>
+        <dt><a href="#" title="广西二手车车龄">车&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;龄：</a> </dt>
+        <dd>
+            <a href="/buycar/c1b0c0s0p0c1m0p1c0r566m0i0o0o2" target="_blank">1年以下</a>
+            <a href="/buycar/c1b0c0s0p0c2m0p1c0r566m0i0o0o2" target="_blank">1-2年</a>
+            <a href="/buycar/c1b0c0s0p0c3m0p1c0r566m0i0o0o2" target="_blank">2-3年</a>
+            <a href="/buycar/c1b0c0s0p0c4m0p1c0r566m0i0o0o2" target="_blank">3-4年</a>
+            <a href="/buycar/c1b0c0s0p0c5m0p1c0r566m0i0o0o2" target="_blank">4-5年</a>
+            <a href="/buycar/c1b0c0s0p0c6m0p1c0r566m0i0o0o2" target="_blank">5-6年</a>
+            <a href="/buycar/c1b0c0s0p0c7m0p1c0r566m0i0o0o2" target="_blank">6-7年</a>
+            <a href="/buycar/c1b0c0s0p0c8m0p1c0r566m0i0o0o2" target="_blank">7-8年</a>
+            <a href="/buycar/c1b0c0s0p0c9m0p1c0r566m0i0o0o2" target="_blank">8-9年</a>
+            <a href="/buycar/c1b0c0s0p0c10m0p1c0r566m0i0o0o2" target="_blank">10年以上</a>
+        </dd>
+        <dt class="moreche"><a href="/buycar/c1b0c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank">更多条件<samp>>></samp></a></dt>
+    </dl>
+</div>
+<span style="clear: both;"></span>
+<div class="cheicon" id="hotid02" style="display: none;">
+    <dl>
+        <dt><a href="#" title="广西二手车热门车系">热门车系：</a></dt>
+
+        <dd>
+            <a href="/buycar/c2b49c20076s2759p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手科迈罗">科迈罗</a>
+            <a href="/buycar/c2b17c20032s2498p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手野马">野马</a>
+            <a href="/buycar/c2b13c20024s21626p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手酷派">酷派</a>
+            <a href="/buycar/c2b30c20052s2578p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手GT-R">GT-R</a>
+            <a href="/buycar/c2b18c20034s2724p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手马自达MX-5">马自达MX-5</a>
+            <a href="/buycar/c2b8c20016s2610p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手大众尚酷">大众尚酷</a>
+            <a href="/buycar/c2b8c20016s2380p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手大众Eos">大众Eos</a>
+            <a href="/buycar/c2b13c20024s2603p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手劳恩斯酷派">劳恩斯酷派</a>
+        </dd>
+        <dt class="moreche"><a href="/serial.html" target="_blank">全部车系<samp>>></samp></a></dt>
+    </dl>
+
+    <dl>
+
+        <dt><a href="#" title="广西二手车热门品牌">热门品牌：</a> </dt>
+
+        <dd>
+            <a href="/buycar/c2b86c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手兰博基尼">兰博基尼</a>
+            <a href="/buycar/c2b91c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手法拉利">法拉利</a>
+            <a href="/buycar/c2b93c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手玛莎拉蒂">玛莎拉蒂</a>
+            <a href="/buycar/c2b98c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手捷豹">捷豹</a>
+            <a href="/buycar/c2b82c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手保时捷">保时捷</a>
+            <a href="/buycar/c2b2c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手奔驰">奔驰</a>
+            <a href="/buycar/c2b3c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手宝马">宝马</a>
+            <a href="/buycar/c2b9c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手奥迪">奥迪</a>
+            <a href="/buycar/c2b13c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手现代">现代</a>
+            <a href="/buycar/c2b30c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手日产">日产</a>
+            <a href="/buycar/c2b49c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手雪佛兰">雪佛兰</a>
+        </dd>
+        <dt class="moreche"><a href="/pinpai.html" target="_blank">全部品牌<samp>>></samp></a></dt>
+    </dl>
+    <dl>
+        <dt><a href="#" title="广西二手车价格查询">价格查询：</a> </dt>
+
+        <dd>
+            <a href="/buycar/c2b0c0s0p1c0m0p1c0r566m0i0o0o2" target="_blank">3万以下</a>
+            <a href="/buycar/c2b0c0s0p2c0m0p1c0r566m0i0o0o2" target="_blank">3-5万</a>
+            <a href="/buycar/c2b0c0s0p3c0m0p1c0r566m0i0o0o2" target="_blank">5-8万</a>
+            <a href="/buycar/c2b0c0s0p4c0m0p1c0r566m0i0o0o2" target="_blank">8-10万</a>
+            <a href="/buycar/c2b0c0s0p5c0m0p1c0r566m0i0o0o2" target="_blank">10-15万</a>
+            <a href="/buycar/c2b0c0s0p6c0m0p1c0r566m0i0o0o2" target="_blank">15-20万</a>
+            <a href="/buycar/c2b0c0s0p7c0m0p1c0r566m0i0o0o2" target="_blank">20-30万</a>
+            <a href="/buycar/c2b0c0s0p8c0m0p1c0r566m0i0o0o2" target="_blank">30-50万</a>
+            <a href="/buycar/c2b0c0s0p9c0m0p1c0r566m0i0o0o2" target="_blank">50-100万</a>
+            <a href="/buycar/c2b0c0s0p10c0m0p1c0r566m0i0o0o2" target="_blank">100万以上</a>
+        </dd>
+    </dl>
+    <dl>
+        <dt><a href="#" title="广西二手车车龄">车&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;龄：</a> </dt>
+        <dd>
+            <a href="/buycar/c2b0c0s0p0c1m0p1c0r566m0i0o0o2" target="_blank">1年以下</a>
+            <a href="/buycar/c2b0c0s0p0c2m0p1c0r566m0i0o0o2" target="_blank">1-2年</a>
+            <a href="/buycar/c2b0c0s0p0c3m0p1c0r566m0i0o0o2" target="_blank">2-3年</a>
+            <a href="/buycar/c2b0c0s0p0c4m0p1c0r566m0i0o0o2" target="_blank">3-4年</a>
+            <a href="/buycar/c2b0c0s0p0c5m0p1c0r566m0i0o0o2" target="_blank">4-5年</a>
+            <a href="/buycar/c2b0c0s0p0c6m0p1c0r566m0i0o0o2" target="_blank">5-6年</a>
+            <a href="/buycar/c2b0c0s0p0c7m0p1c0r566m0i0o0o2" target="_blank">6-7年</a>
+            <a href="/buycar/c2b0c0s0p0c8m0p1c0r566m0i0o0o2" target="_blank">7-8年</a>
+            <a href="/buycar/c2b0c0s0p0c9m0p1c0r566m0i0o0o2" target="_blank">8-9年</a>
+            <a href="/buycar/c2b0c0s0p0c10m0p1c0r566m0i0o0o2" target="_blank">10年以上</a>
+        </dd>
+        <dt class="moreche"><a href="/buycar/c2b0c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank">更多条件<samp>>></samp></a></dt>
+    </dl>
+</div>
+<div class="cheicon" id="hotid03" style="display: none;">
+
+    <dl>
+        <dt><a href="#" title="广西二手车热门车系">热门车系：</a></dt>
+
+        <dd>
+            <a href="/buycar/c3b42c20069s1667p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手瑞虎">瑞虎</a>
+            <a href="/buycar/c3b26c20044s1997p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手Crv">Crv</a>
+            <a href="/buycar/c3b7c20014s2701p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手rav4">rav4</a>
+            <a href="/buycar/c3b8c20016s2373p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手途观">途观</a>
+            <a href="/buycar/c3b7c20015s2694p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手汉兰达">汉兰达</a>
+            <a href="/buycar/c3b7c20014s1868p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手普拉多">普拉多</a>
+            <a href="/buycar/c3b17c20033s21306p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手翼虎">翼虎</a>
+            <a href="/buycar/c3b4c20005s2115p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手牧马人">牧马人</a>
+            <a href="/buycar/c3b28c20050s3086p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手智跑">智跑</a>
+            <a href="/buycar/c3b21146c21147s21154p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手哈弗h2">哈弗h2</a>
+        </dd>
+        <dt class="moreche"><a href="/serial.html" target="_blank">全部车系<samp>>></samp></a></dt>
+    </dl>
+
+    <dl>
+
+        <dt><a href="#" title="广西二手车热门品牌">热门品牌：</a> </dt>
+
+        <dd>
+            <a href="/buycar/c3b4c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手JEEP">JEEP</a>
+            <a href="/buycar/c3b100c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手英菲尼迪">英菲尼迪</a>
+            <a href="/buycar/c3b96c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手路虎">路虎</a>
+            <a href="/buycar/c3b21146c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手哈弗">哈弗</a>
+            <a href="/buycar/c3b7c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手丰田">丰田</a>
+            <a href="/buycar/c3b26c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手本田">本田</a>
+            <a href="/buycar/c3b13c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手现代">现代</a>
+            <a href="/buycar/c3b8c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手大众">大众</a>
+            <a href="/buycar/c3b9c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手奥迪">奥迪</a>
+            <a href="/buycar/c3b3c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手宝马">宝马</a>
+        </dd>
+        <dt class="moreche"><a href="/pinpai.html" target="_blank">全部品牌<samp>>></samp></a></dt>
+    </dl>
+    <dl>
+        <dt><a href="#" title="广西二手车价格查询">价格查询：</a> </dt>
+        <dd>
+            <a href="/buycar/c3b0c0s0p1c0m0p1c0r566m0i0o0o2" target="_blank">3万以下</a>
+            <a href="/buycar/c3b0c0s0p2c0m0p1c0r566m0i0o0o2" target="_blank">3-5万</a>
+            <a href="/buycar/c3b0c0s0p3c0m0p1c0r566m0i0o0o2" target="_blank">5-8万</a>
+            <a href="/buycar/c3b0c0s0p4c0m0p1c0r566m0i0o0o2" target="_blank">8-10万</a>
+            <a href="/buycar/c3b0c0s0p5c0m0p1c0r566m0i0o0o2" target="_blank">10-15万</a>
+            <a href="/buycar/c3b0c0s0p6c0m0p1c0r566m0i0o0o2" target="_blank">15-20万</a>
+            <a href="/buycar/c3b0c0s0p7c0m0p1c0r566m0i0o0o2" target="_blank">20-30万</a>
+            <a href="/buycar/c3b0c0s0p8c0m0p1c0r566m0i0o0o2" target="_blank">30-50万</a>
+            <a href="/buycar/c3b0c0s0p9c0m0p1c0r566m0i0o0o2" target="_blank">50-100万</a>
+            <a href="/buycar/c3b0c0s0p10c0m0p1c0r566m0i0o0o2" target="_blank">100万以上</a>
+        </dd>
+    </dl>
+    <dl>
+        <dt><a href="#" title="广西二手车车龄">车&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;龄：</a> </dt>
+
+        <dd>
+            <a href="/buycar/c3b0c0s0p0c1m0p1c0r566m0i0o0o2" target="_blank">1年以下</a>
+            <a href="/buycar/c3b0c0s0p0c2m0p1c0r566m0i0o0o2" target="_blank">1-2年</a>
+            <a href="/buycar/c3b0c0s0p0c3m0p1c0r566m0i0o0o2" target="_blank">2-3年</a>
+            <a href="/buycar/c3b0c0s0p0c4m0p1c0r566m0i0o0o2" target="_blank">3-4年</a>
+            <a href="/buycar/c3b0c0s0p0c5m0p1c0r566m0i0o0o2" target="_blank">4-5年</a>
+            <a href="/buycar/c3b0c0s0p0c6m0p1c0r566m0i0o0o2" target="_blank">5-6年</a>
+            <a href="/buycar/c3b0c0s0p0c7m0p1c0r566m0i0o0o2" target="_blank">6-7年</a>
+            <a href="/buycar/c3b0c0s0p0c8m0p1c0r566m0i0o0o2" target="_blank">7-8年</a>
+            <a href="/buycar/c3b0c0s0p0c9m0p1c0r566m0i0o0o2" target="_blank">8-9年</a>
+            <a href="/buycar/c3b0c0s0p0c10m0p1c0r566m0i0o0o2" target="_blank">10年以上</a>
+        </dd>
+        <dt class="moreche"><a href="/buycar/c3b0c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank">更多条件<samp>>></samp></a></dt>
+    </dl>
+</div>
+<span style="clear: both;"></span>
+
+<div class="cheicon" id="hotid04" style="display: none;">
+
+    <dl>
+
+        <dt><a href="#" title="广西二手车热门车系">热门车系：</a></dt>
+
+        <dd>
+            <a href="/buycar/c4b35c20059s2251p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手瑞风">瑞风</a>
+            <a href="/buycar/c4b26c20044s2520p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手奥德赛">奥德赛</a>
+            <a href="/buycar/c4b157c20195s21450p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手宝骏730">宝骏730</a>
+            <a href="/buycar/c4b48c20075s3026p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手五菱宏光">五菱宏光</a>
+            <a href="/buycar/c4b127c20164s1825p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手别克GL8">别克GL8</a>
+            <a href="/buycar/c4b7c20013s3088p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手埃尔法">埃尔法</a>
+            <a href="/buycar/c4b115c20151s2384p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手菱智">菱智</a>
+            <a href="/buycar/c4b27c20234s21617p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手帅客">帅客</a>
+            <a href="/buycar/c4b8c20018s1799p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手途安">途安</a>
+        </dd>
+        <dt class="moreche"><a href="/serial.html" target="_blank">全部车系<samp>>></samp></a></dt>
+    </dl>
+
+    <dl>
+
+        <dt><a href="#" title="广西二手车热门品牌">热门品牌：</a> </dt>
+
+        <dd>
+            <a href="/buycar/c4b157c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手宝骏">宝骏</a>
+            <a href="/buycar/c4b48c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手五菱">五菱</a>
+            <a href="/buycar/c4b26c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手本田">本田</a>
+            <a href="/buycar/c4b127c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手别克">别克</a>
+            <a href="/buycar/c4b7c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手丰田">丰田</a>
+            <a href="/buycar/c4b35c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手江淮">江淮</a>
+
+            <a href="/buycar/c4b159c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手长安商用">长安商用</a>
+            <a href="/buycar/c4b109c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手GMC">GMC</a>
+
+            <a href="/buycar/c4b18c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手马自达">马自达</a>
+            <a href="/buycar/c4b115c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手东风风行">东风风行</a>
+        </dd>
+        <dt class="moreche"><a href="/pinpai.html" target="_blank">全部品牌<samp>>></samp></a></dt>
+    </dl>
+    <dl>
+        <dt><a href="#" title="广西二手车价格查询">价格查询：</a> </dt>
+        <dd>
+            <a href="/buycar/c4b0c0s0p1c0m0p1c0r566m0i0o0o2" target="_blank">3万以下</a>
+            <a href="/buycar/c4b0c0s0p2c0m0p1c0r566m0i0o0o2" target="_blank">3-5万</a>
+            <a href="/buycar/c4b0c0s0p3c0m0p1c0r566m0i0o0o2" target="_blank">5-8万</a>
+            <a href="/buycar/c4b0c0s0p4c0m0p1c0r566m0i0o0o2" target="_blank">8-10万</a>
+            <a href="/buycar/c4b0c0s0p5c0m0p1c0r566m0i0o0o2" target="_blank">10-15万</a>
+            <a href="/buycar/c4b0c0s0p6c0m0p1c0r566m0i0o0o2" target="_blank">15-20万</a>
+            <a href="/buycar/c4b0c0s0p7c0m0p1c0r566m0i0o0o2" target="_blank">20-30万</a>
+            <a href="/buycar/c4b0c0s0p8c0m0p1c0r566m0i0o0o2" target="_blank">30-50万</a>
+            <a href="/buycar/c4b0c0s0p9c0m0p1c0r566m0i0o0o2" target="_blank">50-100万</a>
+            <a href="/buycar/c4b0c0s0p10c0m0p1c0r566m0i0o0o2" target="_blank">100万以上</a>
+        </dd>
+    </dl>
+
+    <dl>
+
+        <dt><a href="#" title="广西二手车车龄">车&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;龄：</a> </dt>
+
+        <dd>
+            <a href="/buycar/c4b0c0s0p0c1m0p1c0r566m0i0o0o2" target="_blank">1年以下</a>
+            <a href="/buycar/c4b0c0s0p0c2m0p1c0r566m0i0o0o2" target="_blank">1-2年</a>
+            <a href="/buycar/c4b0c0s0p0c3m0p1c0r566m0i0o0o2" target="_blank">2-3年</a>
+            <a href="/buycar/c4b0c0s0p0c4m0p1c0r566m0i0o0o2" target="_blank">3-4年</a>
+            <a href="/buycar/c4b0c0s0p0c5m0p1c0r566m0i0o0o2" target="_blank">4-5年</a>
+            <a href="/buycar/c4b0c0s0p0c6m0p1c0r566m0i0o0o2" target="_blank">5-6年</a>
+            <a href="/buycar/c4b0c0s0p0c7m0p1c0r566m0i0o0o2" target="_blank">6-7年</a>
+            <a href="/buycar/c4b0c0s0p0c8m0p1c0r566m0i0o0o2" target="_blank">7-8年</a>
+            <a href="/buycar/c4b0c0s0p0c9m0p1c0r566m0i0o0o2" target="_blank">8-9年</a>
+            <a href="/buycar/c4b0c0s0p0c10m0p1c0r566m0i0o0o2" target="_blank">10年以上</a>
+        </dd>
+        <dt class="moreche"><a href="/buycar/c4b0c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank">更多条件<samp>>></samp></a></dt>
+    </dl>
+</div>
+<span style="clear: both;"></span>
+<div class="cheicon" id="hotid05" style="display: none;">
+    <dl>
+        <dt><a href="#" title="广西二手车热门车系">热门车系：</a></dt>
+        <dd>
+            <a href="/buycar/c8b159c20196s1634p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手长安之星">长安之星</a>
+            <a href="/buycar/c8b48c20075s2576p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手五菱荣光">五菱荣光</a>
+            <a href="/buycar/c8b48c20075s1692p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手五菱之光">五菱之光</a>
+            <a href="/buycar/c8b2c20000s2102p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手唯雅诺">唯雅诺</a>
+            <a href="/buycar/c8b16c20029s1599p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手北斗星">北斗星</a>
+            <a href="/buycar/c8b29c20051s1687p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手得利卡">得利卡</a>
+            <a href="/buycar/c8b39c20064s1731p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手海狮">海狮</a>
+            <a href="/buycar/c8b128c20166s1587p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手风景快运">风景快运</a>
+            <a href="/buycar/c8b57c20094s1894p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手金龙海狮">金龙海狮</a>
+            <a href="/buycar/c8b150c20187s2820p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手优优">优优</a>
+        </dd>
+        <dt class="moreche"><a href="/serial.html" target="_blank">全部车系<samp>>></samp></a></dt>
+    </dl>
+
+    <dl>
+
+        <dt><a href="#" title="广西二手车热门品牌">热门品牌：</a> </dt>
+
+        <dd>
+            <a href="/buycar/c8b48c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手五菱">五菱</a>
+            <a href="/buycar/c8b39c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手金杯">金杯</a>
+            <a href="/buycar/c8b2c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手奔驰">奔驰</a>
+            <a href="/buycar/c8b16c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手铃木">铃木</a>
+            <a href="/buycar/c8b27c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手东风">东风</a>
+            <a href="/buycar/c8b159c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手长安商用">长安商用</a>
+            <a href="/buycar/c8b168c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手北汽威旺">北汽威旺</a>
+            <a href="/buycar/c8b45c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手汇众">汇众</a>
+            <a href="/buycar/c8b29c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手东南">东南</a>
+            <a href="/buycar/c8b31c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手哈飞">哈飞</a>
+            <a href="/buycar/c8b128c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手福田">福田</a>
+        </dd>
+        <dt class="moreche"><a href="/pinpai.html" target="_blank">全部品牌<samp>>></samp></a></dt>
+    </dl>
+    <dl>
+        <dt><a href="#" title="广西二手车价格查询">价格查询：</a> </dt>
+        <dd>
+            <a href="/buycar/c8b0c0s0p1c0m0p1c0r566m0i0o0o2" target="_blank">3万以下</a>
+            <a href="/buycar/c8b0c0s0p2c0m0p1c0r566m0i0o0o2" target="_blank">3-5万</a>
+            <a href="/buycar/c8b0c0s0p3c0m0p1c0r566m0i0o0o2" target="_blank">5-8万</a>
+            <a href="/buycar/c8b0c0s0p4c0m0p1c0r566m0i0o0o2" target="_blank">8-10万</a>
+            <a href="/buycar/c8b0c0s0p5c0m0p1c0r566m0i0o0o2" target="_blank">10-15万</a>
+            <a href="/buycar/c8b0c0s0p6c0m0p1c0r566m0i0o0o2" target="_blank">15-20万</a>
+            <a href="/buycar/c8b0c0s0p7c0m0p1c0r566m0i0o0o2" target="_blank">20-30万</a>
+            <a href="/buycar/c8b0c0s0p8c0m0p1c0r566m0i0o0o2" target="_blank">30-50万</a>
+            <a href="/buycar/c8b0c0s0p9c0m0p1c0r566m0i0o0o2" target="_blank">50-100万</a>
+            <a href="/buycar/c8b0c0s0p10c0m0p1c0r566m0i0o0o2" target="_blank">100万以上</a>
+        </dd>
+    </dl>
+
+    <dl>
+
+        <dt><a href="#" title="广西二手车车龄">车&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;龄：</a> </dt>
+
+        <dd>
+            <a href="/buycar/c8b0c0s0p0c1m0p1c0r566m0i0o0o2" target="_blank">1年以下</a>
+            <a href="/buycar/c8b0c0s0p0c2m0p1c0r566m0i0o0o2" target="_blank">1-2年</a>
+            <a href="/buycar/c8b0c0s0p0c3m0p1c0r566m0i0o0o2" target="_blank">2-3年</a>
+            <a href="/buycar/c8b0c0s0p0c4m0p1c0r566m0i0o0o2" target="_blank">3-4年</a>
+            <a href="/buycar/c8b0c0s0p0c5m0p1c0r566m0i0o0o2" target="_blank">4-5年</a>
+            <a href="/buycar/c8b0c0s0p0c6m0p1c0r566m0i0o0o2" target="_blank">5-6年</a>
+            <a href="/buycar/c8b0c0s0p0c7m0p1c0r566m0i0o0o2" target="_blank">6-7年</a>
+            <a href="/buycar/c8b0c0s0p0c8m0p1c0r566m0i0o0o2" target="_blank">7-8年</a>
+            <a href="/buycar/c8b0c0s0p0c9m0p1c0r566m0i0o0o2" target="_blank">8-9年</a>
+            <a href="/buycar/c8b0c0s0p0c10m0p1c0r566m0i0o0o2" target="_blank">10年以上</a>
+        </dd>
+        <dt class="moreche"><a href="/buycar/c8b0c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank">更多条件<samp>>></samp></a></dt>
+    </dl>
+</div>
+<div class="cheicon" id="hotid06" style="display: none;">
+
+    <dl>
+
+        <dt><a href="#" title="广西二手车热门车系">热门车系：</a></dt>
+
+        <dd>
+            <a href="/buycar/c7b37c20062s1690p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手经典全顺">经典全顺</a>
+            <a href="/buycar/c7b161c20197s3271p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手考斯特">考斯特</a>
+            <a href="/buycar/c7b178c20467s20469p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手宇通">宇通</a>
+            <a href="/buycar/c7b41c20068s1777p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手都灵">都灵</a>
+            <a href="/buycar/c0b39c20064s1732p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手阁瑞斯">阁瑞斯</a>
+            <a href="/buycar/c7b20837c20838s20839p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手安凯">安凯</a>
+            <a href="/buycar/c7b20671c20672s20673p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手中通城市">中通城市</a>
+            <a href="/buycar/c7b57c20226s20422p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手海格客车">海格客车</a>
+            <a href="/buycar/c7b20886c20887s20888p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手申龙">申龙</a>
+            <a href="/buycar/c7b20221c20222s20223p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手青年">青年</a>
+            <a href="/buycar/c7b20819c20820s20821p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手少林">少林</a>
+            <a href="/buycar/c7b161c20197s20698p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手金旅">金旅</a>
+        </dd>
+        <dt class="moreche"><a href="/serial.html" target="_blank">全部车系<samp>>></samp></a></dt>
+    </dl>
+
+    <dl>
+
+        <dt><a href="#" title="广西二手车热门品牌">热门品牌：</a> </dt>
+
+        <dd>
+            <a href="/buycar/c7b37c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手江铃">江铃</a>
+            <a href="/buycar/c7b178c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手宇通">宇通</a>
+            <a href="/buycar/c7b20837c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手安凯">安凯</a>
+            <a href="/buycar/c7b57c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手金龙">金龙</a>
+            <a href="/buycar/c7b39c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手金杯">金杯</a>
+            <a href="/buycar/c7b41c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手依维柯">依维柯</a>
+            <a href="/buycar/c7b20886c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手申龙">申龙</a>
+            <a href="/buycar/c7b20221c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手青年汽车">青年汽车</a>
+            <a href="/buycar/c7b20819c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手少林">少林</a>
+            <a href="/buycar/c7b52c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手黄海">黄海</a>
+            <a href="/buycar/c7b20671c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手中通">中通</a>
+            <a href="/buycar/c7b161c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手金旅">金旅</a>
+            <a href="/buycar/c7b128c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手福田">福田</a>
+        </dd>
+        <dt class="moreche"><a href="/pinpai.html" target="_blank">全部品牌<samp>>></samp></a></dt>
+    </dl>
+    <dl>
+        <dt><a href="#" title="广西二手车价格查询">价格查询：</a> </dt>
+
+        <dd>
+            <a href="/buycar/c7b0c0s0p1c0m0p1c0r566m0i0o0o2" target="_blank">3万以下</a>
+            <a href="/buycar/c7b0c0s0p2c0m0p1c0r566m0i0o0o2" target="_blank">3-5万</a>
+            <a href="/buycar/c7b0c0s0p3c0m0p1c0r566m0i0o0o2" target="_blank">5-8万</a>
+            <a href="/buycar/c7b0c0s0p4c0m0p1c0r566m0i0o0o2" target="_blank">8-10万</a>
+            <a href="/buycar/c7b0c0s0p5c0m0p1c0r566m0i0o0o2" target="_blank">10-15万</a>
+            <a href="/buycar/c7b0c0s0p6c0m0p1c0r566m0i0o0o2" target="_blank">15-20万</a>
+            <a href="/buycar/c7b0c0s0p7c0m0p1c0r566m0i0o0o2" target="_blank">20-30万</a>
+            <a href="/buycar/c7b0c0s0p8c0m0p1c0r566m0i0o0o2" target="_blank">30-50万</a>
+            <a href="/buycar/c7b0c0s0p9c0m0p1c0r566m0i0o0o2" target="_blank">50-100万</a>
+            <a href="/buycar/c7b0c0s0p10c0m0p1c0r566m0i0o0o2" target="_blank">100万以上</a>
+        </dd>
+    </dl>
+
+    <dl>
+
+        <dt><a href="#" title="广西二手车车龄">车&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;龄：</a> </dt>
+
+        <dd>
+            <a href="/buycar/c7b0c0s0p0c1m0p1c0r566m0i0o0o2" target="_blank">1年以下</a>
+            <a href="/buycar/c7b0c0s0p0c2m0p1c0r566m0i0o0o2" target="_blank">1-2年</a>
+            <a href="/buycar/c7b0c0s0p0c3m0p1c0r566m0i0o0o2" target="_blank">2-3年</a>
+            <a href="/buycar/c7b0c0s0p0c4m0p1c0r566m0i0o0o2" target="_blank">3-4年</a>
+            <a href="/buycar/c7b0c0s0p0c5m0p1c0r566m0i0o0o2" target="_blank">4-5年</a>
+            <a href="/buycar/c7b0c0s0p0c6m0p1c0r566m0i0o0o2" target="_blank">5-6年</a>
+            <a href="/buycar/c7b0c0s0p0c7m0p1c0r566m0i0o0o2" target="_blank">6-7年</a>
+            <a href="/buycar/c7b0c0s0p0c8m0p1c0r566m0i0o0o2" target="_blank">7-8年</a>
+            <a href="/buycar/c7b0c0s0p0c9m0p1c0r566m0i0o0o2" target="_blank">8-9年</a>
+            <a href="/buycar/c7b0c0s0p0c10m0p1c0r566m0i0o0o2" target="_blank">10年以上</a>
+        </dd>
+        <dt class="moreche"><a href="/buycar/c7b0c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank">更多条件<samp>>></samp></a></dt>
+    </dl>
+</div>
+<span style="clear: both;"></span>
+<div class="cheicon" id="hotid07" style="display: none;">
+    <dl>
+        <dt><a href="#" title="广西二手车热门车系">热门车系：</a></dt>
+        <dd>
+            <a href="/buycar/c6b113c20149s2116p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手公羊">公羊</a>
+            <a href="/buycar/c6b21c20039s3263p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手风骏5">风骏5</a>
+            <a href="/buycar/c6b7c20013s20285p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手坦途">坦途</a>
+            <a href="/buycar/c6b37c20062s1640p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手宝典">宝典</a>
+            <a href="/buycar/c0b21013c21179s21202p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手飞扬">飞扬</a>
+            <a href="/buycar/c6b27c20234s20294p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手锐骐">锐骐</a>
+            <a href="/buycar/c6b128c20166s2802p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手萨普">萨普</a>
+            <a href="/buycar/c0b17c20032s3249p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手F系列">F系列</a>
+            <a href="/buycar/c6b30c20054s1923p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手D22皮卡">D22皮卡</a>
+            <a href="/buycar/c6b33c20057s3010p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手田野">田野</a>
+            <a href="/buycar/c6b21c20039s1649p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手风骏3">风骏3</a>
+        </dd>
+        <dt class="moreche"><a href="/serial.html" target="_blank">全部车系<samp>>></samp></a></dt>
+    </dl>
+
+    <dl>
+
+        <dt><a href="#" title="广西二手车热门品牌">热门品牌：</a> </dt>
+
+        <dd>
+            <a href="/buycar/c6b17c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手福特">福特</a>
+            <a href="/buycar/c6b113c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手道奇">道奇</a>
+            <a href="/buycar/c6b21c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手长城">长城</a>
+            <a href="/buycar/c6b7c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手丰田">丰田</a>
+            <a href="/buycar/c6b37c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手江铃">江铃</a>
+            <a href="/buycar/c6b153c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手猎豹">猎豹</a>
+            <a href="/buycar/c6b39c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手金杯">金杯</a>
+            <a href="/buycar/c6b33c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手中兴">中兴</a>
+            <a href="/buycar/c6b27c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手东风">东风</a>
+            <a href="/buycar/c6b132c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手五十铃">五十铃</a>
+            <a href="/buycar/c6b30c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手日产">日产</a>
+            <a href="/buycar/c6b35c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手江淮">江淮</a>
+            <a href="/buycar/c6b52c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手黄海">黄海</a>
+        </dd>
+        <dt class="moreche"><a href="/pinpai.html" target="_blank">全部品牌<samp>>></samp></a></dt>
+
+    </dl>
+
+    <dl>
+
+        <dt><a href="#" title="广西二手车价格查询">价格查询：</a> </dt>
+
+        <dd>
+            <a href="/buycar/c6b0c0s0p1c0m0p1c0r566m0i0o0o2" target="_blank">3万以下</a>
+            <a href="/buycar/c6b0c0s0p2c0m0p1c0r566m0i0o0o2" target="_blank">3-5万</a>
+            <a href="/buycar/c6b0c0s0p3c0m0p1c0r566m0i0o0o2" target="_blank">5-8万</a>
+            <a href="/buycar/c6b0c0s0p4c0m0p1c0r566m0i0o0o2" target="_blank">8-10万</a>
+            <a href="/buycar/c6b0c0s0p5c0m0p1c0r566m0i0o0o2" target="_blank">10-15万</a>
+            <a href="/buycar/c6b0c0s0p6c0m0p1c0r566m0i0o0o2" target="_blank">15-20万</a>
+            <a href="/buycar/c6b0c0s0p7c0m0p1c0r566m0i0o0o2" target="_blank">20-30万</a>
+            <a href="/buycar/c6b0c0s0p8c0m0p1c0r566m0i0o0o2" target="_blank">30-50万</a>
+            <a href="/buycar/c6b0c0s0p9c0m0p1c0r566m0i0o0o2" target="_blank">50-100万</a>
+            <a href="/buycar/c6b0c0s0p10c0m0p1c0r566m0i0o0o2" target="_blank">100万以上</a>
+        </dd>
+    </dl>
+    <dl>
+
+        <dt><a href="#" title="广西二手车车龄">车&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;龄：</a> </dt>
+        <dd>
+            <a href="/buycar/c6b0c0s0p0c1m0p1c0r566m0i0o0o2" target="_blank">1年以下</a>
+            <a href="/buycar/c6b0c0s0p0c2m0p1c0r566m0i0o0o2" target="_blank">1-2年</a>
+            <a href="/buycar/c6b0c0s0p0c3m0p1c0r566m0i0o0o2" target="_blank">2-3年</a>
+            <a href="/buycar/c6b0c0s0p0c4m0p1c0r566m0i0o0o2" target="_blank">3-4年</a>
+            <a href="/buycar/c6b0c0s0p0c5m0p1c0r566m0i0o0o2" target="_blank">4-5年</a>
+            <a href="/buycar/c6b0c0s0p0c6m0p1c0r566m0i0o0o2" target="_blank">5-6年</a>
+            <a href="/buycar/c6b0c0s0p0c7m0p1c0r566m0i0o0o2" target="_blank">6-7年</a>
+            <a href="/buycar/c6b0c0s0p0c8m0p1c0r566m0i0o0o2" target="_blank">7-8年</a>
+            <a href="/buycar/c6b0c0s0p0c9m0p1c0r566m0i0o0o2" target="_blank">8-9年</a>
+            <a href="/buycar/c6b0c0s0p0c10m0p1c0r566m0i0o0o2" target="_blank">10年以上</a>
+        </dd>
+        <dt class="moreche"><a href="/buycar/c6b0c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank">更多条件<samp>>></samp></a></dt>
+    </dl>
+</div>
+<span style="clear: both;"></span>
+<div class="cheicon" id="hotid08" style="display: none;">
+    <dl>
+        <dt><a href="#" title="广西二手车热门车系">热门车系：</a></dt>
+
+        <dd>
+            <a href="/buycar/c0b27c20234s20595p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手天龙">天龙</a>
+            <a href="/buycar/c5b128c20166s20439p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手欧曼">欧曼</a>
+            <a href="/buycar/c5b20232c20332s20333p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手豪沃">豪沃</a>
+            <a href="/buycar/c5b53c20229s20387p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手j6">j6</a>
+            <a href="/buycar/c5b27c20234s20598p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手大力神">大力神</a>
+            <a href="/buycar/c5b41c20248s20464p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手依维柯金刚">依维柯金刚</a>
+            <a href="/buycar/c5b20232c20332s20338p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手金王子">金王子</a>
+            <a href="/buycar/c5b20241c20624s20626p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手华菱重卡">华菱重卡</a>
+            <a href="/buycar/c5b20240c20373s20376p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手多利卡">多利卡</a>
+            <a href="/buycar/c5b128c20166s20594p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手瑞沃">瑞沃</a>
+            <a href="/buycar/c5b27c20234s20596p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手天锦">天锦</a>
+            <a href="/buycar/c5b20235c20349s20351p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手乘龙">乘龙</a>
+        </dd>
+        <dt class="moreche"><a href="/serial.html" target="_blank">全部车系<samp>>></samp></a></dt>
+    </dl>
+    <dl>
+        <dt><a href="#" title="广西二手车热门品牌">热门品牌：</a> </dt>
+        <dd>
+            <a href="/buycar/c5b128c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手福田">福田</a>
+            <a href="/buycar/c5b35c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手江淮">江淮</a>
+            <a href="/buycar/c5b27c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手东风">东风</a>
+            <a href="/buycar/c5b20241c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手华菱">华菱</a>
+            <a href="/buycar/c5b20245c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手时代">时代</a>
+            <a href="/buycar/c5b41c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手依维柯">依维柯</a>
+            <a href="/buycar/c5b53c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手一汽解放">一汽解放</a>
+            <a href="/buycar/c5b20231c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手青岛解放">青岛解放</a>
+            <a href="/buycar/c5b20237c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手陕汽重卡">陕汽重卡</a>
+            <a href="/buycar/c5b20232c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手中国重汽">中国重汽</a>
+            <a href="/buycar/c5b20242c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手北奔重汽">北奔重汽</a>
+        </dd>
+        <dt class="moreche"><a href="/pinpai.html" target="_blank">全部品牌<samp>>></samp></a></dt>
+    </dl>
+    <dl>
+        <dt><a href="#" title="广西二手车价格查询">价格查询：</a> </dt>
+        <dd>
+            <a href="/buycar/c5b0c0s0p1c0m0p1c0r566m0i0o0o2" target="_blank">3万以下</a>
+            <a href="/buycar/c5b0c0s0p2c0m0p1c0r566m0i0o0o2" target="_blank">3-5万</a>
+            <a href="/buycar/c5b0c0s0p3c0m0p1c0r566m0i0o0o2" target="_blank">5-8万</a>
+            <a href="/buycar/c5b0c0s0p4c0m0p1c0r566m0i0o0o2" target="_blank">8-10万</a>
+            <a href="/buycar/c5b0c0s0p5c0m0p1c0r566m0i0o0o2" target="_blank">10-15万</a>
+            <a href="/buycar/c5b0c0s0p6c0m0p1c0r566m0i0o0o2" target="_blank">15-20万</a>
+            <a href="/buycar/c5b0c0s0p7c0m0p1c0r566m0i0o0o2" target="_blank">20-30万</a>
+            <a href="/buycar/c5b0c0s0p8c0m0p1c0r566m0i0o0o2" target="_blank">30-50万</a>
+            <a href="/buycar/c5b0c0s0p9c0m0p1c0r566m0i0o0o2" target="_blank">50-100万</a>
+            <a href="/buycar/c5b0c0s0p10c0m0p1c0r566m0i0o0o2" target="_blank">100万以上</a>
+        </dd>
+    </dl>
+
+    <dl>
+        <dt><a href="#" title="广西二手车车龄">车&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;龄：</a> </dt>
+
+        <dd>
+            <a href="/buycar/c5b0c0s0p0c1m0p1c0r566m0i0o0o2" target="_blank">1年以下</a>
+            <a href="/buycar/c5b0c0s0p0c2m0p1c0r566m0i0o0o2" target="_blank">1-2年</a>
+            <a href="/buycar/c5b0c0s0p0c3m0p1c0r566m0i0o0o2" target="_blank">2-3年</a>
+            <a href="/buycar/c5b0c0s0p0c4m0p1c0r566m0i0o0o2" target="_blank">3-4年</a>
+            <a href="/buycar/c5b0c0s0p0c5m0p1c0r566m0i0o0o2" target="_blank">4-5年</a>
+            <a href="/buycar/c5b0c0s0p0c6m0p1c0r566m0i0o0o2" target="_blank">5-6年</a>
+            <a href="/buycar/c5b0c0s0p0c7m0p1c0r566m0i0o0o2" target="_blank">6-7年</a>
+            <a href="/buycar/c5b0c0s0p0c8m0p1c0r566m0i0o0o2" target="_blank">7-8年</a>
+            <a href="/buycar/c5b0c0s0p0c9m0p1c0r566m0i0o0o2" target="_blank">8-9年</a>
+            <a href="/buycar/c5b0c0s0p0c10m0p1c0r566m0i0o0o2" target="_blank">10年以上</a>
+        </dd>
+        <dt class="moreche"><a href="/buycar/c5b0c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank">更多条件<samp>>></samp></a></dt>
+    </dl>
+</div>
+<span style="clear: both;"></span>
+<div class="cheicon" id="hotid09" style="display: none;">
+    <dl>
+        <dt><a href="#" title="广西二手车热门车系">热门车系：</a></dt>
+        <dd>
+            <a href="/buycar/c13b20621c20622s20623p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手柳工机械">柳工机械</a>
+            <a href="/buycar/c13b20724c20725s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手三一">三一</a>
+            <a href="/buycar/c0b20241c20624s20627p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手星马">星马</a>
+            <a href="/buycar/c13b20638c20639s20640p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手龙工机械">龙工机械</a>
+            <a href="/buycar/c0b20727c20728s20729p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手中联">中联</a>
+            <a href="/buycar/c13b20779c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手醒狮">醒狮</a>
+            <a href="/buycar/c13b20241c20624s20626p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手华菱重卡">华菱重卡</a>
+            <a href="/buycar/c13b20749c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手小松机械">小松机械</a>
+            <a href="/buycar/c13b20916c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手台励福">台励福</a>
+            <a href="/buycar/c13b20237c20306s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手德龙F3000">德龙F3000</a>
+            <a href="/buycar/c13b20232c20332s20333p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手豪沃">豪沃</a>
+        </dd>
+        <dt class="moreche"><a href="serial.html" target="_blank">全部车系<samp>>></samp></a></dt>
+    </dl>
+    <dl>
+        <dt><a href="#" title="广西二手车热门品牌">热门品牌：</a> </dt>
+        <dd>
+            <a href="/buycar/c13b20263c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手徐工">徐工</a>
+            <a href="/buycar/c13b20621c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手柳工">柳工</a>
+            <a href="/buycar/c13b128c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手福田">福田</a>
+            <a href="/buycar/c13b27c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手东风">东风</a>
+            <a href="/buycar/c13b20241c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手华菱">华菱</a>
+            <a href="/buycar/c13b41c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手依维柯">依维柯</a>
+            <a href="/buycar/c13b53c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手一汽解放">一汽解放</a>
+            <a href="/buycar/c13b20724c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手三一重工">三一重工</a>
+            <a href="/buycar/c13b20232c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手中国重汽">中国重汽</a>
+            <a href="/buycar/c13b20237c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手陕汽重卡">陕汽重卡</a>
+            <a href="/buycar/c13b20727c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank" title="广西二手中联重科">中联重科</a>
+        </dd>
+        <dt class="moreche"><a href="pinpai.html" target="_blank">全部品牌<samp>>></samp></a></dt>
+    </dl>
+    <dl>
+        <dt><a href="#" title="广西二手车价格查询">价格查询：</a> </dt>
+        <dd>
+            <a href="/buycar/c13b0c0s0p1c0m0p1c0r566m0i0o0o2" target="_blank">3万以下</a>
+            <a href="/buycar/c13b0c0s0p2c0m0p1c0r566m0i0o0o2" target="_blank">3-5万</a>
+            <a href="/buycar/c13b0c0s0p3c0m0p1c0r566m0i0o0o2" target="_blank">5-8万</a>
+            <a href="/buycar/c13b0c0s0p4c0m0p1c0r566m0i0o0o2" target="_blank">8-10万</a>
+            <a href="/buycar/c13b0c0s0p5c0m0p1c0r566m0i0o0o2" target="_blank">10-15万</a>
+            <a href="/buycar/c13b0c0s0p6c0m0p1c0r566m0i0o0o2" target="_blank">15-20万</a>
+            <a href="/buycar/c13b0c0s0p7c0m0p1c0r566m0i0o0o2" target="_blank">20-30万</a>
+            <a href="/buycar/c13b0c0s0p8c0m0p1c0r566m0i0o0o2" target="_blank">30-50万</a>
+            <a href="/buycar/c13b0c0s0p9c0m0p1c0r566m0i0o0o2" target="_blank">50-100万</a>
+            <a href="/buycar/c13b0c0s0p10c0m0p1c0r566m0i0o0o2" target="_blank">100万以上</a>
+        </dd>
+    </dl>
+    <dl>
+        <dt><a href="#" title="广西二手车车龄">车&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;龄：</a> </dt>
+        <dd>
+            <a href="/buycar/c13b0c0s0p0c1m0p1c0r566m0i0o0o2" target="_blank">1年以下</a>
+            <a href="/buycar/c13b0c0s0p0c2m0p1c0r566m0i0o0o2" target="_blank">1-2年</a>
+            <a href="/buycar/c13b0c0s0p0c3m0p1c0r566m0i0o0o2" target="_blank">2-3年</a>
+            <a href="/buycar/c13b0c0s0p0c4m0p1c0r566m0i0o0o2" target="_blank">3-4年</a>
+            <a href="/buycar/c13b0c0s0p0c5m0p1c0r566m0i0o0o2" target="_blank">4-5年</a>
+            <a href="/buycar/c13b0c0s0p0c6m0p1c0r566m0i0o0o2" target="_blank">5-6年</a>
+            <a href="/buycar/c13b0c0s0p0c7m0p1c0r566m0i0o0o2" target="_blank">6-7年</a>
+            <a href="/buycar/c13b0c0s0p0c8m0p1c0r566m0i0o0o2" target="_blank">7-8年</a>
+            <a href="/buycar/c13b0c0s0p0c9m0p1c0r566m0i0o0o2" target="_blank">8-9年</a>
+            <a href="/buycar/c13b0c0s0p0c10m0p1c0r566m0i0o0o2" target="_blank">10年以上</a>
+        </dd>
+        <dt class="moreche"><a href="/buycar/c10b0c0s0p0c0m0p1c0r566m0i0o0o2" target="_blank">更多条件<samp>>></samp></a></dt>
+    </dl>
+</div>
+
+        </div>
+        <div class="news">
+            <ul class="title-td">
+                <li class="newstab01" id="news000" onmouseover="switchnav(0,4,2)">焦点新闻</li>
+                <li class="newstab02" id="news001" onmouseover="switchnav(1,4,2)">新公告</li>
+            </ul>
+            <div class="list" id="n01">
+                <ol>
+                    <li><span class="news-img"><span class="news-img"><a href="http://news.cn2che.com/html/2016/1107/news_101261.html" title="“中国二手车城”首家服务中心落户高安" target="_blank"><img src="http://pic.cn2che.com/photos/2016/11/07/20161107153300425.png" width="98" height="65" alt="“中国二手车城”首家服务中心落户高安"/></a></span><span class="news-img-b"><a href="http://news.cn2che.com/html/2016/1107/news_101261.html" title="“中国二手车城”首家服务中心落户高安" target="_blank">“中国二手车城...</a></span></span><span class="headlines"><a href="http://news.cn2che.com/html/2016/1107/news_101261.html" title="“中国二手车城”首家服务中心落户高安" target="_blank"><strong>“中国二手车城”...</strong></a><br /><a href="http://news.cn2che.com/html/2016/1025/news_100911.html" title="群商云集欢聚高安 二手车城高安答谢会顺利开幕" target="_blank">群商云集欢聚高安 二手车城高安答谢会顺利开幕</a></span></li><li><span class="newstitle">[车城公告]</span><a href="http://news.cn2che.com/html/2016/1020/news_100780.html" title="VIP客户感恩答谢暨高安服务中心启动大会倒计时" target="_blank">VIP客户感恩答谢暨高安服...</a></li><li><span class="newstitle">[车城公告]</span><a href="http://news.cn2che.com/html/2016/1014/news_100640.html" title="一路同行，精彩有你！ VIP客户感恩答谢宴暨服务中心启动大会即将引爆江西高安" target="_blank">一路同行，精彩有你！ VIP...</a></li><li><span class="newstitle">[汽车文化]</span><a href="http://news.cn2che.com/html/2016/1013/news_100610.html" title="如何让狗狗不在你的轮胎上尿尿？" target="_blank">如何让狗狗不在你的轮胎上...</a></li><li><span class="newstitle">[汽车文化]</span><a href="http://news.cn2che.com/html/2016/1012/news_100573.html" title="这几种记号，知道了，你就很可能免受伤害了" target="_blank">这几种记号，知道了，你就...</a></li><li><span class="newstitle">[汽车文化]</span><a href="http://news.cn2che.com/html/2016/1008/news_100426.html" title="如果下辈子，你还记得我" target="_blank">如果下辈子，你还记得我</a></li>
+                </ol>
+            </div>
+            <span style="clear: both"></span>
+            <div class="list" id="n02" style="display: none">
+                <ol>
+                    <li><span class="news-img"><span class="news-img"><a href="http://news.cn2che.com/html/2016/1122/news_101557.html" title="中国二手车城新版定时更新功能上线 教大家如何使用" target="_blank"><img src="http://pic.cn2che.com/photos/2016/11/22/20161122141510137.png" width="98" height="65" alt="中国二手车城新版定时更新功能上线 教大家如何使用"/></a></span><span class="news-img-b"><a href="http://news.cn2che.com/html/2016/1122/news_101557.html" title="中国二手车城新版定时更新功能上线 教大家如何使用" target="_blank">中国二手车城新...</a></span></span><span class="headlines"><a href="http://news.cn2che.com/html/2016/1122/news_101557.html" title="中国二手车城新版定时更新功能上线 教大家如何使用" target="_blank"><strong>中国二手车城新版...</strong></a><br /><a href="http://news.cn2che.com/html/2016/1107/news_101261.html" title="“中国二手车城”首家服务中心落户高安" target="_blank">“中国二手车城”首家服务中心落户高安</a></span></li><li><span class="newstitle">[车城公告]</span><a href="http://news.cn2che.com/html/2016/1025/news_100911.html" title="群商云集欢聚高安 二手车城高安答谢会顺利开幕" target="_blank">群商云集欢聚高安 二手车...</a></li><li><span class="newstitle">[车城公告]</span><a href="http://news.cn2che.com/html/2016/1020/news_100780.html" title="VIP客户感恩答谢暨高安服务中心启动大会倒计时" target="_blank">VIP客户感恩答谢暨高安服...</a></li><li><span class="newstitle">[车城公告]</span><a href="http://news.cn2che.com/html/2016/1014/news_100640.html" title="一路同行，精彩有你！ VIP客户感恩答谢宴暨服务中心启动大会即将引爆江西高安" target="_blank">一路同行，精彩有你！ VIP...</a></li><li><span class="newstitle">[车城公告]</span><a href="http://news.cn2che.com/html/2016/1009/news_100456.html" title="国庆刮刮乐已结束 二手车城后续活动待续" target="_blank">国庆刮刮乐已结束 二手车...</a></li><li><span class="newstitle">[车城公告]</span><a href="http://news.cn2che.com/html/2016/0928/news_100324.html" title="二手车城礼品大放送 国庆刮刮乐翻天" target="_blank">二手车城礼品大放送 国庆...</a></li>
+                </ol>
+            </div>
+        </div>
+        <div class="ad3-1" id="ad3_p1300"><ul><li class="ad-td01"><img src="/images/Ad/ad3.jpg" alt="广告招商" width="325" height="70" border="0" /></li><li class="ad-td02"><img src="/images/Ad/ad3.jpg" alt="广告招商" width="325" height="70" border="0" /></li><li class="ad-td03"><img src="/images/Ad/ad3.jpg" alt="广告招商" width="325" height="70" border="0" /></li></ul></div>
+
+        <div id="jxh" class="sideBar">
+
+            <h2><a href="http://www.cn2che.com/jingxiaoshang/" title="广西 经销商推荐 可靠二手车网站"><span style="color: #006da9">二手车诚信经销商  </span></a></h2>
+
+            <ul>
+                <li><div name="jxs"><span class="company"><a title="中国二手车城厦门湖里兴隆服务中心" href="http://zgesc0592.web.cn2che.com/" target="_blank" >中国二手车城厦门湖里兴隆...</a></span><span class="level"><span class="hg05"></span></span></div><div style="display:block;" name="jxs_1"> <span class="companylogo"><a title="中国二手车城厦门湖里兴隆服务中心" href="http://zgesc0592.web.cn2che.com/" target="_blank" ><img height="40" width="40" alt="中国二手车城厦门湖里兴隆服务中心" src="http://pic.cn2che.com"></a></span><span class="Contact">地址：厦门市湖里区兴隆路88号<br>热线：18059259811</span></div></li><li><div name="jxs"><span class="company"><a title="诚翼达名车会馆" href="http://13322191919.web.cn2che.com/" target="_blank" >诚翼达名车会馆</a></span><span class="level"><span class="hg03"></span></span></div><div style="display:none;" name="jxs_1"> <span class="companylogo"><a title="诚翼达名车会馆" href="http://13322191919.web.cn2che.com/" target="_blank" ><img height="40" width="40" alt="诚翼达名车会馆" src="http://pic.cn2che.com/photos/2015/07/31/20150731135305521.jpg"></a></span><span class="Contact">地址：辽宁省锦州市太和区科技路德胜里书香门第10-89号<br>热线：13322191919</span></div></li><li><div name="jxs"><span class="company"><a title="上海昀睿二手高档车交易" href="http://shanghaiyuntian.web.cn2che.com/" target="_blank" >上海昀睿二手高档车交易</a></span><span class="level"><span class="hg01"></span></span></div><div style="display:none;" name="jxs_1"> <span class="companylogo"><a title="上海昀睿二手高档车交易" href="http://shanghaiyuntian.web.cn2che.com/" target="_blank" ><img height="40" width="40" alt="上海昀睿二手高档车交易" src="http://pic.cn2che.com"></a></span><span class="Contact">地址：江场西路200号东3号<br>热线：13817777285</span></div></li><li><div name="jxs"><span class="company"><a title="江西瑞州汽运集团金成汽运有限公司" href="http://jxjc2sc.web.cn2che.com/" target="_blank" >江西瑞州汽运集团金成汽运有限...</a></span><span class="level"><span class="hg03"></span></span></div><div style="display:none;" name="jxs_1"> <span class="companylogo"><a title="江西瑞州汽运集团金成汽运有限公司" href="http://jxjc2sc.web.cn2che.com/" target="_blank" ><img height="40" width="40" alt="江西瑞州汽运集团金成汽运有限公司" src="http://pic.cn2che.com/photos/2016/09/18/20160918110611520.png"></a></span><span class="Contact">地址：江西 高安<br>热线：13507951310</span></div></li><li><div name="jxs"><span class="company"><a title="安信卡卡汽车服务有限公司" href="http://nb2car.web.cn2che.com/" target="_blank" >安信卡卡汽车服务有限公司</a></span><span class="level"><span class="hg04"></span></span></div><div style="display:none;" name="jxs_1"> <span class="companylogo"><a title="安信卡卡汽车服务有限公司" href="http://nb2car.web.cn2che.com/" target="_blank" ><img height="40" width="40" alt="安信卡卡汽车服务有限公司" src="http://pic.cn2che.com/photos/2015/05/14/20150514104305328.jpg"></a></span><span class="Contact">地址：宁波市鄞州区鄞县大道途众汽贸城第三检测站内(卡卡行易车）<br>热线：15557477777</span></div></li><li><div name="jxs"><span class="company"><a title="精诚二手货车交易公司" href="http://jingchengmaiche.web.cn2che.com/" target="_blank" >精诚二手货车交易公司</a></span><span class="level"><span class="hg03"></span></span></div><div style="display:none;" name="jxs_1"> <span class="companylogo"><a title="精诚二手货车交易公司" href="http://jingchengmaiche.web.cn2che.com/" target="_blank" ><img height="40" width="40" alt="精诚二手货车交易公司" src="http://pic.cn2che.com/photos/2015/12/08/20151208173147222.jpg"></a></span><span class="Contact">地址：江西高安精诚二手车交易中心<br>热线：13870556689</span></div></li><li><div name="jxs"><span class="company"><a title="江西首创汽运有限公司" href="http://1795151188.web.cn2che.com/" target="_blank" >江西首创汽运有限公司</a></span><span class="level"><span class="z04"></span></span></div><div style="display:none;" name="jxs_1"> <span class="companylogo"><a title="江西首创汽运有限公司" href="http://1795151188.web.cn2che.com/" target="_blank" ><img height="40" width="40" alt="江西首创汽运有限公司" src="http://pic.cn2che.com/photos/2015/09/11/20150911105106322.jpg"></a></span><span class="Contact">地址：江西省高安市汽运城<br>热线：18162203888</span></div></li><li><div name="jxs"><span class="company"><a title="上海隆华二手车" href="http://ghgao99.web.cn2che.com/" target="_blank" >上海隆华二手车</a></span><span class="level"><span class="hg02"></span></span></div><div style="display:none;" name="jxs_1"> <span class="companylogo"><a title="上海隆华二手车" href="http://ghgao99.web.cn2che.com/" target="_blank" ><img height="40" width="40" alt="上海隆华二手车" src="http://pic.cn2che.com"></a></span><span class="Contact">地址：上海市嘉定区高潮路309号（地铁13号线到金沙江西路站5号）<br>热线：13472696308</span></div></li><li><div name="jxs"><span class="company"><a title="江西万载鑫发物流有限公司" href="http://jxgasx123.web.cn2che.com/" target="_blank" >江西万载鑫发物流有限公司</a></span><span class="level"><span class="hg02"></span></span></div><div style="display:none;" name="jxs_1"> <span class="companylogo"><a title="江西万载鑫发物流有限公司" href="http://jxgasx123.web.cn2che.com/" target="_blank" ><img height="40" width="40" alt="江西万载鑫发物流有限公司" src="http://pic.cn2che.com"></a></span><span class="Contact">地址：江西高安瑞阳大道 莱茵星城小区门卫室<br>热线：13907951369</span></div></li><li><div name="jxs"><span class="company"><a title="长鑫汽运有限公司" href="http://a571571.web.cn2che.com/" target="_blank" >长鑫汽运有限公司</a></span><span class="level"><span class="z03"></span></span></div><div style="display:none;" name="jxs_1"> <span class="companylogo"><a title="长鑫汽运有限公司" href="http://a571571.web.cn2che.com/" target="_blank" ><img height="40" width="40" alt="长鑫汽运有限公司" src="http://pic.cn2che.com/photos/2016/11/01/20161101134641704.jpg"></a></span><span class="Contact">地址：江西省高安市汽运城<br>热线：18679506562</span></div></li><li><div name="jxs"><span class="company"><a title="仁发汽运有限公司" href="http://renxinersouche.web.cn2che.com/" target="_blank" >仁发汽运有限公司</a></span><span class="level"><span class="hg03"></span></span></div><div style="display:none;" name="jxs_1"> <span class="companylogo"><a title="仁发汽运有限公司" href="http://renxinersouche.web.cn2che.com/" target="_blank" ><img height="40" width="40" alt="仁发汽运有限公司" src="http://pic.cn2che.com/photos/2015/11/11/20151111114440104.jpg"></a></span><span class="Contact">地址：江西 宜春<br>热线：13979598133</span></div></li><li><div name="jxs"><span class="company"><a title="长沙洒水货车" href="http://13874964589.web.cn2che.com/" target="_blank" >长沙洒水货车</a></span><span class="level"><span class="z04"></span></span></div><div style="display:none;" name="jxs_1"> <span class="companylogo"><a title="长沙洒水货车" href="http://13874964589.web.cn2che.com/" target="_blank" ><img height="40" width="40" alt="长沙洒水货车" src="http://pic.cn2che.com"></a></span><span class="Contact">地址：湖南长沙<br>热线：13874980728</span></div></li>
+            </ul>
+        </div>
+        <div class="cheyuan">
+            <h2>精品广西二手车<span>报价</span></h2>
+            <span class="More"><a href="/freefabu/freefabu.html" target="_blank">发布广西二手车</a> | <a href="/buycar/cccpcmpbcrm1plos2/" id="mt" target="_blank">更多二手车源<samp>>></samp></a></span>
+            <ol class="tabtype tabtype2">
+                <li class="tabbg01" id="fine000" onmouseover="switchnav(0,5,2);mts(2);">车商二手车</li>
+                <li class="tabbg02" id="fine001" onmouseover="switchnav(1,5,2);mts(1);">个人二手车</li>
+            </ol>
+            <ul id="F01">
+                <li><span><a href="http://tj.cn2che.com/sellcarinfo_1710348.html" target="_blank"><img alt=" 宝马 宝马7系(进口) 2009款 740Li豪华型" src="http://pic.cn2che.com/pics/2014/02/07/thumb_img/20140207192518242.jpg"  width="160" height="120" /></a></span><span><a href="http://tj.cn2che.com/sellcarinfo_1710348.html" target="_blank"> 宝马 宝马7系(进口</a><br />报价<strong>¥55.00万</strong></span></li><li><span><a href="http://gx.cn2che.com/sellcarinfo_2053902.html" target="_blank"><img alt=" 宝马 宝马5系GT(进口) 2013款 550i xDrive" src="http://pic.cn2che.com/pics/2016/10/14/thumb_img/20161014151337993541.jpg"  width="160" height="120" /></a></span><span><a href="http://gx.cn2che.com/sellcarinfo_2053902.html" target="_blank"> 宝马 宝马5系GT(进</a><br />报价<strong>¥25.00万</strong></span></li><li><span><a href="http://gx.cn2che.com/sellcarinfo_2022102.html" target="_blank"><img alt=" 奔驰 S级 2012款 400L HYBRID Grand" src="http://pic.cn2che.com/pics/2016/07/23/thumb_img/20160723114457752193.jpg"  width="160" height="120" /></a></span><span><a href="http://gx.cn2che.com/sellcarinfo_2022102.html" target="_blank"> 奔驰 S级 2012款 4</a><br />报价<strong>¥28.00万</strong></span></li><li><span><a href="http://gx.cn2che.com/sellcarinfo_1943575.html" target="_blank"><img alt=" 迷你 迷你 2011款 Cooper Excitement" src="http://pic.cn2che.com/pics/2015/09/15/thumb_img/20150915101739635.jpg"  width="160" height="120" /></a></span><span><a href="http://gx.cn2che.com/sellcarinfo_1943575.html" target="_blank"> 迷你 迷你 2011款 </a><br />报价<strong>¥19.80万</strong></span></li><li><span><a href="http://gx.cn2che.com/sellcarinfo_1942166.html" target="_blank"><img alt=" 福特 蒙迪欧-致胜 2.0L手动舒适型" src="http://pic.cn2che.com/tmp/2015/09/10/thumb_img/20150910150835425.jpg"  width="160" height="120" /></a></span><span><a href="http://gx.cn2che.com/sellcarinfo_1942166.html" target="_blank"> 福特 蒙迪欧-致胜 </a><br />报价<strong>¥10.80万</strong></span></li><li><span><a href="http://gx.cn2che.com/sellcarinfo_1903808.html" target="_blank"><img alt=" 福特 蒙迪欧-致胜 2011款 2.0L GTDi200 豪华型" src="http://pic.cn2che.com/pics/2015/05/01/thumb_img/20150501153836111.jpg"  width="160" height="120" /></a></span><span><a href="http://gx.cn2che.com/sellcarinfo_1903808.html" target="_blank"> 福特 蒙迪欧-致胜 </a><br />报价<strong>¥13.19万</strong></span></li><li><span><a href="http://gx.cn2che.com/sellcarinfo_1942443.html" target="_blank"><img alt=" 奥迪 Q5 2010款 2.0 TFSI 技术型" src="http://pic.cn2che.com/pics/2015/09/11/thumb_img/20150911110200944.png"  width="160" height="120" /></a></span><span><a href="http://gx.cn2che.com/sellcarinfo_1942443.html" target="_blank"> 奥迪 Q5 2010款 2.</a><br />报价<strong>¥33.00万</strong></span></li><li><span><a href="http://gx.cn2che.com/sellcarinfo_1681557.html" target="_blank"><img alt=" 别克 凯越 2008款 1.6 LE—MT" src="http://pic.cn2che.com/pics/2013/12/22/thumb_img/20131222150041952.jpg"  width="160" height="120" /></a></span><span><a href="http://gx.cn2che.com/sellcarinfo_1681557.html" target="_blank"> 别克 凯越 2008款 </a><br />报价<strong>¥6.50万</strong></span></li><li><span><a href="http://jx.cn2che.com/sellcarinfo_1998688.html" target="_blank"><img alt=" 一汽解放 J6 自卸车 375马力 8X4 前四后八" src="http://pic.cn2che.com/pics/2016/05/03/thumb_img/20160503110242812324.jpg"  width="160" height="120" /></a></span><span><a href="http://jx.cn2che.com/sellcarinfo_1998688.html" target="_blank"> 一汽解放 J6 自卸</a><br />报价<strong>¥13.80万</strong></span></li><li><span><a href="http://jx.cn2che.com/sellcarinfo_1998834.html" target="_blank"><img alt=" 东风 天锦 载货车 前四后四" src="http://pic.cn2che.com/pics/2016/05/03/thumb_img/20160503145904578356.jpg"  width="160" height="120" /></a></span><span><a href="http://jx.cn2che.com/sellcarinfo_1998834.html" target="_blank"> 东风 天锦 载货车 </a><br />报价<strong>¥11.00万</strong></span></li><li><span><a href="http://www.cn2che.com/sellcarinfo_2037454.html" target="_blank"><img alt=" 东风柳汽 乘龙 载货车" src="http://pic.cn2che.com/pics/2016/09/01/thumb_img/20160901101343698915.png"  width="160" height="120" /></a></span><span><a href="http://www.cn2che.com/sellcarinfo_2037454.html" target="_blank"> 东风柳汽 乘龙 载</a><br />报价<strong>¥16.90万</strong></span></li><li><span><a href="http://jx.cn2che.com/sellcarinfo_2038051.html" target="_blank"><img alt=" 东风柳汽 霸龙 载货车  重卡  8x4 前四后八" src="http://pic.cn2che.com/pics/2016/09/02/thumb_img/20160902172931354978.png"  width="160" height="120" /></a></span><span><a href="http://jx.cn2che.com/sellcarinfo_2038051.html" target="_blank"> 东风柳汽 霸龙 载</a><br />报价<strong>¥10.00万</strong></span></li>
+            </ul>
+            <ul id="F02" style="display: none">
+                <li><span><a href="http://gx.cn2che.com/sellcarinfo_2022102.html" target="_blank"><img alt=" 奔驰 S级 2012款 400L HYBRID Grand" src="http://pic.cn2che.com/pics/2016/07/23/thumb_img/20160723114457752193.jpg"  width="160" height="120" /></a></span><span><a href="http://gx.cn2che.com/sellcarinfo_2022102.html" target="_blank"> 奔驰 S级 2012款 4</a><br />报价<strong>¥28.00万</strong></span></li><li><span><a href="http://gx.cn2che.com/sellcarinfo_2023005.html" target="_blank"><img alt=" 大众 迈腾 2012款 2.0T 手自一体 至尊型" src="http://pic.cn2che.com/pics/2016/07/26/thumb_img/20160726112936346750.jpg"  width="160" height="120" /></a></span><span><a href="http://gx.cn2che.com/sellcarinfo_2023005.html" target="_blank"> 大众 迈腾 2012款 </a><br />报价<strong>¥15.98万</strong></span></li><li><span><a href="http://gx.cn2che.com/sellcarinfo_2022601.html" target="_blank"><img alt=" 路虎 揽胜 2012款 4.4 TDV8 手自一体" src="http://pic.cn2che.com/pics/2016/07/25/thumb_img/20160725111338361535.jpg"  width="160" height="120" /></a></span><span><a href="http://gx.cn2che.com/sellcarinfo_2022601.html" target="_blank"> 路虎 揽胜 2012款 </a><br />报价<strong>¥19.00万</strong></span></li><li><span><a href="http://gx.cn2che.com/sellcarinfo_1943702.html" target="_blank"><img alt=" 丰田 佳美  2.2L-AT" src="http://pic.cn2che.com/pics/2015/09/15/thumb_img/20150915150422234.png"  width="160" height="120" /></a></span><span><a href="http://gx.cn2che.com/sellcarinfo_1943702.html" target="_blank"> 丰田 佳美  2.2L-A</a><br />报价<strong>¥2.90万</strong></span></li><li><span><a href="http://gx.cn2che.com/sellcarinfo_1942471.html" target="_blank"><img alt=" 日产 骐达 1.6TXV手动致酷版" src="http://pic.cn2che.com/tmp/2015/09/11/thumb_img/20150911122456115.jpg"  width="160" height="120" /></a></span><span><a href="http://gx.cn2che.com/sellcarinfo_1942471.html" target="_blank"> 日产 骐达 1.6TXV</a><br />报价<strong>¥7.98万</strong></span></li><li><span><a href="http://gx.cn2che.com/sellcarinfo_1903816.html" target="_blank"><img alt=" 别克 君越 2010款 2.0T 豪雅版" src="http://pic.cn2che.com/pics/2015/05/01/thumb_img/20150501162706884.jpg"  width="160" height="120" /></a></span><span><a href="http://gx.cn2che.com/sellcarinfo_1903816.html" target="_blank"> 别克 君越 2010款 </a><br />报价<strong>¥14.59万</strong></span></li><li><span><a href="http://gx.cn2che.com/sellcarinfo_1542974.html" target="_blank"><img alt=" 日产 轩逸 2009款 1.6L XE 舒适版 MT" src="http://pic.cn2che.com/pics/2013/07/30/thumb_img/20130730023650871.jpg"  width="160" height="120" /></a></span><span><a href="http://gx.cn2che.com/sellcarinfo_1542974.html" target="_blank"> 日产 轩逸 2009款 </a><br />报价<strong>¥8.58万</strong></span></li><li><span><a href="http://gx.cn2che.com/sellcarinfo_1681561.html" target="_blank"><img alt=" 丰田 锐志 2008款 2.5S特别纪念版" src="http://pic.cn2che.com/pics/2013/12/22/thumb_img/20131222150323719.jpg"  width="160" height="120" /></a></span><span><a href="http://gx.cn2che.com/sellcarinfo_1681561.html" target="_blank"> 丰田 锐志 2008款 </a><br />报价<strong>¥12.38万</strong></span></li><li><span><a href="http://jx.cn2che.com/sellcarinfo_1401258.html" target="_blank"><img alt=" 福田 欧曼 牵引车 CTX-9系  6×4 前四后六  重载型 轴距3300 共轨4,福田 欧曼 牵引车 CTX-9系  6×4 前四后六  重载型 轴距3300 共轨4" src="http://pic.cn2che.com/pics/2013/01/22/thumb_img/20130122123449913.jpg"  width="160" height="120" /></a></span><span><a href="http://jx.cn2che.com/sellcarinfo_1401258.html" target="_blank"> 福田 欧曼 牵引车 </a><br />报价<strong>¥8.00万</strong></span></li><li><span><a href="http://jx.cn2che.com/sellcarinfo_2011039.html" target="_blank"><img alt=" 一汽解放 J6 自卸车 375马力 8X4 前四后八" src="http://pic.cn2che.com/pics/2016/06/11/thumb_img/2016061120295264321.jpg"  width="160" height="120" /></a></span><span><a href="http://jx.cn2che.com/sellcarinfo_2011039.html" target="_blank"> 一汽解放 J6 自卸</a><br />报价<strong>¥38.00万</strong></span></li><li><span><a href="http://jx.cn2che.com/sellcarinfo_1999135.html" target="_blank"><img alt=" 陕汽重卡 德龙F3000 自卸车 前二后八" src="http://pic.cn2che.com/pics/2016/05/04/thumb_img/20160504152140500229.jpg"  width="160" height="120" /></a></span><span><a href="http://jx.cn2che.com/sellcarinfo_1999135.html" target="_blank"> 陕汽重卡 德龙F300</a><br />报价<strong>¥16.00万</strong></span></li><li><span><a href="http://www.cn2che.com/sellcarinfo_2003845.html" target="_blank"><img alt=" 青岛解放 途V 前四后八仓栅货车" src="http://pic.cn2che.com/pics/2016/05/21/thumb_img/2016052109201037594.jpg"  width="160" height="120" /></a></span><span><a href="http://www.cn2che.com/sellcarinfo_2003845.html" target="_blank"> 青岛解放 途V 前四</a><br />报价<strong>¥17.50万</strong></span></li>
+            </ul>
+        </div>
+
+        
+
+        <div class="newsell">
+
+            <h2 title="新出售广西二手车">新出售二手车 </h2>
+
+            <span class="More"><a href="/freefabu/freefabu.html" target="_blank">发布出售信息</a> | <a href="/buycar/c1ccpcmpbcr/" id="sellmore" target="_blank">更多<samp>>></samp></a></span>
+            <ol class="tabtype">
+                <li class="tabbg01" id="sell000" onmouseover="switchnav(0,7,9);getmore('0','1');">轿车</li>
+                <li class="tabbg02" id="sell001" onmouseover="switchnav(1,7,9);getmore('0','5');">货车</li>
+                <li class="tabbg02" id="sell002" onmouseover="switchnav(2,7,9);getmore('0','7');">客车</li>
+                <li class="tabbg02" id="sell003" onmouseover="switchnav(3,7,9);getmore('0','6');">皮卡</li>
+                <li class="tabbg02" id="sell004" onmouseover="switchnav(4,7,9);getmore('0','8');">面包车</li>
+                <li class="tabbg02" id="sell005" onmouseover="switchnav(5,7,9);getmore('0','2');">跑车</li>
+                <li class="tabbg02" id="sell006" onmouseover="switchnav(6,7,9);getmore('0','3');">越野车</li>
+                <li class="tabbg02" id="sell007" onmouseover="switchnav(7,7,9);getmore('0','4');">商务车</li>
+                <li class="tabbg02" id="sell008" onmouseover="switchnav(8,7,9);getmore('0','12');">新能源车</li>
+            </ol>
+            <dl>
+                <dt><span class="list01">地区</span><span class="list02">车系/车型</span><span class="list03">售价</span><span class="list03">上牌时间</span><span class="list04">网上门店</span></dt>
+                <dt><span class="list01">地区</span><span class="list02">车系/车型</span><span class="list03">售价</span><span class="list03">上牌时间</span><span class="list04">网上门店</span></dt>
+            </dl>
+            <dl id="S01">
+                <dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2076845.html" target="_blank">比亚迪 FO 2009款 时尚爱国版 实用型</a></span>
+<span class="list03"><span>1.45万</span></span><span class="list03">2009-3</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2076650.html" target="_blank">别克 英朗GT 2010款 1.6T 时尚运动版</a></span>
+<span class="list03"><span>6.98万</span></span><span class="list03">2010-1</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2076537.html" target="_blank">比亚迪 FO 2008款 实用型</a></span>
+<span class="list03"><span>1.2万</span></span><span class="list03">2009-8</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2076528.html" target="_blank">大众 朗逸 2011款 1.6L 手动品悠版</a></span>
+<span class="list03"><span>7万</span></span><span class="list03">2011-11</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2075981.html" target="_blank">雪佛兰 景程 2007款 SX 豪华版 AT</a></span>
+<span class="list03"><span>3.38万</span></span><span class="list03">2007-11</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2075904.html" target="_blank">大众 宝来 2005款 1.8L自动舒适型</a></span>
+<span class="list03"><span>2.8万</span></span><span class="list03">2005-4</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2075227.html" target="_blank">起亚 福瑞迪 2011款 1.6L GLS MT</a></span>
+<span class="list03"><span>5.88万</span></span><span class="list03">2011-1</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2074873.html" target="_blank">本田 锋范 2012款 1.5L 手动 精英品致款</a></span>
+<span class="list03"><span>5.68万</span></span><span class="list03">2013-6</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2074759.html" target="_blank">福特  2011款 2.0L GTDi240 至尊型</a></span>
+<span class="list03"><span>11.8万</span></span><span class="list03">2012-9</span>
+<span class="y-hy"><a href="http://YS303.web.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2074755.html" target="_blank">雪佛兰  2015款 1.5L SL MT 经典版</a></span>
+<span class="list03"><span>8.38万</span></span><span class="list03">2015-8</span>
+<span class="y-hy"><a href="http://YS303.web.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2074752.html" target="_blank">福特  2006款 两厢1.8手自一体 时尚型</a></span>
+<span class="list03"><span>8.8万</span></span><span class="list03">2015-9</span>
+<span class="y-hy"><a href="http://YS303.web.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2074129.html" target="_blank">大众 POLO劲取 2006款 1.4L 手动 雅致版</a></span>
+<span class="list03"><span>4.18万</span></span><span class="list03">2006-1</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2074122.html" target="_blank">长安 悦翔三厢 2009款 1.5MT 舒适型</a></span>
+<span class="list03"><span>2.2万</span></span><span class="list03">2009-1</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2074004.html" target="_blank">现代 伊兰特 2011款 1.6L MT GL 国三</a></span>
+<span class="list03"><span>4.35万</span></span><span class="list03">2011-11</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2073903.html" target="_blank">福特 福克斯两厢 2007款 1.8手自一体时尚...</a></span>
+<span class="list03"><span>3.76万</span></span><span class="list03">2007-1</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2073664.html" target="_blank">现代  2011款 2.4 TOP AT 自动顶级版</a></span>
+<span class="list03"><span>13.98万</span></span><span class="list03">2013-9</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+
+            </dl>
+            <span style="clear: both"></span>
+            <dl id="S02" style="display: none">
+                <dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2077008.html" target="_blank">东风 大力神  前二后八</a></span>
+<span class="list03"><span>6.5万</span></span><span class="list03">2009-12</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2073023.html" target="_blank">一汽解放   排半微卡</a></span>
+<span class="list03"><span>4.9万</span></span><span class="list03">2015-3</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2069493.html" target="_blank">东风柳汽 乘龙  609中卡 160马力 4X2 前...</a></span>
+<span class="list03"><span>15万</span></span><span class="list03">2016-3</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2069284.html" target="_blank">江铃  轻卡 双排 长轴 JX493ZLQ3</a></span>
+<span class="list03"><span>8.9万</span></span><span class="list03">2016-5</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2066300.html" target="_blank">中国重汽 金王子 2004款 豪华天窗版</a></span>
+<span class="list03"><span>8.8万</span></span><span class="list03">2013-12</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2066068.html" target="_blank">东风柳汽 霸龙 自卸车 重卡 340马力 8X4 ...</a></span>
+<span class="list03"><span>13万</span></span><span class="list03">2013-4</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2063847.html" target="_blank">江淮 江淮 康铃 轻卡 70马力 4X2 前二后...</a></span>
+<span class="list03"><span>4.8万</span></span><span class="list03">2015-4</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2056953.html" target="_blank">青岛解放 陆V  中卡 4X2 180马力 载货车(...</a></span>
+<span class="list03"><span>50000万</span></span><span class="list03">2009-11</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2056849.html" target="_blank">中国重汽 金王子 2004款 豪华天窗版</a></span>
+<span class="list03"><span>6万</span></span><span class="list03">2009-4</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2056817.html" target="_blank">福田 欧曼 2004款 豪华天窗版</a></span>
+<span class="list03"><span>5.2万</span></span><span class="list03">2010-7</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2055578.html" target="_blank">一汽解放 平头系列 牵引车 4×2 前二后四</a></span>
+<span class="list03"><span>13.88万</span></span><span class="list03">2013-12</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2050906.html" target="_blank">东风柳汽 乘龙  中卡 340马力 6X2 前二后...</a></span>
+<span class="list03"><span>28万</span></span><span class="list03">2014-10</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2049569.html" target="_blank">青岛解放 陆V  中卡 4X2 180马力 载货车(...</a></span>
+<span class="list03"><span>5万</span></span><span class="list03">2009-11</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2049385.html" target="_blank">东风柳汽 乘龙 2004款 豪华天窗版</a></span>
+<span class="list03"><span>13.08万</span></span><span class="list03">2013-6</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2045723.html" target="_blank">江铃 凯锐 2004款 凯锐宽体豪华单长厢</a></span>
+<span class="list03"><span>5万</span></span><span class="list03">2011-4</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2045244.html" target="_blank">江淮 江淮 威铃  140马力 4X2 前二后四  ...</a></span>
+<span class="list03"><span>2.2万</span></span><span class="list03">2011-4</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+
+            </dl>
+            <span style="clear: both"></span>
+            <dl id="S03" style="display: none">
+                <dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2016242.html" target="_blank">金旅 金旅 2013款 XML6757</a></span>
+<span class="list03"><span>15万</span></span><span class="list03">2013-3</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1942848.html" target="_blank">江铃 经典全顺 2006款 汽油短轴普通6座中...</a></span>
+<span class="list03"><span>4.8万</span></span><span class="list03">2005-6</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1914073.html" target="_blank">宇通 宇通 2013款 宇通客车ZK6127H</a></span>
+<span class="list03"><span>28万</span></span><span class="list03">2012-6</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1903120.html" target="_blank">宇通 宇通  宇通客车ZK6608NG</a></span>
+<span class="list03"><span>8万</span></span><span class="list03">2008-6</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1874245.html" target="_blank">东风 东风乘用车  LZ6520CQAS东风多用途...</a></span>
+<span class="list03"><span>113000万</span></span><span class="list03">2014-12</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1808371.html" target="_blank">宇通 宇通 2011款 宇通ZK6842DGA9</a></span>
+<span class="list03"><span>22.5万</span></span><span class="list03">2011-8</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1802105.html" target="_blank">东风 东风校车  EQ6790PTX小学生专用</a></span>
+<span class="list03"><span>5万</span></span><span class="list03">2011-4</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1633007.html" target="_blank">厦门金龙 金龙旅行车  XMQ6117Y</a></span>
+<span class="list03"><span>21万</span></span><span class="list03">2008-6</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://www.cn2che.com/sellcarinfo_1624791.html" target="_blank">宇通 宇通  载客车</a></span>
+<span class="list03"><span>12万</span></span><span class="list03">2005-12</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://www.cn2che.com/sellcarinfo_1594793.html" target="_blank">金杯 阁瑞斯 2001款 S系列 超豪华型(长轴...</a></span>
+<span class="list03"><span>11.8万</span></span><span class="list03">2002-5</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://www.cn2che.com/sellcarinfo_1570607.html" target="_blank">江铃 新世代全顺 2010款 汽油 长轴 标准...</a></span>
+<span class="list03"><span>3万</span></span><span class="list03">2006-6</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1568607.html" target="_blank">宇通 宇通 2011款 ZK6139HW卧铺客车</a></span>
+<span class="list03"><span>53万</span></span><span class="list03">2007-9</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1531818.html" target="_blank">厦门金龙 金龙旅行车  XMQ6117Y</a></span>
+<span class="list03"><span>5.3万</span></span><span class="list03">2007-7</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://www.cn2che.com/sellcarinfo_1531738.html" target="_blank">三一重工 三一  载客车</a></span>
+<span class="list03"><span>15万</span></span><span class="list03">2010-5</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1458906.html" target="_blank">丰田 柯斯达 2007款 豪华车 (20)汽油</a></span>
+<span class="list03"><span>24万</span></span><span class="list03">2004-3</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1411628.html" target="_blank">金龙 金龙  6127 载客车</a></span>
+<span class="list03"><span>18万</span></span><span class="list03">2011-3</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+
+            </dl>
+            <span style="clear: both"></span>
+            <dl id="S04" style="display: none">
+                <dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2075456.html" target="_blank">福田 萨普Z 2010款 豪华版 95马力 2.8L柴...</a></span>
+<span class="list03"><span>5.2万</span></span><span class="list03">2010-5</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2006944.html" target="_blank">江铃 域虎 2015款 2.4T 手动 四驱 超豪华...</a></span>
+<span class="list03"><span>1.3万</span></span><span class="list03">2015-6</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1994100.html" target="_blank">江铃 域虎 2012款 2.4L 手动 四驱 超豪华...</a></span>
+<span class="list03"><span>1.4万</span></span><span class="list03">2015-7</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1992713.html" target="_blank">江铃 宝典 2003款 宝典柴油匹卡JX1021DSF</a></span>
+<span class="list03"><span>1万</span></span><span class="list03">2015-8</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1992237.html" target="_blank">东风 小康K01 2011款 1.0L 手动</a></span>
+<span class="list03"><span>2万</span></span><span class="list03">2011-10</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1984320.html" target="_blank">江铃 宝典 2013款 新超值版 2.8T 手动 四...</a></span>
+<span class="list03"><span>2.88万</span></span><span class="list03">2013-7</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1892319.html" target="_blank">东风 创普 载货车 载货车</a></span>
+<span class="list03"><span>1.2万</span></span><span class="list03">2010-10</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1813774.html" target="_blank">广汽吉奥 财运300 2011款  2.2L 莱动柴油...</a></span>
+<span class="list03"><span>3.5万</span></span><span class="list03">2012-1</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1703470.html" target="_blank">江淮 安驰 2009款 2.0 柴油版</a></span>
+<span class="list03"><span>2.9万</span></span><span class="list03">2009-12</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1681514.html" target="_blank">江铃 宝典 2005款 柴油超值版 4×2 MT(LX...</a></span>
+<span class="list03"><span>3.2万</span></span><span class="list03">2004-4</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1681505.html" target="_blank">江铃 宝典 2009款 宝典时尚版 4×2MT(LX)...</a></span>
+<span class="list03"><span>6万</span></span><span class="list03">2010-3</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://www.cn2che.com/sellcarinfo_1660164.html" target="_blank">广汽吉奥 财运100 2009款 GA1020CRE3A/B3...</a></span>
+<span class="list03"><span>3.6万</span></span><span class="list03">2007-6</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1643365.html" target="_blank">福田 奥铃   皮卡</a></span>
+<span class="list03"><span>11万</span></span><span class="list03">2011-5</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1619655.html" target="_blank">福田 萨普 2011款 V3 两驱 2.0L 皮卡</a></span>
+<span class="list03"><span>5.2万</span></span><span class="list03">2012-12</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1588262.html" target="_blank">江铃 宝典 2003款 宝典柴油匹卡JX1023DSE</a></span>
+<span class="list03"><span>3.2万</span></span><span class="list03">2002-7</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1583458.html" target="_blank">江铃 宝典 2005款 柴油超值版 4×2 MT(LX...</a></span>
+<span class="list03"><span>1万</span></span><span class="list03">2002-8</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+
+            </dl>
+            <span style="clear: both"></span>
+            <dl id="S05" style="display: none">
+                <dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2060168.html" target="_blank">长安商用 长安之星2 2007款 2 SC6382系列...</a></span>
+<span class="list03"><span>0.9万</span></span><span class="list03">2005-11</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2040688.html" target="_blank">五菱 五菱之光 2007款 6400B3加长标准型...</a></span>
+<span class="list03"><span>2万</span></span><span class="list03">2009-2</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2039102.html" target="_blank">五菱 五菱荣光  6407B3—标准型（空调）</a></span>
+<span class="list03"><span>1.3万</span></span><span class="list03">2011-11</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2030690.html" target="_blank">铃木 北斗星 2008款 1.4L系列 CH7140A1 ...</a></span>
+<span class="list03"><span>2.38万</span></span><span class="list03">2008-1</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2028484.html" target="_blank">五菱 五菱荣光 2011款 1.2L 手动 LZW1029...</a></span>
+<span class="list03"><span>2.78万</span></span><span class="list03">2013-4</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2025365.html" target="_blank">五菱 五菱荣光 2011款 1.2L 手动 LZW1029...</a></span>
+<span class="list03"><span>3.8万</span></span><span class="list03">2013-3</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2020691.html" target="_blank">五菱 五菱荣光 2011款 1.2L 手动 LZW1029...</a></span>
+<span class="list03"><span>2.88万</span></span><span class="list03">2012-1</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2005436.html" target="_blank">五菱 五菱荣光  6407B3—基本型（空调）</a></span>
+<span class="list03"><span>3.2万</span></span><span class="list03">2012-4</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2001890.html" target="_blank">五菱 五菱荣光 2011款 1.2L 手动 LZW1029...</a></span>
+<span class="list03"><span>2.6万</span></span><span class="list03">2012-1</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2001889.html" target="_blank">五菱 五菱荣光 2008款 6407B—基本型</a></span>
+<span class="list03"><span>2.32万</span></span><span class="list03">2008-1</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1988449.html" target="_blank">五菱 五菱荣光 2008款 6407B—标准型</a></span>
+<span class="list03"><span>0.7万</span></span><span class="list03">2008-2</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1980973.html" target="_blank">五菱 五菱荣光 2008款 6407B—豪华型</a></span>
+<span class="list03"><span>3万</span></span><span class="list03">2012-4</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1962652.html" target="_blank">长安商用 长安之星 2005款 SC6350C—RPK/...</a></span>
+<span class="list03"><span>1万</span></span><span class="list03">2005-5</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1953382.html" target="_blank">五菱 五菱荣光 2008款 6407B3—基本型（...</a></span>
+<span class="list03"><span>2.38万</span></span><span class="list03">2011-3</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1952546.html" target="_blank">五菱 五菱之光 2006款 6376C—标准型</a></span>
+<span class="list03"><span>1.2万</span></span><span class="list03">2006-1</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1945867.html" target="_blank">五菱 五菱之光 2008款 加长版 6400B—基...</a></span>
+<span class="list03"><span>2万</span></span><span class="list03">2009-11</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+
+            </dl>
+            <span style="clear: both"></span>
+            <dl id="S06" style="display: none">
+                <dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2057193.html" target="_blank">现代 酷派 2006款 2.0L AT</a></span>
+<span class="list03"><span>4.5万</span></span><span class="list03">2004-1</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2050144.html" target="_blank">保时捷 帕纳梅拉 2010款 panamera</a></span>
+<span class="list03"><span>59.6万</span></span><span class="list03">2011-3</span>
+<span class="j-hy"><a href="http://qh13397710319.web.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1943580.html" target="_blank">兰博基尼 盖拉多(进口) 2010款 LP550—2 ...</a></span>
+<span class="list03"><span>299万</span></span><span class="list03">2012-11</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1849708.html" target="_blank">标致 标致308 CC(进口) 2009款 豪华型</a></span>
+<span class="list03"><span>15.3万</span></span><span class="list03">2009-11</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1815042.html" target="_blank">帕纳梅拉 保时捷 2012款 panamera 4</a></span>
+<span class="list03"><span>89.8万</span></span><span class="list03">2012-10</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1792115.html" target="_blank">A5 奥迪 2013款 13款 Sportback 40TFSI</a></span>
+<span class="list03"><span>40.8万</span></span><span class="list03">2013-5</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1766678.html" target="_blank">宝马 宝马Z4(进口) 2012款 sDrive20i</a></span>
+<span class="list03"><span>38.8万</span></span><span class="list03">2012-10</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://www.cn2che.com/sellcarinfo_1683795.html" target="_blank">现代 劳恩斯酷派 2006款 2.7L FX 自动</a></span>
+<span class="list03"><span>9.8万</span></span><span class="list03">2005-10</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://www.cn2che.com/sellcarinfo_1669658.html" target="_blank">奥迪 TT 2008款 TTS Coupe 2.0 TFSI quat...</a></span>
+<span class="list03"><span>28.6万</span></span><span class="list03">2008-10</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://www.cn2che.com/sellcarinfo_1620345.html" target="_blank">莲花 莲花L3三厢 2009款 1.6L 手动 豪华...</a></span>
+<span class="list03"><span>4.8万</span></span><span class="list03">2010-6</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1610580.html" target="_blank">莲花 莲花L3两厢 2011款 1.6L 自动 豪华...</a></span>
+<span class="list03"><span>6.28万</span></span><span class="list03">2011-5</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://www.cn2che.com/sellcarinfo_1548950.html" target="_blank">现代 酷派(进口) 2004款 FX 2.0</a></span>
+<span class="list03"><span>5.1万</span></span><span class="list03">2004-5</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1532391.html" target="_blank">法拉利 法拉利F430(进口) 2009款 Scuderi...</a></span>
+<span class="list03"><span>210万</span></span><span class="list03">2013-1</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1532365.html" target="_blank">奥迪 R8 2011款 Spyder 5.2L FSI quattro</a></span>
+<span class="list03"><span>200万</span></span><span class="list03">2012-12</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1532345.html" target="_blank">柯尼赛格 Agera 2012款 Agera</a></span>
+<span class="list03"><span>1500万</span></span><span class="list03">2012-12</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1634154.html" target="_blank">奥迪 TT 2012款 敞篷车S-2.0-A/MT-TFSI-q...</a></span>
+<span class="list03"><span>40万</span></span><span class="list03">2012-3</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+
+            </dl>
+            <span style="clear: both"></span>
+            <dl id="S07" style="display: none">
+                <dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2074744.html" target="_blank">本田  2002款 CR-V 2.0L AT</a></span>
+<span class="list03"><span>12.6万</span></span><span class="list03">2011-10</span>
+<span class="y-hy"><a href="http://YS303.web.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2073665.html" target="_blank">宝马  2012款 xDrive20i 豪华型</a></span>
+<span class="list03"><span>34.8万</span></span><span class="list03">2013-9</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2073256.html" target="_blank">别克  2013款 3.6L 四驱 精英版</a></span>
+<span class="list03"><span>26.8万</span></span><span class="list03">2014-1</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2073238.html" target="_blank">丰田  2007款 DELUX（精英版）</a></span>
+<span class="list03"><span>16.3万</span></span><span class="list03">2012-6</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2070904.html" target="_blank">斯巴鲁 斯巴鲁 森林人 2013款 2.5i 豪华...</a></span>
+<span class="list03"><span>21万</span></span><span class="list03">2014-1</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2069598.html" target="_blank">哈弗 哈佛H5 2013款 欧风版 2.0 两驱 进...</a></span>
+<span class="list03"><span>5.8万</span></span><span class="list03">2013-4</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2069589.html" target="_blank">斯巴鲁 斯巴鲁 森林人 2010款 2.5XT 豪华...</a></span>
+<span class="list03"><span>12万</span></span><span class="list03">2010-3</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2066458.html" target="_blank">标致 东风标致3008  1.6THP 自动 潮流版</a></span>
+<span class="list03"><span>14.88万</span></span><span class="list03">2014-6</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2062501.html" target="_blank">现代 ix35 2013款 2.0L GLS 自动 两驱 智...</a></span>
+<span class="list03"><span>12.68万</span></span><span class="list03">2013-5</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2061464.html" target="_blank">保时捷 迈凯 2014款 Macan 2.0T</a></span>
+<span class="list03"><span>59.6万</span></span><span class="list03">2015-1</span>
+<span class="j-hy"><a href="http://qh13397710319.web.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2061454.html" target="_blank">保时捷 迈凯 2016款 Macan</a></span>
+<span class="list03"><span>61.9万</span></span><span class="list03">2016-2</span>
+<span class="j-hy"><a href="http://qh13397710319.web.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2058058.html" target="_blank">奔驰 GLA级 2015款 200 时尚型</a></span>
+<span class="list03"><span>25.98万</span></span><span class="list03">2015-8</span>
+<span class="j-hy"><a href="http://qh13397710319.web.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2055731.html" target="_blank">本田  2002款 CR-V 2.0L AT</a></span>
+<span class="list03"><span>16.8万</span></span><span class="list03">2014-7</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2055228.html" target="_blank">奔驰 GL级 2013款 350 美规版</a></span>
+<span class="list03"><span>77.6万</span></span><span class="list03">2014-11</span>
+<span class="j-hy"><a href="http://qh13397710319.web.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2054258.html" target="_blank">英菲尼迪 英菲尼迪QX(进口) 2014款 英菲...</a></span>
+<span class="list03"><span>44.9万</span></span><span class="list03">2015-4</span>
+<span class="j-hy"><a href="http://qh13397710319.web.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2053917.html" target="_blank">陆风 陆风X8 2014款 2.0L手动汽油版  两...</a></span>
+<span class="list03"><span>5.95万</span></span><span class="list03">2014-5</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+
+            </dl>
+            <span style="clear: both"></span>
+            <dl id="S08" style="display: none">
+                <dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2073666.html" target="_blank">本田  2008款 朗程 2.4i-A/MT-VTEC-M</a></span>
+<span class="list03"><span>25.8万</span></span><span class="list03">2015-9</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2063545.html" target="_blank">五菱 五菱宏光 2010款 6430KF—1.2L实用...</a></span>
+<span class="list03"><span>3.78万</span></span><span class="list03">2013-1</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2061760.html" target="_blank">五菱 五菱宏光S 2015款 2015款 S1 1.5L ...</a></span>
+<span class="list03"><span>3.8万</span></span><span class="list03">2015-8</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2038261.html" target="_blank">大通 MAXUS V80 2015款  2.5T 手动傲运通...</a></span>
+<span class="list03"><span>12.98万</span></span><span class="list03">2015-7</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2038168.html" target="_blank">大通 上汽MAXUS大通G10 2016款  2.0T 自...</a></span>
+<span class="list03"><span>22.98万</span></span><span class="list03">2015-7</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2027466.html" target="_blank">五菱 五菱宏光 2010款 6431MF—1.4L 舒适...</a></span>
+<span class="list03"><span>3.6万</span></span><span class="list03">2012-1</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2024179.html" target="_blank">五菱 五菱宏光 2010款 6431MF—1.4L 标准...</a></span>
+<span class="list03"><span>3.8万</span></span><span class="list03">2012-10</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2023965.html" target="_blank">长安商用 长安欧诺 2012款 1.5L 标准型</a></span>
+<span class="list03"><span>3.2万</span></span><span class="list03">2012-1</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_2014050.html" target="_blank">五菱 五菱宏光 2010款 6430KF—1.2L实用...</a></span>
+<span class="list03"><span>3.2万</span></span><span class="list03">2010-1</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1992423.html" target="_blank">五菱 五菱宏光S 2014款 1.5LS 手动 豪华...</a></span>
+<span class="list03"><span>5万</span></span><span class="list03">2014-7</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1990171.html" target="_blank">大众 途安 2008款 1.8T智尊版 自动挡5座</a></span>
+<span class="list03"><span>7.98万</span></span><span class="list03">2008-1</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1971502.html" target="_blank">五菱 五菱宏光 2010款 6431MF—1.4L 舒适...</a></span>
+<span class="list03"><span>4.2万</span></span><span class="list03">2013-2</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1970289.html" target="_blank">五菱 五菱宏光S 2014款 1.5LMT标准型</a></span>
+<span class="list03"><span>5.08万</span></span><span class="list03">2015-11</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1962646.html" target="_blank">江淮 瑞风 2011款 祥和 2.4L汽油 手动豪...</a></span>
+<span class="list03"><span>7.48万</span></span><span class="list03">2010-2</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1958782.html" target="_blank">福田 蒙派克 2007款 商务舱 豪华版短轴 X...</a></span>
+<span class="list03"><span>2.5万</span></span><span class="list03">2007-3</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1956800.html" target="_blank">比亚迪 M6 2011款 2.0L 尊贵型</a></span>
+<span class="list03"><span>7.38万</span></span><span class="list03">2012-8</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+
+            </dl>
+            <span style="clear: both"></span>
+            <dl id="S09" style="display: none">
+                <dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1961722.html" target="_blank">比亚迪 F3  智尊型</a></span>
+<span class="list03"><span>2.15万</span></span><span class="list03">2006-10</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1901446.html" target="_blank">时风汽车 时风  全封闭 仓栅式 四轮农用...</a></span>
+<span class="list03"><span>2万</span></span><span class="list03">2012-9</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://gx.cn2che.com/sellcarinfo_1887356.html" target="_blank">时风汽车 时风  全封闭 栏板式 四轮农用...</a></span>
+<span class="list03"><span>5万</span></span><span class="list03">2014-9</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd>
+<span class="list01">广西</span>
+<span class="list02"><a href="http://www.cn2che.com/sellcarinfo_1618728.html" target="_blank">奔驰 A级  A160</a></span>
+<span class="list03"><span>9.99万</span></span><span class="list03">2003-5</span>
+<span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span>
+</dd>
+<dd><span class="list01">山东</span><span class="list02"><a href="http://www.cn2che.com/sellcarinfo_2073096.html" target="_blank">特斯拉 Model S 2014款  85</a></span><span class="list03"><span>49.8万</span></span><span class="list03">2015-4</span><span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span></dd><dd><span class="list01">江苏</span><span class="list02"><a href="http://js.cn2che.com/sellcarinfo_2070430.html" target="_blank">特斯拉 Model S 2014款  P85</a></span><span class="list03"><span>77.8万</span></span><span class="list03">2016-3</span><span class="y-hy"><a href="http://wuxibaichehui.web.cn2che.com/" target="_blank"></a></span></dd><dd><span class="list01">江西</span><span class="list02"><a href="http://www.cn2che.com/sellcarinfo_2054677.html" target="_blank">比亚迪 F3  智尊型</a></span><span class="list03"><span>1.3万</span></span><span class="list03">2011-5</span><span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span></dd><dd><span class="list01">河南</span><span class="list02"><a href="http://www.cn2che.com/sellcarinfo_2052276.html" target="_blank">比亚迪 F3  荣誉型</a></span><span class="list03"><span>1.5万</span></span><span class="list03">2006-1</span><span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span></dd><dd><span class="list01">河南</span><span class="list02"><a href="http://www.cn2che.com/sellcarinfo_2040356.html" target="_blank">时风汽车 时风 2014款 时风D101</a></span><span class="list03"><span>4.2万</span></span><span class="list03">2013-1</span><span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span></dd><dd><span class="list01">河北</span><span class="list02"><a href="http://www.cn2che.com/sellcarinfo_2040086.html" target="_blank">特斯拉 Model S 2014款  85</a></span><span class="list03"><span>68.3万</span></span><span class="list03">2015-6</span><span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span></dd><dd><span class="list01">内蒙古</span><span class="list02"><a href="http://www.cn2che.com/sellcarinfo_2038738.html" target="_blank">比亚迪 F3  荣誉型</a></span><span class="list03"><span>1.7万</span></span><span class="list03">2006-9</span><span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span></dd><dd><span class="list01">河北</span><span class="list02"><a href="http://www.cn2che.com/sellcarinfo_2036540.html" target="_blank">特斯拉 Model S 2014款  85</a></span><span class="list03"><span>68.3万</span></span><span class="list03">2015-6</span><span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span></dd><dd><span class="list01">河北</span><span class="list02"><a href="http://www.cn2che.com/sellcarinfo_2036142.html" target="_blank">特斯拉 Model S 2014款  85</a></span><span class="list03"><span>68.3万</span></span><span class="list03">2015-6</span><span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span></dd><dd><span class="list01">河北</span><span class="list02"><a href="http://www.cn2che.com/sellcarinfo_2036101.html" target="_blank">特斯拉 Model S 2014款  85</a></span><span class="list03"><span>69.8万</span></span><span class="list03">2015-12</span><span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span></dd><dd><span class="list01">河北</span><span class="list02"><a href="http://www.cn2che.com/sellcarinfo_2035332.html" target="_blank">特斯拉 Model S 2014款  85</a></span><span class="list03"><span>68.3万</span></span><span class="list03">2015-6</span><span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span></dd><dd><span class="list01">河北</span><span class="list02"><a href="http://www.cn2che.com/sellcarinfo_2034869.html" target="_blank">特斯拉 Model S 2014款  85</a></span><span class="list03"><span>68.3万</span></span><span class="list03">2015-6</span><span class="s-hy"><a href="http://chechengtong.cn2che.com/" target="_blank"></a></span></dd>
+            </dl>
+        </div>
+
+        <div class="cheyuan">
+
+            <h2 title="新求购二手车"><a href="http://gx.cn2che.com/qiugou/">新求购</a></h2>
+
+            <span class="More"><a href="/freefabu/carbuy.html" target="_blank">发布求购</a> | <a href="/qiugou/b1ccpcmpbcr/" id="buymore" target="_blank">更多<samp>>></samp></a></span>
+            <ol class="tabqg">
+                <li class="tabbg01" id="qg000" onmouseover="switchnav(0,6,9);getmore('1','1');">轿车</li>
+                <li class="tabbg02" id="qg001" onmouseover="switchnav(1,6,9);getmore('1','5');">货车</li>
+                <li class="tabbg02" id="qg002" onmouseover="switchnav(2,6,9);getmore('1','7');">客车</li>
+                <li class="tabbg02" id="qg003" onmouseover="switchnav(3,6,9);getmore('1','6');">皮卡</li>
+                <li class="tabbg02" id="qg004" onmouseover="switchnav(4,6,9);getmore('1','8');">面包车</li>
+                <li class="tabbg02" id="qg005" onmouseover="switchnav(5,6,9);getmore('1','2');">跑车</li>
+                <li class="tabbg02" id="qg006" onmouseover="switchnav(6,6,9);getmore('1','3');">越野车</li>
+                <li class="tabbg02" id="qg007" onmouseover="switchnav(7,6,9);getmore('1','4');">商务车</li>
+                <li class="tabbg02" id="qg008" onmouseover="switchnav(8,6,9);getmore('1','12');">新能源车</li>
+            </ol>
+            <dl>
+                <dt><span class="list08">车型品牌</span><span class="list09">价格范围</span><span class="list09">使用年限</span><span class="list09">区域</span><span class="list09">发布日期</span></dt>
+            </dl>
+            <dl id="q01">
+                <dd><span class="list08"><a href="/buycar_189694.html" target="_blank">求购3-5万大众捷达</a></span><span class="list09"><span>3-5万</span></span><span class="list09">1-5年</span><span class="list09">广西</span><span class="list09">2016-12-05</span></dd><dd><span class="list08"><a href="/buycar_189524.html" target="_blank">求购10-15w三厢微型车</a></span><span class="list09"><span>12-15万</span></span><span class="list09">1-3年</span><span class="list09">广西</span><span class="list09">2016-11-25</span></dd><dd><span class="list08"><a href="/buycar_189422.html" target="_blank">南宁英菲尼迪Q50L促销优惠4万欢迎...</a></span><span class="list09"><span>12-25万</span></span><span class="list09">1-3年</span><span class="list09">广西</span><span class="list09">2016-11-23</span></dd><dd><span class="list08"><a href="/buycar_189254.html" target="_blank">求购宝马X6</a></span><span class="list09"><span>1-23万</span></span><span class="list09">1-5年</span><span class="list09">广西</span><span class="list09">2016-11-21</span></dd><dd><span class="list08"><a href="/buycar_189177.html" target="_blank">求购15-20w三厢中型车</a></span><span class="list09"><span>15-20万</span></span><span class="list09">1-3年</span><span class="list09">广西</span><span class="list09">2016-11-18</span></dd><dd><span class="list08"><a href="/buycar_189173.html" target="_blank">求购本地个人汽车</a></span><span class="list09"><span>1-8万</span></span><span class="list09">2-3年</span><span class="list09">广西</span><span class="list09">2016-11-18</span></dd><dd><span class="list08"><a href="/buycar_189081.html" target="_blank">求购0-1w两厢小型车</a></span><span class="list09"><span>2-3万</span></span><span class="list09">1-3年</span><span class="list09">广西</span><span class="list09">2016-11-17</span></dd><dd><span class="list08"><a href="/buycar_189001.html" target="_blank">个人求购一台北斗星</a></span><span class="list09"><span>3-6万</span></span><span class="list09">1-4年</span><span class="list09">广西</span><span class="list09">2016-11-16</span></dd><dd><span class="list08"><a href="/buycar_188996.html" target="_blank">诚心求购北斗星一辆</a></span><span class="list09"><span>2-4万</span></span><span class="list09">1-4年</span><span class="list09">广西</span><span class="list09">2016-11-15</span></dd><dd><span class="list08"><a href="/buycar_188930.html" target="_blank">急买3辆二手车</a></span><span class="list09"><span>18-25万</span></span><span class="list09">1-3年</span><span class="list09">广西</span><span class="list09">2016-11-15</span></dd>
+            </dl>
+            <span style="clear: both"></span>
+            <dl id="q02" style="display: none">
+                <dd><span class="list08"><a href="/buycar_188911.html" target="_blank">叉车</a></span><span class="list09"><span>15000-16000万</span></span><span class="list09">9-9年</span><span class="list09">广西</span><span class="list09">2016-11-14</span></dd><dd><span class="list08"><a href="/buycar_188910.html" target="_blank">叉车</a></span><span class="list09"><span>15000-16000万</span></span><span class="list09">9-9年</span><span class="list09">广西</span><span class="list09">2016-11-14</span></dd><dd><span class="list08"><a href="/buycar_188813.html" target="_blank">没大事故不泡水的车南宁钦州车都可...</a></span><span class="list09"><span>2-3万</span></span><span class="list09">1-3年</span><span class="list09">广西</span><span class="list09">2016-11-11</span></dd><dd><span class="list08"><a href="/buycar_188576.html" target="_blank">欧马可</a></span><span class="list09"><span>3-5万</span></span><span class="list09">2-3年</span><span class="list09">广西</span><span class="list09">2016-11-01</span></dd><dd><span class="list08"><a href="/buycar_188575.html" target="_blank">箱式</a></span><span class="list09"><span>3-5万</span></span><span class="list09">2-3年</span><span class="list09">广西</span><span class="list09">2016-11-01</span></dd><dd><span class="list08"><a href="/buycar_188428.html" target="_blank">五十铃货车</a></span><span class="list09"><span>8-10万</span></span><span class="list09">1-2年</span><span class="list09">广西</span><span class="list09">2016-10-28</span></dd><dd><span class="list08"><a href="/buycar_188354.html" target="_blank">6.8米-7.6米货车</a></span><span class="list09"><span>8-10万</span></span><span class="list09">1-3年</span><span class="list09">广西</span><span class="list09">2016-10-27</span></dd><dd><span class="list08"><a href="/buycar_184171.html" target="_blank">东方天龙</a></span><span class="list09"><span>18-24万</span></span><span class="list09">1-3年</span><span class="list09">广西</span><span class="list09">2016-09-22</span></dd><dd><span class="list08"><a href="/buycar_185577.html" target="_blank">奥玲</a></span><span class="list09"><span>4-5万</span></span><span class="list09">3-3年</span><span class="list09">广西</span><span class="list09">2016-09-08</span></dd><dd><span class="list08"><a href="/buycar_183252.html" target="_blank">本人求购一辆五菱双排小货车</a></span><span class="list09"><span>1-2万</span></span><span class="list09">1-5年</span><span class="list09">广西</span><span class="list09">2016-08-04</span></dd>
+            </dl>
+            <span style="clear: both"></span>
+            <dl id="q03" style="display: none">
+                <dd><span class="list08"><a href="/buycar_179086.html" target="_blank">本人求购一辆柴油商务车</a></span><span class="list09"><span>3-5万</span></span><span class="list09">2-2年</span><span class="list09">广西</span><span class="list09">2016-05-28</span></dd><dd><span class="list08"><a href="/buycar_117257.html" target="_blank">14座金龙</a></span><span class="list09"><span>5-8万</span></span><span class="list09">1-3年</span><span class="list09">广西</span><span class="list09">2013-04-01</span></dd><dd><span class="list08"><a href="/buycar_114833.html" target="_blank">柳州五菱V2  GL6464L</a></span><span class="list09"><span>3-5万</span></span><span class="list09">1-3年</span><span class="list09">广西</span><span class="list09">2012-11-04</span></dd><dd><span class="list08"><a href="/buycar_114012.html" target="_blank">11至17座小客车</a></span><span class="list09"><span>5-15万</span></span><span class="list09">1-5年</span><span class="list09">广西</span><span class="list09">2012-09-28</span></dd><dd><span class="list08"><a href="/buycar_110864.html" target="_blank">四川丰田考斯特</a></span><span class="list09"><span>10-30万</span></span><span class="list09">1-4年</span><span class="list09">广西</span><span class="list09">2011-11-24</span></dd><dd><span class="list08"><a href="/buycar_109207.html" target="_blank">宇通、金龙等</a></span><span class="list09"><span>1-20万</span></span><span class="list09">1-4年</span><span class="list09">广西</span><span class="list09">2011-05-04</span></dd><dd><span class="list08"><a href="/buycar_108901.html" target="_blank">39-47座</a></span><span class="list09"><span>面议</span></span><span class="list09">1-5年</span><span class="list09">广西</span><span class="list09">2011-04-19</span></dd><dd><span class="list08"><a href="/buycar_108684.html" target="_blank">之光之星小康</a></span><span class="list09"><span>1-2万</span></span><span class="list09">1-8年</span><span class="list09">广西</span><span class="list09">2011-04-09</span></dd><dd><span class="list08"><a href="/buycar_105356.html" target="_blank">桂林大宇</a></span><span class="list09"><span>10-25万</span></span><span class="list09">1-6年</span><span class="list09">广西</span><span class="list09">2011-01-16</span></dd><dd><span class="list08"><a href="/buycar_104226.html" target="_blank">45座以上</a></span><span class="list09"><span>15-25万</span></span><span class="list09">1-1年</span><span class="list09">广西</span><span class="list09">2010-11-30</span></dd>
+            </dl>
+            <span style="clear: both"></span>
+            <dl id="q04" style="display: none">
+                <dd><span class="list08"><a href="/buycar_175816.html" target="_blank">收购一台五菱荣光小卡</a></span><span class="list09"><span>2-3万</span></span><span class="list09">1-5年</span><span class="list09">广西</span><span class="list09">2016-04-06</span></dd><dd><span class="list08"><a href="/buycar_155941.html" target="_blank">求购五菱小卡</a></span><span class="list09"><span>1-2万</span></span><span class="list09">1-5年</span><span class="list09">广西</span><span class="list09">2015-08-08</span></dd><dd><span class="list08"><a href="/buycar_153850.html" target="_blank">求购五菱单排箱货</a></span><span class="list09"><span>3-5万</span></span><span class="list09">1-5年</span><span class="list09">广西</span><span class="list09">2015-07-13</span></dd><dd><span class="list08"><a href="/buycar_153847.html" target="_blank">2012五菱荣光小卡</a></span><span class="list09"><span>2-3万</span></span><span class="list09">1-5年</span><span class="list09">广西</span><span class="list09">2015-07-13</span></dd><dd><span class="list08"><a href="/buycar_152066.html" target="_blank">崇左南宁周边求购四驱皮卡</a></span><span class="list09"><span>3-5万</span></span><span class="list09">1-4年</span><span class="list09">广西</span><span class="list09">2015-06-11</span></dd><dd><span class="list08"><a href="/buycar_151994.html" target="_blank">求购五菱荣光小卡一部</a></span><span class="list09"><span>2-3万</span></span><span class="list09">1-5年</span><span class="list09">广西</span><span class="list09">2015-06-11</span></dd><dd><span class="list08"><a href="/buycar_151360.html" target="_blank">四驱柴油</a></span><span class="list09"><span>1-2万</span></span><span class="list09">1-1年</span><span class="list09">广西</span><span class="list09">2015-04-10</span></dd><dd><span class="list08"><a href="/buycar_151087.html" target="_blank">江铃</a></span><span class="list09"><span>1万</span></span><span class="list09">1-5年</span><span class="list09">广西</span><span class="list09">2015-03-15</span></dd><dd><span class="list08"><a href="/buycar_150430.html" target="_blank">皮卡</a></span><span class="list09"><span>2-3万</span></span><span class="list09">3-5年</span><span class="list09">广西</span><span class="list09">2015-01-31</span></dd><dd><span class="list08"><a href="/buycar_137967.html" target="_blank">柴油</a></span><span class="list09"><span>2-5万</span></span><span class="list09">1-8年</span><span class="list09">广西</span><span class="list09">2014-09-12</span></dd>
+            </dl>
+            <span style="clear: both"></span>
+            <dl id="q05" style="display: none">
+                <dd><span class="list08"><a href="/buycar_188371.html" target="_blank">求购五菱宏光二手车</a></span><span class="list09"><span>1万</span></span><span class="list09">1-5年</span><span class="list09">广西</span><span class="list09">2016-11-03</span></dd><dd><span class="list08"><a href="/buycar_186672.html" target="_blank">求购五菱荣光小卡-1.4万</a></span><span class="list09"><span>1-2万</span></span><span class="list09">1-4年</span><span class="list09">广西</span><span class="list09">2016-09-29</span></dd><dd><span class="list08"><a href="/buycar_185188.html" target="_blank">在桂林求购2010年以后上牌的面包车</a></span><span class="list09"><span>1-2万</span></span><span class="list09">1-3年</span><span class="list09">广西</span><span class="list09">2016-09-01</span></dd><dd><span class="list08"><a href="/buycar_184914.html" target="_blank">求购五菱荣光加长版</a></span><span class="list09"><span>面议</span></span><span class="list09">1-5年</span><span class="list09">广西</span><span class="list09">2016-08-29</span></dd><dd><span class="list08"><a href="/buycar_184457.html" target="_blank">个人求购一台五菱宏光</a></span><span class="list09"><span>面议</span></span><span class="list09">1-5年</span><span class="list09">广西</span><span class="list09">2016-08-22</span></dd><dd><span class="list08"><a href="/buycar_183490.html" target="_blank">求购五菱面包车一辆</a></span><span class="list09"><span>面议</span></span><span class="list09">1-5年</span><span class="list09">广西</span><span class="list09">2016-08-09</span></dd><dd><span class="list08"><a href="/buycar_183429.html" target="_blank">想购五菱宏光一辆</a></span><span class="list09"><span>3-5万</span></span><span class="list09">1-5年</span><span class="list09">广西</span><span class="list09">2016-08-09</span></dd><dd><span class="list08"><a href="/buycar_183227.html" target="_blank">求够五菱面包车一辆</a></span><span class="list09"><span>面议</span></span><span class="list09">1-5年</span><span class="list09">广西</span><span class="list09">2016-08-04</span></dd><dd><span class="list08"><a href="/buycar_182711.html" target="_blank">诚意求购五菱荣光或宏光一辆</a></span><span class="list09"><span>面议</span></span><span class="list09">1-5年</span><span class="list09">广西</span><span class="list09">2016-07-29</span></dd><dd><span class="list08"><a href="/buycar_182084.html" target="_blank">求购五菱荣光</a></span><span class="list09"><span>2-3万</span></span><span class="list09">1-5年</span><span class="list09">广西</span><span class="list09">2016-07-22</span></dd>
+            </dl>
+            <span style="clear: both"></span>
+            <dl id="q06" style="display: none">
+                <dd><span class="list08"><a href="/buycar_189362.html" target="_blank">宝马跑车16新款</a></span><span class="list09"><span>70-809万</span></span><span class="list09">9-9年</span><span class="list09">广西</span><span class="list09">2016-11-21</span></dd><dd><span class="list08"><a href="/buycar_151771.html" target="_blank">时代金刚</a></span><span class="list09"><span>1-2万</span></span><span class="list09">3-3年</span><span class="list09">广西</span><span class="list09">2015-05-12</span></dd><dd><span class="list08"><a href="/buycar_126807.html" target="_blank">收09年后的嘉年华2厢款</a></span><span class="list09"><span>3-5万</span></span><span class="list09">1-5年</span><span class="list09">广西</span><span class="list09">2014-01-28</span></dd><dd><span class="list08"><a href="/buycar_126345.html" target="_blank">跑车</a></span><span class="list09"><span>12-20万</span></span><span class="list09">7-2年</span><span class="list09">广西</span><span class="list09">2014-01-23</span></dd><dd><span class="list08"><a href="/buycar_110302.html" target="_blank">美人豹</a></span><span class="list09"><span>3-3.5万</span></span><span class="list09">3-5年</span><span class="list09">广西</span><span class="list09">2011-08-13</span></dd><dd><span class="list08"><a href="/buycar_98269.html" target="_blank">马自达MX5</a></span><span class="list09"><span>5-6万</span></span><span class="list09">2-3年</span><span class="list09">广西</span><span class="list09">2010-09-21</span></dd><dd><span class="list08"><a href="/buycar_94042.html" target="_blank">上海大众</a></span><span class="list09"><span>1-2万</span></span><span class="list09">2-7年</span><span class="list09">广西</span><span class="list09">2010-07-29</span></dd><dd><span class="list08"><a href="/buycar_84507.html" target="_blank">207cc</a></span><span class="list09"><span>11-15万</span></span><span class="list09">1-5年</span><span class="list09">广西</span><span class="list09">2010-04-20</span></dd><dd><span class="list08"><a href="/buycar_23687.html" target="_blank">美人豹</a></span><span class="list09"><span>3-5万</span></span><span class="list09">1-4年</span><span class="list09">广西</span><span class="list09">2008-10-08</span></dd><dd><span class="list08"><a href="/buycar_20378.html" target="_blank">保时捷，奔驰，宝马，法拉利，奥迪</a></span><span class="list09"><span>20-100万</span></span><span class="list09">1-10年</span><span class="list09">广西</span><span class="list09">2008-08-10</span></dd>
+            </dl>
+            <span style="clear: both"></span>
+            <dl id="q07" style="display: none">
+                <dd><span class="list08"><a href="/buycar_187386.html" target="_blank">高价求购CRV越野车</a></span><span class="list09"><span>5-8万</span></span><span class="list09">1-3年</span><span class="list09">广西</span><span class="list09">2016-10-17</span></dd><dd><span class="list08"><a href="/buycar_183608.html" target="_blank">车还是挺好的，迫不得已</a></span><span class="list09"><span>5-8万</span></span><span class="list09">1-3年</span><span class="list09">广西</span><span class="list09">2016-08-10</span></dd><dd><span class="list08"><a href="/buycar_183072.html" target="_blank">桂林桂海雪佛兰试驾车创酷销售</a></span><span class="list09"><span>8-12万</span></span><span class="list09">1-3年</span><span class="list09">广西</span><span class="list09">2016-08-03</span></dd><dd><span class="list08"><a href="/buycar_182236.html" target="_blank">南宁购英菲尼迪Q50L享4万优惠可试...</a></span><span class="list09"><span>25-40万</span></span><span class="list09">2-4年</span><span class="list09">广西</span><span class="list09">2016-07-18</span></dd><dd><span class="list08"><a href="/buycar_181561.html" target="_blank">奥迪q7柴油7座</a></span><span class="list09"><span>40万</span></span><span class="list09">1-3年</span><span class="list09">广西</span><span class="list09">2016-07-11</span></dd><dd><span class="list08"><a href="/buycar_180207.html" target="_blank">求购2013款福特翼搏</a></span><span class="list09"><span>5-8万</span></span><span class="list09">1-2年</span><span class="list09">广西</span><span class="list09">2016-06-13</span></dd><dd><span class="list08"><a href="/buycar_180067.html" target="_blank">求购0-1w两厢/三厢SUV/越野车</a></span><span class="list09"><span>1万</span></span><span class="list09">1-3年</span><span class="list09">广西</span><span class="list09">2016-06-09</span></dd><dd><span class="list08"><a href="/buycar_176731.html" target="_blank">求购越野车,急</a></span><span class="list09"><span>8-12万</span></span><span class="list09">1-3年</span><span class="list09">广西</span><span class="list09">2016-04-26</span></dd><dd><span class="list08"><a href="/buycar_155202.html" target="_blank">手动2.0排量</a></span><span class="list09"><span>3-5万</span></span><span class="list09">3-3年</span><span class="list09">广西</span><span class="list09">2015-07-28</span></dd><dd><span class="list08"><a href="/buycar_151989.html" target="_blank">收购一辆汉兰达或路虎</a></span><span class="list09"><span>12-18万</span></span><span class="list09">1-5年</span><span class="list09">广西</span><span class="list09">2015-06-11</span></dd>
+            </dl>
+            <span style="clear: both"></span>
+            <dl id="q08" style="display: none">
+                <dd><span class="list08"><a href="/buycar_179139.html" target="_blank">广西车牌豪华商务车</a></span><span class="list09"><span>5-8万</span></span><span class="list09">1-2年</span><span class="list09">广西</span><span class="list09">2016-05-29</span></dd><dd><span class="list08"><a href="/buycar_179066.html" target="_blank">求购1-3w三厢商务车/MPV或面包车</a></span><span class="list09"><span>1-3万</span></span><span class="list09">1-2年</span><span class="list09">广西</span><span class="list09">2016-05-28</span></dd><dd><span class="list08"><a href="/buycar_179044.html" target="_blank">求购10-15w三厢SUV/越野车或商务车...</a></span><span class="list09"><span>10-15万</span></span><span class="list09">2-3年</span><span class="list09">广西</span><span class="list09">2016-05-27</span></dd><dd><span class="list08"><a href="/buycar_178997.html" target="_blank">急需一辆像江淮瑞风加长7坐或9坐的...</a></span><span class="list09"><span>1-2万</span></span><span class="list09">1-2年</span><span class="list09">广西</span><span class="list09">2016-05-27</span></dd><dd><span class="list08"><a href="/buycar_178743.html" target="_blank">求购私人9坐商务车一台,蓝牌,要求...</a></span><span class="list09"><span>2-3万</span></span><span class="list09">1-3年</span><span class="list09">广西</span><span class="list09">2016-05-24</span></dd><dd><span class="list08"><a href="/buycar_175791.html" target="_blank">个人求购五菱宏光</a></span><span class="list09"><span>3-5万</span></span><span class="list09">1-4年</span><span class="list09">广西</span><span class="list09">2016-04-06</span></dd><dd><span class="list08"><a href="/buycar_169194.html" target="_blank">求购五菱荣光加长型</a></span><span class="list09"><span>2-3万</span></span><span class="list09">1-5年</span><span class="list09">广西</span><span class="list09">2016-03-16</span></dd><dd><span class="list08"><a href="/buycar_156445.html" target="_blank">求购一台小货车</a></span><span class="list09"><span>1-2万</span></span><span class="list09">1-5年</span><span class="list09">广西</span><span class="list09">2015-08-13</span></dd><dd><span class="list08"><a href="/buycar_155603.html" target="_blank">本人诚心买一辆五菱荣光</a></span><span class="list09"><span>2-3万</span></span><span class="list09">1-5年</span><span class="list09">广西</span><span class="list09">2015-08-03</span></dd><dd><span class="list08"><a href="/buycar_153278.html" target="_blank">求购台五菱之光6400b3</a></span><span class="list09"><span>1-2万</span></span><span class="list09">1-5年</span><span class="list09">广西</span><span class="list09">2015-07-11</span></dd>
+            </dl>
+            <span style="clear: both"></span>
+            <dl id="q09" style="display: none">
+                <dd><span class="list08"><a href="/buycar_115702.html" target="_blank">轿车，面包车</a></span><span class="list09"><span>0.3-1万</span></span><span class="list09">1-6年</span><span class="list09">广西</span><span class="list09">2013-02-18</span></dd><dd><span class="list08"><a href="/buycar_136575.html" target="_blank">收购各类合法车辆！</a></span><span class="list09"><span>1-80万</span></span><span class="list09">1-15年</span><span class="list09">湖北</span><span class="list09">2016-08-04</span></dd><dd><span class="list08"><a href="/buycar_179405.html" target="_blank">高价求购4米左右货车轻卡运水果</a></span><span class="list09"><span>2-3万</span></span><span class="list09">2-3年</span><span class="list09">湖北</span><span class="list09">2016-06-01</span></dd><dd><span class="list08"><a href="/buycar_161230.html" target="_blank">奇瑞或者众泰小轿车</a></span><span class="list09"><span>2-4万</span></span><span class="list09">1-1年</span><span class="list09">北京</span><span class="list09">2015-10-31</span></dd><dd><span class="list08"><a href="/buycar_156749.html" target="_blank">南骏</a></span><span class="list09"><span>1-2万</span></span><span class="list09">2-3年</span><span class="list09">贵州</span><span class="list09">2015-08-16</span></dd><dd><span class="list08"><a href="/buycar_152380.html" target="_blank">小贵族</a></span><span class="list09"><span>1万</span></span><span class="list09">5-6年</span><span class="list09">山东</span><span class="list09">2015-06-15</span></dd><dd><span class="list08"><a href="/buycar_142935.html" target="_blank">比亚迪F3DM</a></span><span class="list09"><span>1-4万</span></span><span class="list09">1-10年</span><span class="list09">广东</span><span class="list09">2014-11-02</span></dd><dd><span class="list08"><a href="/buycar_126433.html" target="_blank">小型车</a></span><span class="list09"><span>1-3万</span></span><span class="list09">1-3年</span><span class="list09">山西</span><span class="list09">2014-01-23</span></dd><dd><span class="list08"><a href="/buycar_120911.html" target="_blank">求购3~4吨小型油罐车</a></span><span class="list09"><span>3-5万</span></span><span class="list09">1-5年</span><span class="list09">河南</span><span class="list09">2013-11-06</span></dd><dd><span class="list08"><a href="/buycar_120827.html" target="_blank">求购三吨加油车</a></span><span class="list09"><span>3-5万</span></span><span class="list09">1-5年</span><span class="list09">河南</span><span class="list09">2013-11-04</span></dd>
+            </dl>
+            <span style="clear: both"></span>
+        </div>
+
+        <div class="sideBar">
+    <h2>在线二手车评估</h2>
+    <dl>
+        <dt>类&nbsp;型：</dt>
+        <dd>
+            <input name="pglx" id="pglx_0" value="卖车评估" type="radio" />卖车评估<input name="pglx" id="pglx_1" value="买车评估" type="radio" />买车评估
+        </dd>
+    </dl>
+    <dl>
+        <dt>地&nbsp;区：</dt>
+        <dd>
+            <select id="pgprov" name="pgprov" onchange="javascript:pggetcity(this);"></select>
+            <span id="areacity">
+                <select id="pgcity" name="pgcity" style='width: 80px;'></select>
+            </span>
+        </dd>
+    </dl>
+    <dl>
+        <dt>类&nbsp;型：</dt>
+        <dd>
+            <select id="pgcartype" name="pgcartype" onchange="pggetbrand(this)"></select>
+        </dd>
+        <dt>品&nbsp;牌：</dt>
+        <dd id="pgbrand">
+            <select id="pgoptBrand" onchange="pgbrand(this)" name="pgoptBrand">
+                <option value='-1'>请选择品牌</option>
+            </select>
+        </dd>
+    </dl>
+    <dl>
+        <dt>车&nbsp;系：</dt>
+        <dd id="pgSerial">
+            <select id="pgoptSerial" onchange="pgserial(this)" name="pgoptSerial">
+                <option value='-1'>请选择系列</option>
+            </select>
+        </dd>
+    </dl>
+    <dl>
+        <dt>型&nbsp;号：</dt>
+        <dd id="pgCar">
+            <input name="pgoptCar1" class="input-td" id="pgoptCar1" style="width: 150px; display: none;" />
+            <select id="pgoptCar" name="pgoptCar" onchange="pgcarclick(this)">
+                <option value="">请选择车辆型号</option>
+            </select>
+        </dd>
+    </dl>
+    <dl id="pgcar_1" style="display: none; margin-top: 3px;">
+        <dt>新车价：</dt>
+        <dd>
+            <input name="carprice" class="input-td" id="carprice" style="width: 100px;">&nbsp;万元
+        </dd>
+    </dl>
+    <dl id="pgcar_2" class="bin-td04">
+        <a href="javascript:pgcar()">找不到车辆型号，请点击手工填写车型！</a>
+    </dl>
+    <dl>
+        <dt>上&nbsp;牌：<input id="hidpgx" type="hidden" value="0" /></dt>
+        <dd>
+            <select id="pgyear" name="pgyear"></select>&nbsp;年&nbsp;
+            <select name="pgmonth" id="pgmonth"></select>&nbsp;月
+        </dd>
+    </dl>
+    <dl>
+        <dt>里&nbsp;程：</dt>
+        <dd>
+            <input id="pggongli" name="pggongli" style="width: 100px;" class="input-td" />公里
+        </dd>
+    </dl>
+    <dl>
+        <dt>手&nbsp;机：</dt>
+        <dd><input name="pgphone" id="pgphone" style="width: 100px;" value="" class="input-td" /></dd>
+    </dl>
+    <dl><dt class="bin-td01_1"><input type="button" onclick="pinggu1()" id="pgbtn" class="bin-ass" value="开始评估" /></dt></dl>
+    <dl class="bin-td02"><a href="/jsfpg.html" title="江师傅在线评估" target="_blank"></a></dl>
+</div>
+
+
+        <div class="bottom-ad" id="adcenter2"><a rel="nofollow" href="http://jiameng.cn2che.com/" target="_blank"><img src="http://pic.cn2che.com/photos/2013/11/21/20131121165856869.jpg" alt="加盟二手车" width="730" height="70" border="0" /></a></div>
+
+             <div class="dealers_box">
+              <div class="dealers_mdf">
+      
+            <h2>广西相关二手车经销商</h2>
+            <span class="More"></span>
+            <ul id="jxstj"><li><a rel="nofollow" href="javascript:void(0)" onclick="javascript:window.open('http://13006278328.web.cn2che.com')"><img src="http://pic.cn2che.com/photos/2016/04/25/20160425175917844.jpg" alt="江西泗方互通汽运有限公司"   width="105" height="100" border="0" /></a></li><li><a rel="nofollow" href="javascript:void(0)" onclick="javascript:window.open('http://jxslqiyun.web.cn2che.com')"><img src="http://pic.cn2che.com/photos/2016/11/02/20161102093547141.jpg" alt="http://w18354749234.web.cn2che.com/"   width="105" height="100" border="0" /></a></li><li><a rel="nofollow" href="javascript:void(0)" onclick="javascript:window.open('http://a732471.web.cn2che.com/')"><img src="http://pic.cn2che.com/photos/2016/12/02/20161202125322297.jpg" alt="江西省万载县汽运有限公司"   width="105" height="100" border="0" /></a></li><li><a rel="nofollow" href="javascript:void(0)" onclick="javascript:window.open('http://1795151188.web.cn2che.com/')"><img src="http://pic.cn2che.com/photos/2016/03/18/20160318132432504.jpg" alt="江西首创（时间一年）"   width="105" height="100" border="0" /></a></li><li><a rel="nofollow" href="javascript:void(0)" onclick="javascript:window.open('http://1795151188.web.cn2che.com/')"><img src="http://pic.cn2che.com/photos/2016/04/01/20160401141045736.jpg" alt="江西首创"   width="105" height="100" border="0" /></a></li><li><a rel="nofollow" href="javascript:void(0)" onclick="javascript:window.open('http://fengminglan2008.web.cn2che.com/')"><img src="http://pic.cn2che.com/photos/2016/03/10/20160310152234463.jpg" alt="山东齐鲁"   width="105" height="100" border="0" /></a></li><li><a rel="nofollow" href="javascript:void(0)" onclick="javascript:window.open('http://gahcjc.web.cn2che.com')"><img src="http://pic.cn2che.com/photos/2016/02/05/20160205164222870.jpg" alt="江西华程二手货车"   width="105" height="100" border="0" /></a></li><li><a rel="nofollow" href="javascript:void(0)" onclick="javascript:window.open('http://gadsjc.web.cn2che.com/')"><img src="http://pic.cn2che.com/photos/2015/05/14/20150514095851397.jpg" alt="江西省高安市联友货车交易有限公司"   width="105" height="100" border="0" /></a></li><li><a rel="nofollow" href="javascript:void(0)" onclick="javascript:window.open('http://a571571.web.cn2che.com/')"><img src="http://pic.cn2che.com/photos/2016/11/01/20161101134955774.jpg" alt="长鑫汽运有限公司"   width="105" height="100" border="0" /></a></li><li><a rel="nofollow" href="javascript:void(0)" onclick="javascript:window.open('http://a732471.web.cn2che.com/')"><img src="http://pic.cn2che.com/photos/2016/12/03/20161203183603325.jpg" alt="江西省万载县汽运有限公司"   width="105" height="100" border="0" /></a></li><li><a rel="nofollow" href="javascript:void(0)" onclick="javascript:window.open('http://a732471.web.cn2che.com/')"><img src="http://pic.cn2che.com/photos/2016/12/04/20161204121622188.jpg" alt="江西省万载县汽运有限公司"   width="105" height="100" border="0" /></a></li><li><a rel="nofollow" href="/yx/service2.html" target="_blank"><img width="105" height="100" alt="广告位招商" src="/images/common/zzad02.jpg"></a></li></ul>
+        </div>
+               <div class="bottom-ad" id="adcenter3"><a rel="nofollow" href="http://chechengtong.cn2che.com/" target="_blank"><img src="http://pic.cn2che.com/photos/2013/11/21/20131121165946442.jpg" alt="车城通广告" width="730" height="70" border="0" /></a></div>
+                <div class="brand_mdf">
+            <h2>广西二手车品牌</h2>
+            <span class="More"><a href="/pinpai.html" target="_blank">更多品牌新车<samp>>></samp></a></span>
+            <ul><li><a href="/buycar/c0b151c0s0p0c0m0p1c0r0m0i0o0o2" target="_blank"><img src="http://pic.cn2che.com/photos/2012/06/20/20120620144400992.jpg" width="50"  height="50" alt="阿尔特" /><br />阿尔特</a></li>
+<li><a href="/buycar/c0b21338c0s0p0c0m0p1c0r0m0i0o0o2" target="_blank"><img src="http://pic.cn2che.com/photos/2014/05/13/20140513114731607.jpg" width="50"  height="50" alt="AC宝马" /><br />ac宝马</a></li>
+<li><a href="/buycar/c0b21535c0s0p0c0m0p1c0r0m0i0o0o2" target="_blank"><img src="http://pic.cn2che.com" width="50"  height="50" alt="长安之星" /><br />长安之星</a></li>
+<li><a href="/buycar/c0b27c0s0p0c0m0p1c0r0m0i0o0o2" target="_blank"><img src="http://pic.cn2che.com/photos/2012/06/18/20120618180010861.jpg" width="50"  height="50" alt="东风" /><br />东风</a></li>
+<li><a href="/buycar/c0b20798c0s0p0c0m0p1c0r0m0i0o0o2" target="_blank"><img src="http://pic.cn2che.com/photos/2014/07/16/20140716114301721.jpg" width="50"  height="50" alt="嘎斯" /><br />嘎斯</a></li>
+<li><a href="/buycar/c0b52c0s0p0c0m0p1c0r0m0i0o0o2" target="_blank"><img src="http://pic.cn2che.com/photos/2012/06/21/20120621171925774.jpg" width="50"  height="50" alt="黄海" /><br />黄海</a></li>
+<li><a href="/buycar/c0b20816c0s0p0c0m0p1c0r0m0i0o0o2" target="_blank"><img src="http://pic.cn2che.com/photos/2014/07/16/20140716153021994.jpg" width="50"  height="50" alt="合力叉车" /><br />合力叉车</a></li>
+<li><a href="/buycar/c0b34c0s0p0c0m0p1c0r0m0i0o0o2" target="_blank"><img src="http://pic.cn2che.com/photos/2012/06/27/20120627113632915.jpg" width="50"  height="50" alt="吉利" /><br />吉利</a></li>
+<li><a href="/buycar/c0b21349c0s0p0c0m0p1c0r0m0i0o0o2" target="_blank"><img src="http://pic.cn2che.com/photos/2014/05/13/20140513135300954.jpg" width="50"  height="50" alt="KTM" /><br />ktm</a></li>
+<li><a href="/buycar/c0b153c0s0p0c0m0p1c0r0m0i0o0o2" target="_blank"><img src="http://pic.cn2che.com/photos/2014/03/05/20140305085431605.png" width="50"  height="50" alt="猎豹汽车" /><br />猎豹汽车</a></li>
+<li><a href="/buycar/c0b16c0s0p0c0m0p1c0r0m0i0o0o2" target="_blank"><img src="http://pic.cn2che.com/photos/2012/06/17/20120617154011888.jpg" width="50"  height="50" alt="铃木" /><br />铃木</a></li>
+<li><a href="/buycar/c0b36c0s0p0c0m0p1c0r0m0i0o0o2" target="_blank"><img src="http://pic.cn2che.com/photos/2012/06/19/20120619183052253.jpg" width="50"  height="50" alt="陆风" /><br />陆风</a></li>
+<li><a href="/buycar/c0b155c0s0p0c0m0p1c0r0m0i0o0o2" target="_blank"><img src="http://pic.cn2che.com/photos/2012/06/16/20120616113548686.jpg" width="50"  height="50" alt="纳智捷" /><br />纳智捷</a></li>
+<li><a href="/buycar/c0b78c0s0p0c0m0p1c0r0m0i0o0o2" target="_blank"><img src="http://pic.cn2che.com/photos/2012/06/18/20120618190809394.png" width="50"  height="50" alt="荣威" /><br />荣威</a></li>
+<li><a href="/buycar/c0b20819c0s0p0c0m0p1c0r0m0i0o0o2" target="_blank"><img src="http://pic.cn2che.com/photos/2013/08/08/20130808153819136.gif" width="50"  height="50" alt="少林" /><br />少林</a></li>
+<li><a href="/buycar/c0b20865c0s0p0c0m0p1c0r0m0i0o0o2" target="_blank"><img src="http://pic.cn2che.com/photos/2014/07/16/20140716165734264.jpg" width="50"  height="50" alt="时风汽车" /><br />时风汽车</a></li>
+<li><a href="/buycar/c0b21767c0s0p0c0m0p1c0r0m0i0o0o2" target="_blank"><img src="http://pic.cn2che.com" width="50"  height="50" alt="天津一汽" /><br />天津一汽</a></li>
+<li><a href="/buycar/c0b139c0s0p0c0m0p1c0r0m0i0o0o2" target="_blank"><img src="http://pic.cn2che.com/photos/2012/06/28/20120628172400228.jpg" width="50"  height="50" alt="塔菲克" /><br />塔菲克</a></li>
+<li><a href="/buycar/c0b6c0s0p0c0m0p1c0r0m0i0o0o2" target="_blank"><img src="http://pic.cn2che.com/photos/2012/06/20/20120620082714646.jpg" width="50"  height="50" alt="雪铁龙" /><br />雪铁龙</a></li>
+<li><a href="/buycar/c0b20905c0s0p0c0m0p1c0r0m0i0o0o2" target="_blank"><img src="http://pic.cn2che.com/photos/2013/01/31/20130131115036801.jpg" width="50"  height="50" alt="越西" /><br />越西</a></li>
+<li><a href="/buycar/c0b20228c0s0p0c0m0p1c0r0m0i0o0o2" target="_blank"><img src="http://pic.cn2che.com/photos/2012/06/19/20120619143748857.gif" width="50"  height="50" alt="羊城" /><br />羊城</a></li>
+<li><a href="/buycar/c0b21795c0s0p0c0m0p1c0r0m0i0o0o2" target="_blank"><img src="http://pic.cn2che.com" width="50"  height="50" alt="烟台斗山工程机械" /><br />烟台斗山</a></li>
+</ul>
+        </div>
+ </div>
+        <div class="pks">
+
+            <h2><a href="http://www.cn2che.com/jsfpg.html" title="广西二手车评估师" target="_blank"><span style="color: #006da9">二手车评估师</span> </a></h2>
+
+            <ul>
+                <li><span><img src="http://pic.cn2che.com/member/2007-8-11/201101140914106430.jpg" alt="江先生"  width="96" height="102" /></span><span>江先生&nbsp;&nbsp;货车<br />0592-3889966<br /></span><span class="xx-04"></span></li><li><span><img src="http://pic.cn2che.com/pics/2011-05/20/201105201127264010.jpg" alt="刘小姐"  width="96" height="102" /></span><span>刘小姐&nbsp;&nbsp;轿车<br />18950062882<br /></span><span class="xx-05"></span></li>
+            </ul>
+
+        </div>
+
+        <div class="join">
+
+            <h2><a href="http://jiameng.cn2che.com" title="广西相关二手车加盟店" target="_blank"><span style="color: #006da9">二手车加盟店</span> </a></h2>
+
+            <ul>
+                <li><span class="logo-4s"><a  href="http://zgesc0592.web.cn2che.com/" target="_blank" title="中国二手车城兴隆店"><img src="http://pic.cn2che.com/photos/2015/03/25/20150325141326699.jpg" width="60" height="45" alt="中国二手车城兴隆店" /></a></span><span class="company-4s"><a  href="http://zgesc0592.web.cn2che.com/" target="_blank" title="中国二手车城兴隆店">中国二手车城兴隆店</a><br />刘经理：18059259811</span></li>
+
+            </ul>
+
+        </div>
+        <div class="rent">
+            <ul class="title-td">
+                <li class="newstab01" id="rent000" onmouseover="switchnav(0,8,2);showcqz('1')">出租</li>
+                <li class="newstab02" id="rent001" onmouseover="switchnav(1,8,2);showcqz('2')">求租</li>
+            </ul>
+            <span class="More" id="cz"><a href="http://my.cn2che.com/car_chuzu.html" target="_blank">发布出租</a>|<a href="/chuzu/" target="_blank">更多<samp>>></samp></a></span>
+            <span class="More" style="display: none" id="qz"><a href="http://my.cn2che.com/car_qiuzu.html" target="_blank">发布求租</a>|<a href="/qiuzu/" target="_blank">更多<samp>>></samp></a></span>
+            <dl id="R01">
+                <dt><span class="list01">车系/车型</span><span class="list02">出租价</span><span class="list02">发布日期</span></dt>
+                <dd><span class="list01"><a href="/chuzucarinfo_7430.html" title="本田 CRV 2010款 都市版手动档 2.0L Lxi MT" target="_blank">本田 CRV 2010...</a></span><span class="list02"><strong>280元</strong></span><span class="list02">2013.09.11</span></dd>
+<dd><span class="list01"><a href="/chuzucarinfo_7432.html" title="现代 途胜 2009款 2.0L 自动 两驱 舒适天窗版" target="_blank">现代 途胜 2009...</a></span><span class="list02"><strong>250元</strong></span><span class="list02">2013.09.11</span></dd>
+<dd><span class="list01"><a href="/chuzucarinfo_7575.html" title="丰田 凯美瑞 2011款 200G 豪华经典周年纪念版" target="_blank">丰田 凯美瑞 20...</a></span><span class="list02"><strong>1元</strong></span><span class="list02">2013.09.04</span></dd>
+
+            </dl>
+            <dl id="R02" style="display: none">
+                <dt><span class="list01">车系/车型</span><span class="list02">求租价</span><span class="list02">发布日期</span></dt>
+                <dd><span class="list01"><a href="/chuzucarinfo_1507.html" title="各种商务车" target="_blank">各种商务车</a></span><span class="list02"><strong>220元</strong></span><span class="list02">2013.07.24</span></dd>
+<dd><span class="list01"><a href="/chuzucarinfo_1273.html" title="现代60-7挖机出租" target="_blank">现代60-7挖机出...</a></span><span class="list02"><strong>0元</strong></span><span class="list02">2012.07.20</span></dd>
+<dd><span class="list01"><a href="/chuzucarinfo_1342.html" title="别克商务车" target="_blank">别克商务车</a></span><span class="list02"><strong>200元</strong></span><span class="list02">2012.07.20</span></dd>
+
+            </dl>
+        </div>
+
+
+        <div class="information">
+            <h2>二手车资讯</h2>
+            <span class="More"><a href="http://news.cn2che.com/html/list_48_1.html" target="_blank">二手车评估</a> | <a href="http://news.cn2che.com/html/list_6_1.html" target="_blank">新车速递</a> | <a href="http://news.cn2che.com/html/list_11_1.html" target="_blank">购车指南</a> | <a href="http://news.cn2che.com/html/list_58_1.html" target="_blank">展会信息</a> | <a href="http://news.cn2che.com/html/list_443_1.html" target="_blank">驾校考试</a> | <a href="http://news.cn2che.com/xinwen.html" target="_blank">更多<samp>>></samp></a></span>
+            <div class="list">
+                <dl>
+                    <h3>二手车市场动态</h3>
+                    <div class="zx-td"><div class="zximg"><span class="img"><a href="http://news.cn2che.com/html/2016/1130/news_101743.html" title="二手车交易市场2016年11月28号跟29号上海二手车交易情况对比" target="_blank"><img src="http://pic.cn2che.com/photos/2016/11/30/20161130131539386.jpg" width="130" height="80" alt="二手车交易市场2016年11月28号跟29号上海二手车交易情况对比"/></a></span><span class="imgtitle"><a href="http://news.cn2che.com/html/2016/1130/news_101743.html" title="二手车交易市场2016年11月28号跟29号上海二手车交易情况对比" target="_blank">二手车交易市场2016...</a></span></div><dl><dt><a href="http://news.cn2che.com/html/2016/1202/news_101798.html" title="二手车交易市场2016年11月30号跟12月1日上海二手车交易情况对比" target="_blank">二手车交易市场2016年...</a></dt><dd>12-02</dd><dt><a href="http://news.cn2che.com/html/2016/1201/news_101781.html" title="二手车交易市场2016年11月30号跟29号上海二手车交易情况对比" target="_blank">二手车交易市场2016年...</a></dt><dd>12-01</dd><dt><a href="http://news.cn2che.com/html/2016/1130/news_101743.html" title="二手车交易市场2016年11月28号跟29号上海二手车交易情况对比" target="_blank">二手车交易市场2016年...</a></dt><dd>11-30</dd></dl></div><dt><a href="http://news.cn2che.com/html/2016/1128/news_101692.html" title="二手车交易市场2016年11月25号跟24号上海二手车交易情况对比" target="_blank">二手车交易市场2016年11月25号跟24号上海...</a></dt><dd>11-28</dd><dt><a href="http://news.cn2che.com/html/2016/1125/news_101637.html" title="二手车交易市场2016年11月23号跟24号上海二手车交易情况对比" target="_blank">二手车交易市场2016年11月23号跟24号上海...</a></dt><dd>11-25</dd><dt><a href="http://news.cn2che.com/html/2016/1124/news_101609.html" title="二手车交易市场2016年11月23号跟22号上海二手车交易情况对比" target="_blank">二手车交易市场2016年11月23号跟22号上海...</a></dt><dd>11-24</dd><dt><a href="http://news.cn2che.com/html/2016/1123/news_101577.html" title="二手车交易市场2016年11月21号跟22号上海二手车交易情况对比" target="_blank">二手车交易市场2016年11月21号跟22号上海...</a></dt><dd>11-23</dd><dt><a href="http://news.cn2che.com/html/2016/1122/news_101553.html" title="二手车交易市场2016年11月21号跟19号上海二手车交易情况对比" target="_blank">二手车交易市场2016年11月21号跟19号上海...</a></dt><dd>11-22</dd>
+                </dl>
+                <dl>
+                    <h3>二手车购车指南</h3>
+                    <div class="zx-td"><div class="zximg"><span class="img"><a href="http://news.cn2che.com/html/2016/0922/news_100076.html" title="“弯道之王”的畅销中高档轿车-马自达6 二手马自达导购" target="_blank"><img src="http://pic.cn2che.com/photos/2016/09/21/20160921141244184.png" width="130" height="80" alt="“弯道之王”的畅销中高档轿车-马自达6 二手马自达导购"/></a></span><span class="imgtitle"><a href="http://news.cn2che.com/html/2016/0922/news_100076.html" title="“弯道之王”的畅销中高档轿车-马自达6 二手马自达导购" target="_blank">“弯道之王”的畅销...</a></span></div><dl><dt><a href="http://news.cn2che.com/html/2016/1205/news_101828.html" title="25万左右二手奥迪 Q5舒适版2.0" target="_blank">25万左右二手奥迪 Q5...</a></dt><dd>12-05</dd><dt><a href="http://news.cn2che.com/html/2016/1205/news_101827.html" title="40万左右二手奔驰 E级双门轿跑车" target="_blank">40万左右二手奔驰 E级...</a></dt><dd>12-05</dd><dt><a href="http://news.cn2che.com/html/2016/1204/news_101789.html" title="16万左右二手大众 迈腾1.8T豪华型" target="_blank">16万左右二手大众 迈...</a></dt><dd>12-04</dd></dl></div><dt><a href="http://news.cn2che.com/html/2016/1204/news_101788.html" title="10万左右二手斯柯达 昊锐1.8T贵雅版" target="_blank">10万左右二手斯柯达 昊锐1.8T贵雅版</a></dt><dd>12-04</dd><dt><a href="http://news.cn2che.com/html/2016/1203/news_101787.html" title="10万左右二手别克 别克GL8 陆尊3.0" target="_blank">10万左右二手别克 别克GL8 陆尊3.0</a></dt><dd>12-03</dd><dt><a href="http://news.cn2che.com/html/2016/1203/news_101786.html" title="15万左右本田 本田奥德赛2.4L豪华版" target="_blank">15万左右本田 本田奥德赛2.4L豪华版</a></dt><dd>12-03</dd><dt><a href="http://news.cn2che.com/html/2016/1202/news_101785.html" title="10万左右二手雪铁龙 C52.3L豪华型" target="_blank">10万左右二手雪铁龙 C52.3L豪华型</a></dt><dd>12-02</dd><dt><a href="http://news.cn2che.com/html/2016/1202/news_101784.html" title="11万左右二手现代 MISTRA名图1.8L 自动 智能型" target="_blank">11万左右二手现代 MISTRA名图1.8L 自动 ...</a></dt><dd>12-02</dd>
+                </dl>
+                <dl>
+                    <h3>新资讯</h3>
+                    <div class="zx-td"><div class="zximg"><span class="img"><a href="http://news.cn2che.com/html/2016/1205/news_101835.html" title="11月1号与2号的投诉排名对比" target="_blank"><img src="http://pic.cn2che.com/photos/2016/12/05/20161205140832969.jpg" width="130" height="80" alt="11月1号与2号的投诉排名对比"/></a></span><span class="imgtitle"><a href="http://news.cn2che.com/html/2016/1205/news_101835.html" title="11月1号与2号的投诉排名对比" target="_blank">11月1号与2号的投诉...</a></span></div><dl><dt><a href="http://news.cn2che.com/html/2016/1205/news_101847.html" title="五湖四海皆兄弟 天南海北尽知音" target="_blank">五湖四海皆兄弟 天南...</a></dt><dd>12-05</dd><dt><a href="http://news.cn2che.com/html/2016/1205/news_101843.html" title="车辆碰撞时候的应急措施" target="_blank">车辆碰撞时候的应急措...</a></dt><dd>12-05</dd><dt><a href="http://news.cn2che.com/html/2016/1205/news_101837.html" title="夏季开车的时候一定要防止中暑" target="_blank">夏季开车的时候一定要...</a></dt><dd>12-05</dd></dl></div><dt><a href="http://news.cn2che.com/html/2016/1205/news_101834.html" title="2016c1 科目一易错判断题之6" target="_blank">2016c1 科目一易错判断题之6</a></dt><dd>12-05</dd><dt><a href="http://news.cn2che.com/html/2016/1205/news_101833.html" title="2016东盟国际车展：12月6日【免票进场】 错过再等一年" target="_blank">2016东盟国际车展：12月6日【免票进场】 ...</a></dt><dd>12-05</dd><dt><a href="http://news.cn2che.com/html/2016/1205/news_101836.html" title="30-50万的SUV 舒适享受型推荐" target="_blank">30-50万的SUV 舒适享受型推荐</a></dt><dd>12-05</dd><dt><a href="http://news.cn2che.com/html/2016/1205/news_101835.html" title="11月1号与2号的投诉排名对比" target="_blank">11月1号与2号的投诉排名对比</a></dt><dd>12-05</dd><dt><a href="http://news.cn2che.com/html/2016/1205/news_101832.html" title="2016 c1科目四易错选择题之7" target="_blank">2016 c1科目四易错选择题之7</a></dt><dd>12-05</dd>
+                </dl>
+            </div>
+        </div>
+        <div class="woman">
+            <h2>香车美女</h2>
+            <span class="More"><a href="http://mm.cn2che.com/" target="_blank">更多<samp>>></samp></a></span>
+            <ul>
+                <li><span><a href="http://mm.cn2che.com/html/2016/1205/mm_2986.html" title="居家美女车模分享其家庭用车的舒适的内饰" target="_blank"><img src="http://pic.cn2che.com/photos/2016/12/05/20161205082611259.jpg" width="110" height="140" title="居家美女车模分享其家庭用车的舒适的内饰" alt="居家美女车模分享其家庭用车的舒适的内饰" /></a></span></li>
+<li><span><a href="http://mm.cn2che.com/html/2016/1202/mm_2985.html" title="水墨短裙美女车模展示 东方元素的美丽" target="_blank"><img src="http://pic.cn2che.com/photos/2016/12/02/20161202082444599.jpg" width="110" height="140" title="水墨短裙美女车模展示 东方元素的美丽" alt="水墨短裙美女车模展示 东方元素的美丽" /></a></span></li>
+<li><span><a href="http://mm.cn2che.com/html/2016/1201/mm_2984.html" title="气质美女车模 美丽不可言喻" target="_blank"><img src="http://pic.cn2che.com/photos/2016/12/01/20161201123040414.jpg" width="110" height="140" title="气质美女车模 美丽不可言喻" alt="气质美女车模 美丽不可言喻" /></a></span></li>
+<li><span><a href="http://mm.cn2che.com/html/2016/1130/mm_2983.html" title="车内军装美女车模展示 制服诱惑中展示着英姿" target="_blank"><img src="http://pic.cn2che.com/photos/2016/11/30/20161130083835958.jpg" width="110" height="140" title="车内军装美女车模展示 制服诱惑中展示着英姿" alt="车内军装美女车模展示 制服诱惑中展示着英姿" /></a></span></li>
+<li><span><a href="http://mm.cn2che.com/html/2016/1129/mm_2982.html" title="清纯依旧美女车模 白衣纱裙仙气十足" target="_blank"><img src="http://pic.cn2che.com/photos/2016/11/29/20161129092136169.jpg" width="110" height="140" title="清纯依旧美女车模 白衣纱裙仙气十足" alt="清纯依旧美女车模 白衣纱裙仙气十足" /></a></span></li>
+
+            </ul>
+        </div>
+        <div class="tool">
+            <h2>常用工具</h2>
+            <ul>
+                <li><a href="/special/zhinan/" target="_blank"><span class="icon01"></span>法规手册</a></li>
+<li><a href="/jsfpg.html" target="_blank"><span class="icon02"></span>车辆评估</a></li>
+<li><a href="/buycar/process_02.html" target="_blank"><span class="icon03"></span>购车流程</a></li>
+<li><a href="/buycar/car_calculator1.html" target="_blank"><span class="icon04"></span>购车计算</a></li>
+<li><a href="/buycar/CarComp.html" target="_blank"><span class="icon05"></span>车型对比</a></li>
+<li><a href="/pinpai.html" target="_blank"><span class="icon06"></span>车型汇总</a></li>
+<li><a href="/buycar/car_calculator1.html" target="_blank"><span class="icon07"></span>购车贷款</a></li>
+<li><a href="http://ytl.cn2che.com/jcgh.html" target="_blank"><span class="icon08"></span>旧车过户</a></li>
+<li><a href="http://ytl.cn2che.com/clns.html" target="_blank"><span class="icon09"></span>车辆年审</a></li>
+<li><a href="/buycar/car_calculator1.html" target="_blank"><span class="icon10"></span>汽车保险</a></li>
+<li><a href="/weizhang/" target="_blank"><span class="icon11"></span>违章查询</a></li>
+<li><a href="/zxwd.html" target="_blank"><span class="icon12"></span>在线问答</a></li>
+
+            </ul>
+        </div>
+
+        <div class="hotcity">
+
+    <!--<h2>热门城市</h2>-->
+
+    <h2>相关<span>二手车交易市场</span></h2>
+
+    <span class="More"><a href="http://www.cn2che.com/city.html" target="_blank">更多城市<samp>>></samp></a></span>
+    <ul>
+        <li><a href="http://bj.cn2che.com/" title="北京二手车交易市场">北京二手车</a></li>
+        <li><a href="http://sh.cn2che.com/" title="上海二手车交易市场">上海二手车</a></li>
+        <li><a href="http://guangzhou.cn2che.com/" title="广州二手车交易市场">广州二手车</a></li>
+        <li><a href="http://shenzhen.cn2che.com/" title="深圳二手车交易市场">深圳二手车</a></li>
+        <li><a href="http://tj.cn2che.com/" title="天津二手车交易市场">天津二手车</a></li>
+        <li><a href="http://jinan.cn2che.com/" title="济南二手车交易市场">济南二手车</a></li>
+        <li><a href="http://qingdao.cn2che.com/" title="青岛二手车交易市场">青岛二手车</a></li>
+        <li><a href="http://shenyang.cn2che.com/" title="沈阳二手车交易市场">沈阳二手车</a></li>
+        <li><a href="http://wuhan.cn2che.com/" title="武汉二手车交易市场">武汉二手车</a></li>
+        <li><a href="http://haerbin.cn2che.com/" title="哈尔滨二手车交易市场">哈尔滨二手车</a></li>
+        <li><a href="http://xian.cn2che.com/" title="西安二手车交易市场">西安二手车</a></li>
+        <li><a href="http://chengdu.cn2che.com/" title="成都二手车交易市场">成都二手车</a></li>
+        <li><a href="http://cq.cn2che.com/" title="重庆二手车交易市场">重庆二手车</a></li>
+        <li><a href="http://ningbo.cn2che.com/" title="宁波二手车交易市场">宁波二手车</a>
+        <li><a href="http://changsha.cn2che.com/" title="长沙二手车交易市场">长沙二手车</a></li>
+        <li><a href="http://nanjing.cn2che.com/" title="南京二手车交易市场">南京二手车</a></li>
+        <li><a href="http://zhengzhou.cn2che.com/" title="郑州二手车交易市场">郑州二手车</a></li>
+        <li><a href="http://dalian.cn2che.com/" title="大连二手车交易市场">大连二手车</a></li>
+        <li><a href="http://suzhou.cn2che.com/" title="苏州二手车交易市场">苏州二手车</a></li>
+        <li><a href="http://hangzhou.cn2che.com/" title="杭州二手车交易市场">杭州二手车</a></li>
+        <li><a href="http://fj.cn2che.com/" title="福建二手车交易市场">福建二手车</a></li>
+        <li><a href="http://shijiazhuang.cn2che.com/" title="石家庄二手车交易市场">石家庄二手车</a></li>
+        <li><a href="http://xiamen.cn2che.com/" title="厦门二手车交易市场">厦门二手车</a></li>
+        <li><a href="http://hunan.cn2che.com/" title="湖南二手车交易市场">湖南二手车</a></li>
+        <li><a href="http://jx.cn2che.com/" title="江西二手车交易市场">江西二手车</a></li>
+        <li><a href="http://jl.cn2che.com/" title="吉林二手车交易市场">吉林二手车</a></li>
+        <li><a href="http://sc.cn2che.com/" title="四川二手车交易市场">四川二手车</a></li>
+        <li><a href="http://hubei.cn2che.com/" title="湖北二手车交易市场">湖北二手车</a></li>
+        <li><a href="http://gs.cn2che.com/" title="甘肃二手车交易市场">甘肃二手车</a></li>
+        <li><a href="http://ah.cn2che.com/" title="安徽二手车交易市场">安徽二手车</a></li>
+        <li><a href="http://henan.cn2che.com/" title="河南二手车交易市场">河南二手车</a></li>
+        <li><a href="http://zj.cn2che.com/" title="浙江二手车交易市场">浙江二手车</a></li>
+        <li><a href="http://shanxi.cn2che.com/" title="陕西二手车交易市场">陕西二手车</a></li>
+        <li><a href="http://gd.cn2che.com/" title="广东二手车交易市场">广东二手车</a></li>
+        <li><a href="http://yn.cn2che.com/" title="云南二手车交易市场">云南二手车</a></li>
+        <li><a href="http://sx.cn2che.com/" title="山西二手车交易市场">山西二手车</a></li>
+        <!--<li><a href="http://gx.cn2che.com/buycar/">广西买二手车</a></li>
+        <li><a href="http://gx.cn2che.com/sellcar/">广西卖二手车</a></li>
+        <li><a href="http://gx.cn2che.com/qiugou/">广西二手车求购</a></li>-->
+        <li><a href="http://gx.cn2che.com/ershouhuoche/">广西二手货车</a></li>
+        <li><a href="http://gx.cn2che.com/xiaxianche/">广西下线车</a></li>
+        <li><a href="http://gx.cn2che.com/qiuzu/">广西二手车求租</a></li>
+        <li><a href="http://gx.cn2che.com/chuzu/">广西二手车出租</a></li>
+        <li><a href="http://gx.cn2che.com/4s/">广西二手车置换</a></li>
+        <li><a href="http://gx.cn2che.com/jingxiaoshang/">广西二手车商</a></li>
+        <li><a href="http://gx.cn2che.com/sjzt.html">广西二手车公司</a></li>
+        <li><a href="http://gx.cn2che.com/pinggushi.html" target="_blank">广西二手评估师培训</a></li>
+        <li><a href="http://www.cn2che.com/map/carlist.html" target="_blank">二手车源</a></li>
+        <li><a href="http://gx.cn2che.com/rmtj.html" target="_blank" >广西热门二手车</a></li>
+    </ul>
+</div>
+
+
+
+
+<div class="link"><h2>友情链接</h2><span class="More"><a rel="nofollow" href="/Link/link.html" target="_blank">中国二手车城友情链接互换、商务合作联系QQ：1986823121  申请链接</a> | <a rel="nofollow" href="/Link/link_more.html" target="_blank">更多<samp>>></samp></a></span><ul id="L01"><li><a href="http://www.cn2che.com/" title="二手车" target="_blank">二手车</a></li><li><a href="http://nc.ganji.com/zhaopin/" target="_blank">南昌招聘</a></li>
+<li><a href="" target="_blank">广西二手车</a></li>
+<li><a href="" target="_blank">广西二手车网</a></li>
+<li><a href="" target="_blank">广西二手车交易</a></li>
+<li><a href="" target="_blank">广西二手车服务</a></li>
+<li><a href="http://www.taowujin.com.cn/" target="_blank">五金批发</a></li>
+<li><a href="http://jixie.01hr.com/" target="_blank">机械招聘网</a></li>
+<li><a href="http://beijing.liebiao.com/ershouche/" target="_blank">北京二手车</a></li>
+<li><a href="http://guigang.cn2che.com/" target="_blank">贵港二手车</a></li>
+<li><a href="http://jssuzhou.lotour.com" target="_blank">苏州旅游</a></li>
+<li><a href="http://huhehaote.lotour.com/" target="_blank">呼和浩特旅游</a></li>
+<li><a href="http://sz.dadou.com" target="_blank">深圳大豆网</a></li>
+<li><a href="http://www.cn2che.com/pinggu/" target="_blank">二手车评估</a></li>
+<li><a href="http://guangxi.taoche.com" target="_blank">广西二手车</a></li>
+<li><a href="http://qinzhou.focus.cn/" target="_blank">搜狐焦点钦州站</a></li>
+<li><a href="http://ask.gxqcw.com" target="_blank">车问答</a></li>
+<li><a href="http://gy.fang.anjuke.com/" target="_blank">贵阳楼盘</a></li>
+<li><a href="http://guangxi.huangye88.com/" target="_blank">广西信息港</a></li>
+<li><a href="http://dylj.ohqly.com" target="_blank">利津吧</a></li>
+<li><a href="http://gx.bidcenter.com.cn/" target="_blank">广西招标网</a></li>
+<li><a href="http://guangxi.120job.cn" target="_blank">广西医院招聘</a></li>
+<li><a href="http://www.che127.com/guangxi/" target="_blank">广西二手车</a></li>
+</ul></div>
+    </div>
+
+
+    <div id="floatTools" class="Online"></div>
+    <div class="footerwrap">
+    <div class="footermain">
+
+        <div class="fotterm1">
+            <h5>关于我们</h5>
+             <p><a rel="nofollow" target="_blank" href="http://www.che12.com/compamy1.aspx" style="padding-left:0px;">关于我们</a><a rel="nofollow" target="_blank" href="http://www.cn2che.com/yx/service2.aspx">广告服务</a><a rel="nofollow" target="_blank" href="http://www.cn2che.com/yx/service3.aspx">合作媒体</a><a rel="nofollow" target="_blank" href="http://www.che12.com/zhaopin_rczp.aspx">诚聘英才</a><a rel="nofollow" target="_blank" href="http://www.cn2che.com/yx/compamy5.aspx" style="padding-left:0px;">汇款方式</a><a rel="nofollow" target="_blank" href="http://www.cn2che.com/help/">帮助中心</a><a target="_blank" href="http://www.cn2che.com/ditu.html">网站地图</a><a rel="nofollow" target="_blank" href="http://www.che12.com/compamy6.aspx">联系我们</a></p>
+        </div>
+
+        <div class="fotterm2">
+            <h5>关注我们</h5>
+            <div class="fott1">
+                <dl class="weiimg">
+                    <dt>
+                        <img alt="手机客服端" src="/images/photoicon.png"></dt>
+                    <dd class="tit">手机客户端</dd>
+                    <dd class="des">免费下载  免费发布<br />
+                        海量车源  随时交易</dd>
+                </dl>
+            </div>
+            <div class="fott2">
+                <dl class="weiimg">
+                    <dt>
+                        <img alt="" src="/images/weixinicon.jpg"></dt>
+                    <dd class="tit">官方微信平台</dd>
+                    <dd class="des">扫描二维码 立即分享互动<br />
+                        惊爆优惠等你来拿！
+                    </dd>
+                </dl>
+            </div>
+        </div>
+        <div class="fotterm3">
+            <h5>联系我们</h5>
+            <dl class="clearfix service-tel  fotterm3tit">
+                <dt>电话</dt>
+                <dd>7x24小时咨询热线</dd>
+                <dd class="number">400-703-2008</dd>
+            </dl>
+        </div>
+
+
+
+        <div class="copyright1">厦门中营科技有限公司 版权所有&nbsp;<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=35020302001459" style="display:inline-block;text-decoration:none;height:20px;line-height:20px; color:#505050; margin-right:-5px;" rel="nofollow"><img src="/images/beianico.png" width="14px" style="margin-right:1px; vertical-align:middle;" />闽公网安备 35020302001459号</a>&nbsp;&nbsp;闽ICP备05011412号 &nbsp;  copyright &copy;2004 - 2016 cn2che.com. All Rights Reserved.   </div>
+
+    </div>
+
+
+
+
+
+    <!--<img src="/images/common/bicon2.jpg" width="620" height="56" />-->
+
+
+</div>
+
+<!--<div class="fixed-bottom "><img src="/images/ad/ad8.jpg" /></div>-->
+
+
+<style>
+    .fixed-bottom {
+        position: fixed;
+        top: 150px;
+        left: 10px;
+    }
+
+    .weixi2wm {
+        position: absolute;
+        width: 100px;
+        right: 0px;
+        bottom: 0px;
+        border: 0px solid #CCC;
+        text-align: center;
+        padding: 5px;
+        line-height: 25px;
+    }
+
+    .Online {
+        float: left;
+        width: auto;
+        POSITION: fixed;
+        RIGHT: 0px;
+        _position: absolute;
+    }
+
+        .Online .floatL {
+            POSITION: relative;
+            WIDTH: 28px;
+            FLOAT: left;
+            TOP: 120px;
+        }
+</style>
+<link href="/css/footer20151123.css" type="text/css" rel="stylesheet" />
+<div id="floatTools" class="Online" style="bottom: 0px;">
+</div>
+<div id="scripts"></div>
+<script src="/javascript/jquery.js" type="text/javascript"></script>
+<script src="/javascript/common/commons.js?rnd=3" type="text/javascript"></script>
+
+
+<script>
+    (function () {
+        var bp = document.createElement('script');
+        bp.src = '//push.zhanzhang.baidu.com/push.js';
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
+</script>
+
+
+    <script src="/javascript/layout.js"></script>
+    <script src="/javascript/lay.js"></script>
+    <script src="/javascript/index/indexs.js" type="text/javascript"></script>
+</body>
+</html>

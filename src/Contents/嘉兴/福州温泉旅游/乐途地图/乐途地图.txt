@@ -1,0 +1,486 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312"/>
+<meta name="keywords" content="当地跟团"/>
+<meta name="description" content="当地跟团"/>
+<title>seo--国内导航</title>
+<link rel="stylesheet" type="text/css" href="http://css.lotour.com/seo_new.css" />
+<script src="http://js.lotour.net/jquery-1.8.3.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://js.lotour.com/seo-new/movefocus.js"></script>
+</head>
+
+<body>
+<!--=S 公共新顶 -->
+<div class="ltTopFix">
+	<link rel="stylesheet" type="text/css" href="http://css.lotour.net/lt_top.css?xxaaa" />
+	<div class="ltSection ltClear">
+      <div class="ltLogo"><a target="_blank" href="http://www.lotour.com/"><img src="http://img1.lotour.com/article/ltlogo_fix.png" width="131" height="34" alt="乐途旅游网" /></a></div>
+      <div class="ltTopNav">
+      	<ul class="clear">
+        	<li><h2><a href="http://www.lotour.com" target="_blank" title="首页">首页</a></h2></li>
+            <li><h2><a href="http://www.lotour.com/mudidi" target="_blank" title="目的地">目的地</a></h2></li>
+            <li class="topSubNav">
+            	<div class="topSubNavTit">
+                	<h2><a href="javascript:void(0)">发现</a></h2>
+                    <dl>
+						<dd><a href="http://www.lotour.com/zhoubianyou" target="_blank" title="周边游">周边游</a></dd>
+						<dd><a href="http://www.lotour.com/guoneiyou" target="_blank" title="国内游">国内游</a></dd>
+						<dd><a href="http://www.lotour.com/chujingyou" target="_blank" title="出境游">出境游</a></dd>
+					</dl>
+                </div>
+            </li>
+            <li class="topSubNav">
+            	<div class="topSubNavTit">
+                	<h2><a href="javascript:void(0)">社区</a></h2>
+                    <dl>
+						<dd class="sphl"><a href="http://my.lotour.com" target="_blank" title="部 落">部 落</a></dd>
+						<dd><a href="http://bbs.lotour.com" target="_blank" title="论 坛">论 坛</a></dd>
+						<dd><a href="http://www.lotour.com/zijiayou/" target="_blank" title="自 驾">自 驾</a></dd>
+						<dd><a href="http://www.lotour.com/zhuangbei" target="_blank" title="装 备">装 备</a></dd>
+					</dl>
+                </div>
+            </li>
+            <li class="topSubNav">
+            	<div class="topSubNavTit">
+                	<h2><a href="javascript:void(0)">预订</a></h2>
+                    <dl>
+						<dd><a href="http://d.lotour.com/hotel/" target="_blank" title="客栈酒店">客栈酒店</a></dd>
+						<dd><a href="http://d.lotour.com/dangdigentuan/" target="_blank" title="当地跟团">当地跟团</a></dd>
+						<dd><a href="#" id="dujiaxianlu" target="_blank" title="度假线路">度假线路</a></dd>
+
+                                                <dd><a href="http://www.lotour.com/huochepiao/" target="_blank" title="订火车票">订火车票</a></dd>
+						<dd class="sphl"><a href="http://d.lotour.com/jipiao/" target="_blank" title="机票预订">机票预订</a></dd>
+                                                <dd><a href="http://d.lotour.com/zuche/" target="_blank" title="旅游租车">旅游租车</a></dd>
+						<dd><a href="http://d.lotour.com/qianzheng/" target="_blank" title="签证代办">签证代办</a></dd>	
+					</dl>
+                </div>
+            </li>            
+        </ul>
+      </div>
+      <!--==S 搜索框 -->
+      <div class="ltSearch">
+        <script type="text/javascript" src="http://js.lotour.net/searchboxnew.js?23"></script> 
+        <form action="http://ip.lotour.com/home/mudidi" method="get" target="_blank" name="zonghe"> 
+        <div class="ltSeoBox">          
+          <div class="ltSeoInp">
+            <input type="text" value="输入您想去的目的地" autocomplete="off" name="keyword" id="keyword">
+            <input type="hidden" value="" name="keys" id="keys">
+          </div>
+        </div>
+        <div class="ltSeoBtn">
+          <input type="submit" id="btnzonghe" name="btnzonghe" />
+        </div>
+        </form>
+        <div id="hotcityhintDiv" style="z-index: 300001;" class="inputExtendBox sphl">
+            <ul id="scity" class="suggestBox"></ul>
+    	</div>
+        <div class="city_divtc" id="Search_Synthesize_Div"><div class="city_divtc_t"><a class="closex"></a><span>国内</span></div><div class="city_divtc_m"><ul><li><a href="http://yanbian.lotour.com/dunhua/" target="_blank" title="敦化">敦化</a></li><li><a href="http://shangqiu.lotour.com/" target="_blank" title="商丘">商丘</a></li><li><a href="http://fuzhou.lotour.com/" target="_blank" title="福州">福州</a></li><li><a href="http://quanzhou.lotour.com/" target="_blank" title="泉州">泉州</a></li><li><a href="http://wuxi.lotour.com/lingshandafo/" target="_blank" title=" 灵山"> 灵山</a></li><li><a href="http://sanming.lotour.com/taining/" target="_blank" title="泰宁">泰宁</a></li><li><a href="http://chongqing.lotour.com/" target="_blank" title="重庆">重庆</a></li><li><a href="http://zhangjiajie.lotour.com/" target="_blank" title="张家界">张家界</a></li><li><a href="http://kunming.lotour.com/yunnanshilin/" target="_blank" title="石林">石林</a></li><li><a href="http://beijing.lotour.com/" target="_blank" title="北京">北京</a></li></ul></div><div class="city_divtc_t"><span>境外</span></div><div class="city_divtc_m"><ul><li><a href="http://sey.lotour.com/" target="_blank" title="塞舌尔">塞舌尔</a></li><li><a href="http://tha.lotour.com/" target="_blank" title="泰国">泰国</a></li><li><a href="http://gum.lotour.com/" target="_blank" title="关岛">关岛</a></li><li><a href="http://fij.lotour.com/" target="_blank" title="斐济">斐济</a></li><li><a href="http://mex.lotour.com/" target="_blank" title="墨西哥">墨西哥</a></li><li><a href="http://mas.lotour.com/jilongpo/" target="_blank" title="吉隆坡">吉隆坡</a></li><li><a href="http://ita.lotour.com/milan1/" target="_blank" title="米兰">米兰</a></li><li><a href="http://gre.lotour.com/" target="_blank" title="希腊">希腊</a></li><li><a href="http://jpn.lotour.com/" target="_blank" title="日本">日本</a></li><li><a href="http://can.lotour.com/" target="_blank" title="加拿大">加拿大</a></li></ul></div></div>
+
+      </div>
+      <!--==E 搜索框 -->      
+<script src="http://js.lotour.net/mylotour/v1/mylotour_v2.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://js.lotour.net/PWeibo.js"></script>
+<script type="text/javascript" src="http://js.lotour.net/lotour.js"></script>
+<link rel="stylesheet" type="text/css" href="http://css.lotour.net/mylotour/v1/top_mylotour.css" />
+<script type="text/javascript" src="http://js.lotour.net/login/searchhotellogin_v3.js?tt"></script>
+      <div class="ltLoginBox" id="gloLogin"> 
+      </div>
+    </div>
+</div>
+<!-- 想去浮层 -->
+<div id="dream_place">
+</div>
+<!-- 求助浮层 -->
+<div id="ask_topic" class="msgLayer msgMod" style="display:none;">
+</div>
+<div id="private_msg" class="msgLayer msgMod" style="display:none;">
+</div>
+<script type="text/javascript">
+  $(document).ready(function() {
+    //私信
+            $("#private_msg").PrivatePanel({
+                className: "msgLayer",
+                init: function () {
+                    //初始化时候执行
+                },
+                publish: function (arr) {
+                    //发布时候执行
+                    alert("操作成功!");
+                }
+            }).hide();
+
+    $s.loadCss("http://css.lotour.net/mylotour/v1/wantgo_new");
+    $("#dream_place").DPPanel({
+    className: "msgLayer",
+    close: function () {
+    //关闭时候执行
+    $(".layerBg").hide();
+    },
+    init: function () {
+    //初始化时候执行
+    },
+    publish: function(arr) {
+    //发布时候执行
+    try{dplaceweiboTui($("#dream_place_reseaon").val())}catch(e){}
+    location.reload();
+    }
+    }).hide();
+  
+  $("#ask_topic").AskPanel({
+  className: "msgLayer",
+  close: function () {
+  //关闭时候执行
+  $(".layerBg").hide();
+  },
+  init: function () {
+  //初始化时候执行
+  },
+  publish: function (arr) {
+  //发布时候执行
+  $a("添加成功");
+  }
+  }).hide();
+
+  var askweibo = new PWeibo({
+  container: 'ask-weiboshare'
+  });
+  askweibo.create();
+  askweiboTui = function (txtcon) {
+  var content = "我在乐途旅游网发布了一条求助，求大家回复啊！";
+  content += "'" + txtcon + "'";
+  askweibo.send(content, function () {
+  });
+  };
+  });
+  function AskHelp(){
+  $('#ask_topic').fadeIn(500).loadAskPanel(0);$('.layerBg').css('height', $(document).height()).show();
+  }
+  function WantGo(){
+  $('#dream_place').fadeIn(500).loadDPPanel('',0,true);$('.layerBg').css('height', $(document).height()).show();
+  }
+</script>
+<script type="text/javascript">
+if ($.cookie("CityID") == null||$.cookie("ChName") == null||$.cookie("IndexAreaName") == null) {
+      $.getScript("http://ip.lotour.com",function(){
+          $.cookie("CityID", result.regionid, { expires: 30, path: '/', domain: 'lotour.com' });
+          $.cookie("ChName", result.Chname, { expires: 30, path: '/', domain: 'lotour.com' });
+          $.cookie("IndexAreaName", result.regionname, { expires: 30, path: '/', domain: 'lotour.com' });
+          $("#dujiaxianlu").attr("href","http://d.lotour.com/dujiaxianlu/"+$.cookie("ChName")+"/");
+      });
+  }
+  else
+      $("#dujiaxianlu").attr("href","http://d.lotour.com/dujiaxianlu/"+$.cookie("ChName")+"/");
+
+              $(pageInit);
+                    var box;
+                    function pageInit() {
+                        box = $("#keyword").searchbox({  });
+                    }
+
+	$(function(){	
+		
+		var loginState = new lotourLoginState({});
+loginState.init();
+$(".topSubNavTit").mouseenter(function() {
+			$(this).parent().addClass("hover");
+			$(this).find("dl").stop().slideDown("fast");
+			}).mouseleave(function() {
+			$(this).find("dl").stop().slideUp("fast");
+			$(this).parent().removeClass("hover");
+		});
+					
+	})
+</script> 
+<!--=E 公共新顶 -->
+<script type="text/javascript">
+	$(function(){
+		$(".seo-subnav li:last-child").hover(function(){
+			$(this).addClass("hover");
+			$(this).find("dl").stop().slideDown("fast");
+			},function(){
+				$(this).removeClass("hover");
+				$(this).find("dl").stop().slideUp("fast");
+				})
+				
+		$("#ltNavCon li").mouseenter(function() {
+          $(this).addClass("hover");
+          $(this).find("dl").stop(true,true).slideDown("fast");
+          }).mouseleave(function(){
+           $(this).find("dl").stop(true,false).slideUp("fast");
+           $(this).removeClass("hover");
+           }); 
+		})
+</script>
+<div class="ltNav">
+    <div id="ltNavCon" class="ltSection ltNavCur">
+      <ul class="ltClear">        <li class="">        	<h1><a target="_blank" href="http://i.lotour.com/" title="旅游攻略">旅游网</a></h1>        </li>        <li class="">		  <h2><span><a target="_blank" href="http://i.lotour.com/lyzx/dq.shtml" title="旅游资讯">资讯</a></span><em></em></h2>       	  <dl style="overflow: hidden; height: 144px; padding-top: 0px; margin-top: 0px; padding-bottom: 0px; margin-bottom: 0px; display: none;">			<dd><a target="_blank" href="http://i.lotour.com/lyzx/ltyw-1/" title="旅游要闻">乐途要闻</a></dd>			<dd><a target="_blank" href="http://i.lotour.com/lyzx/jqbd-1/" title="旅游节庆报道">节庆报道</a></dd>			<dd><a target="_blank" href="http://i.lotour.com/lyzx/lyzf-1/" title="旅游专访">旅游专访</a></dd>            <dd><a target="_blank" href="http://i.lotour.com/lyzx/zbgl-1/" title="旅游灵感">旅游灵感</a></dd>          </dl>        </li>        <li class="">		  <h2><span><a target="_blank" href="http://i.lotour.com/lygl/dq.shtml" title="旅游攻略">旅游攻略</a></span><em></em></h2>          <dl style="overflow: hidden; display: none; height: 144px; padding-top: 0px; margin-top: 0px; padding-bottom: 0px; margin-bottom: 0px;">            <dd><a target="_blank" href="http://i.lotour.com/lygl/guonei-1/" title="国内旅游攻略">国内旅游攻略</a></dd>            <dd><a target="_blank" href="http://i.lotour.com/lygl/chujing-1/" title="出境旅游攻略">出境旅游攻略</a></dd>            <dd><a target="_blank" href="http://www.lotour.com/sitemap.html" title="国内旅游攻略大全">国内旅游攻略导航</a></dd>            <dd><a target="_blank" href="http://www.lotour.com/sitemap_1.html" title="出境旅游攻略大全">出境旅游攻略导航</a></dd>          </dl>        </li>        <li class=""><!--class="navCur"-->        	<h2><a target="_blank" href="http://i.lotour.com/lyqz/1/" title="旅游求助">求助</a></h2>        </li>        <li class="">			<h2><span><a target="_blank" href="http://d.lotour.com/" title="旅游服务">商城</a></span><em></em></h2>			<dl style="display: none; overflow: hidden; height: 105px; padding-top: 0px; margin-top: 0px; padding-bottom: 0px; margin-bottom: 0px;">				<dd><h2><a target="_blank" href="http://d.lotour.com/hotel/" title="酒店预订">酒店预订</a></h2></dd>				<dd><h2><a target="_blank" href="http://d.lotour.com/dangdigentuan/" title="旅游线路">当地跟团</a></h2></dd>				<dd><h2><a id="dujiaxianlu" target="_blank" href="http://d.lotour.com/dujiaxianlu/beijing/" title="度假旅游线路">度假线路</a></h2></dd>                               			</dl>        </li>      </ul>
+
+    </div>
+</div>
+<!--S要闻内容-->
+
+<div class="lotur-mainews">
+
+<div class="mainews-imgs">    	<a title="" target="_blank" href="http://fuzhou.lotour.com/"><img src="http://img.lotour.com/images/20140624/img1244978.jpg"></a>    </div>
+
+    <div class="con0-nav_main">
+		<p>您的位置：<a title="" target="_blank" href="http://www.lotour.com/">首页</a> &gt; <a title="" target="_blank" href="http://i.lotour.com/">乐途旅游</a> &gt;<span>国内导航</span></p>
+         
+	</div>
+ 	<script type="text/javascript">
+    	$(function(){
+			$(".smn-letter:last-child").css("border-bottom","0");
+			})
+    </script>
+    <div class="seo-mainews clearfix">
+        <div class="smn-country clearfix"><h2 class="cur"><a href="http://www.lotour.com/sitemap.html" target="_blank" title="国内城市旅游大全">国内导航</a></h2><h2><a href="http://www.lotour.com/sitemap_1.html" target="_blank" title="出境国家旅游大全">出境导航</a></h2></div>
+    	<div class="smn-sortcity smn-discity">
+<div class="smn-letter clearfix"><h2 class="smn-ltl">A</h2><ul class="smn-ltr clearfix"><li><a href="http://anshan.lotour.com" target="_blank" title="鞍山旅游">鞍山</a></li><li><a href="http://anyang.lotour.com" target="_blank" title="安阳旅游">安阳</a></li><li><a href="http://anqing.lotour.com" target="_blank" title="安庆旅游">安庆</a></li><li><a href="http://ankang.lotour.com" target="_blank" title="安康旅游">安康</a></li><li><a href="http://aba.lotour.com" target="_blank" title="阿坝州旅游">阿坝州</a></li><li><a href="http://ali.lotour.com" target="_blank" title="阿里旅游">阿里</a></li><li><a href="http://alashan.lotour.com" target="_blank" title="阿拉善旅游">阿拉善</a></li><li><a href="http://ahsuzhou.lotour.com" target="_blank" title="宿州旅游">宿州</a></li><li><a href="http://aletai.lotour.com" target="_blank" title="阿勒泰旅游">阿勒泰</a></li><li><a href="http://anshun.lotour.com" target="_blank" title="安顺旅游">安顺</a></li><li><a href="http://akesu.lotour.com" target="_blank" title="阿克苏旅游">阿克苏</a></li><li><a href="http://alaer.lotour.com" target="_blank" title="阿拉尔旅游">阿拉尔</a></li><li><a href="http://macao.lotour.com/aomen" target="_blank" title="澳门市旅游">澳门市</a></li><li><a href="http://macao.lotour.com/aomenbd" target="_blank" title="澳门半岛旅游">澳门半岛</a></li></ul></div><div class="smn-letter clearfix"><h2 class="smn-ltl">B</h2><ul class="smn-ltr clearfix"><li><a href="http://baoding.lotour.com" target="_blank" title="保定旅游">保定</a></li><li><a href="http://benxi.lotour.com" target="_blank" title="本溪旅游">本溪</a></li><li><a href="http://binzhou.lotour.com" target="_blank" title="滨州旅游">滨州</a></li><li><a href="http://baotou.lotour.com" target="_blank" title="包头旅游">包头</a></li><li><a href="http://baicheng.lotour.com" target="_blank" title="白城旅游">白城</a></li><li><a href="http://baishan.lotour.com" target="_blank" title="白山旅游">白山</a></li><li><a href="http://bengbu.lotour.com" target="_blank" title="蚌埠旅游">蚌埠</a></li><li><a href="http://beihai.lotour.com" target="_blank" title="北海旅游">北海</a></li><li><a href="http://baoji.lotour.com" target="_blank" title="宝鸡旅游">宝鸡</a></li><li><a href="http://bazhong.lotour.com" target="_blank" title="巴中旅游">巴中</a></li><li><a href="http://bijie.lotour.com" target="_blank" title="毕节旅游">毕节</a></li><li><a href="http://bayinguoleng.lotour.com" target="_blank" title="巴音郭楞旅游">巴音郭楞</a></li><li><a href="http://bayannaoer.lotour.com" target="_blank" title="巴彦淖尔旅游">巴彦淖尔</a></li><li><a href="http://bozhou.lotour.com" target="_blank" title="亳州旅游">亳州</a></li><li><a href="http://baiyin.lotour.com" target="_blank" title="白银旅游">白银</a></li><li><a href="http://boertala.lotour.com" target="_blank" title="博尔塔拉旅游">博尔塔拉</a></li><li><a href="http://baoshan.lotour.com" target="_blank" title="保山旅游">保山</a></li><li><a href="http://baise.lotour.com" target="_blank" title="百色旅游">百色</a></li><li><a href="http://beijing.lotour.com" target="_blank" title="北京旅游">北京</a></li><li><a href="http://baishalizu.lotour.com" target="_blank" title="白沙黎族旅游">白沙黎族</a></li><li><a href="http://baoting.lotour.com" target="_blank" title="保亭旅游">保亭</a></li><li><a href="http://taiwan.lotour.com/banqiao" target="_blank" title="新北旅游">新北</a></li></ul></div><div class="smn-letter clearfix"><h2 class="smn-ltl">C</h2><ul class="smn-ltr clearfix"><li><a href="http://chengde.lotour.com" target="_blank" title="承德旅游">承德</a></li><li><a href="http://cangzhou.lotour.com" target="_blank" title="沧州旅游">沧州</a></li><li><a href="http://chaoyang.lotour.com" target="_blank" title="朝阳旅游">朝阳</a></li><li><a href="http://changzhi.lotour.com" target="_blank" title="长治旅游">长治</a></li><li><a href="http://chifeng.lotour.com" target="_blank" title="赤峰旅游">赤峰</a></li><li><a href="http://changchun.lotour.com" target="_blank" title="长春旅游">长春</a></li><li><a href="http://changzhou.lotour.com" target="_blank" title="常州旅游">常州</a></li><li><a href="http://chuzhou.lotour.com" target="_blank" title="滁州旅游">滁州</a></li><li><a href="http://changsha.lotour.com" target="_blank" title="长沙旅游">长沙</a></li><li><a href="http://chenzhou.lotour.com" target="_blank" title="郴州旅游">郴州</a></li><li><a href="http://changde.lotour.com" target="_blank" title="常德旅游">常德</a></li><li><a href="http://chaozhou.lotour.com" target="_blank" title="潮州旅游">潮州</a></li><li><a href="http://chengdu.lotour.com" target="_blank" title="成都旅游">成都</a></li><li><a href="http://chuxiongyizu.lotour.com" target="_blank" title="楚雄旅游">楚雄</a></li><li><a href="http://changdu.lotour.com" target="_blank" title="昌都旅游">昌都</a></li><li><a href="http://chizhou.lotour.com" target="_blank" title="池州旅游">池州</a></li><li><a href="http://changjihuizu.lotour.com" target="_blank" title="昌吉州旅游">昌吉州</a></li><li><a href="http://chongzuo.lotour.com" target="_blank" title="崇左旅游">崇左</a></li><li><a href="http://chongqing.lotour.com" target="_blank" title="重庆旅游">重庆</a></li><li><a href="http://chengmai.lotour.com" target="_blank" title="澄迈旅游">澄迈</a></li><li><a href="http://changjianglizu.lotour.com" target="_blank" title="昌江黎族旅游">昌江黎族</a></li></ul></div><div class="smn-letter clearfix"><h2 class="smn-ltl">D</h2><ul class="smn-ltr clearfix"><li><a href="http://daxinganling.lotour.com" target="_blank" title="大兴安岭旅游">大兴安岭</a></li><li><a href="http://daqing.lotour.com" target="_blank" title="大庆旅游">大庆</a></li><li><a href="http://dalian.lotour.com" target="_blank" title="大连旅游">大连</a></li><li><a href="http://dandong.lotour.com" target="_blank" title="丹东旅游">丹东</a></li><li><a href="http://datong.lotour.com" target="_blank" title="大同旅游">大同</a></li><li><a href="http://dezhou.lotour.com" target="_blank" title="德州旅游">德州</a></li><li><a href="http://dongying.lotour.com" target="_blank" title="东营旅游">东营</a></li><li><a href="http://dongguan.lotour.com" target="_blank" title="东莞旅游">东莞</a></li><li><a href="http://dazhou.lotour.com" target="_blank" title="达州旅游">达州</a></li><li><a href="http://diqingzangzu.lotour.com" target="_blank" title="迪庆旅游">迪庆</a></li><li><a href="http://deyang.lotour.com" target="_blank" title="德阳旅游">德阳</a></li><li><a href="http://dingxi.lotour.com" target="_blank" title="定西旅游">定西</a></li><li><a href="http://dehong.lotour.com" target="_blank" title="德宏旅游">德宏</a></li><li><a href="http://dalibaizu.lotour.com" target="_blank" title="大理旅游">大理</a></li><li><a href="http://dongfang.lotour.com" target="_blank" title="东方旅游">东方</a></li><li><a href="http://danzhou.lotour.com" target="_blank" title="儋州旅游">儋州</a></li><li><a href="http://dingan.lotour.com" target="_blank" title="定安旅游">定安</a></li><li><a href="http://dongshaqundao.lotour.com" target="_blank" title="东沙群岛旅游">东沙群岛</a></li><li><a href="http://macao.lotour.com/dangzd" target="_blank" title="凼仔岛旅游">凼仔岛</a></li><li><a href="http://taiwan.lotour.com/diaoyudao" target="_blank" title="钓鱼岛旅游">钓鱼岛</a></li></ul></div><div class="smn-letter clearfix"><h2 class="smn-ltl">E</h2><ul class="smn-ltr clearfix"><li><a href="http://enshi.lotour.com" target="_blank" title="恩施旅游">恩施</a></li><li><a href="http://ezhou.lotour.com" target="_blank" title="鄂州旅游">鄂州</a></li><li><a href="http://eerduosi.lotour.com" target="_blank" title="鄂尔多斯旅游">鄂尔多斯</a></li></ul></div><div class="smn-letter clearfix"><h2 class="smn-ltl">F</h2><ul class="smn-ltr clearfix"><li><a href="http://fushun.lotour.com" target="_blank" title="抚顺旅游">抚顺</a></li><li><a href="http://fuxin.lotour.com" target="_blank" title="阜新旅游">阜新</a></li><li><a href="http://fuzhou.lotour.com" target="_blank" title="福州旅游">福州</a></li><li><a href="http://fuyang.lotour.com" target="_blank" title="阜阳旅游">阜阳</a></li><li><a href="http://foshan.lotour.com" target="_blank" title="佛山旅游">佛山</a></li><li><a href="http://fangchenggang.lotour.com" target="_blank" title="防城港旅游">防城港</a></li><li><a href="http://fuyuan.lotour.com" target="_blank" title="抚远旅游">抚远</a></li></ul></div><div class="smn-letter clearfix"><h2 class="smn-ltl">G</h2><ul class="smn-ltr clearfix"><li><a href="http://ganzhou.lotour.com" target="_blank" title="赣州旅游">赣州</a></li><li><a href="http://guangzhou.lotour.com" target="_blank" title="广州旅游">广州</a></li><li><a href="http://guilin.lotour.com" target="_blank" title="桂林旅游">桂林</a></li><li><a href="http://gxyulin.lotour.com" target="_blank" title="玉林旅游">玉林</a></li><li><a href="http://gannanzangzu.lotour.com" target="_blank" title="甘南旅游">甘南</a></li><li><a href="http://ganzizangzu.lotour.com" target="_blank" title="甘孜州旅游">甘孜州</a></li><li><a href="http://guiyang.lotour.com" target="_blank" title="贵阳旅游">贵阳</a></li><li><a href="http://guyuan.lotour.com" target="_blank" title="固原旅游">固原</a></li><li><a href="http://guangyuan.lotour.com" target="_blank" title="广元旅游">广元</a></li><li><a href="http://guangan.lotour.com" target="_blank" title="广安旅游">广安</a></li><li><a href="http://guoluozangzu.lotour.com" target="_blank" title="果洛藏族旅游">果洛藏族</a></li><li><a href="http://guigang.lotour.com" target="_blank" title="贵港旅游">贵港</a></li><li><a href="http://taiwan.lotour.com/gaoxiong" target="_blank" title="高雄旅游">高雄</a></li><li><a href="http://taiwan.lotour.com/gaoxiongxian" target="_blank" title="高雄旅游">高雄</a></li></ul></div><div class="smn-letter clearfix"><h2 class="smn-ltl">H</h2><ul class="smn-ltr clearfix"><li><a href="http://haerbin.lotour.com" target="_blank" title="哈尔滨旅游">哈尔滨</a></li><li><a href="http://heihe.lotour.com" target="_blank" title="黑河旅游">黑河</a></li><li><a href="http://hengshui.lotour.com" target="_blank" title="衡水旅游">衡水</a></li><li><a href="http://handan.lotour.com" target="_blank" title="邯郸旅游">邯郸</a></li><li><a href="http://huludao.lotour.com" target="_blank" title="葫芦岛旅游">葫芦岛</a></li><li><a href="http://hebi.lotour.com" target="_blank" title="鹤壁旅游">鹤壁</a></li><li><a href="http://heze.lotour.com" target="_blank" title="菏泽旅游">菏泽</a></li><li><a href="http://huhehaote.lotour.com" target="_blank" title="呼和浩特旅游">呼和浩特</a></li><li><a href="http://hulunbeier.lotour.com" target="_blank" title="呼伦贝尔旅游">呼伦贝尔</a></li><li><a href="http://huaian.lotour.com" target="_blank" title="淮安市旅游">淮安市</a></li><li><a href="http://hangzhou.lotour.com" target="_blank" title="杭州旅游">杭州</a></li><li><a href="http://huzhou.lotour.com" target="_blank" title="湖州旅游">湖州</a></li><li><a href="http://hefei.lotour.com" target="_blank" title="合肥旅游">合肥</a></li><li><a href="http://huainan.lotour.com" target="_blank" title="淮南旅游">淮南</a></li><li><a href="http://huaibei.lotour.com" target="_blank" title="淮北旅游">淮北</a></li><li><a href="http://huangshan.lotour.com" target="_blank" title="黄山旅游">黄山</a></li><li><a href="http://huangshi.lotour.com" target="_blank" title="黄石旅游">黄石</a></li><li><a href="http://huanggang.lotour.com" target="_blank" title="黄冈旅游">黄冈</a></li><li><a href="http://hengyang.lotour.com" target="_blank" title="衡阳旅游">衡阳</a></li><li><a href="http://huaihua.lotour.com" target="_blank" title="怀化旅游">怀化</a></li><li><a href="http://huizhou.lotour.com" target="_blank" title="惠州旅游">惠州</a></li><li><a href="http://heyuan.lotour.com" target="_blank" title="河源旅游">河源</a></li><li><a href="http://hanzhong.lotour.com" target="_blank" title="汉中旅游">汉中</a></li><li><a href="http://haibeizangzu.lotour.com" target="_blank" title="海北藏族旅游">海北藏族</a></li><li><a href="http://huangnanzangzu.lotour.com" target="_blank" title="黄南藏族旅游">黄南藏族</a></li><li><a href="http://hainanzangzu.lotour.com" target="_blank" title="海南藏族旅游">海南藏族</a></li><li><a href="http://haixi.lotour.com" target="_blank" title="海西旅游">海西</a></li><li><a href="http://haikou.lotour.com" target="_blank" title="海口旅游">海口</a></li><li><a href="http://hetian.lotour.com" target="_blank" title="和田旅游">和田</a></li><li><a href="http://hegang.lotour.com" target="_blank" title="鹤岗旅游">鹤岗</a></li><li><a href="http://haidong.lotour.com" target="_blank" title="海东旅游">海东</a></li><li><a href="http://honghe.lotour.com" target="_blank" title="红河旅游">红河</a></li><li><a href="http://hechi.lotour.com" target="_blank" title="河池旅游">河池</a></li><li><a href="http://hezhou.lotour.com" target="_blank" title="贺州旅游">贺州</a></li><li><a href="http://hamidiqu.lotour.com" target="_blank" title="哈密地区旅游">哈密地区</a></li><li><a href="http://huangyandao.lotour.com" target="_blank" title="黄岩岛旅游">黄岩岛</a></li><li><a href="http://taiwan.lotour.com/hualian" target="_blank" title="花莲县旅游">花莲县</a></li></ul></div><div class="smn-letter clearfix"><h2 class="smn-ltl">J</h2><ul class="smn-ltr clearfix"><li><a href="http://jiamusi.lotour.com" target="_blank" title="佳木斯旅游">佳木斯</a></li><li><a href="http://jixi.lotour.com" target="_blank" title="鸡西旅游">鸡西</a></li><li><a href="http://jinzhou.lotour.com" target="_blank" title="锦州旅游">锦州</a></li><li><a href="http://jiaozuo.lotour.com" target="_blank" title="焦作旅游">焦作</a></li><li><a href="http://jinzhong.lotour.com" target="_blank" title="晋中旅游">晋中</a></li><li><a href="http://jinan.lotour.com" target="_blank" title="济南旅游">济南</a></li><li><a href="http://jining.lotour.com" target="_blank" title="济宁旅游">济宁</a></li><li><a href="http://jilinshi.lotour.com" target="_blank" title="吉林旅游">吉林</a></li><li><a href="http://jssuzhou.lotour.com" target="_blank" title="苏州旅游">苏州</a></li><li><a href="http://jiaxing.lotour.com" target="_blank" title="嘉兴旅游">嘉兴</a></li><li><a href="http://jinhua.lotour.com" target="_blank" title="金华旅游">金华</a></li><li><a href="http://jiujiang.lotour.com" target="_blank" title="九江旅游">九江</a></li><li><a href="http://jxfuzhou.lotour.com" target="_blank" title="抚州旅游">抚州</a></li><li><a href="http://jian.lotour.com" target="_blank" title="吉安旅游">吉安</a></li><li><a href="http://jingdezhen.lotour.com" target="_blank" title="景德镇旅游">景德镇</a></li><li><a href="http://jingmen.lotour.com" target="_blank" title="荆门旅游">荆门</a></li><li><a href="http://jiangmen.lotour.com" target="_blank" title="江门旅游">江门</a></li><li><a href="http://jiuquan.lotour.com" target="_blank" title="酒泉旅游">酒泉</a></li><li><a href="http://jincheng.lotour.com" target="_blank" title="晋城旅游">晋城</a></li><li><a href="http://jingzhou.lotour.com" target="_blank" title="荆州旅游">荆州</a></li><li><a href="http://jinchang.lotour.com" target="_blank" title="金昌旅游">金昌</a></li><li><a href="http://jieyang.lotour.com" target="_blank" title="揭阳旅游">揭阳</a></li><li><a href="http://jiayuguan.lotour.com" target="_blank" title="嘉峪关旅游">嘉峪关</a></li><li><a href="http://jiyuan.lotour.com" target="_blank" title="济源旅游">济源</a></li><li><a href="http://hongkong.lotour.com/jiulong" target="_blank" title="九龙旅游">九龙</a></li><li><a href="http://taiwan.lotour.com/jilong" target="_blank" title="基隆旅游">基隆</a></li><li><a href="http://taiwan.lotour.com/jiayi" target="_blank" title="嘉义市旅游">嘉义市</a></li><li><a href="http://taiwan.lotour.com/jiayixian" target="_blank" title="嘉义县旅游">嘉义县</a></li><li><a href="http://taiwan.lotour.com/jinmenxian" target="_blank" title="金门旅游">金门</a></li></ul></div><div class="smn-letter clearfix"><h2 class="smn-ltl">K</h2><ul class="smn-ltr clearfix"><li><a href="http://kaifeng.lotour.com" target="_blank" title="开封旅游">开封</a></li><li><a href="http://kunming.lotour.com" target="_blank" title="昆明旅游">昆明</a></li><li><a href="http://kezile.lotour.com" target="_blank" title="克孜勒苏旅游">克孜勒苏</a></li><li><a href="http://kashi.lotour.com" target="_blank" title="喀什旅游">喀什</a></li><li><a href="http://kelamayi.lotour.com" target="_blank" title="克拉玛依旅游">克拉玛依</a></li></ul></div><div class="smn-letter clearfix"><h2 class="smn-ltl">L</h2><ul class="smn-ltr clearfix"><li><a href="http://langfang.lotour.com" target="_blank" title="廊坊旅游">廊坊</a></li><li><a href="http://liaoyang.lotour.com" target="_blank" title="辽阳旅游">辽阳</a></li><li><a href="http://luoyang.lotour.com" target="_blank" title="洛阳旅游">洛阳</a></li><li><a href="http://linfen.lotour.com" target="_blank" title="临汾旅游">临汾</a></li><li><a href="http://lvliang.lotour.com" target="_blank" title="吕梁旅游">吕梁</a></li><li><a href="http://linyi.lotour.com" target="_blank" title="临沂旅游">临沂</a></li><li><a href="http://liaocheng.lotour.com" target="_blank" title="聊城旅游">聊城</a></li><li><a href="http://laiwu.lotour.com" target="_blank" title="莱芜旅游">莱芜</a></li><li><a href="http://liaoyuan.lotour.com" target="_blank" title="辽源旅游">辽源</a></li><li><a href="http://lianyungang.lotour.com" target="_blank" title="连云港旅游">连云港</a></li><li><a href="http://lishui.lotour.com" target="_blank" title="丽水旅游">丽水</a></li><li><a href="http://longyan.lotour.com" target="_blank" title="龙岩旅游">龙岩</a></li><li><a href="http://liuan.lotour.com" target="_blank" title="六安旅游">六安</a></li><li><a href="http://liuzhou.lotour.com" target="_blank" title="柳州旅游">柳州</a></li><li><a href="http://lanzhou.lotour.com" target="_blank" title="兰州旅游">兰州</a></li><li><a href="http://leshan.lotour.com" target="_blank" title="乐山旅游">乐山</a></li><li><a href="http://liangshanyizu.lotour.com" target="_blank" title="凉山州旅游">凉山州</a></li><li><a href="http://luzhou.lotour.com" target="_blank" title="泸州旅游">泸州</a></li><li><a href="http://liupanshui.lotour.com" target="_blank" title="六盘水旅游">六盘水</a></li><li><a href="http://lasa.lotour.com" target="_blank" title="拉萨旅游">拉萨</a></li><li><a href="http://linzhi.lotour.com" target="_blank" title="林芝旅游">林芝</a></li><li><a href="http://luohe.lotour.com" target="_blank" title="漯河旅游">漯河</a></li><li><a href="http://longnan.lotour.com" target="_blank" title="陇南旅游">陇南</a></li><li><a href="http://linxiahuizu.lotour.com" target="_blank" title="临夏回族旅游">临夏回族</a></li><li><a href="http://lincang.lotour.com" target="_blank" title="临沧旅游">临沧</a></li><li><a href="http://loudi.lotour.com" target="_blank" title="娄底旅游">娄底</a></li><li><a href="http://laibin.lotour.com" target="_blank" title="来宾旅游">来宾</a></li><li><a href="http://lijiang.lotour.com" target="_blank" title="丽江旅游">丽江</a></li><li><a href="http://lingao.lotour.com" target="_blank" title="临高旅游">临高</a></li><li><a href="http://lingshuilizu.lotour.com" target="_blank" title="陵水黎族旅游">陵水黎族</a></li><li><a href="http://ledonglizu.lotour.com" target="_blank" title="乐东黎族旅游">乐东黎族</a></li><li><a href="http://macao.lotour.com/luhuandao" target="_blank" title="路环岛旅游">路环岛</a></li><li><a href="http://hongkong.lotour.com/lidaoq" target="_blank" title="离岛旅游">离岛</a></li><li><a href="http://taiwan.lotour.com/lianjianxian" target="_blank" title="马祖旅游">马祖</a></li><li><a href="http://macao.lotour.com/ludangcheng" target="_blank" title="路氹旅游">路氹</a></li></ul></div><div class="smn-letter clearfix"><h2 class="smn-ltl">M</h2><ul class="smn-ltr clearfix"><li><a href="http://mudanjiang.lotour.com" target="_blank" title="牡丹江旅游">牡丹江</a></li><li><a href="http://maanshan.lotour.com" target="_blank" title="马鞍山旅游">马鞍山</a></li><li><a href="http://meizhou.lotour.com" target="_blank" title="梅州旅游">梅州</a></li><li><a href="http://mianyang.lotour.com" target="_blank" title="绵阳旅游">绵阳</a></li><li><a href="http://meishan.lotour.com" target="_blank" title="眉山旅游">眉山</a></li><li><a href="http://maoming.lotour.com" target="_blank" title="茂名旅游">茂名</a></li><li><a href="http://taiwan.lotour.com/miaoli" target="_blank" title="苗栗县旅游">苗栗县</a></li></ul></div><div class="smn-letter clearfix"><h2 class="smn-ltl">N</h2><ul class="smn-ltr clearfix"><li><a href="http://nanyang.lotour.com" target="_blank" title="南阳旅游">南阳</a></li><li><a href="http://nanjing.lotour.com" target="_blank" title="南京旅游">南京</a></li><li><a href="http://nantong.lotour.com" target="_blank" title="南通旅游">南通</a></li><li><a href="http://ningbo.lotour.com" target="_blank" title="宁波旅游">宁波</a></li><li><a href="http://ningde.lotour.com" target="_blank" title="宁德旅游">宁德</a></li><li><a href="http://nanping.lotour.com" target="_blank" title="南平旅游">南平</a></li><li><a href="http://nanchang.lotour.com" target="_blank" title="南昌旅游">南昌</a></li><li><a href="http://nanning.lotour.com" target="_blank" title="南宁旅游">南宁</a></li><li><a href="http://nanchong.lotour.com" target="_blank" title="南充旅游">南充</a></li><li><a href="http://naqu.lotour.com" target="_blank" title="那曲旅游">那曲</a></li><li><a href="http://neijiang.lotour.com" target="_blank" title="内江旅游">内江</a></li><li><a href="http://nujiang.lotour.com" target="_blank" title="怒江旅游">怒江</a></li><li><a href="http://nanshaqundao.lotour.com" target="_blank" title="南沙群岛旅游">南沙群岛</a></li><li><a href="http://taiwan.lotour.com/nantou" target="_blank" title="南投县旅游">南投县</a></li></ul></div><div class="smn-letter clearfix"><h2 class="smn-ltl">P</h2><ul class="smn-ltr clearfix"><li><a href="http://panjin.lotour.com" target="_blank" title="盘锦旅游">盘锦</a></li><li><a href="http://pingdingshan.lotour.com" target="_blank" title="平顶山旅游">平顶山</a></li><li><a href="http://putian.lotour.com" target="_blank" title="莆田旅游">莆田</a></li><li><a href="http://pingxiang.lotour.com" target="_blank" title="萍乡旅游">萍乡</a></li><li><a href="http://panzhihua.lotour.com" target="_blank" title="攀枝花旅游">攀枝花</a></li><li><a href="http://puyang.lotour.com" target="_blank" title="濮阳旅游">濮阳</a></li><li><a href="http://pingliang.lotour.com" target="_blank" title="平凉旅游">平凉</a></li><li><a href="http://puer.lotour.com" target="_blank" title="普洱旅游">普洱</a></li><li><a href="http://pingtanshiyanqu.lotour.com" target="_blank" title="平潭旅游">平潭</a></li><li><a href="http://taiwan.lotour.com/pingdong" target="_blank" title="屏东县旅游">屏东县</a></li><li><a href="http://taiwan.lotour.com/penghu" target="_blank" title="澎湖旅游">澎湖</a></li></ul></div><div class="smn-letter clearfix"><h2 class="smn-ltl">Q</h2><ul class="smn-ltr clearfix"><li><a href="http://qiqihaer.lotour.com" target="_blank" title="齐齐哈尔旅游">齐齐哈尔</a></li><li><a href="http://qinhuangdao.lotour.com" target="_blank" title="秦皇岛旅游">秦皇岛</a></li><li><a href="http://qingdao.lotour.com" target="_blank" title="青岛旅游">青岛</a></li><li><a href="http://quzhou.lotour.com" target="_blank" title="衢州旅游">衢州</a></li><li><a href="http://quanzhou.lotour.com" target="_blank" title="泉州旅游">泉州</a></li><li><a href="http://qingyuan.lotour.com" target="_blank" title="清远旅游">清远</a></li><li><a href="http://qujing.lotour.com" target="_blank" title="曲靖旅游">曲靖</a></li><li><a href="http://qionghai.lotour.com" target="_blank" title="琼海旅游">琼海</a></li><li><a href="http://qitaihe.lotour.com" target="_blank" title="七台河旅游">七台河</a></li><li><a href="http://qingyang.lotour.com" target="_blank" title="庆阳旅游">庆阳</a></li><li><a href="http://qianxinan.lotour.com" target="_blank" title="黔西旅游">黔西</a></li><li><a href="http://qiannan.lotour.com" target="_blank" title="黔南旅游">黔南</a></li><li><a href="http://qiandongnan.lotour.com" target="_blank" title="黔东南旅游">黔东南</a></li><li><a href="http://qinzhou.lotour.com" target="_blank" title="钦州旅游">钦州</a></li><li><a href="http://qianjiang.lotour.com" target="_blank" title="潜江市旅游">潜江市</a></li><li><a href="http://qiongzhong.lotour.com" target="_blank" title="琼中旅游">琼中</a></li></ul></div><div class="smn-letter clearfix"><h2 class="smn-ltl">R</h2><ul class="smn-ltr clearfix"><li><a href="http://rizhao.lotour.com" target="_blank" title="日照旅游">日照</a></li><li><a href="http://rikaze.lotour.com" target="_blank" title="日喀则旅游">日喀则</a></li></ul></div><div class="smn-letter clearfix"><h2 class="smn-ltl">S</h2><ul class="smn-ltr clearfix"><li><a href="http://suihua.lotour.com" target="_blank" title="绥化旅游">绥化</a></li><li><a href="http://shijiazhuang.lotour.com" target="_blank" title="石家庄旅游">石家庄</a></li><li><a href="http://shenyang.lotour.com" target="_blank" title="沈阳旅游">沈阳</a></li><li><a href="http://sanmenxia.lotour.com" target="_blank" title="三门峡旅游">三门峡</a></li><li><a href="http://shuozhou.lotour.com" target="_blank" title="朔州旅游">朔州</a></li><li><a href="http://songyuan.lotour.com" target="_blank" title="松原旅游">松原</a></li><li><a href="http://siping.lotour.com" target="_blank" title="四平旅游">四平</a></li><li><a href="http://suqian.lotour.com" target="_blank" title="宿迁旅游">宿迁</a></li><li><a href="http://shaoxing.lotour.com" target="_blank" title="绍兴旅游">绍兴</a></li><li><a href="http://sanming.lotour.com" target="_blank" title="三明旅游">三明</a></li><li><a href="http://shangrao.lotour.com" target="_blank" title="上饶旅游">上饶</a></li><li><a href="http://suizhou.lotour.com" target="_blank" title="随州旅游">随州</a></li><li><a href="http://shiyan.lotour.com" target="_blank" title="十堰旅游">十堰</a></li><li><a href="http://shennongjia.lotour.com" target="_blank" title="神农架旅游">神农架</a></li><li><a href="http://shaoguan.lotour.com" target="_blank" title="韶关旅游">韶关</a></li><li><a href="http://shantou.lotour.com" target="_blank" title="汕头旅游">汕头</a></li><li><a href="http://shenzhen.lotour.com" target="_blank" title="深圳旅游">深圳</a></li><li><a href="http://shanwei.lotour.com" target="_blank" title="汕尾旅游">汕尾</a></li><li><a href="http://sxyulin.lotour.com" target="_blank" title="榆林旅游">榆林</a></li><li><a href="http://shangluo.lotour.com" target="_blank" title="商洛旅游">商洛</a></li><li><a href="http://sanya.lotour.com" target="_blank" title="三亚旅游">三亚</a></li><li><a href="http://shannan.lotour.com" target="_blank" title="西藏山南旅游">西藏山南</a></li><li><a href="http://shizuishan.lotour.com" target="_blank" title="石嘴山旅游">石嘴山</a></li><li><a href="http://shangqiu.lotour.com" target="_blank" title="商丘旅游">商丘</a></li><li><a href="http://suining.lotour.com" target="_blank" title="遂宁旅游">遂宁</a></li><li><a href="http://shuangyashan.lotour.com" target="_blank" title="双鸭山旅游">双鸭山</a></li><li><a href="http://shaoyang.lotour.com" target="_blank" title="邵阳旅游">邵阳</a></li><li><a href="http://shanghai.lotour.com" target="_blank" title="上海旅游">上海</a></li><li><a href="http://shihezi.lotour.com" target="_blank" title="石河子旅游">石河子</a></li><li><a href="http://sansha.lotour.com" target="_blank" title="三沙旅游">三沙</a></li></ul></div><div class="smn-letter clearfix"><h2 class="smn-ltl">T</h2><ul class="smn-ltr clearfix"><li><a href="http://tangshan.lotour.com" target="_blank" title="唐山旅游">唐山</a></li><li><a href="http://taiyuan.lotour.com" target="_blank" title="太原旅游">太原</a></li><li><a href="http://taian.lotour.com" target="_blank" title="泰安旅游">泰安</a></li><li><a href="http://tonghua.lotour.com" target="_blank" title="通化旅游">通化</a></li><li><a href="http://taizhoushi.lotour.com" target="_blank" title="泰州旅游">泰州</a></li><li><a href="http://taizhou.lotour.com" target="_blank" title="台州旅游">台州</a></li><li><a href="http://tongling.lotour.com" target="_blank" title="铜陵旅游">铜陵</a></li><li><a href="http://tongchuan.lotour.com" target="_blank" title="铜川旅游">铜川</a></li><li><a href="http://tianshui.lotour.com" target="_blank" title="天水旅游">天水</a></li><li><a href="http://tongren.lotour.com" target="_blank" title="铜仁旅游">铜仁</a></li><li><a href="http://tongliao.lotour.com" target="_blank" title="通辽旅游">通辽</a></li><li><a href="http://tulufan.lotour.com" target="_blank" title="吐鲁番旅游">吐鲁番</a></li><li><a href="http://tacheng.lotour.com" target="_blank" title="塔城旅游">塔城</a></li><li><a href="http://tianjin.lotour.com" target="_blank" title="天津旅游">天津</a></li><li><a href="http://tianmen.lotour.com" target="_blank" title="天门旅游">天门</a></li><li><a href="http://tunchang.lotour.com" target="_blank" title="屯昌旅游">屯昌</a></li><li><a href="http://tumushuke.lotour.com" target="_blank" title="图木舒克旅游">图木舒克</a></li><li><a href="http://tieling.lotour.com" target="_blank" title="铁岭旅游">铁岭</a></li><li><a href="http://taiwan.lotour.com/taibei" target="_blank" title="台北旅游">台北</a></li><li><a href="http://taiwan.lotour.com/taizhong" target="_blank" title="台中旅游">台中</a></li><li><a href="http://taiwan.lotour.com/tainan" target="_blank" title="台南旅游">台南</a></li><li><a href="http://taiwan.lotour.com/taoyuan" target="_blank" title="桃园旅游">桃园</a></li><li><a href="http://taiwan.lotour.com/taizhongxian" target="_blank" title="台中旅游">台中</a></li><li><a href="http://taiwan.lotour.com/tainanxian" target="_blank" title="台南旅游">台南</a></li><li><a href="http://taiwan.lotour.com/taidong" target="_blank" title="台东县旅游">台东县</a></li></ul></div><div class="smn-letter clearfix"><h2 class="smn-ltl">W</h2><ul class="smn-ltr clearfix"><li><a href="http://weifang.lotour.com" target="_blank" title="潍坊旅游">潍坊</a></li><li><a href="http://weihai.lotour.com" target="_blank" title="威海旅游">威海</a></li><li><a href="http://wuhai.lotour.com" target="_blank" title="乌海旅游">乌海</a></li><li><a href="http://wuxi.lotour.com" target="_blank" title="无锡旅游">无锡</a></li><li><a href="http://wenzhou.lotour.com" target="_blank" title="温州旅游">温州</a></li><li><a href="http://wuhu.lotour.com" target="_blank" title="芜湖旅游">芜湖</a></li><li><a href="http://wuhan.lotour.com" target="_blank" title="武汉旅游">武汉</a></li><li><a href="http://wuzhou.lotour.com" target="_blank" title="梧州旅游">梧州</a></li><li><a href="http://weinan.lotour.com" target="_blank" title="渭南旅游">渭南</a></li><li><a href="http://wuwei.lotour.com" target="_blank" title="武威旅游">武威</a></li><li><a href="http://wuzhong.lotour.com" target="_blank" title="吴忠旅游">吴忠</a></li><li><a href="http://wulumuqi.lotour.com" target="_blank" title="乌鲁木齐旅游">乌鲁木齐</a></li><li><a href="http://wanning.lotour.com" target="_blank" title="万宁旅游">万宁</a></li><li><a href="http://wenchang.lotour.com" target="_blank" title="文昌旅游">文昌</a></li><li><a href="http://wenshan.lotour.com" target="_blank" title="文山旅游">文山</a></li><li><a href="http://wulanchabu.lotour.com" target="_blank" title="乌兰察布旅游">乌兰察布</a></li><li><a href="http://wuzhishan.lotour.com" target="_blank" title="五指山旅游">五指山</a></li><li><a href="http://wujiaqu.lotour.com" target="_blank" title="五家渠旅游">五家渠</a></li></ul></div><div class="smn-letter clearfix"><h2 class="smn-ltl">X</h2><ul class="smn-ltr clearfix"><li><a href="http://xingtai.lotour.com" target="_blank" title="邢台旅游">邢台</a></li><li><a href="http://xinxiang.lotour.com" target="_blank" title="新乡旅游">新乡</a></li><li><a href="http://xuchang.lotour.com" target="_blank" title="许昌旅游">许昌</a></li><li><a href="http://xinzhou.lotour.com" target="_blank" title="忻州旅游">忻州</a></li><li><a href="http://xuzhou.lotour.com" target="_blank" title="徐州旅游">徐州</a></li><li><a href="http://xiamen.lotour.com" target="_blank" title="厦门旅游">厦门</a></li><li><a href="http://xinyu.lotour.com" target="_blank" title="新余旅游">新余</a></li><li><a href="http://xiaogan.lotour.com" target="_blank" title="孝感旅游">孝感</a></li><li><a href="http://xianning.lotour.com" target="_blank" title="咸宁旅游">咸宁</a></li><li><a href="http://xiangfan.lotour.com" target="_blank" title="襄阳旅游">襄阳</a></li><li><a href="http://xiangtan.lotour.com" target="_blank" title="湘潭旅游">湘潭</a></li><li><a href="http://xian.lotour.com" target="_blank" title="西安旅游">西安</a></li><li><a href="http://xianyang.lotour.com" target="_blank" title="咸阳旅游">咸阳</a></li><li><a href="http://xining.lotour.com" target="_blank" title="西宁旅游">西宁</a></li><li><a href="http://xinyang.lotour.com" target="_blank" title="信阳旅游">信阳</a></li><li><a href="http://xinganmeng.lotour.com" target="_blank" title="兴安盟旅游">兴安盟</a></li><li><a href="http://xilinguolemeng.lotour.com" target="_blank" title="锡林郭勒旅游">锡林郭勒</a></li><li><a href="http://xuancheng.lotour.com" target="_blank" title="宣城旅游">宣城</a></li><li><a href="http://xishuangbanna.lotour.com" target="_blank" title="西双版纳旅游">西双版纳</a></li><li><a href="http://xiangxi.lotour.com" target="_blank" title="湘西旅游">湘西</a></li><li><a href="http://xiantao.lotour.com" target="_blank" title="仙桃旅游">仙桃</a></li><li><a href="http://xishaqundao.lotour.com" target="_blank" title="西沙群岛旅游">西沙群岛</a></li><li><a href="http://hongkong.lotour.com/xianggangdao" target="_blank" title="港岛旅游">港岛</a></li><li><a href="http://hongkong.lotour.com/xinjie" target="_blank" title="新界旅游">新界</a></li><li><a href="http://taiwan.lotour.com/xinzhu" target="_blank" title="新竹市旅游">新竹市</a></li><li><a href="http://taiwan.lotour.com/xinzhuxian" target="_blank" title="新竹县旅游">新竹县</a></li><li><a href="http://hongkong.lotour.com/xianggangdayushan" target="_blank" title="大屿山旅游">大屿山</a></li></ul></div><div class="smn-letter clearfix"><h2 class="smn-ltl">Y</h2><ul class="smn-ltr clearfix"><li><a href="http://yichunshi.lotour.com" target="_blank" title="伊春旅游">伊春</a></li><li><a href="http://yingkou.lotour.com" target="_blank" title="营口旅游">营口</a></li><li><a href="http://yangquan.lotour.com" target="_blank" title="阳泉旅游">阳泉</a></li><li><a href="http://yuncheng.lotour.com" target="_blank" title="运城旅游">运城</a></li><li><a href="http://yantai.lotour.com" target="_blank" title="烟台旅游">烟台</a></li><li><a href="http://yanbian.lotour.com" target="_blank" title="延边旅游">延边</a></li><li><a href="http://yangzhou.lotour.com" target="_blank" title="扬州旅游">扬州</a></li><li><a href="http://yancheng.lotour.com" target="_blank" title="盐城旅游">盐城</a></li><li><a href="http://yichun.lotour.com" target="_blank" title="宜春旅游">宜春</a></li><li><a href="http://yingtan.lotour.com" target="_blank" title="鹰潭旅游">鹰潭</a></li><li><a href="http://yichang.lotour.com" target="_blank" title="宜昌旅游">宜昌</a></li><li><a href="http://yiyang.lotour.com" target="_blank" title="益阳旅游">益阳</a></li><li><a href="http://yueyang.lotour.com" target="_blank" title="岳阳旅游">岳阳</a></li><li><a href="http://yanan.lotour.com" target="_blank" title="延安旅游">延安</a></li><li><a href="http://yibin.lotour.com" target="_blank" title="宜宾旅游">宜宾</a></li><li><a href="http://yinchuan.lotour.com" target="_blank" title="银川旅游">银川</a></li><li><a href="http://yaan.lotour.com" target="_blank" title="雅安旅游">雅安</a></li><li><a href="http://yushuzangzu.lotour.com" target="_blank" title="玉树藏族旅游">玉树藏族</a></li><li><a href="http://yuxi.lotour.com" target="_blank" title="玉溪旅游">玉溪</a></li><li><a href="http://yongzhou.lotour.com" target="_blank" title="永州旅游">永州</a></li><li><a href="http://yangjiang.lotour.com" target="_blank" title="阳江旅游">阳江</a></li><li><a href="http://yunfu.lotour.com" target="_blank" title="云浮旅游">云浮</a></li><li><a href="http://yili.lotour.com" target="_blank" title="伊犁旅游">伊犁</a></li><li><a href="http://taiwan.lotour.com/yilan" target="_blank" title="宜兰县旅游">宜兰县</a></li><li><a href="http://taiwan.lotour.com/yunlin" target="_blank" title="云林旅游">云林</a></li></ul></div><div class="smn-letter clearfix"><h2 class="smn-ltl">Z</h2><ul class="smn-ltr clearfix"><li><a href="http://zhangjiakou.lotour.com" target="_blank" title="张家口旅游">张家口</a></li><li><a href="http://zhengzhou.lotour.com" target="_blank" title="郑州旅游">郑州</a></li><li><a href="http://zhumadian.lotour.com" target="_blank" title="驻马店旅游">驻马店</a></li><li><a href="http://zibo.lotour.com" target="_blank" title="淄博旅游">淄博</a></li><li><a href="http://zaozhuang.lotour.com" target="_blank" title="枣庄旅游">枣庄</a></li><li><a href="http://zhenjiang.lotour.com" target="_blank" title="镇江旅游">镇江</a></li><li><a href="http://zhoushan.lotour.com" target="_blank" title="舟山旅游">舟山</a></li><li><a href="http://zhangzhou.lotour.com" target="_blank" title="漳州旅游">漳州</a></li><li><a href="http://zhuzhou.lotour.com" target="_blank" title="株洲旅游">株洲</a></li><li><a href="http://zhangjiajie.lotour.com" target="_blank" title="张家界旅游">张家界</a></li><li><a href="http://zhuhai.lotour.com" target="_blank" title="珠海旅游">珠海</a></li><li><a href="http://zhaoqing.lotour.com" target="_blank" title="肇庆旅游">肇庆</a></li><li><a href="http://zhanjiang.lotour.com" target="_blank" title="湛江旅游">湛江</a></li><li><a href="http://zhongshan.lotour.com" target="_blank" title="中山旅游">中山</a></li><li><a href="http://zhangye.lotour.com" target="_blank" title="张掖旅游">张掖</a></li><li><a href="http://zigong.lotour.com" target="_blank" title="自贡旅游">自贡</a></li><li><a href="http://zunyi.lotour.com" target="_blank" title="遵义旅游">遵义</a></li><li><a href="http://zhoukou.lotour.com" target="_blank" title="周口旅游">周口</a></li><li><a href="http://ziyang.lotour.com" target="_blank" title="资阳旅游">资阳</a></li><li><a href="http://zhongwei.lotour.com" target="_blank" title="中卫旅游">中卫</a></li><li><a href="http://zhaotong.lotour.com" target="_blank" title="昭通旅游">昭通</a></li><li><a href="http://zhongshaqundao.lotour.com" target="_blank" title="中沙群岛旅游">中沙群岛</a></li><li><a href="http://taiwan.lotour.com/zhanghua" target="_blank" title="彰化县旅游">彰化县</a></li></ul></div>
+        </div>
+        
+        
+        
+	</div>
+
+</div>
+
+
+
+
+<!--E要闻内容-->
+
+
+
+<div class="seo-bottom-ads">	<ul class="seo-bottom-ads-ul">    	<li><a title="" target="_blank" href="http://d.lotour.com/hotel/"><img width="320" height="140" alt="" src="http://img.lotour.com/images/20140624/img1244979.png"></a></li>        <li class="li-both"><a title="" target="_blank" href="http://d.lotour.com/dangdigentuan/"><img width="320" height="140" alt="" src="http://img.lotour.com/images/20140624/img1244980.png"></a></li>        <li><a title="" target="_blank" href="http://d.lotour.com/dujiaxianlu/beijing/"><img width="320" height="140" alt="" src="http://img.lotour.com/images/20140624/img1244981.png"></a></li>    </ul></div>
+
+
+
+<!--seo**公共底S-->
+<div class="con5">
+<div class="con5-main">
+
+
+<h2 class="clearfix"><span><a href="http://d.lotour.com/jd/dq.shtml" target="_blank" title="酒店预订大全">酒店大全</a></span></h2>
+<ul class="con5_hotel clearfix">
+	
+
+		<li><a href="http://d.lotour.com/jd/beijing/1/" target="_blank" title="北京酒店预订大全">北京酒店</a></li>		
+	
+		<li><a href="http://d.lotour.com/jd/nanping/1/" target="_blank" title="南平酒店预订大全">南平酒店</a></li>		
+	
+		<li><a href="http://d.lotour.com/jd/chengde/1/" target="_blank" title="承德酒店预订大全">承德酒店</a></li>		
+	
+		<li><a href="http://d.lotour.com/jd/jilinshi/1/" target="_blank" title="吉林酒店预订大全">吉林酒店</a></li>		
+	
+		<li><a href="http://d.lotour.com/jd/shanghai/1/" target="_blank" title="上海酒店预订大全">上海酒店</a></li>		
+	
+		<li><a href="http://d.lotour.com/jd/aba/1/" target="_blank" title="阿坝州酒店预订大全">阿坝州酒店</a></li>		
+	
+		<li><a href="http://d.lotour.com/jd/baoshan/1/" target="_blank" title="保山酒店预订大全">保山酒店</a></li>		
+	
+		<li><a href="http://d.lotour.com/jd/dalibaizu/1/" target="_blank" title="大理酒店预订大全">大理酒店</a></li>		
+	
+		<li><a href="http://d.lotour.com/jd/lijiang/1/" target="_blank" title="丽江酒店预订大全">丽江酒店</a></li>		
+		
+
+</ul>
+<h2 class="clearfix"><span><a href="http://d.lotour.com/lyxl/dq.shtml" target="_blank" title="旅游线路大全">旅游线路大全</a></span></h2>
+<ul class="con5_luxian clearfix">
+	
+	<li><a title="丹东旅游线路大全" target="_blank" href="http://d.lotour.com/lyxl/dandong/1/">丹东旅游线路</a></li>
+
+	<li><a title="昆明旅游线路大全" target="_blank" href="http://d.lotour.com/lyxl/kunming/1/">昆明旅游线路</a></li>
+
+	<li><a title="黄山旅游线路大全" target="_blank" href="http://d.lotour.com/lyxl/huangshan/1/">黄山旅游线路</a></li>
+
+	<li><a title="承德旅游线路大全" target="_blank" href="http://d.lotour.com/lyxl/chengde/1/">承德旅游线路</a></li>
+
+	<li><a title="西安旅游线路大全" target="_blank" href="http://d.lotour.com/lyxl/xian/1/">西安旅游线路</a></li>
+
+	<li><a title="银川旅游线路大全" target="_blank" href="http://d.lotour.com/lyxl/yinchuan/1/">银川旅游线路</a></li>
+	
+</ul>
+<h2 class="clearfix"><span><a href="http://d.lotour.com/djlyxl/dq/c.shtml" target="_blank" title="度假旅游线路大全">度假旅游线路大全</a></span></h2>
+<ul class="con5_xl_quan clearfix">
+	
+	<li><a title="丹东到大连度假旅游线路大全" target="_blank" href="http://d.lotour.com/dujiaxianlu/dandong-dalian">丹东到大连旅游线路</a></li>
+
+	<li><a title="丹东到本溪度假旅游线路大全" target="_blank" href="http://d.lotour.com/dujiaxianlu/dandong-benxi">丹东到本溪旅游线路</a></li>
+
+	<li><a title="丹东到抚顺度假旅游线路大全" target="_blank" href="http://d.lotour.com/dujiaxianlu/dandong-fushun">丹东到抚顺旅游线路</a></li>
+
+	<li><a title="丹东到锦州度假旅游线路大全" target="_blank" href="http://d.lotour.com/dujiaxianlu/dandong-jinzhou">丹东到锦州旅游线路</a></li>
+
+	<li><a title="昆明到大理度假旅游线路大全" target="_blank" href="http://d.lotour.com/dujiaxianlu/kunming-dalibaizu">昆明到大理旅游线路</a></li>
+
+	<li><a title="昆明到丽江度假旅游线路大全" target="_blank" href="http://d.lotour.com/dujiaxianlu/kunming-lijiang">昆明到丽江旅游线路</a></li>
+	
+</ul>
+<h2 class="clearfix"><span>旅游服务</span></h2>
+<ul class="con5_ser clearfix">
+	<li><a title="目的地旅游" target="_blank" href="http://www.lotour.com/mudidi/">目的地</a></li>
+	<li><a title="周边旅游" target="_blank" href="http://www.lotour.com/zhoubianyou">周边游</a></li>
+	<li><a title="国内旅游" target="_blank" href="http://www.lotour.com/guoneiyou">国内游</a></li>
+	<li><a title="出境旅游" target="_blank" href="http://www.lotour.com/chujingyou">出境游</a></li>
+	<li><a title="自驾旅游" target="_blank" href="http://www.lotour.com/zijiayou/">自驾</a></li>
+	<li><a title="旅游装备" target="_blank" href="http://www.lotour.com/zhuangbei">装备</a></li>
+	<li><a title="火车票预订" target="_blank" href="http://www.lotour.com/huochepiao/">订火车票</a></li>
+	<li><a title="租车旅游" target="_blank" href="http://d.lotour.com/zuche/">旅游租车</a></li>
+	<li><a title="旅游代办签证" target="_blank" href="http://d.lotour.com/qianzheng/">签证代办</a></li>
+</ul>
+<!--<h2 class="clearfix"><span>推荐旅游城市</span></h2>-->
+<h2 class="clearfix"><span>推荐的旅游城市</span></h2><ul class="con5_city clearfix">			<li><a title="福州旅游" target="_blank" href="http://fuzhou.lotour.com/">福州旅游</a></li>			<li><a title="泰宁旅游" target="_blank" href="http://sanming.lotour.com/taining/">泰宁旅游</a></li>			<li><a title="敦化旅游" target="_blank" href="http://yanbian.lotour.com/dunhua/">敦化旅游</a></li>			<li><a title="泉州旅游" target="_blank" href="http://quanzhou.lotour.com/">泉州旅游</a></li>			<li><a title="德化旅游" target="_blank" href="http://quanzhou.lotour.com/dehua/">德化旅游</a></li>			<li><a title="无锡灵山旅游" target="_blank" href="http://wuxi.lotour.com/lingshandafo/">无锡灵山旅游</a></li>			<li><a title="商丘旅游" target="_blank" href="http://shangqiu.lotour.com/">商丘旅游</a></li>			<li><a title="石林旅游" target="_blank" href="http://kunming.lotour.com/yunnanshilin/">石林旅游</a></li>			<li><a title="北京旅游" target="_blank" href="http://beijing.lotour.com/">北京旅游</a></li>			<li><a title="广州旅游" target="_blank" href="http://guangzhou.lotour.com/">广州旅游</a></li>			<li><a title="深圳旅游" target="_blank" href="http://shenzhen.lotour.com/">深圳旅游</a></li>		</ul>
+
+</div>
+</div>
+<!--seo**公共底E-->
+
+<!--=S 公共底 -->  
+<!--=S 公共底 -->  
+<div class="ltFooter">
+	<ul class="ltBottom clear">
+		<li>    
+			<dl>
+				<dt>关于我们</dt>
+				<dd><a href="http://corp.lotour.com/index.shtml" target="_blank" title="">乐途介绍</a></dd>
+				<dd><a href="http://corp.lotour.com/job_2.shtml" target="_blank" title="">招贤纳仕</a></dd>
+				<dd class="sphl"><a href="#" target="_blank" title="">智慧旅游</a></dd>
+				<dd><a href="http://corp.lotour.com/lotour_honour.shtml" target="_blank" title="">网站荣誉</a></dd>
+				<dd><a href="http://corp.lotour.com/contact.shtml" target="_blank" title="">联系我们</a></dd>
+			</dl>
+		</li>
+		<li>    
+			<dl>       
+				<dt>营销服务</dt>
+				<dd><a href="http://www.lotour.com/zhuanti/yingxiao/" target="_blank" title="乐途营销">乐途营销</a></dd>
+			</dl>
+		</li>
+		<li>  
+			<dl>
+				<dt>商家服务</dt>
+				<dd><a href="http://member.lotour.com/" target="_blank" title="商家入驻">商家入驻</a></dd>
+				<dd><a href="http://member.lotour.com/" target="_blank" title="商家登录">商家登录</a></dd>
+			</dl>
+		</li>
+		<li>  
+			<dl>
+				<dt>新手上路</dt>
+				<dd><a href="http://d.lotour.com/yudingbangzhu/" target="_blank" title="预订帮助">预订帮助</a></dd>
+				<dd><a href="http://corp.lotour.com/term.shtml" target="_blank" title="">服务条款</a></dd>
+                                <dd><a href="http://corp.lotour.com/copyright.shtml" target="_blank" title="">版权声明</a></dd>
+			</dl>
+		</li>
+		<li class="btmPartner">
+			<dl>
+				<dt>合作伙伴</dt>
+				<dd><a href="http://www.cnta.com/" target="_blank" title="国家旅游局">国家旅游局</a></dd>				
+				<dd><a href="http://travel.people.com.cn/" target="_blank" title="人民网旅游">人民网旅游</a></dd>
+				<dd class="clear"></dd>
+				<dd><a href="http://travel.gmw.cn/index.htm" target="_blank" title="光明网旅游">光明网旅游</a></dd>
+				<dd><a href="http://travel.cntv.cn/" target="_blank" title="央视网旅游">央视网旅游</a></dd>
+				<dd><a href="http://travel.chinadaily.com.cn/" target="_blank" title="中国日报网">中国日报网</a></dd>
+				<dd class="allLinks"><a href="http://corp.lotour.com/parter.shtml" target="_blank" title="">[全部]</a></dd>
+			</dl>
+		</li>
+		<li class="btmShare">  
+			<dl>
+				<dt>关注我们</dt>
+				<dd>
+					<div class="ltShare">						
+						<a title="进入QQ空间" target="_blank" href="http://user.qzone.qq.com/1726116704" class="ltQzone"></a>
+						<a title="进入新浪微博" target="_blank" href="http://weibo.com/lotour2005" class="ltSina"></a>
+						<a title="进入人人网" target="_blank" href="http://www.renren.com/600754913" class="ltRenren"></a>
+						<a title="进入腾讯微博" target="_blank" href="http://t.qq.com/lotourly" class="ltTqq"></a>
+						<a title="" href="javascript:void(0)" class="ltVcode"></a>						 
+					</div>
+					<div class="vCodeCon">
+						<div class="vCodeMod">
+							<h3>进入网站</h3>
+							<div class="vCodeBox"><img src="http://img1.lotour.net/home/vcode.png" width="80" height="80" alt="" /></div>
+							<p>浏览器扫一扫<br />手机浏览更方便</p>
+						</div>
+						<div class="vCodeMod">
+							<h3>官方微博</h3>
+							<div class="vCodeBox"><img src="http://img1.lotour.net/home/vcode1.png" width="80" height="80" alt="" /></div>
+							<p>扫描二维码<br />加我为好友</p>
+						</div>
+					</div>
+					<script type="text/javascript">						
+						$(".ltShare .ltVcode").mouseover(function() {							
+							$(this).parent().siblings(".vCodeCon").show();
+							}).mouseleave(function() {
+							$(this).parent().siblings(".vCodeCon").hide();							
+						});
+					</script>
+				</dd>
+			</dl>
+		</li>
+		<li class="btmWeixin">
+			<dl>
+				<dt>官方微信</dt>
+				<dd>
+					<div class="vCodeBox"><img src="http://img1.lotour.net/home/vcode1-1.jpg" width="88" height="88" alt="" /></div>
+				</dd>
+			</dl>	
+		</li>	
+	</ul>
+	<div class="ltfoot clear">
+		<div class="ltfootB">
+			<a class="btmLogo" target="_blank" href="http://www.lotour.com/" title="乐途旅游网"></a>
+			<p><a href="http://www.miibeian.gov.cn" target="_blank" title="">京ICP备12008860号-1</a>&nbsp;&nbsp;<a href="http://corp.lotour.com/licence_gd.shtml" target="_blank" title="">广电节目制作许可证：1313号</a>&nbsp;&nbsp;京公网安备：11010502001653<br />
+			<span class="Arial">Copyright &copy; 2005 - 2016&nbsp;&nbsp;<a href="http://www.lotour.com/" target="_blank">Lotour.com</a>&nbsp;&nbsp;All Rights Reserved.</span>&nbsp;<a href="http://www.lotour.com/" target="_blank" title="乐途旅游网">乐途旅游网</a>&nbsp;版权所有</p>
+			<a class="btmIco" target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202008020400006"></a>
+		</div>		
+	</div>
+</div>
+
+
+<!--=E 公共底 -->
+
+
+<!--=E 公共底 -->
+
+<script type="text/javascript">
+(function (G,D,s,c,p) {
+c={//监测配置
+UA:"UA-lotour-000001", //客户项目编号,由系统生成
+NO_FLS:0,//是否使用Flash LocalStorage，默认为0开启，1表示不使用
+WITH_REF:0,//是否监测当前页面的Referrer参数，默认为1监测，0表示不监测
+URL:'http://js.lotour.com/iwt-min.js'//iwt.js的URL位置，请客户自行托管JS文件，只需修改此值
+};
+G._iwt?G._iwt.track(c,p):(G._iwtTQ=G._iwtTQ || []).push([c,p]),!G._iwtLoading && lo();
+function lo(t) {
+G._iwtLoading=1;s=D.createElement("script");s.src=c.URL;
+t=D.getElementsByTagName("script");t=t[t.length-1];
+t.parentNode.insertBefore(s,t);
+}
+})(this,document);
+
+
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F317768ad40e6ddbe20f10e89b4712c35' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39387460-1']);
+  _gaq.push(['_setDomainName', 'lotour.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!--TD-全站-->
+<script src="http://stats.lotour.com/stats.asp?id=17&hostName=stats.lotour.com" type="text/javascript" charset="utf-8"></script>
+
+</body>
+</html>

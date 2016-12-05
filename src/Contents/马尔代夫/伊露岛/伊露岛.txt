@@ -1,0 +1,1164 @@
+
+
+<!DOCTYPE html>
+
+<html>
+    
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    
+    <meta name="description" content="乐途旅游网_伊露岛旅游，提供伊露岛，伊露岛旅游景点推荐，伊露岛旅游攻略，伊露岛旅游玩法，最适合去伊露岛旅游的季节，伊露岛旅游注意事项，伊露岛旅游线路，伊露岛酒店预定，伊露岛旅游地图等出行指南及旅行服务" />
+    <meta name="keywords" content="伊露岛旅游_伊露岛旅游攻略_伊露岛旅游景点" />
+    <title>伊露岛旅游_伊露岛旅游攻略_伊露岛旅游景点_乐途旅游网</title>
+    <link rel="shortcut icon" href="http://www.lotour.com/favicon2.ico" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/base.css" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/lt_top.css" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/jingdian.css" />
+    <script type="text/javascript" src="http://js.lotour.net/jquery-1.8.3.min.js"></script>
+    <!--[if IE 6]><script type="text/javascript" src="http://js.lotour.net/DD_belatedPNG.js"></script><script type="text/javascript">DD_belatedPNG.fix('.logo img,.lt-nav-new-bg,.bdNavWraper,.map-btn,.mddNavWrap,.jd-img em');</script><![endif]--><!--[if lt IE 9]><script type="text/javascript" src="http://js.lotour.net/PIE_IE678.js"></script><![endif]--><!--[if IE 9]><script type="text/javascript" src="http://js.lotour.net/PIE_IE9.js"></script><![endif]--><script type="text/javascript">$(function () {if(window.PIE){$('.jq-list-l-up img').each(function(){ PIE.attach(this);});}});</script>
+</head>
+
+<body class="">
+    
+<script type="text/javascript" src="http://js.lotour.net/login/searchhotellogin_v5.js"></script>
+<script src="http://js.lotour.net/mylotour/v1/mylotour_v2.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://js.lotour.net/lotour_v1.js"></script>
+<div class="lt-nav-new">
+	<a href="http://www.lotour.com/" target="_blank"><img class="logo" src="http://img1.lotour.com/bdhomeV2/new_logo.png" /></a>
+	<div class="nav-new-btn">
+    	<a href="#" class="btn"></a>
+    	<div class="nav-new-layer">
+        	<ul>
+            <li>
+            	<h5><a href="http://www.lotour.com/mudidi/" target="_blank">目的地</a></h5>
+                <div class="links">
+                    <a href="http://shangqiu.lotour.com/" target="_blank">商丘</a><a href="http://xian.lotour.com/" target="_blank">西安</a><a href="http://shannan.lotour.com/" target="_blank">西藏山南</a><a href="http://kunming.lotour.com/yunnanshilin/" target="_blank">石林</a>     <a href="http://shangrao.lotour.com/guifeng/" target="_blank">龟峰</a> <a href="http://xuchang.lotour.com/" target="_blank">许昌</a>                                                                         
+
+                </div>
+            </li>
+            <li class="sg">
+            	<h5>发&nbsp;&nbsp;&nbsp;现</h5>
+                <div class="links">
+                	<a href="http://www.lotour.com/zhoubianyou" target="_blank">周边游</a>
+                	<a href="http://www.lotour.com/guoneiyou" target="_blank">国内游</a>
+                	<a href="http://www.lotour.com/chujingyou" target="_blank">出境游</a>
+                </div>
+            </li>
+            <li class="sg">
+            	<h5>社&nbsp;&nbsp;&nbsp;区</h5>
+                <div class="links">
+                    <a href="http://www.lotour.com/daren/" target="_blank">大咖</a>
+                	<a href="http://www.lotour.com/zijiayou/" target="_blank">自驾</a>
+                    <a href="http://sc.lotour.com/" target="_blank">福利</a>
+                </div>
+            </li>
+            <li>
+            	<h5>预&nbsp;&nbsp;&nbsp;订</h5>
+                <div class="links">
+                    <a href="http://d.lotour.com/hotel/" target="_blank">酒店</a>
+                    <a href="http://d.lotour.com/jipiao/" target="_blank">机票</a>
+                	<a href="http://d.lotour.com/dangdigentuan/" target="_blank">地接</a>
+                	<a id="dujiaxianlu" href="http://d.lotour.com/dujiaxianlu/shanghai/" target="_blank">度假</a>
+                </div>
+            </li>
+            </ul>
+        </div>
+    </div>
+  <div class="ltCrumb clear"> <a href="http://www.lotour.com/" target="_blank" title="">首页</a>&nbsp;&gt;&nbsp;<a href="http://www.lotour.com/mudidi" target="_blank" title="">目的地</a>&nbsp;&gt; 
+      
+              <a href="http://mdy.lotour.com/" title="" target="_blank">马尔代夫旅游</a>
+                  &gt;
+          
+              <a href="http://mdy.lotour.com/maldives/" title="" target="_blank">马累首都区旅游</a>
+                  &gt;
+          
+              <a href="http://mdy.lotour.com/malei1/" title="" target="_blank">马累旅游</a>
+                  &gt;
+          
+      <h1><a  href="http://mdy.lotour.com/yiludao/" title="">伊露岛旅游景区</a>
+              
+      </h1>
+  </div>
+  <div class="lt-nav-r">
+  	<div class="lt-nav-item lt-nav-item-srh">
+    	<b></b>
+        <div class="lt-srh-new">
+            <form action="http://ip.lotour.com/home/mudidi" method="get" target="_blank" name="zonghe">
+        	    <div class="lt-srh-l">
+                    <div class="lt-srh-new-clk">
+                        <a href="#" class="l1"><i></i><em></em></a>
+                    </div>
+                    <input type="text" value="点此搜索" name="keyword" id="keyword" class="ipt" />
+                    <input type="hidden" value="0" name="htype" id="htype" />
+                    <input type="hidden" value="" name="keys" id="keys" />
+                    <input type="submit" class="btn" id="btnzonghe" name="btnzonghe" value="" />
+                </div>               
+            </form>
+            <div class="lt-srh-new-layer">
+                <ul>
+                    <li class="l1"><a href="#"><i></i>搜目的地</a></li>
+                    <li class="l2"><a href="#"><i></i>搜达人</a></li>
+                    <li class="l3"><a href="#"><i></i>搜客栈酒店</a></li>
+                    <li class="l4"><a href="#"><i></i>搜当地跟团</a></li>
+                    <li class="l5"><a href="#"><i></i>搜度假线路</a></li>
+                </ul>
+            </div>
+            <div id="hotcityhintDiv" style="z-index: 300001;" class="inputExtendBox sphl">
+                <ul id="scity" class="suggestBox"></ul>
+            </div>
+            <div class="city_divtc" id="Search_Synthesize_Div" style="z-index: 3000006;"><div class="city_divtc_t"><a class="closex"></a><span>国内</span></div><div class="city_divtc_m"><ul><li><a href="http://shangqiu.lotour.com/" target="_blank" title=" 商丘"> 商丘</a></li><li><a href="http://xian.lotour.com/" target="_blank" title=" 西安"> 西安</a></li><li><a href="http://dandong.lotour.com/fengcheng/" target="_blank" title="凤城"> 凤城</a></li><li><a href="http://shannan.lotour.com/" target="_blank" title=" 山南"> 山南</a></li><li><a href="http://kunming.lotour.com/yunnanshilin/" target="_blank" title="石林"> 石林</a></li><li><a href="http://shangrao.lotour.com/guifeng/" target="_blank" title=" 龟峰"> 龟峰</a></li><li><a href="http://lijiang.lotour.com/" target="_blank" title="丽江">丽江</a></li><li><a href="http://zhoushan.lotour.com/" target="_blank" title="舟山">舟山</a></li><li><a href="http://huangshan.lotour.com/" target="_blank" title="黄山">黄山</a></li><li><a href="http://shaoxing.lotour.com/" target="_blank" title="绍兴">绍兴</a></li><li><a href="http://hangzhou.lotour.com/" target="_blank" title=" 杭州"> 杭州</a></li><li><a href="http://xiamen.lotour.com/" target="_blank" title=" 厦门"> 厦门</a></li><li><a href="http://jiaxing.lotour.com/wuzhenguzhen/" target="_blank" title=" 乌镇"> 乌镇</a></li><li><a href="http://qingdao.lotour.com/" target="_blank" title=" 青岛"> 青岛</a></li><li><a href="http://shanghai.lotour.com" target="_blank" title="上海">上海</a></li></ul></div><div class="city_divtc_t"><span>境外</span></div><div class="city_divtc_m"><ul><li><a href="http://tha.lotour.com/" target="_blank" title="泰国">泰国</a></li><li><a href="http://cam.lotour.com/" target="_blank" title="柬埔寨">柬埔寨</a></li><li><a href="http://tha.lotour.com/qingmai/" target="_blank" title="清迈">清迈</a></li><li><a href="http://aus.lotour.com/" target="_blank" title=" 澳大利亚"> 澳大利亚</a></li><li><a href="http://tha.lotour.com/pujifu/" target="_blank" title="普吉岛">普吉岛</a></li><li><a href="http://mas.lotour.com/shaba/" target="_blank" title="沙巴">沙巴</a></li><li><a href="http://pf.lotour.com/" target="_blank" title="大溪地">大溪地</a></li><li><a href="http://nep.lotour.com/" target="_blank" title="尼泊尔">尼泊尔</a></li><li><a href="http://fra.lotour.com/baliqu/" target="_blank" title="巴黎">巴黎</a></li><li><a href="http://taiwan.lotour.com/" target="_blank" title=" 台湾"> 台湾</a></li><li><a href="http://sri.lotour.com/" target="_blank" title=" 斯里兰卡"> 斯里兰卡</a></li><li><a href="http://gbr.lotour.com/lundun1/" target="_blank" title="伦敦">伦敦</a></li><li><a href="http://ina.lotour.com/balidao1/" target="_blank" title="巴厘岛">巴厘岛</a></li><li><a href="http://macao.lotour.com/" target="_blank" title="澳门">澳门</a></li><li><a href="http://fij.lotour.com/" target="_blank" title="斐济">斐济</a></li></ul></div></div>
+
+        </div>
+    </div>
+  	
+  	<div class="lt-login"></div>
+  </div>
+</div>
+
+<!-- 想去浮层 -->
+<div id="dream_place">
+</div>
+<!-- 求助浮层 -->
+<div id="ask_topic" class="msgLayer msgMod" style="display:none;">
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $s.loadCss("http://css.lotour.net/mylotour/v1/wantgo_new");
+        $("#dream_place").DPPanel({
+            className: "msgLayer",
+            close: function () {
+                //关闭时候执行
+                $(".layerBg").hide();
+            },
+            init: function () {
+                //初始化时候执行
+            },
+            publish: function (arr) {
+                //发布时候执行
+                try { dplaceweiboTui($("#dream_place_reseaon").val()) } catch (e) { }
+                location.reload();
+            }
+        }).hide();
+
+        $("#ask_topic").AskPanel({
+            className: "msgLayer",
+            close: function () {
+                //关闭时候执行
+                $(".layerBg").hide();
+            },
+            init: function () {
+                //初始化时候执行
+            },
+            publish: function (arr) {
+                //发布时候执行
+                $a("添加成功");
+            }
+        }).hide();
+
+        var askweibo = new PWeibo({
+            container: 'ask-weiboshare'
+        });
+        askweibo.create();
+        askweiboTui = function (txtcon) {
+            var content = "我在乐途旅游网发布了一条求助，求大家回复啊！";
+            content += "“" + txtcon + "”";
+            askweibo.send(content, function () {
+            });
+        };
+    });
+
+    
+
+    function AskHelp() {
+        $('#ask_topic').fadeIn(500).loadAskPanel(0); $('.layerBg').css('height', $(document).height()).show();
+    }
+    function WantGo() {
+        $('#dream_place').fadeIn(500).loadDPPanel('', 0, true); $('.layerBg').css('height', $(document).height()).show();
+    }
+
+    var SEARCHLEFT = -44, box;
+    if ($.cookie("CityID") == null || $.cookie("ChName") == null || $.cookie("IndexAreaName") == null) {
+        $.getScript("http://ip.lotour.com", function () {
+            $.cookie("CityID", result.regionid, { expires: 30, path: '/', domain: 'lotour.com' });
+            $.cookie("ChName", result.Chname, { expires: 30, path: '/', domain: 'lotour.com' });
+            $.cookie("IndexAreaName", result.regionname, { expires: 30, path: '/', domain: 'lotour.com' });
+            $("#dujiaxianlu").attr("href", "http://d.lotour.com/dujiaxianlu/" + $.cookie("ChName") + "/");
+        });
+    }
+    else
+        $("#dujiaxianlu").attr("href", "http://d.lotour.com/dujiaxianlu/" + $.cookie("ChName") + "/");
+
+    $('.lt-srh-new-layer li').click(function () {
+        var index = $(this).index();
+        $('.lt-srh-new-clk a').attr('class', 'l' + (index + 1));
+        if (index > 1) {
+            $("#htype").attr("value", index - 1);
+        }
+        else if (index == 1) {
+            $("#htype").attr("value", 5);
+        }
+        else {
+            $("#htype").attr("value", index);
+        }
+        $("keys").attr("value", "");
+        switch (index) {
+            case 0:
+                box = $("#keyword").searchbox({ "Left": SEARCHLEFT, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 1:
+                box = $("#keyword").searchbox({ "Flay": "xue_Daren", "Js": "", "Url": "http://my.lotour.com/DarenSearch/handler/AssociateDaren.ashx", "i": 1, "j": 5, "Top": 40, "Left": SEARCHLEFT, "tips": "" });
+                break;
+            case 2:
+                box = $("#keyword").searchbox({ "Flay": "xue_Hotel", "Js": "http://js.lotour.net/searchlayer/djmdd.js", "Url": "http://d.lotour.com/hotel/api/AssociateRegion", "i": 1, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 3:
+                box = $("#keyword").searchbox({ "Flay": "xue_Djxl_Mdd", "Js": "http://js.lotour.net/searchlayer/djmdd.js", "Url": "http://d.lotour.com/dangdigentuan/api-AssociateRegion", "i": 1, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 4:
+                box = $("#keyword").searchbox({ "Flay": "xue_OrderLine_Dest", "Js": "http://d.lotour.com/dujiaxianlu/api-AssociateCommonOsite?sSite=" + $.cookie("CityID") + "&randID=" + escape(new Date()) + "&callback=?", "Url": "http://beijing.lotour.com/dujiaxianlu/api-AssociateOSiteRegion", "i": 0, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+        }
+        $('.lt-srh-new-layer').hide()
+        return false;
+    }).eq(0).trigger("click");
+
+    var loginState = new lotourLoginState({});
+    //loginState.init();
+
+    //导航
+    $('.lt-nav-item').hover(function () {
+        $(this).find('.menu,.lt-srh-new').toggle()
+    })
+
+    $('.lt-srh-new-clk a').click(function () {
+        $('.lt-srh-new-layer').toggle();
+        return false
+    })
+    $('.lt-nav-item-srh').unbind('hover').click(function () {
+        $('.lt-srh-new').toggle();
+        //return false
+    });
+
+    $('.nav-new-btn').hover(function () {
+        $(this).find('.btn').toggleClass('btn-on');
+        $(this).find('.nav-new-layer').toggle();
+    });
+    $('.nav-new-layer li,.ltCommentList li').hover(function () {
+        $(this).toggleClass('hover');
+    });
+</script>
+<!--=S 头图 -->
+
+<div class="bdBannerWrap bdBannerChl mddBannerCh2">
+    
+    <div class="bd-main clearfix">
+		<div class="mdd-adv">
+			<script src="http://js.lotour.net/bcef/410.js" type="text/javascript"></script>
+		</div>
+		<div class="mddName clearfix">				
+			<h2><a title="伊露岛旅游" class="bdName-tit" href="http://mdy.lotour.com/yiludao/">伊露岛</a><a title="" href="javascript:void(0)" class="map-btn"></a>
+            
+                <em class="map-here"><b>亲</b>，可以查看地图哦!~</em>
+            
+			</h2>
+        
+			<div class="bdLikeNum"><span></span>人感兴趣</div>
+            
+			<div class="bdscore" id="rscore">
+				<a title="" href="http://mdy.lotour.com/yiludao/pingce/"><em></em><span>分</span></a>
+				<b></b>
+				<b></b>
+				<b></b>
+				<b></b>
+				<b></b>
+			</div>
+            
+            <div class="jd-ticket" deffer="1">
+				<p class="tkt-price clearfix">
+					<span class="t-pri">
+                    
+                          免费
+                        
+					</span>
+					<a class="tkt-btn" href="javascript:void(0)" title=""></a>
+				</p>
+				<p class="tkt-time">
+                
+                    开放时间 全天开放
+                
+				</p>				
+				<div class="tkt-layer">
+					<div class="tkt-layer-con clearfix">						
+						<h3>门票</h3>
+						<p>1月1日—12月31日：0元<br>
+                            
+						</p>
+						<h3>开放时间</h3>
+                        
+                                
+						<p>1月1日—12月31日：全天开放</p>
+                            
+						<p><strong>建议游玩时间</strong>2天</p>
+						<p><strong>电话</strong>（+00960）—6560591</p>
+						<p><strong>网址</strong><a title="" href="http://www.irufushi.com">http://www.irufushi.com</a></p>						
+					</div>	
+				</div>				
+			</div>
+            									
+		</div>        
+	</div>    
+</div>
+<script type="text/javascript">
+    function SelectScour(){
+        $.getJSON("http://api.lotour.net/brandhome/Region/SelectRegionScore?regionId=206345&callback=?", function (data) {
+            var star1 = parseInt(data.Score / 2);
+            var scor = parseInt(data.Score);
+            var scor1 = parseInt((data.Score - scor) * 10);
+            $("#rscore").find("em").html(scor+"."+scor1);
+            for (var i = 0; i < star1; i++) {
+                $("#rscore>b:eq("+i+")").html("<i></i>");
+            }
+            $("#rscore>b:eq("+star1+")").html("<i style=\"width:"+parseInt((data.Score/2-star1)*100)+"%\"></i>");
+        });
+    }
+    
+    $(function () {
+        
+        SelectScour();
+        
+        var winw = $(window).width();	
+        $('.map-box').css({"margin-left":(winw-980)/2,"top":"233px","border":"1px solid #f5f5f5"});
+    });
+</script>
+
+
+<!--=S 地图弹层-->
+<div class="map-box ">
+	<a class="map-x" href="#" title="关闭"></a>		
+	<div class="map-con" id="J_miniMap">
+	</div>
+
+    <div class="map-con-r">
+		<h3>伊露岛</h3>
+		<h4><strong>地址</strong>位于诺鲁环礁，距离马累国际机场约106千米，在马累乘坐水上飞机约45分钟到达。</h4>
+		<h4><strong>交通</strong></h4>
+		<p>到达马累国际机场后会有度假村的接待入员安排水上飞机前往伊露岛，约45分钟到达。不过水上飞机仅于日间运行。迟于15:30搭乘国际航班抵达马累国际机场的客人必须在马累寻找夜宿。客人将在次日从马累国际机场前往伊露岛度假酒店。酒店的机场代表将在客人抵达马累国际机场之际迎接客人并陪同客人搭乘班车前往Trans Maldivian Airways Terminal的私人伊露岛度假酒店休息室等待搭乘水上飞机。若酒店的代表因其他原因没有出现，请前往机场抵达大厅的21号柜台或直接与酒店联系。</p>				
+	</div>
+	
+</div>
+<!--=E 地图弹层-->
+<style type="text/css">
+.map-mark {
+    width: 24px;
+    height: 28px;
+    background: url(http://img1.lotour.net/lotour/biaodian-d.png) no-repeat -35px 0;
+    overflow: hidden;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 22px;
+    cursor: pointer;
+    position: relative;
+    z-index: 1008;
+}
+.map-mark.on {
+    background-position: -35px -35px;
+    z-index: 1009;
+}
+</style>
+<script type="text/javascript" src="http://js.lotour.net/map.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://js.lotour.net/jquery.tmpl.min.js"></script>
+<script type="text/javascript">
+    var mapInfo = {
+        lat: parseFloat('5.744559'),
+        lng: parseFloat('73.32336')
+    };
+    var miniMapBox = $('#J_miniMap'), miniMap, MiniMarker;
+
+    function initMiniMap() {
+        var latLng = new google.maps.LatLng(mapInfo.lat, mapInfo.lng);
+        var mapOptions = {
+            center: latLng,
+            zoom: 8,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+        miniMap = new google.maps.Map(miniMapBox.get(0), mapOptions);
+        var markerHtml = '<div class="map-mark"></div>';
+        new MiniMarker(miniMap, markerHtml, latLng);
+        
+
+        var marker = new google.maps.Marker({
+            position: latLng
+        });
+
+    }
+    function MarkerOverlay() {
+        var Overlay = function (map, text, latLng, ready) {
+            this.map = map;
+            this.text = text;
+            this.latLng = latLng;
+            this.ready = ready;
+            this.div = null;
+            this.setMap(this.map);
+        }
+
+        Overlay.prototype = new google.maps.OverlayView();
+
+        $.extend(Overlay.prototype, {
+            onAdd: function () {
+                var div = $('<div/>').html(this.text).css('position', 'absolute');
+                $(this.getPanes().overlayImage).append(div);
+                this.div = div;
+                if (typeof this.ready === 'function') {
+                    this.ready.call(this);
+                }
+            },
+            draw: function () {
+                var latLng = this.getProjection().fromLatLngToDivPixel(this.latLng);
+                this.div.css({
+                    'left': latLng.x - this.div.width() / 2,
+                    'bottom': -latLng.y
+                });
+            },
+            onRemove: function () {
+                this.div.remove();
+                this.div = null;
+            }
+        });
+
+        return Overlay;
+    }
+
+    function updateBrowse() {
+        var regionObj = new RegionBrowse(206345);
+        regionObj.updateBrowse()
+        $.getJSON("http://api.lotour.net/rss/dmspageview.ashx?id=206345&callback=?", function (data) {
+            var span = $("div.bdLikeNum").find("span");
+            span.html(data.pageview);
+        });
+    }
+    
+    $(function () {
+        updateBrowse();
+        //地图加载
+        var mapload = new MfwMapLoad(function () {
+            if (mapInfo == undefined || !$.isPlainObject(mapInfo) || $.isEmptyObject(mapInfo)) {
+                return;
+            }
+            MiniMarker = MarkerOverlay();
+            $(".map-btn").click(function () {
+                if($(".map-box").is(":hidden")){
+                    if($(".tkt-btn").length>0&&!$(".tkt-layer").is(":hidden")){
+                        $(".tkt-btn").trigger("click");
+                    }
+                    $(".map-box").show();
+                    initMiniMap();
+                }
+                else{
+                    $(".map-box").hide();
+                }
+            });
+            $(".bd-r-mapbtn,#abigmap").click(function(){
+                initMaxMap();
+            });
+        }, 5000, false);
+        mapload.autoLoadMap();
+        //地图弹层
+        
+        $(".map-x").click(function () {
+            $(".map-box").hide();
+        });
+    });
+</script>
+
+
+<div class="mddNavWrap">
+    <div class="mddNavbg">
+	    <div class="mddNav">            
+		    <ul class="clearfix">         
+			    <li class="on"><a title="伊露岛旅游必知" href="http://mdy.lotour.com/yiludao/"><span>必知</span></a></li>
+                     
+                <li class=""><a title="伊露岛旅游游记" href="http://mdy.lotour.com/yiludao/lvyouyouji/"><span>游记</span></a></li>  
+                              
+			    <li class=""><a title="伊露岛旅游口碑" href="http://mdy.lotour.com/yiludao/pingce/"><span>口碑</span></a></li>                
+			    <li class=""><a title="伊露岛旅游文章" href="http://mdy.lotour.com/yiludao/news/"><span>文章</span></a></li>                
+			    
+                <li class=""><a title="伊露岛旅游预订" href="http://mdy.lotour.com/yiludao/yuding/"><span>预订</span></a></li>
+                               	
+		    </ul>
+            <div class="bz-nav sphl">
+				    <dl class="clearfix">				
+					    <dd><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					    <dd><a href="javascript:void(0)" title="">玩法</a></dd>
+					    <dd><a href="javascript:void(0)" title="">资讯</a></dd>
+					    <dd><a href="javascript:void(0)" title="">住哪儿</a></dd>
+					    <dd><a href="javascript:void(0)" title="">包打听</a></dd>
+					    <dd><a href="javascript:void(0)" title="">如何到达</a></dd>					
+					    <dd><a href="javascript:void(0)" title="">附近城市</a></dd>
+					    <dt><a href="javascript:void(0)" title=""><span>手绘攻略</span></a></dt>
+				    </dl>
+			    </div>
+            <div class="bz-nav sphl">
+				<dl class="clearfix">
+					<dd class="nav1"><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					<dd class="nav2"><a href="javascript:void(0)" title="">旅行<br />月历</a></dd>
+					<dd class="nav3"><a href="javascript:void(0)" title="">必体验</a></dd>
+					<dd class="nav4"><a href="javascript:void(0)" title="">玩法</a></dd>
+					<dd class="nav5"><a href="javascript:void(0)" title="">抵达<br />住哪</a></dd>
+					<dd class="nav6"><a href="javascript:void(0)" title="">包打听</a></dd>
+					<dd class="nav7"><a href="javascript:void(0)" title="">周边<br />线路</a></dd>					
+				</dl>
+			</div>
+            <div class="bz-nav sphl">
+				<dl class="clearfix">
+					<dd class="nav1"><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					<dd class="nav3"><a href="javascript:void(0)" title="">必体验</a></dd>
+					<dd class="nav4"><a href="javascript:void(0)" title="">玩法</a></dd>
+					<dd class="nav5"><a href="javascript:void(0)" title="">重要<br />提示</a></dd>
+					<dd class="nav6"><a href="javascript:void(0)" title="">附近<br />景区</a></dd>
+					<dd class="nav7"><a href="javascript:void(0)" title="">城市<br />相关</a></dd>
+				</dl>
+			</div>
+	    </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(".bz-nav:eq(2)").removeClass("sphl");
+    $(function () {
+
+        var winw = $(window).width();
+        $('.map-box').css({ "margin-left": (winw - 980) / 2, "top": "233px", "border": "1px solid #f5f5f5" });
+
+        //滚动固定导航
+        $(window).scroll(function () {
+            var st = $(document).scrollTop(), toph = $(".lt-nav-new").height() + $(".bdBannerWrap").height();
+            if (st - toph >= 0) {
+                $(".mddNavWrap").addClass("mddNavWrapFix");
+                $(".bz-con1").addClass("pt-con1");
+                if ($.browser.msie && ($.browser.version == "6.0") && !$.support.style) {
+                    $(".mddNavWrap").css({ "top": st, "margin-top": "0" })
+                }
+            } else if (st - toph < 0) {
+                $(".mddNavWrap").removeClass("mddNavWrapFix");
+                $(".bz-con1").removeClass("pt-con1");
+                if ($.browser.msie && ($.browser.version == "6.0") && !$.support.style) {
+                    $(".mddNavWrap").css({ "top": "0", "margin-top": "0" })
+                }
+            }
+        });
+    });
+</script>
+<div class="bd-main bz-main clearfix">
+    <div class="bz-con bz-con1 jd-con1">
+        <ul class="clearfix">	
+			<li><a href="http://mdy.lotour.com/zhengwen/2015/04/1274691.shtml" target="_blank" title="伊露岛海滩水疗酒店"><img src="http://img1.lotour.net/cmsMustKnowScenic/2015/04/2015042123423639304385.jpg" width="702" height="394" alt="伊露岛海滩水疗酒店" /></a></li>
+			<li><a href="http://mdy.lotour.com/zhengwen/2015/04/1274691.shtml" target="_blank" title="俯瞰伊露岛"><img src="http://img1.lotour.net/cmsMustKnowScenic/2015/04/2015042123432620254635.jpg" width="278" height="197" alt="俯瞰伊露岛" /></a></li>
+			<li><a href="http://mdy.lotour.com/zhengwen/2015/04/1274691.shtml" target="_blank" title="迪维希人"><img src="http://img1.lotour.net/cmsMustKnowScenic/2015/04/2015042123434011408215.jpg" width="278" height="197" alt="迪维希人" /></a></li>			
+		</ul>
+        <div class="gx-txt">
+        	<em></em>
+            <div class="gx-txt-h">
+                <p class="gx-p1">伊露岛（Iru Fushi）是位于马尔代夫北部环礁——诺鲁环礁（Noonu Atoll）中的，一座拥有醉人景色和浪漫气氛的小岛。晶莹的海水、绵白的沙滩、明媚的阳光、温馨的海边小屋、浪漫的海上落日。所有的一切似乎都为浪漫而存在，美丽而遗世独立...<a href="http://mdy.lotour.com/zhengwen/2015/04/1274691.shtml" target="_blank" title="">[详细]</a></p>
+                <p class="gx-p2">最佳旅游时间：1月-12月，热带海洋气候，全年皆适合旅游。12至次年4月可避开高峰。</p>
+            </div>            	
+        </div>
+    </div>
+
+    <div class="bz-con clearfix">
+        <div class="bz-con-tit clearfix"> 
+            <ul class="bz-tab-tit" id="experiences">
+                <li deffer="0"><strong class="tit2"><a title="" href="javascript:void(0)">游</a></strong></li>
+                <li deffer="1"><strong class="tit2"><a title="" href="javascript:void(0)" class="">吃</a></strong></li>
+                <li deffer="2"><strong class="tit2"><a title="" href="javascript:void(0)" class="">购</a></strong></li>                    
+                <li deffer="3"><strong class="tit2"><a title="" href="javascript:void(0)" class="">娱</a></strong></li>
+            </ul>			
+        </div>
+        
+            <script type="text/javascript">
+                $("#experiences li[deffer=0]").remove();
+            </script>    
+          
+        <script type="text/javascript">
+            $("#experiences li[deffer=1]").remove();
+                        </script>
+          
+        <script type="text/javascript">
+            $("#experiences li[deffer=2]").remove();
+                        </script>
+          
+        <script type="text/javascript">
+            $("#experiences li[deffer=3]").remove();
+                        </script>
+          
+    </div>
+    <script type="text/javascript">
+        if ($("#experiences li").length == 0) {
+            $("#experiences").parents(".bz-con").remove();
+            $("dd.nav3").remove();
+        }
+        else {
+            $("#experiences li").eq(0).find("a").addClass("on");
+        }
+    </script>
+
+    <script type="text/javascript">
+        $("dd.nav4").remove();
+    </script>
+
+    <div class="bz-con clearfix">
+		<div class="bz-con-l">
+			<div class="bz-con-tit clearfix">
+            	<strong class="tit5"><a class="on" href="javascript:void(0)" title="">重要提示</a></strong>
+                
+            	<ul class="dating-tit">
+                			
+				</ul>
+            </div>
+            
+            <div class="bz-tab bz-dating" style="  ">			
+				<ul class="bz-tips-list">
+<li class=""><b>防蚁</b> 沙滩屋的时候夜晚千万不要开床头灯，因为房间里蚂蚁很多，会招来很多蚂蚁之类的到床上。同时，可以开门灯或者去往浴室的灯，这样能把蚂蚁招引过去。</li> 
+<li class=""><b>水上飞机</b> 水上飞机会有很大的噪音，如果介意的话，可以到候机室小卖部处免费领取耳塞。</li>      
+<li class=""><b>离开</b> SPA项目可以尝试一下，建议在离岛前一天做，选择修复类的项目。一般一人120美元就够了。</li>      
+<li class=""><b>防虫</b> 在沙滩屋的时候出入要随手关门，防止蚊子和壁虎等溜进来。</li>      
+ <li class=""><b>淡水</b> 如果你住一晚马累，而恰好选的岛又不提供水，那么马累酒店免费赠送的水别忘带走。相对来说，马累卖的水很便宜，2刀/1.5升。</li>      
+<li class=""><b>潜水</b> 伊露岛周边整体珊瑚礁和鱼都比较少，所以热爱浮潜的同学选择这个岛要慎重。</li>      
+<li class=""><b>消费</b> 通过比对其他岛的消费，伊露岛整体消费水平偏高。</li> 
+     
+</ul>
+			</div>      
+            
+        </div>
+        <div class="bz-con-r">
+			<div class="bz-con-tit clearfix">
+            	<strong class="tit5"><a href="javascript:void(0)" title="">包打听</a></strong>
+                
+            	<ul class="dating-tit">
+                				
+				</ul>
+            </div>
+        
+            <div class="bz-tab bz-dating" style=" ">
+				<ul class="bz-q-list">
+                
+                    <li class="hover">
+						<h3><em></em><span>伊露岛内什么地方可以吃饭？价格贵吗？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>酒店的11个餐饮场所供应各式各样的饮品和国际菜肴，包括带现场烹饪台的自助餐。客人还可以在海滩上享用私人餐点。不过与其他岛相比，伊露岛整体消费水平偏高。
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>伊露岛内是否有下榻之处？价格如何？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>度假村共有180间客房，共分为4种房型，其中有95间海滩别墅（BeachVillas）、5间带私人泳池的沙滩别墅（PoolBeachVillas）、40间水上别墅（WaterVillas）、35间豪华水上别墅（HorizonWaterVi
+                                
+                                    <a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/04/1274703.shtml" title="">[详细]</a>
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>伊露岛有什么好玩的娱乐项目吗</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>在伊露岛上，自由地游泳、潜水、晒日光浴自然非常舒适。岛上还设有儿童乐园，非常适合带小孩的家庭。更有不少运动项目为您提供，包括健身、网球、篮球、排球、电子游戏、壁球、羽毛球、乒乓
+                                
+                                    <a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/04/1274702.shtml" title="">[详细]</a>
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>景区有什么特殊交通工具吗？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>伊露岛位于诺鲁环礁，距离马累国际机场约106千米，在马累乘坐水上飞机约45分钟到达，到达马累国际机场后会有度假村的接待入员安排水上飞机前往伊露岛。不过水上飞机仅于日间运行。迟于15:30
+                                
+                                    <a target="_blank" href="http://mdy.lotour.com/zhengwen/2015/04/1274701.shtml" title="">[详细]</a>
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>去伊露岛玩儿哪些网站能提供重要信息？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>度假村官方网站：www.irufushi.com；马尔代夫旅游局官方网站：http://www.maldiveschina.com/iru。
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>去伊露岛玩一趟大概要花费多少？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>伊露岛上的消费较高，正常预算应在10000元/人以上。
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>伊露岛是否提供接送服务？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>提前预定该度假村酒店的，可以享受度假村提供的免费接送服务。
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                									
+				</ul>
+			</div>  
+        			
+			
+        </div>
+    </div>
+    
+    <script type="text/javascript">
+        $("dd.nav6").remove();
+    </script>
+    
+    <div class="bz-con clearfix">				
+		<div class="bz-con-l">
+			<h2 class="bz-con-tit clearfix"><strong class="tit7"><a href="javascript:void(0)" title="">马累首都区玩法</a></strong> 
+            
+			</h2>			
+			<ul class="wf-city">
+            	
+				<li>
+					<h3 class="clearfix"><em class="i-miji"></em><span><a title="马尔代夫?喜欢海的孩子" target="_blank" href="http://mdy.lotour.com/zj/1253708">马尔代夫?喜欢海的孩子</a></span></h3>
+					<p class="wf-text">马尔代夫是坐落在印度洋上的一个岛国，属于南亚，马尔代夫的岛大部分都是珊瑚岛，它是世界上最大的珊瑚岛国。马尔代夫这个多少个...<a title="" target="_blank" href="http://mdy.lotour.com/zj/1253708">[详细]</a></p>
+					<p class="wf-place wf-place2" deffer="5532185"><a title="" target="_blank" href="http://my.lotour.com/i/5532185"></a><i class="sphl">V</i><span>2015年12月游览过：</span> 
+                        
+                                  <a title="" target="_blank" href="http://mdy.lotour.com/baijindao/">白金岛</a>
+                                     	
+					</p>				
+				</li>
+            	
+				<li>
+					<h3 class="clearfix"><em class="i-miji"></em><span><a title="我的蜜月游—马尔代夫Ayada" target="_blank" href="http://mdy.lotour.com/zj/1112869">我的蜜月游—马尔代夫Ayada</a></span></h3>
+					<p class="wf-text">我们刚回来没几天，我就迫不及待的想写出来与大家分享我们这次旅程。第一天:2月1日从浦东国际机场出发，航班选择的是新加坡，...<a title="" target="_blank" href="http://mdy.lotour.com/zj/1112869">[详细]</a></p>
+					<p class="wf-place wf-place2" deffer="5502617"><a title="" target="_blank" href="http://my.lotour.com/i/5502617"></a><i class="sphl">V</i><span>2015年2月游览过：</span> 
+                        
+                                  <a title="" target="_blank" href="http://mdy.lotour.com/ayadadao/">阿雅达岛</a>
+                                     	
+					</p>				
+				</li>
+            	
+				<li>
+					<h3 class="clearfix"><em class="i-miji"></em><span><a title="麻袋幸福岛蜜月之旅" target="_blank" href="http://mdy.lotour.com/zj/1104652">麻袋幸福岛蜜月之旅</a></span></h3>
+					<p class="wf-text">旅行已经归来，整理好思绪，开始写游记~我们选的途牛代理，图省心：）但是有插曲，后面细说~一、行前准备：文件类：护照，麻袋...<a title="" target="_blank" href="http://mdy.lotour.com/zj/1104652">[详细]</a></p>
+					<p class="wf-place wf-place2" deffer="5499220"><a title="" target="_blank" href="http://my.lotour.com/i/5499220"></a><i class="sphl">V</i><span>2015年1月游览过：</span> 
+                        
+                                  <a title="" target="_blank" href="http://mdy.lotour.com/xingfudao/">幸福岛</a>
+                                     	
+					</p>				
+				</li>
+            	
+				<li>
+					<h3 class="clearfix"><em class="i-miji"></em><span><a title="我和老妈的蓝色美人蕉之行" target="_blank" href="http://mdy.lotour.com/zj/1103486">我和老妈的蓝色美人蕉之行</a></span></h3>
+					<p class="wf-text">12月9日至14日，四晚六天，蓝色美人蕉，2沙2水，早晚餐，海航直飞（￥9920/人）选岛理由：岛美人少，转一圈15分钟...<a title="" target="_blank" href="http://mdy.lotour.com/zj/1103486">[详细]</a></p>
+					<p class="wf-place wf-place2" deffer="5498520"><a title="" target="_blank" href="http://my.lotour.com/i/5498520"></a><i class="sphl">V</i><span>2014年12月游览过：</span> 
+                        
+                                  <a title="" target="_blank" href="http://mdy.lotour.com/meirenjiao/">蓝色美人蕉</a>
+                                     	
+					</p>				
+				</li>
+            											
+			</ul>
+        </div>
+        <div class="bz-con-r">
+			<h2 class="bz-con-tit clearfix"> <strong class="tit7"><a title="" href="javascript:void(0)">马累首都区鲜闻</a></strong> <a href="http://mdy.lotour.com/maldives/news/" target="_blank" title="更多" class="more">更多</a> </h2>
+			<ul class="bz-news-list">
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/1/lg-jc-10412.shtml" target="_blank" title="Lux岛 安享印度洋上的奢华">Lux岛 安享印度洋上的奢华</a> <span>2016-11-02</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/1/lg-jc-18993.shtml" target="_blank" title="马尔代夫双鱼岛，麦兜的梦想我实现了">马尔代夫双鱼岛，麦兜的梦想我实现了</a> <span>2016-08-18</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/1/lg-jc-13321.shtml" target="_blank" title="与世隔绝的天堂休假之马尔代夫">与世隔绝的天堂休假之马尔代夫</a> <span>2016-06-25</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/1/lg-jc-11275.shtml" target="_blank" title="经常被中东富豪包下的NIYAMA星球">经常被中东富豪包下的NIYAMA星球</a> <span>2016-05-17</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/1/lg-jc-2353.shtml" target="_blank" title="独孤游：马代 邂逅一首歌 恋上一座岛">独孤游：马代 邂逅一首歌 恋上一座岛</a> <span>2016-03-25</span></li>      
+                
+                <li class="newsline"><a href="http://www.lotour.com/zhengwen/1/lg-jc-2114.shtml" target="_blank" title="马累 全球最小也是最美首都">马累 全球最小也是最美首都</a> <span>2016-03-15</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/1/lg-jc-1459.shtml" target="_blank" title="在马尔代夫探寻世界上最小的首都">在马尔代夫探寻世界上最小的首都</a> <span>2016-03-07</span></li>      
+                
+                <li class=""><a href="http://mdy.lotour.com/zhengwen/2015/04/1275303.shtml" target="_blank" title="双鱼岛内什么地方可以吃饭？价格贵吗？">双鱼岛内什么地方可以吃饭？价格贵吗？</a> <span>2015-04-24</span></li>      
+                
+                <li class=""><a href="http://mdy.lotour.com/zhengwen/2015/04/1275294.shtml" target="_blank" title="太阳岛内什么地方可以吃饭？价格贵吗？">太阳岛内什么地方可以吃饭？价格贵吗？</a> <span>2015-04-23</span></li>      
+                
+                <li class=""><a href="http://mdy.lotour.com/zhengwen/2015/04/1275292.shtml" target="_blank" title="太阳岛有什么好玩的娱乐项目吗">太阳岛有什么好玩的娱乐项目吗</a> <span>2015-04-23</span></li>      
+                
+                <li class=""><a href="http://mdy.lotour.com/zhengwen/2015/04/1275290.shtml" target="_blank" title="蜜月岛内什么地方可以吃饭？价格贵吗？">蜜月岛内什么地方可以吃饭？价格贵吗？</a> <span>2015-04-23</span></li>      
+                
+                <li class="newsline"><a href="http://mdy.lotour.com/zhengwen/2015/04/1275289.shtml" target="_blank" title="蜜月岛内有什么可以吃的？">蜜月岛内有什么可以吃的？</a> <span>2015-04-23</span></li>      
+                
+                <li class=""><a href="http://mdy.lotour.com/zhengwen/2015/04/1275288.shtml" target="_blank" title="蜜月岛内是否有下榻之处？价格如何？">蜜月岛内是否有下榻之处？价格如何？</a> <span>2015-04-23</span></li>      
+                
+                <li class=""><a href="http://mdy.lotour.com/zhengwen/2015/04/1275286.shtml" target="_blank" title="马尔代夫蜜月岛：全球顶级蜜月度假海岛">马尔代夫蜜月岛：全球顶级蜜月度假海岛</a> <span>2015-04-23</span></li>      
+                
+                <li class=""><a href="http://mdy.lotour.com/zhengwen/2015/04/1275285.shtml" target="_blank" title="太阳岛：马尔代夫最大的休闲度假村">太阳岛：马尔代夫最大的休闲度假村</a> <span>2015-04-23</span></li>      
+                
+                <li class=""><a href="http://mdy.lotour.com/zhengwen/2015/04/1275284.shtml" target="_blank" title="双鱼岛：马尔代夫的最佳海滨">双鱼岛：马尔代夫的最佳海滨</a> <span>2015-04-23</span></li>      
+                			
+			</ul>
+		</div>
+    </div>
+<script type="text/javascript">
+    $(function () {
+        //左侧导航
+        $('.bz-nav:eq(2) dd').live('click', function () {
+            $(this).find("a").addClass("on");
+            $(this).siblings("dd").find("a").removeClass("on");
+            var index = $(this).parent().find("dd:visible").index($(this)),
+				 h = $('.bz-con').eq(index).offset().top - 90;
+            if (h < 318) {
+                $("html, body").animate({
+                    scrollTop: 233
+                }, 400);
+            } else {
+                $("html, body").animate({
+                    scrollTop: h
+                }, 400);
+            }
+        });
+        $(window).scroll(function () {
+            $('.bz-con').each(function () {
+                if ($(this).offset().top >= $(document).scrollTop() - $(this).outerHeight(true) + 150) {
+                    $('.bz-nav:eq(2) dd').eq($('.bz-con').index($(this))).find("a").addClass("on");
+                    $('.bz-nav:eq(2) dd').eq($('.bz-con').index($(this))).siblings("dd").find("a").removeClass("on");
+                    return false
+                }
+            });
+            var rollh = $(".bz-main").height() + 216 - $(".bz-nav:eq(2)").height();
+            if (rollh < $(document).scrollTop()) {
+                $(".bz-nav:eq(2)").hide();
+            } else {
+                $(".bz-nav:eq(2)").show();
+            };
+        });
+
+        //个性	
+        $(".jd-con1-con li").live("hover", function () {
+            $(this).toggleClass("hover");
+        });
+        $(".gx-txt-h").css("margin-top", ($(".gx-txt").height() - $(".gx-txt-h").height()) / 2);
+
+        //必体验
+        $(".bz-tab-con li").live("hover", function () {
+            $(this).toggleClass("hover");
+        });
+
+        //包打听		
+        $(".bz-q-list li").live("hover", function () {
+            $(this).addClass("hover");
+            $(this).siblings("li").removeClass("hover");
+        });
+        $('.bz-tips-list li').live("hover", function () {
+            $(this).toggleClass("hover");
+        });
+
+        //tab切换
+        $(".bz-con-tit li").hover(function () {
+            var _this = $(this), ul = _this.parent(), li = ul.find('li'), index = li.index(_this);
+            ul.parent().siblings(".bz-tab").hide().eq(index).show();
+            li.find('a').removeClass("on");
+            _this.find('a').addClass("on");
+        });
+        $(".jd-wanfa h3").click(function () {
+            var _this = $(this), ul = _this.parents("ul"), li = ul.find("h3"), index = li.index(_this);
+            //ul.parent().siblings(".bz-con-l2").children(".bz-tab").hide().eq(index).show();
+            li.find('a').removeClass("on");
+            _this.find('a').addClass("on");
+            InitMapx(list_slice(poi_list, index+1));
+        });
+
+        //门票弹层
+        $(".tkt-btn").live('click', function () {
+            if (!$(".map-box").is(":hidden")) {
+                $(".map-box").hide();
+            }
+            $(this).parent().siblings(".tkt-layer").slideToggle();
+            $(this).toggleClass("tkt-btn2");
+        });
+
+        $(".wf-place2").each(function () {
+            var _this = $(this), author = _this.attr("deffer");
+            $.getJSON("http://my.lotour.com/i/Common/GetMemberMessage?memberId=" + author + "&callback=?", function (data) {
+                if (data.Success) {
+                    var result = data.Result.Data;
+                    _this.find("a").eq(0).html(result.NickName);
+                    if (result.VStatus > 0) {
+                        _this.find("i").removeClass("sphl");
+                        if (result.VStatus == 2) {
+                            _this.find("i").addClass("i-red");
+                        }
+                        else {
+                            _this.find("i").addClass("i-blue");
+                        }
+                    }
+                }
+            });
+        });
+
+        $("b[deffer]").each(function () {
+            var _this = $(this), regionid = _this.attr("deffer");
+            $.getJSON("http://api.lotour.net/rss/dmspageview.ashx?id=" + regionid + "&callback=?", function (data) {
+                _this.html(data.pageview);
+            });
+        });
+        $("em.nlike").each(function () {
+            var _this = $(this), regionid = _this.attr("deffer");
+            $.getJSON("http://api.lotour.net/rss/dmspageview.ashx?id=" + regionid + "&callback=?", function (data) {
+                _this.html(data.pageview + "人感兴趣");
+            });
+        });
+
+    });
+</script>
+
+    
+    <div class="main bdMain">
+        
+
+<div class="content">
+    <h2 class="conlist-tit">— 马尔代夫旅游行政区划 —</h2>
+    <div class="conlist-con">
+    
+        <dl>
+            <dt><a href="http://mdy.lotour.com/malei1/" title="马累">马累</a></dt>
+            <dd>
+            
+                <a href="http://mdy.lotour.com/lilidao/" title="莉莉岛">莉莉岛</a>
+          
+                <a href="http://mdy.lotour.com/halaveli/" title="哈拉薇莉岛">哈拉薇莉岛</a>
+          
+                <a href="http://mdy.lotour.com/yiludao/" title="伊露岛">伊露岛</a>
+          
+                <a href="http://mdy.lotour.com/angsana/" title="阿格桑娜岛">阿格桑娜岛</a>
+          
+                <a href="http://mdy.lotour.com/taijishanhujiao/" title="泰姬珊瑚岛 ">泰姬珊瑚岛 </a>
+          
+                <a href="http://mdy.lotour.com/meirenjiao/" title="蓝色美人蕉">蓝色美人蕉</a>
+          
+                <a href="http://mdy.lotour.com/zuanshidao/" title="钻石岛">钻石岛</a>
+          
+                <a href="http://mdy.lotour.com/manyuedao/" title="满月岛">满月岛</a>
+          
+          </dd>
+        </dl>
+      
+    </div>
+</div>
+
+        <div class="content">
+            <div class="travel-recom">    	<h2 class="travel-t">国内游目的地推荐</h2>        <ul class="traver-c clear">        	<li><a title="" target="_blank" href="http://beijing.lotour.com/">北京</a></li><li><a title="" target="_blank" href="http://haerbin.lotour.com/">哈尔滨</a></li><li><a title="" target="_blank" href="http://dalian.lotour.com">大连</a></li><li><a title="" target="_blank" href="http://sanya.lotour.com/">三亚</a></li><li><a title="" target="_blank" href="http://lijiang.lotour.com/">丽江</a></li><li><a title="" target="_blank" href="http://nanjing.lotour.com/">南京</a></li><li><a title="" target="_blank" href="http://hangzhou.lotour.com/">杭州</a></li><li><a title="" target="_blank" href="http://chongqing.lotour.com/">重庆</a></li><li><a title="" target="_blank" href="http://chengdu.lotour.com/">成都</a></li><li><a title="" target="_blank" href="http://yangzhou.lotour.com/">扬州</a></li><li><a title="" target="_blank" href="http://shanghai.lotour.com/">上海</a></li><li><a title="" target="_blank" href="http://xiamen.lotour.com/">厦门</a></li><li><a title="" target="_blank" href="http://qinhuangdao.lotour.com/">秦皇岛</a></li><li><a title="" target="_blank" href="http://jssuzhou.lotour.com/">苏州</a></li><li><a title="" target="_blank" href="http://shangrao.lotour.com/">上饶</a></li><li><a title="" target="_blank" href="http://leshan.lotour.com/">乐山</a></li><li><a title="" target="_blank" href="http://tianjin.lotour.com/">天津</a></li><li><a title="" target="_blank" href="http://huangshan.lotour.com/">黄山</a></li><li><a title="" target="_blank" href="http://guangzhou.lotour.com/">广州</a></li><li><a title="" target="_blank" href="http://wenzhou.lotour.com/">温州</a></li><li><a title="" target="_blank" href="http://hangzhou.lotour.com/">杭州</a></li><li><a title="" target="_blank" href="http://xian.lotour.com/">西安</a></li><li><a title="" target="_blank" href="http://luoyang.lotour.com/">洛阳</a></li><li><a title="" target="_blank" href="http://chengde.lotour.com/">承德</a></li><li><a title="" target="_blank" href="http://qingdao.lotour.com/">青岛</a></li><li><a title="" target="_blank" href="http://weihai.lotour.com/">威海</a></li><li><a title="" target="_blank" href="http://jinan.lotour.com/">济南</a></li></li><li><a title="" target="_blank" href="http://taian.lotour.com/">泰安</a></li><li><a title="" target="_blank" href="http://beihai.lotour.com/">北海</a></li><li><a title="" target="_blank" href="http://changsha.lotour.com/">长沙</a></li><li><a title="" target="_blank" href="http://dalibaizu.lotour.com/">大理</a></li><li><a title="" target="_blank" href="http://guiyang.lotour.com/">贵阳</a></li><li><a title="" target="_blank" href="http://guilin.lotour.com/">桂林</a></li><li><a title="" target="_blank" href="http://haikou.lotour.com/">海口</a></li><li><a title="" target="_blank" href="http://hulunbeier.lotour.com/">呼伦贝尔</a></li><li><a title="" target="_blank" href="http://kaifeng.lotour.com/">开封</a></li><li><a title="" target="_blank" href="http://kunming.lotour.com/">昆明</a></li><li><a title="" target="_blank" href="http://lasa.lotour.com/">拉萨</a></li><li><a title="" target="_blank" href="http://mudanjiang.lotour.com/">牡丹江</a></li><li><a title="" target="_blank" href="http://ningbo.lotour.com/">宁波</a></li><li><a title="" target="_blank" href="http://qiqihaer.lotour.com/">齐齐哈尔</a></li><li><a title="" target="_blank" href="http://shaoxing.lotour.com/">绍兴</a></li><li><a title="" target="_blank" href="http://shenzhen.lotour.com/">深圳</a></li><li><a title="" target="_blank" href="http://shenyang.lotour.com/">沈阳</a></li><li><a title="" target="_blank" href="http://shijiazhuang.lotour.com/">石家庄</a></li><li><a title="" target="_blank" href="http://wulumuqi.lotour.com/">乌鲁木齐</a></li><li><a title="" target="_blank" href="http://wuxi.lotour.com/">无锡</a></li><li><a title="" target="_blank" href="http://wuhan.lotour.com/">武汉</a></li><li><a title="" target="_blank" href="http://yinchuan.lotour.com/">银川</a></li><li><a title="" target="_blank" href="http://zhuhai.lotour.com/">珠海</a></li>                   </ul>        <h2 class="travel-t">出境游目的地推荐</h2>        <ul class="traver-c clear">  <li><a title="" target="_blank" href="http://jpn.lotour.com/">日本</a></li><li><a title="" target="_blank" href="http://kor.lotour.com/">韩国</a></li><li><a title="" target="_blank" href="http://ind.lotour.com/">印度 </a></li><li><a title="" target="_blank" href="http://nep.lotour.com/">尼泊尔</a></li><li><a title="" target="_blank" href="http://tha.lotour.com/">泰国 </a></li><li><a title="" target="_blank" href="http://cam.lotour.com/">柬埔寨</a></li><li><a title="" target="_blank" href="http://gbr.lotour.com/">英国 </a></li><li><a title="" target="_blank" href="http://fra.lotour.com/">法国</a></li><li><a title="" target="_blank" href="http://tur.lotour.com/">土耳其</a></li><li><a title="" target="_blank" href="http://aus.lotour.com/">澳大利亚</a></li><li><a title="" target="_blank" href="http://nzl.lotour.com/">新西兰</a></li><li><a title="" target="_blank" href="http://ken.lotour.com/">肯尼亚</a></li><li><a title="" target="_blank" href="http://egy.lotour.com/">埃及</a></li><li><a title="" target="_blank" href="http://usa.lotour.com/">美国 </a></li> <li><a title="" target="_blank" href="http://mya.lotour.com/">缅甸</a></li><li><a title="" target="_blank" href="http://fin.lotour.com/">芬兰</a></li><li><a title="" target="_blank" href="http://swe.lotour.com/">瑞典</a></li><li><a title="" target="_blank" href="http://mri.lotour.com/">毛里求斯</a></li> </ul>    </div>
+
+        </div>
+        <div class="content">
+          
+        </div>
+         <script>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');  ga('create', 'UA-61162546-1', 'auto');  ga('send', 'pageview');</script>
+    </div>
+    
+<!--=S 公共底 -->  
+<div class="ltFooter">
+	<div class="ltfoot clear">
+		<div class="ltfootA">
+			<a href="http://corp.lotour.com/index.shtml" target="_blank" title="乐途介绍">乐途介绍</a><i>|</i><a href="http://corp.lotour.com/job_2.shtml" target="_blank" title="招贤纳士">招贤纳士</a><i>|</i><a href="http://corp.lotour.com/lotour_honour.shtml" target="_blank" title="网站荣誉">网站荣誉</a><i>|</i><a href="http://corp.lotour.com/contact.shtml" target="_blank" title="联系我们">联系我们</a><i>|</i><a href="http://corp.lotour.com/parter.shtml" target="_blank" title="合作伙伴">合作伙伴</a><i>|</i><a href="http://corp.lotour.com/adv_sev.shtml" target="_blank" title="营销形式">营销形式</a><i>|</i><a href="http://corp.lotour.com/adv_case.shtml" target="_blank" title="成功案例">成功案例</a><i>|</i><a href="http://member.lotour.com/" target="_blank" title="商家入驻">商家入驻</a><i>|</i><a href="http://member.lotour.com/" target="_blank" title="商家登录">商家登录</a><i>|</i><a href="http://d.lotour.com/yudingbangzhu/" target="_blank" title="预订帮助">预订帮助</a><i>|</i><a href="http://corp.lotour.com/term.shtml" target="_blank" title="服务条款">服务条款</a>
+		</div>
+		<div class="ltfootB">
+			<a class="btmLogo" target="_blank" href="http://www.lotour.com/" title="乐途旅游网"></a>
+			<p><a href="http://www.miibeian.gov.cn" target="_blank" title="">京ICP备12008860号-1</a>&nbsp;&nbsp;<a href="http://corp.lotour.com/licence_gd.shtml" target="_blank" title="">广电节目制作许可证：1313号</a>&nbsp;&nbsp;京公网安备：11010502001653<br />
+			<span class="Arial">Copyright &copy; 2005 - 2016&nbsp;&nbsp;<a href="http://www.lotour.com/" target="_blank">Lotour.com</a>&nbsp;&nbsp;All Rights Reserved.</span>&nbsp;<a href="http://www.lotour.com/" target="_blank" title="乐途旅游网">乐途旅游网</a>&nbsp;版权所有</p>
+			<a class="btmIco" target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202008020400006"></a>
+		</div>		
+	</div>
+</div>
+<!--=E 公共底 -->
+<script type="text/javascript" src="http://js.lotour.net/feedback_v1.js"></script><script type="text/javascript" src="http://js.lotour.net/analytics/statsv2.js" defer charset="UTF-8"></script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-39387460-1']);
+    _gaq.push(['_setDomainName', 'lotour.com']);
+    _gaq.push(['_addOrganic', 'baidu', 'word']);
+    _gaq.push(['_addOrganic', 'soso', 'w']);
+    _gaq.push(['_addOrganic', '3721', 'name']);
+    _gaq.push(['_addOrganic', 'yodao', 'q']);
+    _gaq.push(['_addOrganic', 'vnet', 'kw']);
+    _gaq.push(['_addOrganic', 'sogou', 'query']);
+    _gaq.push(['_addOrganic', '360', 'q']);
+    _gaq.push(['_addOrganic', 'so', 'q']);
+    var full_url = location.pathname + location.search + location.hash;
+    _gaq.push(['_trackPageview', full_url]);
+    _gaq.push(['_trackPageLoadTime']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F317768ad40e6ddbe20f10e89b4712c35' type='text/javascript'%3E%3C/script%3E"));
+
+
+</script>
+
+    <!--=S 右底工具条 -->
+<div class="toolbarNew">
+	<div class="tbarNewBtnS"></div>
+	<ul>
+		<li><a hidefocus="true" href="javascript:void(0);" method="been" deffer="206345" class="footmark" title=""><i></i><span>我去过</span></a></li>
+		<li><a hidefocus="true" href="javascript:void(0);" method="want" deffer="206345" class="addWantTo" title=""><i></i><span>我想去</span></a></li>
+		<li><a hidefocus="true" href="javascript:void(0);" method="help" deffer="206345" deffername="伊露岛" class="help" title=""><i></i><span>发求助</span></a> </li>
+		<li class="tbarShare"> <a href="javascript:void(0);" class="tbarShareIco"> <i></i> <span>分享</span> </a>
+			<div class="sharecon"> 
+				<!-- Baidu Button BEGIN -->
+				<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare"> <span class="bds_more"></span> </div>
+				<script type="text/javascript" id="bdshare_js" data="type=tools&amp;mini=1&amp;uid=0" ></script> 
+				<script type="text/javascript" id="bdshell_js"></script> 
+				<script type="text/javascript">
+				    document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                </script> 
+				<!-- Baidu Button END --> 
+			</div>
+		</li>
+	</ul>
+	<script type="text/javascript">
+	    $(function () {
+	        $(window).scroll(function () {
+	            var st = $(document).scrollTop(), winh = $(window).height();
+	            if (st > 0) {
+	                if ($('.tbarS').length > 0) { return false }
+	                $('.tbarNewBtnS').click()
+	                $('.toolbarNew').addClass('tbarS')
+	            } else if (st <= 0) {
+	                $('.tbarNewBtn').click()
+	                $('.toolbarNew').removeClass('tbarS')
+	            }
+	        });
+	        $('.tbarNewGtop').live('click', function () { $("html, body").animate({ scrollTop: 0 }, 120); })
+	        $('.tbarNewBtnS').live('click', function () {
+	            $('.toolbarNew ul').stop().animate({ 'height': '312px' })
+	            $('.tbarNewGtop').stop().animate({ 'height': '45px' })
+	            $(this).addClass('tbarNewBtn').removeClass('tbarNewBtnS');
+	            return false
+	        })
+	        $('.tbarNewBtn').live('click', function () {
+	            $('.toolbarNew ul').stop().animate({ 'height': '0px' })
+	            $('.tbarNewGtop').stop().animate({ 'height': '3px' })
+	            $(this).addClass('tbarNewBtnS').removeClass('tbarNewBtn');
+	            return false
+	        })
+
+	        $("a[method=been]").click(function () {
+	            var regionid = $(this).attr("deffer");
+	            var a = $("a[method=been][deffer=" + regionid + "]");
+	            $.getJSON("http://my.lotour.com/login/login/islogin?callback=?&" + (new Date()), function (data) {
+	                if (data.uid > 0)
+	                    a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.uid + "/?rid=" + regionid, "target": "_blank" });
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.memberId + "/?rid=" + regionid, "target": "_blank" });
+	                    }, function (data) {
+	                        SetTopState();
+	                        a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.memberId + "/?rid=" + regionid, "target": "_blank" });
+	                    }, 1, "http://my.lotour.com/i/NotesPublish/replaceUid?rid=" + regionid);
+	                }
+	            });
+	        });
+	        $("a[method=want]").click(function () {
+	            var regionid = $(this).attr("deffer"), month = new Date().getMonth() + 1;
+	            var a = $("a[method=want][deffer=" + regionid + "]");
+	            $.getJSON("http://my.lotour.com/login/login/islogin?callback=?&" + (new Date()), function (data) {
+	                if (data.uid > 0) {
+	                    $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    $('.layerBg').css('height', $(document).height()).show();
+	                }
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    }, function (data) {
+	                        SetTopState();
+	                        $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    }, 1, location.href.toString().replace("#", "") + "?rid=" + regionid + "&ReturnAction=dplace");
+	                }
+	            });
+	        });
+	        $("a[method=help]").click(function () {
+	            var regionid = $(this).attr("deffer"), rname = $(this).attr("deffername");
+	            $.getJSON('http://my.lotour.com/login/login/islogin?callback=?&' + (new Date()), function (data) {
+	                if (data.uid > 0) {
+	                    showHelp(regionid, rname);
+	                }
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        showHelp(regionid, rname);
+	                    }, function (data) {
+	                        SetTopState();
+	                        showHelp(regionid, rname);
+	                    }, 1, location.href.toString().replace("#", "") + "?rid=" + regionid + "&ReturnAction=ask");
+	                }
+	            });
+	        });
+	    });
+	    function showHelp(regionid, rname) {
+	        $('#ask_topic').fadeIn(500).loadAskPanel(0);
+	        $('.layerBg').css('height', $(document).height()).show();
+	        $('#txtAskRegionSelect1').val(rname).attr('disabled', 'disabled');
+	        $('#hidAskTopicRegionId1').val(regionid);
+	        $.ajax({
+	            cache: false,
+	            type: "GET",
+	            dataType: 'jsonp',
+	            jsonp: 'callback',
+	            url: "http://my.lotour.com/i/DPlace/AskTopic/GetBeenCount/",
+	            data: { regionId: regionid },
+	            success: function (data) {
+	                data = data.Result.Data;
+	                if (data.count > 0) {
+	                    $("#BeenMsg").html(data.count + "专家为您解答");
+	                }
+	            },
+	            error: function (xhr, textStatus, errorThrown) {
+	            }
+	        });
+	    }
+  </script>
+	<div class="tbarNewGtop"></div>
+</div>
+<!--=E 右底工具条 -->
+</body>
+</html>

@@ -70,4 +70,5 @@ def GetSubPages(page):
 
 if __name__=='__main__':
 	
-	GetPageInfo('http://www.lotour.com/mudidi/')
+# 	GetPageInfo('http://www.lotour.com/mudidi/')
+	print "Contents\\Main".split('\\')

@@ -1,0 +1,2236 @@
+
+
+<!DOCTYPE html>
+
+<html>
+    
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    
+    <meta name="description" content="乐途旅游网_桂林旅游，提供桂林，桂林旅游景点推荐，桂林旅游攻略，桂林旅游玩法，最适合去桂林旅游的季节，桂林旅游注意事项，桂林旅游线路，桂林酒店预定，桂林旅游地图等出行指南及旅行服务" />
+    <meta name="keywords" content="桂林旅游_桂林旅游攻略_桂林旅游景点" />
+    <title>桂林旅游_桂林旅游攻略_桂林旅游景点_乐途旅游网</title>
+    <link rel="shortcut icon" href="http://www.lotour.com/favicon2.ico" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/base.css" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/lt_top.css" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/bizhi.css" />
+    <script type="text/javascript" src="http://js.lotour.net/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="http://js.lotour.net/scrollloop.js"></script><!--[if IE 6]><script type="text/javascript" src="http://js.lotour.net/DD_belatedPNG.js"></script><script type="text/javascript">DD_belatedPNG.fix('.logo img,.lt-nav-new-bg,.bdNavWraper,.map-btn,.mddNavWrap,.lx-mask');</script><![endif]-->
+</head>
+
+<body class="">
+    
+<script type="text/javascript" src="http://js.lotour.net/login/searchhotellogin_v5.js"></script>
+<script src="http://js.lotour.net/mylotour/v1/mylotour_v2.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://js.lotour.net/lotour_v1.js"></script>
+<div class="lt-nav-new">
+	<a href="http://www.lotour.com/" target="_blank"><img class="logo" src="http://img1.lotour.com/bdhomeV2/new_logo.png" /></a>
+	<div class="nav-new-btn">
+    	<a href="#" class="btn"></a>
+    	<div class="nav-new-layer">
+        	<ul>
+            <li>
+            	<h5><a href="http://www.lotour.com/mudidi/" target="_blank">目的地</a></h5>
+                <div class="links">
+                    <a href="http://shangqiu.lotour.com/" target="_blank">商丘</a><a href="http://xian.lotour.com/" target="_blank">西安</a><a href="http://shannan.lotour.com/" target="_blank">西藏山南</a><a href="http://kunming.lotour.com/yunnanshilin/" target="_blank">石林</a>     <a href="http://shangrao.lotour.com/guifeng/" target="_blank">龟峰</a> <a href="http://xuchang.lotour.com/" target="_blank">许昌</a>                                                                         
+
+                </div>
+            </li>
+            <li class="sg">
+            	<h5>发&nbsp;&nbsp;&nbsp;现</h5>
+                <div class="links">
+                	<a href="http://www.lotour.com/zhoubianyou" target="_blank">周边游</a>
+                	<a href="http://www.lotour.com/guoneiyou" target="_blank">国内游</a>
+                	<a href="http://www.lotour.com/chujingyou" target="_blank">出境游</a>
+                </div>
+            </li>
+            <li class="sg">
+            	<h5>社&nbsp;&nbsp;&nbsp;区</h5>
+                <div class="links">
+                    <a href="http://www.lotour.com/daren/" target="_blank">大咖</a>
+                	<a href="http://www.lotour.com/zijiayou/" target="_blank">自驾</a>
+                    <a href="http://sc.lotour.com/" target="_blank">福利</a>
+                </div>
+            </li>
+            <li>
+            	<h5>预&nbsp;&nbsp;&nbsp;订</h5>
+                <div class="links">
+                    <a href="http://d.lotour.com/hotel/" target="_blank">酒店</a>
+                    <a href="http://d.lotour.com/jipiao/" target="_blank">机票</a>
+                	<a href="http://d.lotour.com/dangdigentuan/" target="_blank">地接</a>
+                	<a id="dujiaxianlu" href="http://d.lotour.com/dujiaxianlu/shanghai/" target="_blank">度假</a>
+                </div>
+            </li>
+            </ul>
+        </div>
+    </div>
+  <div class="ltCrumb clear"> <a href="http://www.lotour.com/" target="_blank" title="">首页</a>&nbsp;&gt;&nbsp;<a href="http://www.lotour.com/mudidi" target="_blank" title="">目的地</a>&nbsp;&gt; 
+      
+              <a href="http://guangxi.lotour.com/" title="" target="_blank">广西旅游</a>
+                  &gt;
+          
+      <h1><a  href="http://guilin.lotour.com/" title="">桂林旅游</a>
+               
+              [<a href="http://guilin.lotour.com/sitemap.shtml" target="_blank" title="">城市导航</a>]
+              
+      </h1>
+  </div>
+  <div class="lt-nav-r">
+  	<div class="lt-nav-item lt-nav-item-srh">
+    	<b></b>
+        <div class="lt-srh-new">
+            <form action="http://ip.lotour.com/home/mudidi" method="get" target="_blank" name="zonghe">
+        	    <div class="lt-srh-l">
+                    <div class="lt-srh-new-clk">
+                        <a href="#" class="l1"><i></i><em></em></a>
+                    </div>
+                    <input type="text" value="点此搜索" name="keyword" id="keyword" class="ipt" />
+                    <input type="hidden" value="0" name="htype" id="htype" />
+                    <input type="hidden" value="" name="keys" id="keys" />
+                    <input type="submit" class="btn" id="btnzonghe" name="btnzonghe" value="" />
+                </div>               
+            </form>
+            <div class="lt-srh-new-layer">
+                <ul>
+                    <li class="l1"><a href="#"><i></i>搜目的地</a></li>
+                    <li class="l2"><a href="#"><i></i>搜达人</a></li>
+                    <li class="l3"><a href="#"><i></i>搜客栈酒店</a></li>
+                    <li class="l4"><a href="#"><i></i>搜当地跟团</a></li>
+                    <li class="l5"><a href="#"><i></i>搜度假线路</a></li>
+                </ul>
+            </div>
+            <div id="hotcityhintDiv" style="z-index: 300001;" class="inputExtendBox sphl">
+                <ul id="scity" class="suggestBox"></ul>
+            </div>
+            <div class="city_divtc" id="Search_Synthesize_Div" style="z-index: 3000006;"><div class="city_divtc_t"><a class="closex"></a><span>国内</span></div><div class="city_divtc_m"><ul><li><a href="http://shangqiu.lotour.com/" target="_blank" title=" 商丘"> 商丘</a></li><li><a href="http://xian.lotour.com/" target="_blank" title=" 西安"> 西安</a></li><li><a href="http://dandong.lotour.com/fengcheng/" target="_blank" title="凤城"> 凤城</a></li><li><a href="http://shannan.lotour.com/" target="_blank" title=" 山南"> 山南</a></li><li><a href="http://kunming.lotour.com/yunnanshilin/" target="_blank" title="石林"> 石林</a></li><li><a href="http://shangrao.lotour.com/guifeng/" target="_blank" title=" 龟峰"> 龟峰</a></li><li><a href="http://lijiang.lotour.com/" target="_blank" title="丽江">丽江</a></li><li><a href="http://zhoushan.lotour.com/" target="_blank" title="舟山">舟山</a></li><li><a href="http://huangshan.lotour.com/" target="_blank" title="黄山">黄山</a></li><li><a href="http://shaoxing.lotour.com/" target="_blank" title="绍兴">绍兴</a></li><li><a href="http://hangzhou.lotour.com/" target="_blank" title=" 杭州"> 杭州</a></li><li><a href="http://xiamen.lotour.com/" target="_blank" title=" 厦门"> 厦门</a></li><li><a href="http://jiaxing.lotour.com/wuzhenguzhen/" target="_blank" title=" 乌镇"> 乌镇</a></li><li><a href="http://qingdao.lotour.com/" target="_blank" title=" 青岛"> 青岛</a></li><li><a href="http://shanghai.lotour.com" target="_blank" title="上海">上海</a></li></ul></div><div class="city_divtc_t"><span>境外</span></div><div class="city_divtc_m"><ul><li><a href="http://tha.lotour.com/" target="_blank" title="泰国">泰国</a></li><li><a href="http://cam.lotour.com/" target="_blank" title="柬埔寨">柬埔寨</a></li><li><a href="http://tha.lotour.com/qingmai/" target="_blank" title="清迈">清迈</a></li><li><a href="http://aus.lotour.com/" target="_blank" title=" 澳大利亚"> 澳大利亚</a></li><li><a href="http://tha.lotour.com/pujifu/" target="_blank" title="普吉岛">普吉岛</a></li><li><a href="http://mas.lotour.com/shaba/" target="_blank" title="沙巴">沙巴</a></li><li><a href="http://pf.lotour.com/" target="_blank" title="大溪地">大溪地</a></li><li><a href="http://nep.lotour.com/" target="_blank" title="尼泊尔">尼泊尔</a></li><li><a href="http://fra.lotour.com/baliqu/" target="_blank" title="巴黎">巴黎</a></li><li><a href="http://taiwan.lotour.com/" target="_blank" title=" 台湾"> 台湾</a></li><li><a href="http://sri.lotour.com/" target="_blank" title=" 斯里兰卡"> 斯里兰卡</a></li><li><a href="http://gbr.lotour.com/lundun1/" target="_blank" title="伦敦">伦敦</a></li><li><a href="http://ina.lotour.com/balidao1/" target="_blank" title="巴厘岛">巴厘岛</a></li><li><a href="http://macao.lotour.com/" target="_blank" title="澳门">澳门</a></li><li><a href="http://fij.lotour.com/" target="_blank" title="斐济">斐济</a></li></ul></div></div>
+
+        </div>
+    </div>
+  	
+  	<div class="lt-login"></div>
+  </div>
+</div>
+
+<!-- 想去浮层 -->
+<div id="dream_place">
+</div>
+<!-- 求助浮层 -->
+<div id="ask_topic" class="msgLayer msgMod" style="display:none;">
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $s.loadCss("http://css.lotour.net/mylotour/v1/wantgo_new");
+        $("#dream_place").DPPanel({
+            className: "msgLayer",
+            close: function () {
+                //关闭时候执行
+                $(".layerBg").hide();
+            },
+            init: function () {
+                //初始化时候执行
+            },
+            publish: function (arr) {
+                //发布时候执行
+                try { dplaceweiboTui($("#dream_place_reseaon").val()) } catch (e) { }
+                location.reload();
+            }
+        }).hide();
+
+        $("#ask_topic").AskPanel({
+            className: "msgLayer",
+            close: function () {
+                //关闭时候执行
+                $(".layerBg").hide();
+            },
+            init: function () {
+                //初始化时候执行
+            },
+            publish: function (arr) {
+                //发布时候执行
+                $a("添加成功");
+            }
+        }).hide();
+
+        var askweibo = new PWeibo({
+            container: 'ask-weiboshare'
+        });
+        askweibo.create();
+        askweiboTui = function (txtcon) {
+            var content = "我在乐途旅游网发布了一条求助，求大家回复啊！";
+            content += "“" + txtcon + "”";
+            askweibo.send(content, function () {
+            });
+        };
+    });
+
+    
+
+    function AskHelp() {
+        $('#ask_topic').fadeIn(500).loadAskPanel(0); $('.layerBg').css('height', $(document).height()).show();
+    }
+    function WantGo() {
+        $('#dream_place').fadeIn(500).loadDPPanel('', 0, true); $('.layerBg').css('height', $(document).height()).show();
+    }
+
+    var SEARCHLEFT = -44, box;
+    if ($.cookie("CityID") == null || $.cookie("ChName") == null || $.cookie("IndexAreaName") == null) {
+        $.getScript("http://ip.lotour.com", function () {
+            $.cookie("CityID", result.regionid, { expires: 30, path: '/', domain: 'lotour.com' });
+            $.cookie("ChName", result.Chname, { expires: 30, path: '/', domain: 'lotour.com' });
+            $.cookie("IndexAreaName", result.regionname, { expires: 30, path: '/', domain: 'lotour.com' });
+            $("#dujiaxianlu").attr("href", "http://d.lotour.com/dujiaxianlu/" + $.cookie("ChName") + "/");
+        });
+    }
+    else
+        $("#dujiaxianlu").attr("href", "http://d.lotour.com/dujiaxianlu/" + $.cookie("ChName") + "/");
+
+    $('.lt-srh-new-layer li').click(function () {
+        var index = $(this).index();
+        $('.lt-srh-new-clk a').attr('class', 'l' + (index + 1));
+        if (index > 1) {
+            $("#htype").attr("value", index - 1);
+        }
+        else if (index == 1) {
+            $("#htype").attr("value", 5);
+        }
+        else {
+            $("#htype").attr("value", index);
+        }
+        $("keys").attr("value", "");
+        switch (index) {
+            case 0:
+                box = $("#keyword").searchbox({ "Left": SEARCHLEFT, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 1:
+                box = $("#keyword").searchbox({ "Flay": "xue_Daren", "Js": "", "Url": "http://my.lotour.com/DarenSearch/handler/AssociateDaren.ashx", "i": 1, "j": 5, "Top": 40, "Left": SEARCHLEFT, "tips": "" });
+                break;
+            case 2:
+                box = $("#keyword").searchbox({ "Flay": "xue_Hotel", "Js": "http://js.lotour.net/searchlayer/djmdd.js", "Url": "http://d.lotour.com/hotel/api/AssociateRegion", "i": 1, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 3:
+                box = $("#keyword").searchbox({ "Flay": "xue_Djxl_Mdd", "Js": "http://js.lotour.net/searchlayer/djmdd.js", "Url": "http://d.lotour.com/dangdigentuan/api-AssociateRegion", "i": 1, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 4:
+                box = $("#keyword").searchbox({ "Flay": "xue_OrderLine_Dest", "Js": "http://d.lotour.com/dujiaxianlu/api-AssociateCommonOsite?sSite=" + $.cookie("CityID") + "&randID=" + escape(new Date()) + "&callback=?", "Url": "http://beijing.lotour.com/dujiaxianlu/api-AssociateOSiteRegion", "i": 0, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+        }
+        $('.lt-srh-new-layer').hide()
+        return false;
+    }).eq(0).trigger("click");
+
+    var loginState = new lotourLoginState({});
+    //loginState.init();
+
+    //导航
+    $('.lt-nav-item').hover(function () {
+        $(this).find('.menu,.lt-srh-new').toggle()
+    })
+
+    $('.lt-srh-new-clk a').click(function () {
+        $('.lt-srh-new-layer').toggle();
+        return false
+    })
+    $('.lt-nav-item-srh').unbind('hover').click(function () {
+        $('.lt-srh-new').toggle();
+        //return false
+    });
+
+    $('.nav-new-btn').hover(function () {
+        $(this).find('.btn').toggleClass('btn-on');
+        $(this).find('.nav-new-layer').toggle();
+    });
+    $('.nav-new-layer li,.ltCommentList li').hover(function () {
+        $(this).toggleClass('hover');
+    });
+</script>
+<!--=S 头图 -->
+
+<div class="bdBannerWrap bdBannerChl mddBannerCh2">
+    
+    <div class="bd-main clearfix">
+		<div class="mdd-adv">
+			<script src="http://js.lotour.net/bcef/409.js" type="text/javascript"></script>
+		</div>
+		<div class="mddName clearfix">				
+			<h2><a title="桂林旅游" class="bdName-tit" href="http://guilin.lotour.com/">桂林</a><a title="" href="javascript:void(0)" class="map-btn"></a>
+            
+			</h2>
+        
+			<div class="bdLikeNum"><span></span>人感兴趣</div>
+            
+			<div class="bdscore" id="rscore">
+				<a title="" href="http://guilin.lotour.com/pingce/"><em></em><span>分</span></a>
+				<b></b>
+				<b></b>
+				<b></b>
+				<b></b>
+				<b></b>
+			</div>
+            
+			<div class="mdd-weather"></div>
+            									
+		</div>        
+	</div>    
+</div>
+<script type="text/javascript">
+    function SelectScour(){
+        $.getJSON("http://api.lotour.net/brandhome/Region/SelectRegionScore?regionId=210&callback=?", function (data) {
+            var star1 = parseInt(data.Score / 2);
+            var scor = parseInt(data.Score);
+            var scor1 = parseInt((data.Score - scor) * 10);
+            $("#rscore").find("em").html(scor+"."+scor1);
+            for (var i = 0; i < star1; i++) {
+                $("#rscore>b:eq("+i+")").html("<i></i>");
+            }
+            $("#rscore>b:eq("+star1+")").html("<i style=\"width:"+parseInt((data.Score/2-star1)*100)+"%\"></i>");
+        });
+    }
+    
+    $(function () {
+        
+        SelectScour();
+        
+        var winw = $(window).width();	
+        $('.map-box').css({"margin-left":(winw-980)/2,"top":"233px","border":"1px solid #f5f5f5"});
+    });
+</script>
+
+
+<!--=S 地图弹层-->
+<div class="map-box ">
+	<a class="map-x" href="#" title="关闭"></a>		
+	<div class="map-con" id="J_miniMap">
+	</div>
+	
+</div>
+<!--=E 地图弹层-->
+<style type="text/css">
+.map-mark {
+    width: 24px;
+    height: 28px;
+    background: url(http://img1.lotour.net/lotour/biaodian-d.png) no-repeat -35px 0;
+    overflow: hidden;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 22px;
+    cursor: pointer;
+    position: relative;
+    z-index: 1008;
+}
+.map-mark.on {
+    background-position: -35px -35px;
+    z-index: 1009;
+}
+</style>
+<script type="text/javascript" src="http://js.lotour.net/map.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://js.lotour.net/jquery.tmpl.min.js"></script>
+<script type="text/javascript">
+    var mapInfo = {
+        lat: parseFloat('25.28'),
+        lng: parseFloat('110.28')
+    };
+    var miniMapBox = $('#J_miniMap'), miniMap, MiniMarker;
+
+    function initMiniMap() {
+        var latLng = new google.maps.LatLng(mapInfo.lat, mapInfo.lng);
+        var mapOptions = {
+            center: latLng,
+            zoom: 7,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+        miniMap = new google.maps.Map(miniMapBox.get(0), mapOptions);
+        var markerHtml = '<div class="map-mark"></div>';
+        new MiniMarker(miniMap, markerHtml, latLng);
+        
+
+        var marker = new google.maps.Marker({
+            position: latLng
+        });
+
+    }
+    function MarkerOverlay() {
+        var Overlay = function (map, text, latLng, ready) {
+            this.map = map;
+            this.text = text;
+            this.latLng = latLng;
+            this.ready = ready;
+            this.div = null;
+            this.setMap(this.map);
+        }
+
+        Overlay.prototype = new google.maps.OverlayView();
+
+        $.extend(Overlay.prototype, {
+            onAdd: function () {
+                var div = $('<div/>').html(this.text).css('position', 'absolute');
+                $(this.getPanes().overlayImage).append(div);
+                this.div = div;
+                if (typeof this.ready === 'function') {
+                    this.ready.call(this);
+                }
+            },
+            draw: function () {
+                var latLng = this.getProjection().fromLatLngToDivPixel(this.latLng);
+                this.div.css({
+                    'left': latLng.x - this.div.width() / 2,
+                    'bottom': -latLng.y
+                });
+            },
+            onRemove: function () {
+                this.div.remove();
+                this.div = null;
+            }
+        });
+
+        return Overlay;
+    }
+
+    function updateBrowse() {
+        var regionObj = new RegionBrowse(210);
+        regionObj.updateBrowse()
+        $.getJSON("http://api.lotour.net/rss/dmspageview.ashx?id=210&callback=?", function (data) {
+            var span = $("div.bdLikeNum").find("span");
+            span.html(data.pageview);
+        });
+    }
+    
+    $(function () {
+        updateBrowse();
+        //地图加载
+        var mapload = new MfwMapLoad(function () {
+            if (mapInfo == undefined || !$.isPlainObject(mapInfo) || $.isEmptyObject(mapInfo)) {
+                return;
+            }
+            MiniMarker = MarkerOverlay();
+            $(".map-btn").click(function () {
+                if($(".map-box").is(":hidden")){
+                    if($(".tkt-btn").length>0&&!$(".tkt-layer").is(":hidden")){
+                        $(".tkt-btn").trigger("click");
+                    }
+                    $(".map-box").show();
+                    initMiniMap();
+                }
+                else{
+                    $(".map-box").hide();
+                }
+            });
+            $(".bd-r-mapbtn,#abigmap").click(function(){
+                initMaxMap();
+            });
+        }, 5000, false);
+        mapload.autoLoadMap();
+        //地图弹层
+        
+        $(".map-x").click(function () {
+            $(".map-box").hide();
+        });
+    });
+</script>
+
+ 
+<div class="mddNavWrap">
+    <div class="mddNavbg">
+	    <div class="mddNav">            
+		    <ul class="clearfix">         
+			    <li class="on"><a title="桂林旅游必知" href="http://guilin.lotour.com/"><span>必知</span></a></li>
+                
+		        <li class=""><a href="http://guilin.lotour.com/wanfa/" title="桂林旅游玩法"><span>玩法</span></a></li>
+               
+                 <li class=""><a title="桂林旅游景区" href="http://guilin.lotour.com/jingqu/"><span>景区</span></a></li>                
+			         
+                <li class=""><a title="桂林旅游游记" href="http://guilin.lotour.com/lvyouyouji/"><span>游记</span></a></li>  
+                              
+			    <li class=""><a title="桂林旅游口碑" href="http://guilin.lotour.com/pingce/"><span>口碑</span></a></li>                
+			    <li class=""><a title="桂林旅游文章" href="http://guilin.lotour.com/news/"><span>文章</span></a></li>                
+			    
+                <li class=""><a title="桂林旅游预订" href="http://guilin.lotour.com/yuding/"><span>预订</span></a></li>
+                               	
+		    </ul>
+            <div class="bz-nav sphl">
+				    <dl class="clearfix">				
+					    <dd><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					    <dd><a href="javascript:void(0)" title="">玩法</a></dd>
+					    <dd><a href="javascript:void(0)" title="">资讯</a></dd>
+					    <dd><a href="javascript:void(0)" title="">住哪儿</a></dd>
+					    <dd><a href="javascript:void(0)" title="">包打听</a></dd>
+					    <dd><a href="javascript:void(0)" title="">如何到达</a></dd>					
+					    <dd><a href="javascript:void(0)" title="">附近城市</a></dd>
+					    <dt><a href="javascript:void(0)" title=""><span>手绘攻略</span></a></dt>
+				    </dl>
+			    </div>
+            <div class="bz-nav sphl">
+				<dl class="clearfix">
+					<dd class="nav1"><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					<dd class="nav2"><a href="javascript:void(0)" title="">旅行<br />月历</a></dd>
+					<dd class="nav3"><a href="javascript:void(0)" title="">必体验</a></dd>
+					<dd class="nav4"><a href="javascript:void(0)" title="">玩法</a></dd>
+					<dd class="nav5"><a href="javascript:void(0)" title="">抵达<br />住哪</a></dd>
+					<dd class="nav6"><a href="javascript:void(0)" title="">包打听</a></dd>
+					<dd class="nav7"><a href="javascript:void(0)" title="">周边<br />线路</a></dd>					
+				</dl>
+			</div>
+            <div class="bz-nav sphl">
+				<dl class="clearfix">
+					<dd class="nav1"><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					<dd class="nav3"><a href="javascript:void(0)" title="">必体验</a></dd>
+					<dd class="nav4"><a href="javascript:void(0)" title="">玩法</a></dd>
+					<dd class="nav5"><a href="javascript:void(0)" title="">重要<br />提示</a></dd>
+					<dd class="nav6"><a href="javascript:void(0)" title="">附近<br />景区</a></dd>
+					<dd class="nav7"><a href="javascript:void(0)" title="">城市<br />相关</a></dd>
+				</dl>
+			</div>
+	    </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(".bz-nav:eq(1)").removeClass("sphl");
+    $(function () {
+
+        var winw = $(window).width();
+        $('.map-box').css({ "margin-left": (winw - 980) / 2, "top": "233px", "border": "1px solid #f5f5f5" });
+
+        //滚动固定导航
+        $(window).scroll(function () {
+            var st = $(document).scrollTop(), toph = $(".lt-nav-new").height() + $(".bdBannerWrap").height();
+            if (st - toph >= 0) {
+                $(".mddNavWrap").addClass("mddNavWrapFix");
+                $(".bz-con1").addClass("pt-con1");
+                if ($.browser.msie && ($.browser.version == "6.0") && !$.support.style) {
+                    $(".mddNavWrap").css({ "top": st, "margin-top": "0" })
+                }
+            } else if (st - toph < 0) {
+                $(".mddNavWrap").removeClass("mddNavWrapFix");
+                $(".bz-con1").removeClass("pt-con1");
+                if ($.browser.msie && ($.browser.version == "6.0") && !$.support.style) {
+                    $(".mddNavWrap").css({ "top": "0", "margin-top": "0" })
+                }
+            }
+        });
+    });
+</script>
+<div class="bd-main bz-main clearfix">
+    <div class="bz-con clearfix bz-con1">
+        <div class="bz-con1-con">
+            <ul class="bz-con1-pic clearfix">
+                
+                <li class="pic-zi2 pic-2-2 pic-bg1" style="left:0px;top:0px">					
+					<div class="pic-wrap">
+						<h3><a href="http://guilin.lotour.com/zhengwen/2015/03/1269826.shtml" title="" target="_blank">慢生活</a></h3>
+						<p><a href="http://guilin.lotour.com/zhengwen/2015/03/1269826.shtml" title="" target="_blank">在桂林，随性惬意的慢生活唾手可得。骑行十里画廊，遇龙河竹筏漂流，泡在阳朔西街，夜游两江四湖，都带给你难得的闲适...</a><a target="_blank" title="" href="http://guilin.lotour.com/zhengwen/2015/03/1269826.shtml" class="more">[详细]</a></p>
+					</div>			
+				</li>      
+                
+                <li class="pic-zi2 pic-2-2 pic-bg3" style="left:420px;top:226px">					
+					<div class="pic-wrap">
+						<h3><a href="http://guilin.lotour.com/zhengwen/2015/03/1269821.shtml" title="" target="_blank">山水画</a></h3>
+						<p><a href="http://guilin.lotour.com/zhengwen/2015/03/1269821.shtml" title="" target="_blank">独特的喀斯特地貌成就了桂林华美、别致的山水风光，在这里低头见水，抬头见山，一幅幅超级三维IMAX水墨画环绕在你身边...</a><a target="_blank" title="" href="http://guilin.lotour.com/zhengwen/2015/03/1269821.shtml" class="more">[详细]</a></p>
+					</div>			
+				</li>      
+                
+                <li class="pic-img pic-2-2 pic-bg3" style="left:700px;top:0px">
+					<div class="pic-wrap"> <a href="http://guilin.lotour.com/zhengwen/2015/03/1269821.shtml" title="" target="_blank"><img src="http://img3.lotour.net/mustknow/2015/0327/2015032717102590564853.jpg" width="279" height="225" alt="龙脊梯田" title="龙脊梯田" /></a></div>
+					<b class="pic-j j-bl"></b>
+                    
+                    <i class="pic-line line-x1"></i>      
+                    
+                    <i class="pic-line line-y1"></i>
+                    
+				</li>
+                
+                <li class="pic-img pic-2-2 pic-bg3" style="left:700px;top:226px">
+					<div class="pic-wrap"> <a href="http://guilin.lotour.com/zhengwen/2015/03/1269821.shtml" title="" target="_blank"><img src="http://img1.lotour.net/mustknow/2015/0327/2015032717093764184639.jpg" width="279" height="225" alt="漓江" title="漓江" /></a></div>
+					<b class="pic-j j-tl"></b>
+                    
+                    <i class="pic-line line-x1"></i>      
+                    
+                    <i class="pic-line line-y1"></i>
+                    
+				</li>
+                
+                <li class="pic-img pic-3-2 pic-bg1" style="left:0px;top:226px">
+					<div class="pic-wrap"> <a href="http://guilin.lotour.com/zhengwen/2015/03/1269826.shtml" title="" target="_blank"><img src="http://img2.lotour.net/mustknow/2015/0327/201503271712253931094.jpg" width="419" height="225" alt="骑行十里画廊" title="骑行十里画廊" /></a></div>
+					<b class="pic-j j-tl"></b>
+                    
+                    <i class="pic-line line-x1"></i>      
+                    
+                    <i class="pic-line line-y1"></i>
+                    
+                    <i class="pic-line line-y2"></i>
+                    
+				</li>
+                
+                <li class="pic-img pic-3-2 pic-bg1" style="left:280px;top:0px">
+					<div class="pic-wrap"> <a href="http://guilin.lotour.com/zhengwen/2015/03/1269826.shtml" title="" target="_blank"><img src="http://img3.lotour.net/mustknow/2015/0327/2015032717112240595105.jpg" width="419" height="225" alt="西街" title="西街" /></a></div>
+					<b class="pic-j j-tl"></b>
+                    
+                    <i class="pic-line line-x1"></i>      
+                    
+                    <i class="pic-line line-y1"></i>
+                    
+                    <i class="pic-line line-y2"></i>
+                    
+				</li>
+                
+				
+			</ul>
+        </div>
+    </div>
+    <div class="bz-con clearfix">
+        <h2 class="bz-con-tit clearfix"> <strong class="tit1"><a href="javascript:void(0)" title="">旅行月历</a></strong> </h2>
+        <div class="bz-lxmonth clearfix img-scroll">
+			<a class="lx-btn lx-btn-l prev" href="javascript:void(0)" title=""></a>			
+			<div class="lxmonth img-list">				
+				<ul class="clearfix">
+                    
+                    <li deffer="6" class="lx-pingji">
+						<h3 class="clearfix"> <strong>3-6</strong><em></em><i></i> </h3>
+						<div class="lx-txt">3月起，桂林进入雨季，会让你的旅行一团潮湿。但三月三的壮族歌圩让你的耳朵充分享受，四月十五的龙脊梯田放水则是摄影的好时机。</div>
+					</li>      
+                    
+                    <li deffer="10" class="lx-wangji">
+						<h3 class="clearfix"> <strong>7-10</strong><em></em><i></i> </h3>
+						<div class="lx-txt">此时的桂林之旅和天气一样火热，7月后，水位和水的清澈度却恰到好处，可以尽情地玩水，户外活动的黄金期也在大雨乍停的夏秋之际...<a href="http://guilin.lotour.com/zhengwen/2015/03/1269840.shtml" target="_blank" title="">[详细]</a></div>
+					</li>      
+                    
+                    <li deffer="14" class="lx-danji">
+						<h3 class="clearfix"> <strong>11-2</strong><em></em><i></i> </h3>
+						<div class="lx-txt">冬天的水色不尽人意，1-2月的枯水期还可能导致漓江封航，但却是北方人过冬的好地方。12月中旬的阳朔渔火节让人感到温暖和奇幻。</div>
+					</li>      
+                    									
+				</ul>				
+				<b class="lx-mask"></b>
+			</div>
+			<a class="lx-btn lx-btn-r next" href="javascript:void(0)" title=""></a>				
+		</div>
+		<script type="text/javascript"> scrollloop('.img-scroll', '.prev', '.next', '.img-list', 3, false); </script>
+    </div>
+    <div class="bz-con clearfix">
+        <div class="bz-con-tit clearfix"> 
+			<ul class="bz-tab-tit" id="youchi">
+				<li><strong class="tit2"><a class="on" href="javascript:void(0)" title="">游</a></strong></li>
+				<li><strong class="tit2"><a href="javascript:void(0)" title="">吃</a></strong></li>
+				<li><strong class="tit2"><a href="javascript:void(0)" title="">购</a></strong></li>
+				<li><strong class="tit2"><a href="javascript:void(0)" title="">娱</a></strong></li>
+			</ul>			
+		</div>
+        <div class="bz-tab bz-tab-con bz-tab-you">
+			<a class="more" title="更多" target="_blank" href="http://guilin.lotour.com/jingqu/">更多</a>
+			<ul class="bi-list bi-list3 clearfix">
+                
+                <li class="first">
+                    <h3><span>漓江</span></h3>
+                    <a title="漓江旅游" target="_blank" href="http://guilin.lotour.com/guilinlijiang/">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0326/2015032616350032826610.jpg" width="335" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>漓江</span></h4>
+                            <p class="text">漓江，世界上规模最大、风景最美的岩溶山水游览区之一，她酷似一条青罗带，蜿蜒于万点奇峰之间，沿江风光旖...<span>[详细]</span></p>
+                            
+                            <p>门票：210元</p>
+                            
+                        </div>
+                    </a>
+                    <p class="like">241520人感兴趣</p>
+				</li>
+                    
+                <li>
+                    <h3><span>乐满地</span></h3>
+                    <a title="乐满地旅游" target="_blank" href="http://guilin.lotour.com/lemandixiuxian/">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0326/2015032616355856742357.jpg" width="201" height="129" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>乐满地</span></h4>
+                            <p class="text">在灵湖景区6000余亩的土地上，由酒店、主题...<span>[详细]</span></p>
+                            
+                            <p>门票：150元</p>
+                            
+                        </div>
+                    </a>
+                    <p class="like">18342人感兴趣</p>
+				</li>      
+                
+                <li>
+                    <h3><span>桂林两江四湖</span></h3>
+                    <a title="桂林两江四湖旅游" target="_blank" href="http://guilin.lotour.com/guilinliangjiangsihu/">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0326/2015032616410092260355.jpg" width="201" height="129" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>桂林两江四湖</span></h4>
+                            <p class="text">两江四湖景区是指漓江,桃花江,榕湖,杉湖,桂...<span>[详细]</span></p>
+                            
+                            <p>门票：170元</p>
+                            
+                        </div>
+                    </a>
+                    <p class="like">31795人感兴趣</p>
+				</li>      
+                
+                <li>
+                    <h3><span>西街</span></h3>
+                    <a title="西街旅游" target="_blank" href="http://guilin.lotour.com/guilinyangrenj/">
+                    	<img src="http://img3.lotour.net/mustknow/2015/0326/2015032616381810627676.jpg" width="201" height="129" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>西街</span></h4>
+                            <p class="text">城市概况：桂林是世界著名的风景游览城市和历史...<span>[详细]</span></p>
+                            
+                            <p>门票：免费</p>
+                            
+                        </div>
+                    </a>
+                    <p class="like">49861人感兴趣</p>
+				</li>      
+                
+                <li>
+                    <h3><span>桂林龙脊梯田</span></h3>
+                    <a title="桂林龙脊梯田旅游" target="_blank" href="http://guilin.lotour.com/gllgtt/">
+                    	<img src="http://img2.lotour.net/mustknow/2015/0326/2015032616370332140256.jpg" width="201" height="129" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>桂林龙脊梯田</span></h4>
+                            <p class="text">龙脊梯田距桂林市区77公里，是一个规模宏大的...<span>[详细]</span></p>
+                            
+                            <p>门票：80元</p>
+                            
+                        </div>
+                    </a>
+                    <p class="like">178521人感兴趣</p>
+				</li>      
+                
+                <li>
+                    <h3><span>遇龙河</span></h3>
+                    <a title="遇龙河旅游" target="_blank" href="http://guilin.lotour.com/yangsuoyulonghe/">
+                    	<img src="http://img3.lotour.net/mustknow/2015/0326/2015032616411276343351.jpg" width="201" height="129" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>遇龙河</span></h4>
+                            <p class="text">古名安乐水,后因中游有著名的遇龙桥,改为遇龙...<span>[详细]</span></p>
+                            
+                            <p>门票：240元</p>
+                            
+                        </div>
+                    </a>
+                    <p class="like">95512人感兴趣</p>
+				</li>      
+                
+                <li>
+                    <h3><span>兴坪古镇</span></h3>
+                    <a title="兴坪古镇旅游" target="_blank" href="http://guilin.lotour.com/xingpingguzhen/">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0421/2015042111433038269194.jpg" width="201" height="129" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>兴坪古镇</span></h4>
+                            <p class="text">兴坪古镇依山傍水，粉墙乌瓦石板小巷，是漓江沿...<span>[详细]</span></p>
+                            
+                            <p>门票：免费</p>
+                            
+                        </div>
+                    </a>
+                    <p class="like">15387人感兴趣</p>
+				</li>      
+                
+			</ul>
+		</div>
+		<div class="bz-tab bz-tab-con" style="display:none">
+			<ul class="bi-list clearfix">
+                
+                <li>
+					<h3><span>桂林米粉</span></h3>
+                    <a title="桂林米粉" target="_blank" href="http://guilin.lotour.com/zhengwen/2015/03/1269650.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0504/2015050410034705364784.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>桂林米粉</span></h4>
+                            <p class="text">习大大在回忆起自己年青时代第一次到桂林的美好往事时，动情地说：“如诗如画的桂林山水，美丽多彩的民族风情，饿了在街边吃一碗桂林米粉，...<span>[详细]</span></p>
+                            <p>价格：8元</p>
+                        </div>
+                    </a>					
+				</li>      
+                
+                <li>
+					<h3><span>喝油茶</span></h3>
+                    <a title="喝油茶" target="_blank" href="http://guilin.lotour.com/zhengwen/2015/03/1269651.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0504/2015050410134036156772.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>喝油茶</span></h4>
+                            <p class="text">喝油茶在桂林人的生活中更像是一种社交活动，或是生活态度。一壶油茶，伴着几样小吃，都是各种油炸和炒香的食品，约上三五好友，话不尽的悠...<span>[详细]</span></p>
+                            <p>价格：5元</p>
+                        </div>
+                    </a>					
+				</li>      
+                
+                <li>
+					<h3><span>啤酒鱼</span></h3>
+                    <a title="啤酒鱼" target="_blank" href="http://guilin.lotour.com/zhengwen/2015/03/1269652.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0504/2015050410135709369139.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>啤酒鱼</span></h4>
+                            <p class="text">阳朔啤酒鱼是当地居民从20世纪80年代起自创的一道有名地方特色菜，鱼肉鲜嫩可口无腥味，啤酒和鱼肉的香味让人胃口大开，正所谓“不吃不...<span>[详细]</span></p>
+                            <p>价格：28元</p>
+                        </div>
+                    </a>					
+				</li>      
+                
+                <li>
+					<h3><span>荔浦扣肉</span></h3>
+                    <a title="荔浦扣肉" target="_blank" href="http://guilin.lotour.com/zhengwen/2015/05/1277016.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0504/2015050414491547119871.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>荔浦扣肉</span></h4>
+                            <p class="text">荔浦芋扣肉是广西“十大名菜”之一，广西各地传统宴席名菜，曾获“全国名菜”之称。色泽金黄，酥而不烂，肥而不腻，芋片芳香，肉片味醇、色...<span>[详细]</span></p>
+                            <p>价格：48元</p>
+                        </div>
+                    </a>					
+				</li>      
+                
+                <li>
+					<h3><span>桂林田螺</span></h3>
+                    <a title="桂林田螺" target="_blank" href="http://guilin.lotour.com/zhengwen/2015/05/1277019.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0504/2015050414485906552000.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>桂林田螺</span></h4>
+                            <p class="text">小吃摊、小餐馆，炒田螺是被点频率最高的一道小吃，配上一瓶爽口的啤酒，吮吸着美味的田螺，再跟近旁的老乡聊聊天，真是赛神仙。每天在夜市...<span>[详细]</span></p>
+                            <p>价格：42元</p>
+                        </div>
+                    </a>					
+				</li>      
+                
+			</ul>	
+		</div>
+		<div class="bz-tab bz-tab-con" style="display:none">
+			<ul class="bi-list clearfix">
+                
+                <li>
+                    <h3><span>罗汉果</span></h3>
+                    <a title="罗汉果" target="_blank" href="http://guilin.lotour.com/zhengwen/2015/05/1277125.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0504/2015050414335284775374.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>罗汉果</span></h4>
+                            <p class="text">讲起罗汉果，相信大部分老广都不陌生，大家对于它最熟知的印象就是它特殊的甜味，据闻罗汉果中含有丰富的天然果糖、罗汉果甜甙及多种人体必...<span>[详细]</span></p>
+                            <p>价格：3元</p>
+                        </div>
+                    </a>				
+				</li>      
+                
+                <li>
+                    <h3><span>桂林腐乳</span></h3>
+                    <a title="桂林腐乳" target="_blank" href="http://guilin.lotour.com/zhengwen/2015/05/1277024.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0504/2015050414345824384079.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>桂林腐乳</span></h4>
+                            <p class="text">桂林豆腐乳是白腐乳的代表，远在宋代，桂林的豆腐乳已很出名。桂林豆腐乳历史悠久，颇负盛名，是传统特产“桂林三宝”之一。桂林豆腐乳是以...<span>[详细]</span></p>
+                            <p>价格：5元</p>
+                        </div>
+                    </a>				
+				</li>      
+                
+                <li>
+                    <h3><span>桂林三花酒</span></h3>
+                    <a title="桂林三花酒" target="_blank" href="http://guilin.lotour.com/zhengwen/2015/03/1269653.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0506/2015050619310238148972.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>桂林三花酒</span></h4>
+                            <p class="text">三花酒酿造历史可追溯到南宋。它是采山上桂花，汲漓江之水酿制而成。古时评定酒的质量，往往摇动瓶中酒，以酒中起花多少和持久情况定高低....<span>[详细]</span></p>
+                            <p>价格：50元</p>
+                        </div>
+                    </a>				
+				</li>      
+                
+                <li>
+                    <h3><span>马蹄糕</span></h3>
+                    <a title="马蹄糕" target="_blank" href="http://guilin.lotour.com/zhengwen/2015/03/1269658.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0506/2015050619304758476346.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>马蹄糕</span></h4>
+                            <p class="text">与松糕相比，马蹄糕的个头儿可就“相开见绌”了，其大小大约与小洒盅相仿。马蹄糕的形状似马蹄，以马蹄粉作原料，糕虽小，但配制原料的种类...<span>[详细]</span></p>
+                            <p>价格：8元</p>
+                        </div>
+                    </a>				
+				</li>      
+                
+                <li>
+                    <h3><span>桂林辣椒酱</span></h3>
+                    <a title="桂林辣椒酱" target="_blank" href="http://guilin.lotour.com/zhengwen/2015/03/1269654.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0506/2015050619303138333712.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>桂林辣椒酱</span></h4>
+                            <p class="text">桂林辣椒酱至今已有百余年历史，它以独特的风味冠压群芳，不仅走俏国内，而且畅销港澳以及东南亚各国，与桂林三花酒、桂林豆腐乳一起被誉为...<span>[详细]</span></p>
+                            <p>价格：8元</p>
+                        </div>
+                    </a>				
+				</li>      
+                
+			</ul>	
+		</div>
+		<div class="bz-tab bz-tab-con" style="display:none">
+			<ul class="bi-list bi-list2 clearfix">
+                
+                <li class="first">
+					<h3><span>印象刘三姐</span></h3>
+                    <a title="印象刘三姐" target="_blank" href="http://guilin.lotour.com/zhengwen/2015/03/1269661.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0504/2015050415181803619526.jpg" width="516" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>印象刘三姐</span></h4>
+                            <p class="text">方圆两公里的漓江水域，十二座背景山峰，广袤无际的天穹，构成全世界最大的山水剧场。在这幅上帝创造的杰作里，一部全新概念的“山水实景演...<span>[详细]</span></p>
+                            <p>价格：198元</p>
+                        </div>
+                    </a>
+				</li>      
+                
+                <li class="">
+					<h3><span>夜游两江四湖</span></h3>
+                    <a title="夜游两江四湖" target="_blank" href="http://guilin.lotour.com/zhengwen/2014/12/1256891.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0504/2015050415045099402067.jpg" width="215" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>夜游两江四湖</span></h4>
+                            <p class="text">两江四湖景区，是指由漓江（市区部分）、桃花江、木龙湖、桂湖、榕湖、杉湖构成的环城风景带，是可与威尼斯相婢美的环城水系，为甲天下之桂...<span>[详细]</span></p>
+                            <p>价格：190元</p>
+                        </div>
+                    </a>
+				</li>      
+                
+                <li class="">
+					<h3><span>遇龙河漂流</span></h3>
+                    <a title="遇龙河漂流" target="_blank" href="http://guilin.lotour.com/zhengwen/2015/03/1269667.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0504/201505041504298027199.jpg" width="215" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>遇龙河漂流</span></h4>
+                            <p class="text">遇龙河漂流不同一般漂流的地方在于它不是激流勇进式的，而是平静的漂流。在遇龙河上漂流，不是为了寻求刺激，而是躺在竹筏上的躺椅上享受宁...<span>[详细]</span></p>
+                            <p>价格：240元</p>
+                        </div>
+                    </a>
+				</li>      
+                
+			</ul>	
+		</div>	
+    </div>
+    <div class="bz-con clearfix">		
+		<h2 class="bz-con-tit clearfix"> <strong class="tit3"><a href="javascript:void(0)" title="">玩法</a></strong> <a class="more" title="更多" target="_blank" href="http://guilin.lotour.com/lvyouyouji/">更多</a> </h2>
+		<ul class="bz-wf clearfix">
+            
+            <li>
+				<h3><em class="i-guanfang"></em><span><a href="http://guilin.lotour.com/wanfa-355" target="_blank" title="">桂林慢生活一日游</a></span></h3>
+				<p class="wf-text">桂林虽顶着“甲天下”的名头，但随性惬意的慢生活唾手可得。遇龙河竹筏漂流，十里画廊骑行，漫步西街，处处洋溢着一份闲适。</p>
+				<p class="wf-place"><span>游览路线：</span> 
+                    
+                                           <a title="" target="_blank" href="http://guilin.lotour.com/yangsuoyulonghe/">遇龙河</a>
+                                     
+                                      &gt; 
+                                           
+                                           <a title="" target="_blank" href="http://guilin.lotour.com/ysshilihualang/">十里画廊</a>
+                                     
+                                      &gt; 
+                                           
+                                           <a title="" target="_blank" href="http://guilin.lotour.com/guilinyangrenj/">西街</a>
+                                         
+				</p>				
+			</li>      
+            
+            <li>
+				<h3><em class="i-guanfang"></em><span><a href="http://guilin.lotour.com/wanfa-353" target="_blank" title="">桂林山水一日游</a></span></h3>
+				<p class="wf-text">来到山水甲天下的桂林，一定要尽情地享受这里的一山一水，市区的象鼻山一直是中国人心中最可爱的桂林地标；泛舟漓江之上更是神仙...<a title="" target="_blank" href="http://guilin.lotour.com/wanfa-353">[详细]</a></p>
+				<p class="wf-place"><span>游览路线：</span> 
+                    
+                                           <a title="" target="_blank" href="http://guilin.lotour.com/glxiangshan/">象山公园</a>
+                                     
+                                      &gt; 
+                                           
+                                           <a title="" target="_blank" href="http://guilin.lotour.com/guilinlijiang/">漓江</a>
+                                     
+                                      &gt; 
+                                           
+                                           <a title="" target="_blank" href="http://guilin.lotour.com/xingpingguzhen/">兴坪古镇</a>
+                                         
+				</p>				
+			</li>      
+            
+              <li>
+				<h3><em class="i-miji"></em><span><a title="寻找课本上的记忆：飞在桂林！（桂林，阳朔篇）" target="_blank" href="http://guilin.lotour.com/zj/1112308">寻找课本上的记忆：飞在桂林！（桂林，阳朔</a></span></h3>
+				<p class="wf-text">⒈序：旅行，是一场精神的盛宴。旅行，不论人在不在家里，心一定在路上。旅行并不意味着你一定去了哪里，而是你的心在哪里。即使...<a title="" target="_blank" href="http://guilin.lotour.com/zj/1112308">[详细]</a></p>
+				<p class="wf-place wf-place2" deffer="5489319"><a href="http://my.lotour.com/i/5489319" target="_blank" title=""></a><i class="sphl">V</i><span>2015年1月游览过：</span> 
+                    
+                                  <a title="" target="_blank" href="http://guilin.lotour.com/">桂林</a>
+                                     	
+				</p>
+			</li>      
+              
+              <li>
+				<h3><em class="i-miji"></em><span><a title="史上最美配图阳朔自助游攻略" target="_blank" href="http://guilin.lotour.com/zj/1098890">史上最美配图阳朔自助游攻略</a></span></h3>
+				<p class="wf-text">为期9天的阳朔之旅终于结束了，明天又要开始正常的生活了，竟然有些期待的感觉。每次旅行都是成长的体验课，让我们用好奇心来感...<a title="" target="_blank" href="http://guilin.lotour.com/zj/1098890">[详细]</a></p>
+				<p class="wf-place wf-place2" deffer="4481991"><a href="http://my.lotour.com/i/4481991" target="_blank" title=""></a><i class="sphl">V</i><span>2014年11月游览过：</span> 
+                    
+                                  <a title="" target="_blank" href="http://guilin.lotour.com/yangshuoxian/">阳朔</a>
+                                     	
+				</p>
+			</li>      
+              
+              <li>
+				<h3><em class="i-miji"></em><span><a title="桂林的美景加美食   那就是人间天堂" target="_blank" href="http://guilin.lotour.com/zj/1091034">桂林的美景加美食   那就是人间天堂</a></span></h3>
+				<p class="wf-text">这篇游记不是什么旅游攻略,更不是什么省钱秘籍，只是跟大家分享下我们旅途上遇到的各种坑爹事让大家避免这些坑爹陷阱。遇到的各...<a title="" target="_blank" href="http://guilin.lotour.com/zj/1091034">[详细]</a></p>
+				<p class="wf-place wf-place2" deffer="4495611"><a href="http://my.lotour.com/i/4495611" target="_blank" title=""></a><i class="sphl">V</i><span>2014年10月游览过：</span> 
+                    
+                                  <a title="" target="_blank" href="http://guilin.lotour.com/">桂林</a>
+                                     	
+				</p>
+			</li>      
+              
+              <li>
+				<h3><em class="i-miji"></em><span><a title="呆在一个城市太久，突发奇想的桂林阳朔之旅" target="_blank" href="http://guilin.lotour.com/zj/1086454">呆在一个城市太久，突发奇想的桂林阳朔之旅</a></span></h3>
+				<p class="wf-text">从来没有写过什么游记，也没想过我会跳出来写这么一个游记。但是由于这次突发奇想的旅行，让我对很多东西有了新的一些认识，所以...<a title="" target="_blank" href="http://guilin.lotour.com/zj/1086454">[详细]</a></p>
+				<p class="wf-place wf-place2" deffer="4606783"><a href="http://my.lotour.com/i/4606783" target="_blank" title=""></a><i class="sphl">V</i><span>2014年8月游览过：</span> 
+                    
+                                  <a title="" target="_blank" href="http://guilin.lotour.com/yangshuoxian/">阳朔</a>
+                                     
+                                      &gt;   
+                                     
+                                  <a title="" target="_blank" href="http://guilin.lotour.com/">桂林</a>
+                                     	
+				</p>
+			</li>      
+              
+            
+        </ul>
+    </div>
+    <div class="bz-con bz-mapr clearfix">
+		<div class="bz-con-tit clearfix" id="dmap"> 
+			<ul>
+				<li><strong class="tit4"><a class="on" href="javascript:void(0)" id="test" title="">抵达</a></strong></li>
+				<li><strong class="tit4"><a href="javascript:void(0)" title="">住哪</a></strong></li>				
+			</ul>			
+		</div>
+        <div class="bz-con-l2">
+            <div class="bz-map" id="jq-map-l">  </div>
+            <p class="sphl"><span><a title="" target="_blank" href="http://d.lotour.com/hotel/guilin" id="ahotel"></a></span></p>
+        </div>
+        <div class="bz-tab bz-tab2">
+            <div class="bz-con-r2">
+				<div class="roll-con">
+					<ul class="bz-map-list bz-map-list2 bz-map-list3">
+                        
+                              <li>
+							      <h2 class="h-tit h-tit1">飞机</h2>
+                            
+							<h3 class="clearfix" deffer="0"><a href="http://guilin.lotour.com/zhengwen/2014/12/1256245.shtml" title="" target="_blank"><i class="bz-mdot">A</i><span>桂林两江国际机场</span></a></h3>
+                          
+                              <li>
+							      <h2 class="h-tit h-tit2">火车</h2>
+                            
+							<h3 class="clearfix" deffer="1"><a href="http://guilin.lotour.com/zhengwen/2014/12/1256257.shtml" title="" target="_blank"><i class="bz-mdot">B</i><span>桂林火车北站</span></a></h3>
+                          
+							<h3 class="clearfix" deffer="2"><a href="http://guilin.lotour.com/zhengwen/2014/12/1256257.shtml" title="" target="_blank"><i class="bz-mdot">C</i><span>桂林火车站</span></a></h3>
+                          
+                              <li>
+							      <h2 class="h-tit h-tit3">汽车</h2>
+                            
+							<h3 class="clearfix" deffer="3"><a href="http://guilin.lotour.com/zhengwen/2014/12/1256258.shtml" title="" target="_blank"><i class="bz-mdot">D</i><span>桂林汽车客运北站</span></a></h3>
+                          
+							<h3 class="clearfix" deffer="4"><a href="http://guilin.lotour.com/zhengwen/2014/12/1256258.shtml" title="" target="_blank"><i class="bz-mdot">E</i><span>琴潭汽车客运站</span></a></h3>
+                          
+							<h3 class="clearfix" deffer="5"><a href="http://guilin.lotour.com/zhengwen/2014/12/1256258.shtml" title="" target="_blank"><i class="bz-mdot">F</i><span>桂林汽车客运总站</span></a></h3>
+                          			
+					</ul>
+				</div>
+				<div class="roll-btn clearfix">
+					<a class="roll-up" href="javascript:void(0)" title=""></a>
+					<a class="roll-dwon" href="javascript:void(0)" title=""></a>					
+				</div>
+			</div>
+        </div>
+        <div class="bz-tab bz-tab2">
+			<div class="bz-con-r2">
+				<div class="roll-con">
+					<ul class="bz-map-list bz-map-list2">
+                    
+                        <li deffer="6309">
+							<h3 class="clearfix"><a href="javascript:void(0)" title=""><i class="bz-mdot">A</i><span>桂林两江四湖</span></a></h3>
+							<p>以中低档酒店为主，价格比较便宜，房间环境也很不错，坐公交便可到象鼻山、伏波山、七星岩。</p>
+							<p class="map-hotels" defferid="6309" deffertype="3"></p>
+						</li>  
+                    
+                        <li deffer="207249">
+							<h3 class="clearfix"><a href="javascript:void(0)" title=""><i class="bz-mdot">B</i><span>漓江</span></a></h3>
+							<p>住宿类型以高档酒店居多，住宿环境很好，适合经济条件较好，喜欢购物，对住宿条件要求较高。</p>
+							<p class="map-hotels" defferid="207249" deffertype="3"></p>
+						</li>  
+                    
+                        <li deffer="202212">
+							<h3 class="clearfix"><a href="javascript:void(0)" title=""><i class="bz-mdot">C</i><span>阳朔</span></a></h3>
+							<p>这里有很多的青年旅舍可以选择，特别适合自助旅行的驴友入住，可以约伴进行各种户外活动。</p>
+							<p class="map-hotels" defferid="202212" deffertype="2"></p>
+						</li>  
+                    
+					</ul>
+				</div>
+				<div class="roll-btn clearfix">
+					<a class="roll-up" href="javascript:void(0)" title=""></a>
+					<a class="roll-dwon" href="javascript:void(0)" title=""></a>					
+				</div>
+			</div>
+		</div>		
+    </div>
+    <div class="bz-con clearfix">
+		<div class="bz-con-l baodating">			
+			<div class="bz-con-tit clearfix">
+				<strong class="tit5"><a href="javascript:void(0)" title="">包打听</a></strong> 
+				<ul class="dating-tit">
+					<li><strong><a class="on" href="javascript:void(0)" title="">重要提示</a></strong></li>
+					<li><strong><a href="javascript:void(0)" title="">市内交通</a></strong></li>
+					<li><strong><a href="javascript:void(0)" title="">本地生活</a></strong></li>
+					<li><strong><a href="javascript:void(0)" title="">签证消费</a></strong></li>				
+				</ul>			
+			</div>
+			<div class="bz-tab">
+				<div class="roll-btn roll-btn2 clearfix">
+					<a class="roll-up" href="javascript:void(0)" title=""></a>
+					<a class="roll-dwon" href="javascript:void(0)" title=""></a>					
+				</div>
+				<div class="bz-dating roll-con">
+					<ul class="bz-tips-list">
+                    
+                        <li><b>自行车</b> 桂林的自行车盗窃相当猖獗，因此，无论你是到此的骑行者还是本地租自行车，都不要让车离开你的视线。</li>      
+                    
+                        <li><b>买票</b> 游两江四湖是有技巧的，购票不要去街边的旅行社和售票点买，要登陆他们的官网购票，可以享受折扣，比市场价优惠不少，还可以免费送票上门。</li>      
+                    
+                        <li><b>漓江游船</b> 乘坐漓江游船的时候，关于船型和时间都需要与船夫事先讲好，以免引起不必要的麻烦。</li>      
+                    
+                        <li><b>脱衣舞</b> 夜幕时分，南门桥一带的三轮车夫喜欢向单身男性推荐“脱衣舞”演出，这种诱惑的危险性不言而喻。</li>      
+                    
+                        <li><b>安全</b> 桂林是一个安全的城市，但由于太多人做旅游，若遇到一些特别热情地跟你介绍各种景点的拉客的人，就要注意啦，尽量避免不愉快的旅程发生。</li>      
+                    
+                        <li><b>公交卡</b> 如果打算在桂林停留较长时间，可考虑买张公交IC卡，可享受9折优惠，在桂林火车站对面4路公交车的起点处便有一处购卡点，押金30元。</li>      
+                    
+                        <li><b>习俗</b> 当走在桂林街头，如果有和善的桂林当地人亲热地称呼你为“狗肉”时，你可千万不要恼怒。因为“狗肉”是桂林的一句方言，就是朋友的意思。</li>      
+                    
+                    </ul>
+                </div>
+            </div>
+            <div class="bz-tab">
+				<div class="roll-btn roll-btn2 clearfix">
+					<a class="roll-up" href="javascript:void(0)" title=""></a>
+					<a class="roll-dwon" href="javascript:void(0)" title=""></a>					
+				</div>
+				<div class="bz-dating roll-con">
+					<ul class="bz-q-list">
+                    
+                        <li class="hover">
+							<h3><em></em><span>从桂林怎么去龙脊梯田？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">从桂林去龙脊梯田的话一般在琴潭汽车站坐车，车站门口一般有去龙脊梯田景区的专线车。如果你在桂林的前一天下午正好空出来，建议在这天下午去龙胜，晚上住在温泉景区，美美地享受一番有名的龙胜...<a target="_blank" href="http://guilin.lotour.com/zhengwen/2014/12/1256402.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>     
+                    
+                        <li class="">
+							<h3><em></em><span>从桂林怎么去阳朔？都有哪些方式可以选择？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">1、直达快巴：在桂林汽车总站乘坐前往阳朔的直达大巴，一般为30分钟一趟，票价15元/人，75分钟车程。2、私营中巴车：在桂林火车站前广场有到阳朔的私营中巴车，每15分钟一班，票价1...<a target="_blank" href="http://guilin.lotour.com/zhengwen/2014/12/1256397.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>     
+                    
+                        <li class="">
+							<h3><em></em><span>桂林市区租自行车方便吗？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">桂林市区不像阳朔那样满街都可以找到租自行车的地方，只有青年旅舍和少数自行车商店提供租车服务，通常价格为20元一天。
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>     
+                    
+                        <li class="">
+							<h3><em></em><span>桂林是否适合租车旅游？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">在桂林市内租车自驾的必要性不是很大，如果有兴趣可以联络全国连锁的神州租车桂林分店和小莫租车，后者提供较为丰富的包车（带司机）旅行路线，在多人出行时可以考虑。<a target="_blank" href="http://guilin.lotour.com/zhengwen/2014/12/1256388.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>     
+                    
+                        <li class="">
+							<h3><em></em><span>桂林公交方便便宜吗？有公交卡吗？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">对于自由行的游客来说，在桂林最为便捷的出行方式莫过于公交，既便捷又实惠。桂林普通的公交车票价均为1元，足以带你到达市内的主要景点。而旅游观光1号线则更为便捷，它途经象山公园、伏波山...<a target="_blank" href="http://guilin.lotour.com/zhengwen/2014/12/1256384.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>     
+                    
+                        <li class="">
+							<h3><em></em><span>桂林打车合算吗？起步价多少钱？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">桂林市区不算大，所以打车到各个景点游玩的话基本上不算贵，而且也比较方便，如果去比较远的景点时，司机一般不愿意打表而是议价，需要提前和司机讲好讲价。<a target="_blank" href="http://guilin.lotour.com/zhengwen/2014/12/1256382.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>     
+                    
+                    </ul>
+                </div>
+            </div>
+            <div class="bz-tab">
+				<div class="roll-btn roll-btn2 clearfix">
+					<a class="roll-up" href="javascript:void(0)" title=""></a>
+					<a class="roll-dwon" href="javascript:void(0)" title=""></a>					
+				</div>
+				<div class="bz-dating roll-con">
+					<ul class="bz-q-list">
+                    
+                       <li class="hover">
+							<h3><em></em><span>除经典的山水外，桂林还有其它的摄影题材吗？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">在桂林除了经典的山水外，本地摄影师一定会向你强烈推荐一个摄影题材，那便是桂北散落的古村落和历史遗迹。江头洲、水源头等古村度非常值得拍摄，这些村落大部分都处在未开发的状态，不收门票，...<a target="_blank" href="http://guilin.lotour.com/zhengwen/2014/12/1256403.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>桂林的龙脊梯田什么时间前往最适合摄影？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">龙脊梯田的四季都很美，4月中旬－6月中下旬：灌水插秧;7月－9月中上旬：绿色；9月中下旬－11月中上旬：金色龙脊；12月中下旬－2月中上旬：银装素裹;3月龙脊油菜花。但4月看水满田...<a target="_blank" href="http://guilin.lotour.com/zhengwen/2014/12/1256400.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>在桂林摄影要注意什么？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">桂林山水之美，众所皆知，而桂林山水之难拍，却不是每个摄影者都能有深刻的认识与体会。一些摄影地点和时间的贴士，也可以帮到大家。烟雨漓江这可以说是桂林山水的代表性景象，想要拍好漓江的烟...<a target="_blank" href="http://guilin.lotour.com/zhengwen/2014/12/1256398.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>桂林有什么可以带回家的特产？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">桂林的特产很多，最有名的，大家带的最多的要数名声在外的桂林三宝了，即辣椒酱、豆腐乳、三花酒，这三宝的制作工艺有很长的历史，来桂林的人都想带点回去品尝。除此之外，桂林还有很多著名的土...<a target="_blank" href="http://guilin.lotour.com/zhengwen/2014/12/1256395.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>桂林的最佳旅行季节是什么时候？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">最适合去桂林的时间应该是每年的4月-10月，这时的桂林山青水秀，是游山玩水的最佳时节，夏季可以体验刺激的漂流，农历四月十五之后的半月内，水汪汪的龙脊梯田又是另一番奇景，中秋之夜的象...<a target="_blank" href="http://guilin.lotour.com/zhengwen/2014/12/1256394.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>不同季节前往桂林都需要带什么衣服？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">4月份前往桂林的话要记得带上冲锋衣，挡风又保暖；5——6月的桂林为丰水期，多雨潮湿，尽管每日的最高温度都在32度左右，但因为湿度极大，雨季闷热，所以最好穿清凉的衣服。7-8月的盛夏...<a target="_blank" href="http://guilin.lotour.com/zhengwen/2014/12/1256392.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>桂林进行户外活动需要带什么装备？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">虽然不同的户外活动队对于装备有着不同的要求，但是一般来说，请确保你的行囊中有以下物品：1、一双舒适合脚的鞋，且最好防水；2、防水装备，包括雨衣、背包防雨罩、防水袋3、如果是长途骑行...<a target="_blank" href="http://guilin.lotour.com/zhengwen/2014/12/1256390.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>桂林人都说方言吗，我会不会有语言障碍？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">桂林市区基本都说桂林话，听起来有点类似于四川话，语速慢的话一般都能听懂大概意思。在桂林的郊区乡镇里面有说当地土话的，一般比较难懂。不过在去之前学几句日常的交际用语或许还有用武之地呢...<a target="_blank" href="http://guilin.lotour.com/zhengwen/2014/12/1256386.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>当地邮局网点多吗？寄包裹方便吗？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">想寄包裹的朋友可以到中山路的邮局网点，这里有阳桥支局和南门桥邮政所两家网点，对旅行者来说非常方便。但需要注意的是，阳桥支局的营业时间是08：30-18:00；南门桥邮政所的营业时间...<a target="_blank" href="http://guilin.lotour.com/zhengwen/2014/12/1256385.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                    </ul>
+                </div>
+            </div>
+            <div class="bz-tab">
+				<div class="roll-btn roll-btn2 clearfix">
+					<a class="roll-up" href="javascript:void(0)" title=""></a>
+					<a class="roll-dwon" href="javascript:void(0)" title=""></a>					
+				</div>
+				<div class="bz-dating roll-con">
+					<ul class="bz-q-list">
+                     
+                        <script type="text/javascript">
+                            $(".dating-tit li:eq(3)").addClass("sphl");
+                        </script>
+                      
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="bz-con-r">
+			<h2 class="bz-con-tit clearfix"> <strong class="tit5"><a href="javascript:void(0)" title="">鲜闻</a></strong> <a class="more" title="更多" target="_blank" href="http://guilin.lotour.com/news/">更多</a> </h2>
+			<ul class="bz-news-list">
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-26322.shtml" target="_blank" title="烟雨漓江，朦胧水乡">烟雨漓江，朦胧水乡</a> <span>2016-11-29</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-26061.shtml" target="_blank" title="隐匿在桂林山水脚下的千年古镇">隐匿在桂林山水脚下的千年古镇</a> <span>2016-11-28</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-25353.shtml" target="_blank" title="菊花盛开时，到天下龙菊第一村探秘">菊花盛开时，到天下龙菊第一村探秘</a> <span>2016-11-21</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/1/lg-jc-11668.shtml" target="_blank" title="暴雨下的兴坪古镇">暴雨下的兴坪古镇</a> <span>2016-11-04</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-23820.shtml" target="_blank" title="到龙脊，来一场黄色的邂逅">到龙脊，来一场黄色的邂逅</a> <span>2016-10-28</span></li>      
+                
+                <li class="newsline"><a href="http://www.lotour.com/zhengwen/2/lg-jc-23853.shtml" target="_blank" title="漓江，我喜欢你柔情时的样子">漓江，我喜欢你柔情时的样子</a> <span>2016-10-28</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-23493.shtml" target="_blank" title="秋风起兮叶飞扬 在对的时间去对的地方">秋风起兮叶飞扬 在对的时间去对的地方</a> <span>2016-10-26</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-23457.shtml" target="_blank" title="漓江，那千年不灭的渔火">漓江，那千年不灭的渔火</a> <span>2016-10-24</span></li>      
+                
+                <li class=""><a href="http://guilin.lotour.com/zhengwen/2016/10/1322859.shtml" target="_blank" title="第六届桂林国际山水文化旅游节 乐途荣获“桂林旅游贡献奖”">第六届桂林国际山水文化旅游节 乐途荣获“桂...</a> <span>2016-10-22</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-23057.shtml" target="_blank" title="最美金秋，到小平乐邂逅那一片金黄可好">最美金秋，到小平乐邂逅那一片金黄可好</a> <span>2016-10-18</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/1/lg-jc-15213.shtml" target="_blank" title="龙胜长发红瑶衣 最美弧度勾勒幸福龙脊">龙胜长发红瑶衣 最美弧度勾勒幸福龙脊</a> <span>2016-10-10</span></li>      
+                
+                <li class="newsline"><a href="http://www.lotour.com/zhengwen/2/lg-jc-20672.shtml" target="_blank" title="银杏成群   满园尽带黄金甲">银杏成群   满园尽带黄金甲</a> <span>2016-10-09</span></li>      
+                
+                <li class=""><a href="http://guilin.lotour.com/zj/1098890" target="_blank" title="史上最美配图阳朔自助游攻略">史上最美配图阳朔自助游攻略</a> <span>2014-11-26</span></li>      
+                
+                <li class=""><a href="http://guilin.lotour.com/zj/1033077" target="_blank" title="桂林阳朔自驾出游">桂林阳朔自驾出游</a> <span>2014-01-05</span></li>      
+                
+                <li class=""><a href="http://guilin.lotour.com/zj/1671497" target="_blank" title="阳朔 是柔情山水也有巅峰诱惑">阳朔 是柔情山水也有巅峰诱惑</a> <span>2016-12-01</span></li>      
+                
+                <li class=""><a href="http://guilin.lotour.com/zj/1615970" target="_blank" title="阳朔自助游吃住行攻略(2016年更新版)">阳朔自助游吃住行攻略(2016年更新版)</a> <span>2016-01-05</span></li>      
+                
+                
+            </ul>
+        </div>
+    </div>
+    <div class="bz-con clearfix">		
+		<div class="bz-con-tit clearfix">
+			<strong class="tit6"><a href="javascript:void(0)" title="">桂林周边</a></strong> 
+			<ul class="zhoubian-tit">
+                
+                  <li><strong class="tit7"><a class="on" href="javascript:void(0)" title=""><i>7</i>自由自驾7日游</a></strong></li>    
+                
+                  <li><strong class="tit7"><a class="" href="javascript:void(0)" title=""><i>10</i>边海之旅十日游</a></strong></li>    
+                			
+			</ul>			
+		</div>
+        
+           <div class="bz-tab" style="">
+			<div class="bz-con-l2">
+				<div class="bz-map"> <img width="520" height="508" src="http://img2.lotour.net/mustknow/2015/0326/2015032617040926788332.jpg" alt="" /> </div>				
+			</div>
+			<div class="bz-con-r3">
+				<div class="line-days"><span>7天</span></div>
+				<h3><a target="_blank" href="http://guilin.lotour.com/zhengwen/2015/03/1269605.shtml" title="">自由自驾7日游</a></h3>
+				<p><p><a href="http://guilin.lotour.com/" target="_blank" title="桂林">桂林</a>—<a href="http://hezhou.lotour.com/" target="_blank" title="贺州">贺州</a>—<a href="http://wuzhou.lotour.com/" target="_blank" title="梧州">梧州</a>—<a href="http://guangzhou.lotour.com/" target="_blank" title="广州">广州</a>已经实现全程高速，若有7天的时间可以把沿线上的古村镇一网打尽。从桂林经<a href="http://guilin.lotour.com/yangshuoxian/" target="_blank" title="阳朔">阳朔</a>，沿途风景极美，看景的时候要注意小心驾驶。G80测速很严，多数限速80,。途径黄姚古镇时可以舒舒服服住上一晚再前往贺州。贺州无疑是<a href="http://chenzhou.lotour.com/guidong/" target="_blank" title="桂东">桂东</a>南最好玩的地方，高大挺拔的大山、神秘的溶洞、天然的温泉、保存完好的古村落，如同那些文艺作品留下的迷离味道，充满韵味。第二<a href="http://yingkou.lotour.com/zhanqian/" target="_blank" title="站前">站前</a>往梧州，对于旅行者而言，来梧州的理由当然是驰名粤西的各色美食了。结束梧州之旅后，继续沿着G80广昆高速取道广州。观赏珠江的夜景，吃吃广式早茶和各色小吃，定会让你的旅途非常完美。</p></p>
+			</div>
+		</div>   
+        
+           <div class="bz-tab" style="display:none">
+			<div class="bz-con-l2">
+				<div class="bz-map"> <img width="520" height="508" src="http://img3.lotour.net/mustknow/2015/0326/2015032617182021699143.jpg" alt="" /> </div>				
+			</div>
+			<div class="bz-con-r3">
+				<div class="line-days"><span>10天</span></div>
+				<h3><a target="_blank" href="http://guilin.lotour.com/zhengwen/2015/03/1269612.shtml" title="">边海之旅十日游</a></h3>
+				<p><p>沿海沿边境是<a href="http://guangxi.lotour.com/" target="_blank" title="广西">广西</a><a href="http://beijing.lotour.com/nanxianjq/" target="_blank" title="南线">南线</a>的主题，从<a href="http://guilin.lotour.com/" target="_blank" title="桂林">桂林</a>出发，一路向南，前往郁郁葱葱的<a href="http://nanning.lotour.com/" target="_blank" title="南宁">南宁</a>，到<a href="http://shangqiu.lotour.com/nanhu1/" target="_blank" title="南湖">南湖</a>去放松一下心情，再去<a href="http://nanning.lotour.com/guangximinzubowuguan/" target="_blank" title="广西民族博物馆">广西民族博物馆</a>做一次民族知识普及，然后投入到各色街边美食的怀抱。往南去<a href="http://beihai.lotour.com/" target="_blank" title="北海">北海</a>，在老街体会时光流转，加入到<a href="http://beihai.lotour.com/beihaiyintan/" target="_blank" title="银滩">银滩</a>五花八门的水上运动中，然后留一天的时间，前往山口红树林保护区搜寻一下弹涂鱼的身影，再返回市区，买一张船票，悠哉地前往<a href="http://beihai.lotour.com/weizhoudao/" target="_blank" title="涠洲岛">涠洲岛</a>海钓、潜水、露营看日出。接下来，从北海道坭兴陶的故乡<a href="http://qinzhou.lotour.com/" target="_blank" title="钦州">钦州</a>，在<a href="http://qinzhou.lotour.com/qinzhousanningwan/" target="_blank" title="三娘湾">三娘湾</a>与白海豚嬉戏，然后经<a href="http://fangchenggang.lotour.com/fangchengqu/" target="_blank" title="防城">防城</a>港，前往沿海的边境小城<a href="http://neijiang.lotour.com/dongxing/" target="_blank" title="东兴">东兴</a>，在<a href="http://fangchenggang.lotour.com/jingdao/" target="_blank" title="京岛">京岛</a>感受京族风情及鹭鸟的欢闹。<br /></p></p>
+			</div>
+		</div>   
+        
+	</div>
+
+</div>
+<script type="text/javascript">
+    var poi_list = [{"Latitude": 25.216069,"Longitude": 110.047086,"ScenicId":0},{"Latitude": 110.301969,"Longitude": 25.329241,"ScenicId":1},{"Latitude": 25.253679,"Longitude": 110.28302,"ScenicId":2},{"Latitude": 0,"Longitude": 110.307994,"ScenicId":3},{"Latitude": 25.257804,"Longitude": 110.270388,"ScenicId":4},{"Latitude": 25.266557,"Longitude": 110.285888,"ScenicId":5}];
+    var poi_list1 = [{"Latitude": 25.249505,"Longitude": 110.291119,"ScenicId":6309},{"Latitude": 25.2267,"Longitude": 110.323,"ScenicId":207249},{"Latitude": 24.78,"Longitude": 110.48,"ScenicId":202212}];
+    var mddid = parseInt('210');
+    var mdd_center = { lat:parseFloat('25.28'), lng:parseFloat('110.28'), zoom:parseInt('7') },map;
+    var marker_handle;
+    var markers = { };
+    var currPop;
+    var allPop = { };
+    var currOtherPop;
+    var allOtherPop = { };
+        var abc = ['A','B','C','D','E','F','G','H','I','J'];
+        $(window).on('resize', function () {
+            init_mapsize();//重绘页面
+        });
+        function initMaxMap(){
+            marker_handle = MarkerOverlay();
+            map_draw('jq-map-l', mdd_center, poi_list, "");
+            init_mapsize();    
+        }
+
+        //初始化地图浮层尺寸
+        function init_mapsize(){
+            $('#jq-map-l').width(520);
+            $('#jq-map-l').height(508);
+        }
+        //绘制地图上的数据
+        function map_draw(box, mdd_center, poi_list1, kmz) {
+            //地图
+            var myLatLng = new google.maps.LatLng(mdd_center.lat, mdd_center.lng);
+            var myOptions = {
+                zoom : mdd_center.zoom,
+                center : myLatLng,
+                panControl : true,
+                mapTypeId: google.maps.MapTypeId.ROADMAP
+            };
+            map = new google.maps.Map(document.getElementById(box), myOptions);
+            if(kmz!=''){
+                var areaborder = new google.maps.KmlLayer(kmz, {
+                    clickable:false
+                    //preserveViewport:mdd.preserveViewport
+                });
+                areaborder.setMap(map);
+            }
+            if(poi_list1.length==0) return;
+            var bounds = new google.maps.LatLngBounds();
+            var pagesize = poi_list1.length>10 ? 10 : poi_list1.length;
+            var order = 0;
+            //数据清空
+            markers = { };
+            allPop = { };
+            allOtherPop = { };
+            for(var i = 0; i < pagesize; i++){
+                var p = poi_list1[i];
+                var poi_id = p.ScenicId;
+                var latlng = new google.maps.LatLng(parseFloat(p.Latitude), parseFloat(p.Longitude));
+                bounds.extend(latlng);
+                var markerHtml = '<div class="map-mark" data-id="' + poi_id + '">'+abc[order]+'</div>';
+                var order = order + 1;       
+                markers[poi_id] = new marker_handle(map, markerHtml, latlng, function(){
+                });
+                markers[poi_id].id = poi_id;
+            }
+            map.fitBounds(bounds);
+        }
+
+        function GetDateStr(AddDayCount) {
+            var dd = new Date();
+            dd.setDate(dd.getDate() + AddDayCount); //获取AddDayCount天后的日期
+            var y = dd.getFullYear();
+            var m = dd.getMonth() + 1; //获取当前月份的日期
+            var d = dd.getDate();
+            return y + "-" + m + "-" + d;
+        }
+    $(function () {
+        setTimeout(function () { initMaxMap(); },3000);
+
+        $(".map-hotels").each(function () {
+            var _this = $(this), regionid = _this.attr("defferid"), regiontype = _this.attr("deffertype");
+            if (regiontype > 0) {
+                $.ajax({
+                    cache: false,
+                    type: "GET",
+                    url: "http://d.lotour.com/hotel/api/GethotelCountAndLowestPricenew",
+                    dataType: "jsonp",
+                    data: { "regionid": regionid, "regiontype": regiontype, "sdate": GetDateStr(1), "edate": GetDateStr(2) },
+                    success: function (data) {
+                        if (data.Count > 0) {
+                            _this.html("<i></i><a href=\"http://d.lotour.com/hotel/"+data.RetunUrl+"\" target=\"_blank\" title=\"\">共有" + data.Count + "家酒店<b>" + data.LowestPrice + "</b>元起</a>");
+                        }
+                    }
+                });
+            }
+        });
+
+        
+        $.ajax({
+            cache: false,
+            type: "GET",
+            url: "http://d.lotour.com/hotel/api/GethotelCountAndLowestPricenew",
+            dataType: "jsonp",
+            data: { "regionid": 210, "regiontype": 1, "sdate": GetDateStr(1), "edate": GetDateStr(2) },
+                    success: function (data) {
+                        if (data.Count > 0) {
+                            $("#ahotel").html("<em>桂林</em>共有<b>"+data.Count+"</b>家客栈酒店,<i>￥</i><b>"+data.LowestPrice+"</b>起&gt;");
+                        }
+                    }
+                });
+                
+        
+
+        //左侧导航
+        $('.bz-nav:eq(1) dd').live('click', function () {
+            $(this).find("a").addClass("on");
+            $(this).siblings("dd").find("a").removeClass("on");
+            var index = $(this).parent().find("dd:visible").index($(this)),
+				 h = $('.bz-con').eq(index).offset().top - 60;
+            if (h < 318) {
+                $("html, body").animate({
+                    scrollTop: 233
+                }, 400);
+            } else {
+                $("html, body").animate({
+                    scrollTop: h
+                }, 400);
+            }
+        });
+        $(window).scroll(function () {
+            $('.bz-con').each(function () {
+                if ($(this).offset().top >= $(document).scrollTop() - $(this).outerHeight(true) + 120) {
+                    $('.bz-nav:eq(1) dd').eq($('.bz-con').index($(this))).find("a").addClass("on");
+                    $('.bz-nav:eq(1) dd').eq($('.bz-con').index($(this))).siblings("dd").find("a").removeClass("on");
+                    return false
+                }
+            });
+            var rollh = $(".bz-main").height() + 216 - $(".bz-nav:eq(1)").height();
+            if (rollh < $(document).scrollTop()) {
+                $(".bz-nav:eq(1)").hide();
+            } else {
+                $(".bz-nav:eq(1)").show();
+            };
+        });
+
+        //个性	
+        $(".bz-con1-con li").live("hover", function () {
+            $(this).toggleClass("hover");
+        });
+
+        //必体验
+        $(".bi-list li").mouseenter(function() {
+            $(this).find("h3").hide();
+            $(this).find(".mask").stop().slideDown();			
+        }).mouseleave(function() {
+            $(this).find(".mask").stop().slideUp("fast");	
+            $(this).find("h3").show();
+        });	
+
+        //包打听		
+        $(".bz-q-list li").live("hover", function () {
+            $(this).addClass("hover");
+            $(this).siblings("li").removeClass("hover");
+        });
+        $('.bz-tips-list li').live("hover", function () {
+            $(this).toggleClass("hover");
+        });
+        $('.baodating .roll-btn a').live('click', function () {
+            $(this).parent().siblings(".roll-con:not(:hidden)").find("li").removeClass("hover");
+        });
+
+        //tab切换
+        $(".bz-con-tit li").hover(function () {
+            var _this = $(this), ul = _this.parent(), li = ul.find('li'), index = li.index(_this);
+            ul.parent().siblings(".bz-tab").hide().eq(index).show();
+            li.find('a').removeClass("on");
+            _this.find('a').addClass("on");
+            var div=ul.parents("#dmap");
+            if(div.length>0){
+                if(index==0){
+                    map_draw('jq-map-l', mdd_center, poi_list, "");
+                    $("#ahotel").parents("p").addClass("sphl");
+                }
+                else{
+                    map_draw('jq-map-l', mdd_center, poi_list1, "");
+                    $("#ahotel").parents("p").removeClass("sphl");
+                }
+            }
+        });
+
+        $(".bz-map-list:eq(0) h3").hover(function(){
+            $('.map-mark[data-id='+$(this).attr('deffer')+']').toggleClass('on');
+        });
+
+        $(".bz-map-list:eq(1) li").hover(function(){
+            $('.map-mark[data-id='+$(this).attr('deffer')+']').toggleClass('on');
+        });
+
+        //地图右侧滚动
+        function maprRoll(){
+            $('.roll-con ul').each(function(){
+                var ulH=$(this).height(), n=Math.ceil(ulH/480);
+                $(this).css("height",ulH);	
+                if(ulH>504){
+                    $(this).css("height",n*480);					
+                }else{
+                    $(this).parent().siblings(".roll-btn").hide();
+                }				
+            });			
+			
+            $('.roll-up').live('click', function(){								
+                var $this = $(this).parent().siblings(".roll-con:not(:hidden)"), dltop = $this.scrollTop(), dlh = $('.roll-con ul').height()-450;
+                $this.animate({scrollTop: $this.scrollTop() - 480},200);				
+            });		
+            $('.roll-dwon').live('click', function () {		
+                var $this = $(this).parent().siblings(".roll-con"), dltop = $this.scrollTop(), dlh = $('.roll-con ul').height()-450;
+                $this.animate({scrollTop: $this.scrollTop() + 480},200);				
+            });		
+        };
+        maprRoll();
+
+        $(".wf-place2").each(function () {
+            var _this = $(this), author = _this.attr("deffer");
+            $.getJSON("http://my.lotour.com/i/Common/GetMemberMessage?memberId=" + author + "&callback=?", function (data) {
+                if (data.Success) {
+                    var result = data.Result.Data;
+                    _this.find("a").eq(0).html(result.NickName);
+                    if (result.VStatus > 0) {
+                        _this.find("i").removeClass("sphl");
+                        if (result.VStatus == 2) {
+                            _this.find("i").addClass("i-red");
+                        }
+                        else {
+                            _this.find("i").addClass("i-blue");
+                        }
+                    }
+                }
+            });
+        });
+    });
+</script>
+
+<!--=S 灵感推荐 -->
+<a class="lg-tuijian-btn" href="javascript:void(0)"></a>
+<div class="lg-tuijian">
+	<div class="lg-tuijian-con">
+    	<a class="lg-tuijian-x" href="javascript:void(0)"></a>
+        <h2 class="lg-tuijian-tit">桂林旅游灵感推荐
+        
+            <a href="http://www.lotour.com/zhengwen/r210" target="_blank" title="">更多&gt;&gt;</a>
+        
+        </h2>
+        <ul class="lg-tuijian-list clearfix">
+        
+        	<li>
+            	<div class="img"><a href="http://www.lotour.com/zhengwen/2/lg-jc-26322.shtml" target="_blank" title=""><img src="http://img1.lotour.net/Inspiration/2016/1128/20161128222244114872034_1920_590.jpg" width="130" height="84" alt=""></a></div>
+                <div class="txt">
+                	<h3><a href="http://www.lotour.com/zhengwen/2/lg-jc-26322.shtml" target="_blank" title="烟雨漓江，朦胧水乡">烟雨漓江，朦胧水乡</a></h3>
+                    <p>作者：<a href="http://zhuanlan.lotour.com/2396" target="_blank" title="">云雾阳光</a></p>
+                    <div class="tags">
+                    	<a href="http://www.lotour.com/zhengwen/x3738" target="_blank" title="山">山</a><a href="http://www.lotour.com/zhengwen/x3731" target="_blank" title="江河">江河</a><a href="http://www.lotour.com/zhengwen/x3747" target="_blank" title="漂流">漂流</a>
+                    </div>
+                </div>
+            </li>
+         
+        	<li>
+            	<div class="img"><a href="http://www.lotour.com/zhengwen/2/lg-jc-26061.shtml" target="_blank" title=""><img src="http://img1.lotour.net/Inspiration/2016/1124/20161124225023514633684_1920_590.jpg" width="130" height="84" alt=""></a></div>
+                <div class="txt">
+                	<h3><a href="http://www.lotour.com/zhengwen/2/lg-jc-26061.shtml" target="_blank" title="隐匿在桂林山水脚下的千年古镇">隐匿在桂林山水脚下的千年古镇</a></h3>
+                    <p>作者：<a href="http://zhuanlan.lotour.com/2396" target="_blank" title="">云雾阳光</a></p>
+                    <div class="tags">
+                    	<a href="http://www.lotour.com/zhengwen/x3717" target="_blank" title="古城古镇">古城古镇</a>
+                    </div>
+                </div>
+            </li>
+         
+        	<li>
+            	<div class="img"><a href="http://www.lotour.com/zhengwen/2/lg-jc-25353.shtml" target="_blank" title=""><img src="http://img1.lotour.net/Inspiration/2016/1116/20161116003806361612694_1920_590.jpg" width="130" height="84" alt=""></a></div>
+                <div class="txt">
+                	<h3><a href="http://www.lotour.com/zhengwen/2/lg-jc-25353.shtml" target="_blank" title="菊花盛开时，到天下龙菊第一村探秘">菊花盛开时，到天下龙菊第一村探秘</a></h3>
+                    <p>作者：<a href="http://zhuanlan.lotour.com/2341" target="_blank" title="">乐天谷主</a></p>
+                    <div class="tags">
+                    	<a href="http://www.lotour.com/zhengwen/x3737" target="_blank" title="赏花">赏花</a>
+                    </div>
+                </div>
+            </li>
+           
+        </ul>
+    </div>	
+</div>
+<script type="text/javascript">
+    $(function(){
+        $(".lg-tuijian-list li:last").css("margin-right","0px");
+        if ($(window).width() < 1200) {
+            $(".lg-tuijian").addClass("lg-tuijian-s");
+        } else {
+            $(".lg-tuijian").removeClass("lg-tuijian-s");
+        }
+        $(".lg-tuijian-btn").mouseover(function(){
+            $(this).css("left","-75px");
+            $(".lg-tuijian").stop().animate({ 'left':'0' },800,'linear');		
+        }).trigger("mouseover");
+        $(".lg-tuijian-x").click(function(){		
+            $(".lg-tuijian").stop().animate({ 'left':'-100%' },500,'linear');
+            $(".lg-tuijian-btn").stop().animate({ 'left':'0' },600,'linear');		
+        });
+	
+    });
+</script>
+<!--=E 灵感推荐 -->
+
+    
+    <div class="main bdMain">
+        
+
+<div class="content">
+    <h2 class="conlist-tit">— 桂林旅游行政区划 —</h2>
+    <div class="conlist-con">
+    
+        <dl>
+            <dt><a href="http://guilin.lotour.com/qixingqu/" title="七星">七星</a></dt>
+            <dd>
+            
+                <a href="http://guilin.lotour.com/lingjianxi/" title="灵剑溪">灵剑溪</a>
+          
+                <a href="http://guilin.lotour.com/yinlongzhubao/" title="银龙珠宝">银龙珠宝</a>
+          
+                <a href="http://guilin.lotour.com/guilinlijiang/" title="漓江">漓江</a>
+          
+                <a href="http://guilin.lotour.com/yueyashan/" title="月牙山">月牙山</a>
+          
+                <a href="http://guilin.lotour.com/guilinputuoshan/" title="普陀山">普陀山</a>
+          
+                <a href="http://guilin.lotour.com/dizhentai/" title="地震台">地震台</a>
+          
+                <a href="http://guilin.lotour.com/qixingyandong/" title="七星岩洞">七星岩洞</a>
+          
+                <a href="http://guilin.lotour.com/zgyrdizhiguan/" title="中国岩溶地质馆">中国岩溶地质馆</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://guilin.lotour.com/gongchengyaozu/" title="恭城县">恭城县</a></dt>
+            <dd>
+            
+                <a href="http://guilin.lotour.com/zhouweici/" title="周渭祠">周渭祠</a>
+          
+                <a href="http://guilin.lotour.com/chajiangssly/" title="茶江水上乐园">茶江水上乐园</a>
+          
+                <a href="http://guilin.lotour.com/gongcheng/" title="恭城古建筑群">恭城古建筑群</a>
+          
+                <a href="http://guilin.lotour.com/hunanhuiguan/" title="恭城湖南会馆">恭城湖南会馆</a>
+          
+                <a href="http://guilin.lotour.com/gongchengwenmiao/" title="恭城文庙">恭城文庙</a>
+          
+                <a href="http://guilin.lotour.com/gongchengwumiao/" title="恭城武庙">恭城武庙</a>
+          
+                <a href="http://guilin.lotour.com/gongchengssc/" title="社山村">社山村</a>
+          
+                <a href="http://guilin.lotour.com/hongyan/" title="红岩生态旅游新村">红岩生态旅游新村</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://guilin.lotour.com/pinglexian/" title="平乐">平乐</a></dt>
+            <dd>
+            
+                <a href="http://guilin.lotour.com/rongjinguzhen/" title="榕津古镇">榕津古镇</a>
+          
+                <a href="http://guilin.lotour.com/rongjinqngj/" title="榕津千年古街">榕津千年古街</a>
+          
+                <a href="http://guilin.lotour.com/xianjiawq/" title="仙家温泉">仙家温泉</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://guilin.lotour.com/ziyuanxian/" title="资源">资源</a></dt>
+            <dd>
+            
+                <a href="http://guilin.lotour.com/laoshanjieyssl/" title="老山界原始森林">老山界原始森林</a>
+          
+                <a href="http://guilin.lotour.com/wupaihe/" title="五排河">五排河</a>
+          
+                <a href="http://guilin.lotour.com/baihuistjy/" title="百卉生态景园">百卉生态景园</a>
+          
+                <a href="http://guilin.lotour.com/zijiang/" title="资江">资江</a>
+          
+                <a href="http://guilin.lotour.com/yinzhulsbhq/" title="银竹老山保护区">银竹老山保护区</a>
+          
+                <a href="http://guilin.lotour.com/baodingpubu/" title="宝鼎瀑布">宝鼎瀑布</a>
+          
+                <a href="http://guilin.lotour.com/bajiaozhai/" title="八角寨">八角寨</a>
+          
+                <a href="http://guilin.lotour.com/gxziyuandizhigy/" title="广西资源地质公园">广西资源地质公园</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://guilin.lotour.com/yongfuxian/" title="永福">永福</a></dt>
+            <dd>
+            
+                <a href="http://guilin.lotour.com/yognfuyan/" title="永福岩">永福岩</a>
+          
+                <a href="http://guilin.lotour.com/yfynzgc/" title="永福永宁州古城">永福永宁州古城</a>
+          
+                <a href="http://guilin.lotour.com/naningbanxiahu/" title="板峡湖">板峡湖</a>
+          
+                <a href="http://guilin.lotour.com/jinzhongshan/" title="金钟山">金钟山</a>
+          
+                <a href="http://guilin.lotour.com/baishouyan/" title="百寿岩">百寿岩</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://guilin.lotour.com/quanzhouxian/" title="全州">全州</a></dt>
+            <dd>
+            
+                <a href="http://guilin.lotour.com/shuiyueyan/" title="水月岩">水月岩</a>
+          
+                <a href="http://guilin.lotour.com/longyandong/" title="龙岩洞">龙岩洞</a>
+          
+                <a href="http://guilin.lotour.com/yulushan/" title="语录山">语录山</a>
+          
+                <a href="http://guilin.lotour.com/yanjiuwenquan/" title="炎井温泉">炎井温泉</a>
+          
+                <a href="http://guilin.lotour.com/yanwolou/" title="燕窝楼">燕窝楼</a>
+          
+                <a href="http://guilin.lotour.com/hongyinqiao/" title="虹饮桥">虹饮桥</a>
+          
+                <a href="http://guilin.lotour.com/tongmuwan/" title="桐木湾">桐木湾</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://guilin.lotour.com/linguixian/" title="临桂">临桂</a></dt>
+            <dd>
+            
+                <a href="http://guilin.lotour.com/feihuduiyizhi/" title="飞虎队遗址">飞虎队遗址</a>
+          
+                <a href="http://guilin.lotour.com/dongzhaijyzhdg/" title="蝴蝶谷">蝴蝶谷</a>
+          
+                <a href="http://guilin.lotour.com/shuixianyan/" title="水仙岩">水仙岩</a>
+          
+                <a href="http://guilin.lotour.com/shiertanpiaol/" title="十二滩漂流">十二滩漂流</a>
+          
+                <a href="http://guilin.lotour.com/sheshijie/" title="蛇世界">蛇世界</a>
+          
+                <a href="http://guilin.lotour.com/xionghushang/" title="熊虎山庄">熊虎山庄</a>
+          
+                <a href="http://guilin.lotour.com/jiutanpubu/" title="九滩瀑布">九滩瀑布</a>
+          
+                <a href="http://guilin.lotour.com/guilinlongyan/" title="桂林龙岩">桂林龙岩</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://guilin.lotour.com/yangshuoxian/" title="阳朔">阳朔</a></dt>
+            <dd>
+            
+                <a href="http://guilin.lotour.com/lianhuayan/" title="莲花岩">莲花岩</a>
+          
+                <a href="http://guilin.lotour.com/liugongst/" title="留公三潭">留公三潭</a>
+          
+                <a href="http://guilin.lotour.com/duxiushan/" title="独秀山">独秀山</a>
+          
+                <a href="http://guilin.lotour.com/shuijingshijie/" title="水晶世界">水晶世界</a>
+          
+                <a href="http://guilin.lotour.com/yangshuobaopuy/" title="抱朴园">抱朴园</a>
+          
+                <a href="http://guilin.lotour.com/putaoshan/" title="葡萄山">葡萄山</a>
+          
+                <a href="http://guilin.lotour.com/yangshuosenly/" title="广西阳朔森林公园">广西阳朔森林公园</a>
+          
+                <a href="http://guilin.lotour.com/donglangshan/" title="东郎山">东郎山</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://guilin.lotour.com/xiangshanqu/" title="象山">象山</a></dt>
+            <dd>
+            
+                <a href="http://guilin.lotour.com/zhishan/" title="雉山">雉山</a>
+          
+                <a href="http://guilin.lotour.com/nanxigongyuan/" title="南溪公园">南溪公园</a>
+          
+                <a href="http://guilin.lotour.com/guilinliangjiangsihu/" title="桂林两江四湖">桂林两江四湖</a>
+          
+                <a href="http://guilin.lotour.com/puxianta/" title="普贤塔">普贤塔</a>
+          
+                <a href="http://guilin.lotour.com/glxiangshan/" title="象山公园">象山公园</a>
+          
+                <a href="http://guilin.lotour.com/guilinshelita/" title="舍利塔">舍利塔</a>
+          
+                <a href="http://guilin.lotour.com/kaiyuansiyz/" title="开元寺遗址">开元寺遗址</a>
+          
+                <a href="http://guilin.lotour.com/shuiyuedong/" title="水月洞">水月洞</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://guilin.lotour.com/diecaiqu/" title="叠彩">叠彩</a></dt>
+            <dd>
+            
+                <a href="http://guilin.lotour.com/chengrenbei/" title="成仁碑">成仁碑</a>
+          
+                <a href="http://guilin.lotour.com/yingwushan/" title="鹦鹉山">鹦鹉山</a>
+          
+                <a href="http://guilin.lotour.com/diecaibeiyoud/" title="叠彩北牖洞">叠彩北牖洞</a>
+          
+                <a href="http://guilin.lotour.com/mingyuefeng/" title="明月峰">明月峰</a>
+          
+                <a href="http://guilin.lotour.com/guilinxixiasi/" title="桂林栖霞寺">桂林栖霞寺</a>
+          
+                <a href="http://guilin.lotour.com/fuboshan1/" title="伏波山">伏波山</a>
+          
+                <a href="http://guilin.lotour.com/yaoshanjingqu/" title="尧山景区">尧山景区</a>
+          
+                <a href="http://guilin.lotour.com/nanxishan/" title="南溪山">南溪山</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://guilin.lotour.com/xiufengqu/" title="秀峰">秀峰</a></dt>
+            <dd>
+            
+                <a href="http://guilin.lotour.com/gandijng/" title="甘地纪念馆">甘地纪念馆</a>
+          
+                <a href="http://guilin.lotour.com/jinjiangfcdt/" title="静江府城地图">静江府城地图</a>
+          
+                <a href="http://guilin.lotour.com/jiangyiwujyjnb/" title="蒋翊武就义纪念碑">蒋翊武就义纪念碑</a>
+          
+                <a href="http://guilin.lotour.com/guilinzhiwuyuan/" title="桂林植物园">桂林植物园</a>
+          
+                <a href="http://guilin.lotour.com/xuedong/" title="雪洞">雪洞</a>
+          
+                <a href="http://guilin.lotour.com/cjtzgrjq/" title="车江侗族古榕景区">车江侗族古榕景区</a>
+          
+                <a href="http://guilin.lotour.com/guilintaipingy/" title="桂林太平岩">桂林太平岩</a>
+          
+                <a href="http://guilin.lotour.com/xiaaoyaolouyz/" title="逍遥湖">逍遥湖</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://guilin.lotour.com/jiapuxian/" title="荔蒲">荔蒲</a></dt>
+            <dd>
+            
+                <a href="http://guilin.lotour.com/xiurengurong/" title="修仁古榕">修仁古榕</a>
+          
+                <a href="http://guilin.lotour.com/yinziyanlvyouqu/" title="银子岩">银子岩</a>
+          
+                <a href="http://guilin.lotour.com/baguashanzhuang/" title="八卦山庄">八卦山庄</a>
+          
+                <a href="http://guilin.lotour.com/dajianghu/" title="大江湖">大江湖</a>
+          
+                <a href="http://guilin.lotour.com/lijiangwang/" title="荔江湾">荔江湾</a>
+          
+                <a href="http://guilin.lotour.com/elingsi/" title="鹅翎寺">鹅翎寺</a>
+          
+                <a href="http://guilin.lotour.com/xiarenqiao/" title="仙人挢">仙人挢</a>
+          
+                <a href="http://guilin.lotour.com/fengyuyan/" title="丰鱼岩度假区">丰鱼岩度假区</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://guilin.lotour.com/xinganxian/" title="兴安">兴安</a></dt>
+            <dd>
+            
+                <a href="http://guilin.lotour.com/sixianci/" title="四贤祠">四贤祠</a>
+          
+                <a href="http://guilin.lotour.com/shjbchrongdong/" title="世纪冰川大溶洞">世纪冰川大溶洞</a>
+          
+                <a href="http://guilin.lotour.com/wulixia/" title="五里峡">五里峡</a>
+          
+                <a href="http://guilin.lotour.com/xiangjzyijzh/" title="湘江战役旧址">湘江战役旧址</a>
+          
+                <a href="http://guilin.lotour.com/xinganlingqu/" title="兴安灵渠">兴安灵渠</a>
+          
+                <a href="http://guilin.lotour.com/lemandixiuxian/" title="乐满地">乐满地</a>
+          
+                <a href="http://guilin.lotour.com/guyanguan/" title="古严关">古严关</a>
+          
+                <a href="http://guilin.lotour.com/qinchengyizhi/" title="秦城遗址">秦城遗址</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://guilin.lotour.com/longshenggezu/" title="龙胜">龙胜</a></dt>
+            <dd>
+            
+                <a href="http://guilin.lotour.com/xijiangpingfg/" title="西江坪风光">西江坪风光</a>
+          
+                <a href="http://guilin.lotour.com/longshengdtjy/" title="大唐景苑">大唐景苑</a>
+          
+                <a href="http://guilin.lotour.com/guirendong/" title="归仁洞">归仁洞</a>
+          
+                <a href="http://guilin.lotour.com/tianqiaoguanhou/" title="天桥观猴">天桥观猴</a>
+          
+                <a href="http://guilin.lotour.com/furonghe/" title="芙蓉河">芙蓉河</a>
+          
+                <a href="http://guilin.lotour.com/jinzhuzhuangz/" title="金竹壮寨">金竹壮寨</a>
+          
+                <a href="http://guilin.lotour.com/longshengwenquan/" title="龙胜温泉">龙胜温泉</a>
+          
+                <a href="http://guilin.lotour.com/longshengshanmc/" title="龙胜南山牧场">龙胜南山牧场</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://guilin.lotour.com/guanyangxian/" title="灌阳">灌阳</a></dt>
+            <dd>
+            
+                <a href="http://guilin.lotour.com/sudongshengong/" title="苏东神宫">苏东神宫</a>
+          
+                <a href="http://guilin.lotour.com/guanyangheiyan/" title="灌阳黑岩">灌阳黑岩</a>
+          
+                <a href="http://guilin.lotour.com/yuelinggunj/" title="月岭古民居">月岭古民居</a>
+          
+                <a href="http://guilin.lotour.com/gxqianjiadong/" title="千家垌自然保护区">千家垌自然保护区</a>
+          
+                <a href="http://guilin.lotour.com/guanyangshengong/" title="灌阳神宫">灌阳神宫</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://guilin.lotour.com/lingchuanxian/" title="灵川">灵川</a></dt>
+            <dd>
+            
+                <a href="http://guilin.lotour.com/jtczdygj/" title="江头村周敦颐故居">江头村周敦颐故居</a>
+          
+                <a href="http://guilin.lotour.com/fotayan/" title="佛塔岩">佛塔岩</a>
+          
+                <a href="http://guilin.lotour.com/lingchuanmopanshan/" title="磨盘山">磨盘山</a>
+          
+                <a href="http://guilin.lotour.com/djplslpb/" title="东江漂流森林瀑布">东江漂流森林瀑布</a>
+          
+                <a href="http://guilin.lotour.com/mopanshanmatou/" title="磨盘山码头">磨盘山码头</a>
+          
+                <a href="http://guilin.lotour.com/haiyangyxlty/" title="海洋村">海洋村</a>
+          
+                <a href="http://guilin.lotour.com/jiangtoucun/" title="江头村和长岗岭村">江头村和长岗岭村</a>
+          
+                <a href="http://guilin.lotour.com/guilintaohuaj/" title="桂林桃花江">桂林桃花江</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://guilin.lotour.com/yanshanqu/" title="雁山">雁山</a></dt>
+            <dd>
+            
+                <a href="http://guilin.lotour.com/jiangjunqiaoyz/" title="将军桥遗址">将军桥遗址</a>
+          
+                <a href="http://guilin.lotour.com/fuxuewenmiaoyz/" title="府学文庙遗址">府学文庙遗址</a>
+          
+                <a href="http://guilin.lotour.com/zhenpiyanyizhi/" title="甑皮岩遗址">甑皮岩遗址</a>
+          
+                <a href="http://guilin.lotour.com/caopinghuizux/" title="草坪回族乡">草坪回族乡</a>
+          
+                <a href="http://guilin.lotour.com/guilinsenly/" title="广西桂林森林公园">广西桂林森林公园</a>
+          
+                <a href="http://guilin.lotour.com/gudonpubu/" title="古东瀑布">古东瀑布</a>
+          
+                <a href="http://guilin.lotour.com/wangbantm/" title="王半塘墓">王半塘墓</a>
+          
+                <a href="http://guilin.lotour.com/majunwumu/" title="马君武墓">马君武墓</a>
+          
+          </dd>
+        </dl>
+      
+    </div>
+</div>
+
+        <div class="content">
+            <div class="travel-recom">    	<h2 class="travel-t">国内游目的地推荐</h2>        <ul class="traver-c clear">        	<li><a title="" target="_blank" href="http://beijing.lotour.com/">北京</a></li><li><a title="" target="_blank" href="http://haerbin.lotour.com/">哈尔滨</a></li><li><a title="" target="_blank" href="http://dalian.lotour.com">大连</a></li><li><a title="" target="_blank" href="http://sanya.lotour.com/">三亚</a></li><li><a title="" target="_blank" href="http://lijiang.lotour.com/">丽江</a></li><li><a title="" target="_blank" href="http://nanjing.lotour.com/">南京</a></li><li><a title="" target="_blank" href="http://hangzhou.lotour.com/">杭州</a></li><li><a title="" target="_blank" href="http://chongqing.lotour.com/">重庆</a></li><li><a title="" target="_blank" href="http://chengdu.lotour.com/">成都</a></li><li><a title="" target="_blank" href="http://yangzhou.lotour.com/">扬州</a></li><li><a title="" target="_blank" href="http://shanghai.lotour.com/">上海</a></li><li><a title="" target="_blank" href="http://xiamen.lotour.com/">厦门</a></li><li><a title="" target="_blank" href="http://qinhuangdao.lotour.com/">秦皇岛</a></li><li><a title="" target="_blank" href="http://jssuzhou.lotour.com/">苏州</a></li><li><a title="" target="_blank" href="http://shangrao.lotour.com/">上饶</a></li><li><a title="" target="_blank" href="http://leshan.lotour.com/">乐山</a></li><li><a title="" target="_blank" href="http://tianjin.lotour.com/">天津</a></li><li><a title="" target="_blank" href="http://huangshan.lotour.com/">黄山</a></li><li><a title="" target="_blank" href="http://guangzhou.lotour.com/">广州</a></li><li><a title="" target="_blank" href="http://wenzhou.lotour.com/">温州</a></li><li><a title="" target="_blank" href="http://hangzhou.lotour.com/">杭州</a></li><li><a title="" target="_blank" href="http://xian.lotour.com/">西安</a></li><li><a title="" target="_blank" href="http://luoyang.lotour.com/">洛阳</a></li><li><a title="" target="_blank" href="http://chengde.lotour.com/">承德</a></li><li><a title="" target="_blank" href="http://qingdao.lotour.com/">青岛</a></li><li><a title="" target="_blank" href="http://weihai.lotour.com/">威海</a></li><li><a title="" target="_blank" href="http://jinan.lotour.com/">济南</a></li></li><li><a title="" target="_blank" href="http://taian.lotour.com/">泰安</a></li><li><a title="" target="_blank" href="http://beihai.lotour.com/">北海</a></li><li><a title="" target="_blank" href="http://changsha.lotour.com/">长沙</a></li><li><a title="" target="_blank" href="http://dalibaizu.lotour.com/">大理</a></li><li><a title="" target="_blank" href="http://guiyang.lotour.com/">贵阳</a></li><li><a title="" target="_blank" href="http://guilin.lotour.com/">桂林</a></li><li><a title="" target="_blank" href="http://haikou.lotour.com/">海口</a></li><li><a title="" target="_blank" href="http://hulunbeier.lotour.com/">呼伦贝尔</a></li><li><a title="" target="_blank" href="http://kaifeng.lotour.com/">开封</a></li><li><a title="" target="_blank" href="http://kunming.lotour.com/">昆明</a></li><li><a title="" target="_blank" href="http://lasa.lotour.com/">拉萨</a></li><li><a title="" target="_blank" href="http://mudanjiang.lotour.com/">牡丹江</a></li><li><a title="" target="_blank" href="http://ningbo.lotour.com/">宁波</a></li><li><a title="" target="_blank" href="http://qiqihaer.lotour.com/">齐齐哈尔</a></li><li><a title="" target="_blank" href="http://shaoxing.lotour.com/">绍兴</a></li><li><a title="" target="_blank" href="http://shenzhen.lotour.com/">深圳</a></li><li><a title="" target="_blank" href="http://shenyang.lotour.com/">沈阳</a></li><li><a title="" target="_blank" href="http://shijiazhuang.lotour.com/">石家庄</a></li><li><a title="" target="_blank" href="http://wulumuqi.lotour.com/">乌鲁木齐</a></li><li><a title="" target="_blank" href="http://wuxi.lotour.com/">无锡</a></li><li><a title="" target="_blank" href="http://wuhan.lotour.com/">武汉</a></li><li><a title="" target="_blank" href="http://yinchuan.lotour.com/">银川</a></li><li><a title="" target="_blank" href="http://zhuhai.lotour.com/">珠海</a></li>                   </ul>        <h2 class="travel-t">出境游目的地推荐</h2>        <ul class="traver-c clear">  <li><a title="" target="_blank" href="http://jpn.lotour.com/">日本</a></li><li><a title="" target="_blank" href="http://kor.lotour.com/">韩国</a></li><li><a title="" target="_blank" href="http://ind.lotour.com/">印度 </a></li><li><a title="" target="_blank" href="http://nep.lotour.com/">尼泊尔</a></li><li><a title="" target="_blank" href="http://tha.lotour.com/">泰国 </a></li><li><a title="" target="_blank" href="http://cam.lotour.com/">柬埔寨</a></li><li><a title="" target="_blank" href="http://gbr.lotour.com/">英国 </a></li><li><a title="" target="_blank" href="http://fra.lotour.com/">法国</a></li><li><a title="" target="_blank" href="http://tur.lotour.com/">土耳其</a></li><li><a title="" target="_blank" href="http://aus.lotour.com/">澳大利亚</a></li><li><a title="" target="_blank" href="http://nzl.lotour.com/">新西兰</a></li><li><a title="" target="_blank" href="http://ken.lotour.com/">肯尼亚</a></li><li><a title="" target="_blank" href="http://egy.lotour.com/">埃及</a></li><li><a title="" target="_blank" href="http://usa.lotour.com/">美国 </a></li> <li><a title="" target="_blank" href="http://mya.lotour.com/">缅甸</a></li><li><a title="" target="_blank" href="http://fin.lotour.com/">芬兰</a></li><li><a title="" target="_blank" href="http://swe.lotour.com/">瑞典</a></li><li><a title="" target="_blank" href="http://mri.lotour.com/">毛里求斯</a></li> </ul>    </div>
+
+        </div>
+        <div class="content">
+        <!--#include virtual="/share/commonfrag/frag_651.inc" --> <div class="zs_yqlj">	<strong>友情链接</strong>   <p>      <a href="http://qy.focus.cn/" target="_blank">清远房产网</a><a href="http://gl.58.com/lvyouxianlu/" target="_blank">桂林国内旅游景点</a><a href="http://guilin.55tuan.com" target="_blank">桂林团购</a><a href="http://www.zhelun.com/" target="_blank">宁波旅行社</a><a href="http://newhouse.xian.soufun.com/" target="_blank">搜房西安</a><a href="http://bj.jxedt.com/" target="_blank">北京驾校一点通</a> <a href="http://gl.focus.cn/" target="_blank">桂林房地产</a> <a href="http://gx.273.cn/" target="_blank">广西二手车</a> <a href="http://xian.xcar.com.cn/" target="_blank">西安汽车网</a><a href=" http://hotel.city8.com/" target="_blank">酒店预订</a> <a href="http://nanjing.lotour.com/" target="_blank">南京旅游</a> <a href="http://shanghai.lotour.com/" target="_blank">上海旅游</a> <a href="http://qingdao.lotour.com/" target="_blank">青岛旅游</a> <a href="http://panjin.lotour.com/honghaitan/" target="_blank">红海滩</a> <a href="http://chongqing.lotour.com/" target="_blank">重庆旅游</a><a href="http://www.jia.com/guilin/" target="_blank">桂林装修</a><a href="http://gl.fang.anjuke.com/" target="_blank">桂林楼盘</a> </p></div
+        </div>
+         <script>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');  ga('create', 'UA-60190713-1', 'auto');  ga('send', 'pageview');</script>
+    </div>
+    
+<!--=S 公共底 -->  
+<div class="ltFooter">
+	<div class="ltfoot clear">
+		<div class="ltfootA">
+			<a href="http://corp.lotour.com/index.shtml" target="_blank" title="乐途介绍">乐途介绍</a><i>|</i><a href="http://corp.lotour.com/job_2.shtml" target="_blank" title="招贤纳士">招贤纳士</a><i>|</i><a href="http://corp.lotour.com/lotour_honour.shtml" target="_blank" title="网站荣誉">网站荣誉</a><i>|</i><a href="http://corp.lotour.com/contact.shtml" target="_blank" title="联系我们">联系我们</a><i>|</i><a href="http://corp.lotour.com/parter.shtml" target="_blank" title="合作伙伴">合作伙伴</a><i>|</i><a href="http://corp.lotour.com/adv_sev.shtml" target="_blank" title="营销形式">营销形式</a><i>|</i><a href="http://corp.lotour.com/adv_case.shtml" target="_blank" title="成功案例">成功案例</a><i>|</i><a href="http://member.lotour.com/" target="_blank" title="商家入驻">商家入驻</a><i>|</i><a href="http://member.lotour.com/" target="_blank" title="商家登录">商家登录</a><i>|</i><a href="http://d.lotour.com/yudingbangzhu/" target="_blank" title="预订帮助">预订帮助</a><i>|</i><a href="http://corp.lotour.com/term.shtml" target="_blank" title="服务条款">服务条款</a>
+		</div>
+		<div class="ltfootB">
+			<a class="btmLogo" target="_blank" href="http://www.lotour.com/" title="乐途旅游网"></a>
+			<p><a href="http://www.miibeian.gov.cn" target="_blank" title="">京ICP备12008860号-1</a>&nbsp;&nbsp;<a href="http://corp.lotour.com/licence_gd.shtml" target="_blank" title="">广电节目制作许可证：1313号</a>&nbsp;&nbsp;京公网安备：11010502001653<br />
+			<span class="Arial">Copyright &copy; 2005 - 2016&nbsp;&nbsp;<a href="http://www.lotour.com/" target="_blank">Lotour.com</a>&nbsp;&nbsp;All Rights Reserved.</span>&nbsp;<a href="http://www.lotour.com/" target="_blank" title="乐途旅游网">乐途旅游网</a>&nbsp;版权所有</p>
+			<a class="btmIco" target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202008020400006"></a>
+		</div>		
+	</div>
+</div>
+<!--=E 公共底 -->
+<script type="text/javascript" src="http://js.lotour.net/feedback_v1.js"></script><script type="text/javascript" src="http://js.lotour.net/analytics/statsv2.js" defer charset="UTF-8"></script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-39387460-1']);
+    _gaq.push(['_setDomainName', 'lotour.com']);
+    _gaq.push(['_addOrganic', 'baidu', 'word']);
+    _gaq.push(['_addOrganic', 'soso', 'w']);
+    _gaq.push(['_addOrganic', '3721', 'name']);
+    _gaq.push(['_addOrganic', 'yodao', 'q']);
+    _gaq.push(['_addOrganic', 'vnet', 'kw']);
+    _gaq.push(['_addOrganic', 'sogou', 'query']);
+    _gaq.push(['_addOrganic', '360', 'q']);
+    _gaq.push(['_addOrganic', 'so', 'q']);
+    var full_url = location.pathname + location.search + location.hash;
+    _gaq.push(['_trackPageview', full_url]);
+    _gaq.push(['_trackPageLoadTime']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F317768ad40e6ddbe20f10e89b4712c35' type='text/javascript'%3E%3C/script%3E"));
+
+
+</script>
+
+    <!--=S 右底工具条 -->
+<div class="toolbarNew">
+	<div class="tbarNewBtnS"></div>
+	<ul>
+		<li><a hidefocus="true" href="javascript:void(0);" method="been" deffer="210" class="footmark" title=""><i></i><span>我去过</span></a></li>
+		<li><a hidefocus="true" href="javascript:void(0);" method="want" deffer="210" class="addWantTo" title=""><i></i><span>我想去</span></a></li>
+		<li><a hidefocus="true" href="javascript:void(0);" method="help" deffer="210" deffername="桂林" class="help" title=""><i></i><span>发求助</span></a> </li>
+		<li class="tbarShare"> <a href="javascript:void(0);" class="tbarShareIco"> <i></i> <span>分享</span> </a>
+			<div class="sharecon"> 
+				<!-- Baidu Button BEGIN -->
+				<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare"> <span class="bds_more"></span> </div>
+				<script type="text/javascript" id="bdshare_js" data="type=tools&amp;mini=1&amp;uid=0" ></script> 
+				<script type="text/javascript" id="bdshell_js"></script> 
+				<script type="text/javascript">
+				    document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                </script> 
+				<!-- Baidu Button END --> 
+			</div>
+		</li>
+	</ul>
+	<script type="text/javascript">
+	    $(function () {
+	        $(window).scroll(function () {
+	            var st = $(document).scrollTop(), winh = $(window).height();
+	            if (st > 0) {
+	                if ($('.tbarS').length > 0) { return false }
+	                $('.tbarNewBtnS').click()
+	                $('.toolbarNew').addClass('tbarS')
+	            } else if (st <= 0) {
+	                $('.tbarNewBtn').click()
+	                $('.toolbarNew').removeClass('tbarS')
+	            }
+	        });
+	        $('.tbarNewGtop').live('click', function () { $("html, body").animate({ scrollTop: 0 }, 120); })
+	        $('.tbarNewBtnS').live('click', function () {
+	            $('.toolbarNew ul').stop().animate({ 'height': '312px' })
+	            $('.tbarNewGtop').stop().animate({ 'height': '45px' })
+	            $(this).addClass('tbarNewBtn').removeClass('tbarNewBtnS');
+	            return false
+	        })
+	        $('.tbarNewBtn').live('click', function () {
+	            $('.toolbarNew ul').stop().animate({ 'height': '0px' })
+	            $('.tbarNewGtop').stop().animate({ 'height': '3px' })
+	            $(this).addClass('tbarNewBtnS').removeClass('tbarNewBtn');
+	            return false
+	        })
+
+	        $("a[method=been]").click(function () {
+	            var regionid = $(this).attr("deffer");
+	            var a = $("a[method=been][deffer=" + regionid + "]");
+	            $.getJSON("http://my.lotour.com/login/login/islogin?callback=?&" + (new Date()), function (data) {
+	                if (data.uid > 0)
+	                    a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.uid + "/?rid=" + regionid, "target": "_blank" });
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.memberId + "/?rid=" + regionid, "target": "_blank" });
+	                    }, function (data) {
+	                        SetTopState();
+	                        a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.memberId + "/?rid=" + regionid, "target": "_blank" });
+	                    }, 1, "http://my.lotour.com/i/NotesPublish/replaceUid?rid=" + regionid);
+	                }
+	            });
+	        });
+	        $("a[method=want]").click(function () {
+	            var regionid = $(this).attr("deffer"), month = new Date().getMonth() + 1;
+	            var a = $("a[method=want][deffer=" + regionid + "]");
+	            $.getJSON("http://my.lotour.com/login/login/islogin?callback=?&" + (new Date()), function (data) {
+	                if (data.uid > 0) {
+	                    $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    $('.layerBg').css('height', $(document).height()).show();
+	                }
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    }, function (data) {
+	                        SetTopState();
+	                        $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    }, 1, location.href.toString().replace("#", "") + "?rid=" + regionid + "&ReturnAction=dplace");
+	                }
+	            });
+	        });
+	        $("a[method=help]").click(function () {
+	            var regionid = $(this).attr("deffer"), rname = $(this).attr("deffername");
+	            $.getJSON('http://my.lotour.com/login/login/islogin?callback=?&' + (new Date()), function (data) {
+	                if (data.uid > 0) {
+	                    showHelp(regionid, rname);
+	                }
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        showHelp(regionid, rname);
+	                    }, function (data) {
+	                        SetTopState();
+	                        showHelp(regionid, rname);
+	                    }, 1, location.href.toString().replace("#", "") + "?rid=" + regionid + "&ReturnAction=ask");
+	                }
+	            });
+	        });
+	    });
+	    function showHelp(regionid, rname) {
+	        $('#ask_topic').fadeIn(500).loadAskPanel(0);
+	        $('.layerBg').css('height', $(document).height()).show();
+	        $('#txtAskRegionSelect1').val(rname).attr('disabled', 'disabled');
+	        $('#hidAskTopicRegionId1').val(regionid);
+	        $.ajax({
+	            cache: false,
+	            type: "GET",
+	            dataType: 'jsonp',
+	            jsonp: 'callback',
+	            url: "http://my.lotour.com/i/DPlace/AskTopic/GetBeenCount/",
+	            data: { regionId: regionid },
+	            success: function (data) {
+	                data = data.Result.Data;
+	                if (data.count > 0) {
+	                    $("#BeenMsg").html(data.count + "专家为您解答");
+	                }
+	            },
+	            error: function (xhr, textStatus, errorThrown) {
+	            }
+	        });
+	    }
+  </script>
+	<div class="tbarNewGtop"></div>
+</div>
+<!--=E 右底工具条 -->
+</body>
+</html>

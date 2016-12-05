@@ -1,0 +1,1654 @@
+
+
+<!DOCTYPE html>
+
+<html>
+    
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    
+    <meta name="description" content="乐途旅游网_峨眉山景区旅游，提供峨眉山景区，峨眉山景区旅游景点推荐，峨眉山景区旅游攻略，峨眉山景区旅游玩法，最适合去峨眉山景区旅游的季节，峨眉山景区旅游注意事项，峨眉山景区旅游线路，峨眉山景区酒店预定，峨眉山景区旅游地图等出行指南及旅行服务" />
+    <meta name="keywords" content="峨眉山景区旅游_峨眉山景区旅游攻略_峨眉山景区旅游景点" />
+    <title>峨眉山景区旅游_峨眉山景区旅游攻略_峨眉山景区旅游景点_乐途旅游网</title>
+    <link rel="shortcut icon" href="http://www.lotour.com/favicon2.ico" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/base.css" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/lt_top.css" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/jingdian.css" />
+    <script type="text/javascript" src="http://js.lotour.net/jquery-1.8.3.min.js"></script>
+    <!--[if IE 6]><script type="text/javascript" src="http://js.lotour.net/DD_belatedPNG.js"></script><script type="text/javascript">DD_belatedPNG.fix('.logo img,.lt-nav-new-bg,.bdNavWraper,.map-btn,.mddNavWrap,.jd-img em');</script><![endif]--><!--[if lt IE 9]><script type="text/javascript" src="http://js.lotour.net/PIE_IE678.js"></script><![endif]--><!--[if IE 9]><script type="text/javascript" src="http://js.lotour.net/PIE_IE9.js"></script><![endif]--><script type="text/javascript">$(function () {if(window.PIE){$('.jq-list-l-up img').each(function(){ PIE.attach(this);});}});</script>
+</head>
+
+<body class="">
+    
+<script type="text/javascript" src="http://js.lotour.net/login/searchhotellogin_v5.js"></script>
+<script src="http://js.lotour.net/mylotour/v1/mylotour_v2.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://js.lotour.net/lotour_v1.js"></script>
+<div class="lt-nav-new">
+	<a href="http://www.lotour.com/" target="_blank"><img class="logo" src="http://img1.lotour.com/bdhomeV2/new_logo.png" /></a>
+	<div class="nav-new-btn">
+    	<a href="#" class="btn"></a>
+    	<div class="nav-new-layer">
+        	<ul>
+            <li>
+            	<h5><a href="http://www.lotour.com/mudidi/" target="_blank">目的地</a></h5>
+                <div class="links">
+                    <a href="http://shangqiu.lotour.com/" target="_blank">商丘</a><a href="http://xian.lotour.com/" target="_blank">西安</a><a href="http://shannan.lotour.com/" target="_blank">西藏山南</a><a href="http://kunming.lotour.com/yunnanshilin/" target="_blank">石林</a>     <a href="http://shangrao.lotour.com/guifeng/" target="_blank">龟峰</a> <a href="http://xuchang.lotour.com/" target="_blank">许昌</a>                                                                         
+
+                </div>
+            </li>
+            <li class="sg">
+            	<h5>发&nbsp;&nbsp;&nbsp;现</h5>
+                <div class="links">
+                	<a href="http://www.lotour.com/zhoubianyou" target="_blank">周边游</a>
+                	<a href="http://www.lotour.com/guoneiyou" target="_blank">国内游</a>
+                	<a href="http://www.lotour.com/chujingyou" target="_blank">出境游</a>
+                </div>
+            </li>
+            <li class="sg">
+            	<h5>社&nbsp;&nbsp;&nbsp;区</h5>
+                <div class="links">
+                    <a href="http://www.lotour.com/daren/" target="_blank">大咖</a>
+                	<a href="http://www.lotour.com/zijiayou/" target="_blank">自驾</a>
+                    <a href="http://sc.lotour.com/" target="_blank">福利</a>
+                </div>
+            </li>
+            <li>
+            	<h5>预&nbsp;&nbsp;&nbsp;订</h5>
+                <div class="links">
+                    <a href="http://d.lotour.com/hotel/" target="_blank">酒店</a>
+                    <a href="http://d.lotour.com/jipiao/" target="_blank">机票</a>
+                	<a href="http://d.lotour.com/dangdigentuan/" target="_blank">地接</a>
+                	<a id="dujiaxianlu" href="http://d.lotour.com/dujiaxianlu/shanghai/" target="_blank">度假</a>
+                </div>
+            </li>
+            </ul>
+        </div>
+    </div>
+  <div class="ltCrumb clear"> <a href="http://www.lotour.com/" target="_blank" title="">首页</a>&nbsp;&gt;&nbsp;<a href="http://www.lotour.com/mudidi" target="_blank" title="">目的地</a>&nbsp;&gt; 
+      
+              <a href="http://sichuan.lotour.com/" title="" target="_blank">四川旅游</a>
+                  &gt;
+          
+              <a href="http://leshan.lotour.com/" title="" target="_blank">乐山旅游</a>
+                  
+                    [<a href="http://leshan.lotour.com/sitemap.shtml" target="_blank" title="城市导航">城市导航</a>]
+               &gt;
+          
+              <a href="http://leshan.lotour.com/emeishanshi/" title="" target="_blank">峨眉山市旅游</a>
+                  &gt;
+          
+      <h1><a  href="http://leshan.lotour.com/emeishanfjq/" title="">峨眉山景区旅游景区</a>
+              
+      </h1>
+  </div>
+  <div class="lt-nav-r">
+  	<div class="lt-nav-item lt-nav-item-srh">
+    	<b></b>
+        <div class="lt-srh-new">
+            <form action="http://ip.lotour.com/home/mudidi" method="get" target="_blank" name="zonghe">
+        	    <div class="lt-srh-l">
+                    <div class="lt-srh-new-clk">
+                        <a href="#" class="l1"><i></i><em></em></a>
+                    </div>
+                    <input type="text" value="点此搜索" name="keyword" id="keyword" class="ipt" />
+                    <input type="hidden" value="0" name="htype" id="htype" />
+                    <input type="hidden" value="" name="keys" id="keys" />
+                    <input type="submit" class="btn" id="btnzonghe" name="btnzonghe" value="" />
+                </div>               
+            </form>
+            <div class="lt-srh-new-layer">
+                <ul>
+                    <li class="l1"><a href="#"><i></i>搜目的地</a></li>
+                    <li class="l2"><a href="#"><i></i>搜达人</a></li>
+                    <li class="l3"><a href="#"><i></i>搜客栈酒店</a></li>
+                    <li class="l4"><a href="#"><i></i>搜当地跟团</a></li>
+                    <li class="l5"><a href="#"><i></i>搜度假线路</a></li>
+                </ul>
+            </div>
+            <div id="hotcityhintDiv" style="z-index: 300001;" class="inputExtendBox sphl">
+                <ul id="scity" class="suggestBox"></ul>
+            </div>
+            <div class="city_divtc" id="Search_Synthesize_Div" style="z-index: 3000006;"><div class="city_divtc_t"><a class="closex"></a><span>国内</span></div><div class="city_divtc_m"><ul><li><a href="http://shangqiu.lotour.com/" target="_blank" title=" 商丘"> 商丘</a></li><li><a href="http://xian.lotour.com/" target="_blank" title=" 西安"> 西安</a></li><li><a href="http://dandong.lotour.com/fengcheng/" target="_blank" title="凤城"> 凤城</a></li><li><a href="http://shannan.lotour.com/" target="_blank" title=" 山南"> 山南</a></li><li><a href="http://kunming.lotour.com/yunnanshilin/" target="_blank" title="石林"> 石林</a></li><li><a href="http://shangrao.lotour.com/guifeng/" target="_blank" title=" 龟峰"> 龟峰</a></li><li><a href="http://lijiang.lotour.com/" target="_blank" title="丽江">丽江</a></li><li><a href="http://zhoushan.lotour.com/" target="_blank" title="舟山">舟山</a></li><li><a href="http://huangshan.lotour.com/" target="_blank" title="黄山">黄山</a></li><li><a href="http://shaoxing.lotour.com/" target="_blank" title="绍兴">绍兴</a></li><li><a href="http://hangzhou.lotour.com/" target="_blank" title=" 杭州"> 杭州</a></li><li><a href="http://xiamen.lotour.com/" target="_blank" title=" 厦门"> 厦门</a></li><li><a href="http://jiaxing.lotour.com/wuzhenguzhen/" target="_blank" title=" 乌镇"> 乌镇</a></li><li><a href="http://qingdao.lotour.com/" target="_blank" title=" 青岛"> 青岛</a></li><li><a href="http://shanghai.lotour.com" target="_blank" title="上海">上海</a></li></ul></div><div class="city_divtc_t"><span>境外</span></div><div class="city_divtc_m"><ul><li><a href="http://tha.lotour.com/" target="_blank" title="泰国">泰国</a></li><li><a href="http://cam.lotour.com/" target="_blank" title="柬埔寨">柬埔寨</a></li><li><a href="http://tha.lotour.com/qingmai/" target="_blank" title="清迈">清迈</a></li><li><a href="http://aus.lotour.com/" target="_blank" title=" 澳大利亚"> 澳大利亚</a></li><li><a href="http://tha.lotour.com/pujifu/" target="_blank" title="普吉岛">普吉岛</a></li><li><a href="http://mas.lotour.com/shaba/" target="_blank" title="沙巴">沙巴</a></li><li><a href="http://pf.lotour.com/" target="_blank" title="大溪地">大溪地</a></li><li><a href="http://nep.lotour.com/" target="_blank" title="尼泊尔">尼泊尔</a></li><li><a href="http://fra.lotour.com/baliqu/" target="_blank" title="巴黎">巴黎</a></li><li><a href="http://taiwan.lotour.com/" target="_blank" title=" 台湾"> 台湾</a></li><li><a href="http://sri.lotour.com/" target="_blank" title=" 斯里兰卡"> 斯里兰卡</a></li><li><a href="http://gbr.lotour.com/lundun1/" target="_blank" title="伦敦">伦敦</a></li><li><a href="http://ina.lotour.com/balidao1/" target="_blank" title="巴厘岛">巴厘岛</a></li><li><a href="http://macao.lotour.com/" target="_blank" title="澳门">澳门</a></li><li><a href="http://fij.lotour.com/" target="_blank" title="斐济">斐济</a></li></ul></div></div>
+
+        </div>
+    </div>
+  	
+  	<div class="lt-login"></div>
+  </div>
+</div>
+
+<!-- 想去浮层 -->
+<div id="dream_place">
+</div>
+<!-- 求助浮层 -->
+<div id="ask_topic" class="msgLayer msgMod" style="display:none;">
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $s.loadCss("http://css.lotour.net/mylotour/v1/wantgo_new");
+        $("#dream_place").DPPanel({
+            className: "msgLayer",
+            close: function () {
+                //关闭时候执行
+                $(".layerBg").hide();
+            },
+            init: function () {
+                //初始化时候执行
+            },
+            publish: function (arr) {
+                //发布时候执行
+                try { dplaceweiboTui($("#dream_place_reseaon").val()) } catch (e) { }
+                location.reload();
+            }
+        }).hide();
+
+        $("#ask_topic").AskPanel({
+            className: "msgLayer",
+            close: function () {
+                //关闭时候执行
+                $(".layerBg").hide();
+            },
+            init: function () {
+                //初始化时候执行
+            },
+            publish: function (arr) {
+                //发布时候执行
+                $a("添加成功");
+            }
+        }).hide();
+
+        var askweibo = new PWeibo({
+            container: 'ask-weiboshare'
+        });
+        askweibo.create();
+        askweiboTui = function (txtcon) {
+            var content = "我在乐途旅游网发布了一条求助，求大家回复啊！";
+            content += "“" + txtcon + "”";
+            askweibo.send(content, function () {
+            });
+        };
+    });
+
+    
+
+    function AskHelp() {
+        $('#ask_topic').fadeIn(500).loadAskPanel(0); $('.layerBg').css('height', $(document).height()).show();
+    }
+    function WantGo() {
+        $('#dream_place').fadeIn(500).loadDPPanel('', 0, true); $('.layerBg').css('height', $(document).height()).show();
+    }
+
+    var SEARCHLEFT = -44, box;
+    if ($.cookie("CityID") == null || $.cookie("ChName") == null || $.cookie("IndexAreaName") == null) {
+        $.getScript("http://ip.lotour.com", function () {
+            $.cookie("CityID", result.regionid, { expires: 30, path: '/', domain: 'lotour.com' });
+            $.cookie("ChName", result.Chname, { expires: 30, path: '/', domain: 'lotour.com' });
+            $.cookie("IndexAreaName", result.regionname, { expires: 30, path: '/', domain: 'lotour.com' });
+            $("#dujiaxianlu").attr("href", "http://d.lotour.com/dujiaxianlu/" + $.cookie("ChName") + "/");
+        });
+    }
+    else
+        $("#dujiaxianlu").attr("href", "http://d.lotour.com/dujiaxianlu/" + $.cookie("ChName") + "/");
+
+    $('.lt-srh-new-layer li').click(function () {
+        var index = $(this).index();
+        $('.lt-srh-new-clk a').attr('class', 'l' + (index + 1));
+        if (index > 1) {
+            $("#htype").attr("value", index - 1);
+        }
+        else if (index == 1) {
+            $("#htype").attr("value", 5);
+        }
+        else {
+            $("#htype").attr("value", index);
+        }
+        $("keys").attr("value", "");
+        switch (index) {
+            case 0:
+                box = $("#keyword").searchbox({ "Left": SEARCHLEFT, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 1:
+                box = $("#keyword").searchbox({ "Flay": "xue_Daren", "Js": "", "Url": "http://my.lotour.com/DarenSearch/handler/AssociateDaren.ashx", "i": 1, "j": 5, "Top": 40, "Left": SEARCHLEFT, "tips": "" });
+                break;
+            case 2:
+                box = $("#keyword").searchbox({ "Flay": "xue_Hotel", "Js": "http://js.lotour.net/searchlayer/djmdd.js", "Url": "http://d.lotour.com/hotel/api/AssociateRegion", "i": 1, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 3:
+                box = $("#keyword").searchbox({ "Flay": "xue_Djxl_Mdd", "Js": "http://js.lotour.net/searchlayer/djmdd.js", "Url": "http://d.lotour.com/dangdigentuan/api-AssociateRegion", "i": 1, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 4:
+                box = $("#keyword").searchbox({ "Flay": "xue_OrderLine_Dest", "Js": "http://d.lotour.com/dujiaxianlu/api-AssociateCommonOsite?sSite=" + $.cookie("CityID") + "&randID=" + escape(new Date()) + "&callback=?", "Url": "http://beijing.lotour.com/dujiaxianlu/api-AssociateOSiteRegion", "i": 0, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+        }
+        $('.lt-srh-new-layer').hide()
+        return false;
+    }).eq(0).trigger("click");
+
+    var loginState = new lotourLoginState({});
+    //loginState.init();
+
+    //导航
+    $('.lt-nav-item').hover(function () {
+        $(this).find('.menu,.lt-srh-new').toggle()
+    })
+
+    $('.lt-srh-new-clk a').click(function () {
+        $('.lt-srh-new-layer').toggle();
+        return false
+    })
+    $('.lt-nav-item-srh').unbind('hover').click(function () {
+        $('.lt-srh-new').toggle();
+        //return false
+    });
+
+    $('.nav-new-btn').hover(function () {
+        $(this).find('.btn').toggleClass('btn-on');
+        $(this).find('.nav-new-layer').toggle();
+    });
+    $('.nav-new-layer li,.ltCommentList li').hover(function () {
+        $(this).toggleClass('hover');
+    });
+</script>
+<!--=S 头图 -->
+
+<div class="bdBannerWrap bdBannerChl mddBannerCh2">
+    
+    <div class="bd-main clearfix">
+		<div class="mdd-adv">
+			<script src="http://js.lotour.net/bcef/409.js" type="text/javascript"></script>
+		</div>
+		<div class="mddName clearfix">				
+			<h2><a title="峨眉山景区旅游" class="bdName-tit" href="http://leshan.lotour.com/emeishanfjq/">峨眉山景区</a><a title="" href="javascript:void(0)" class="map-btn"></a>
+            
+                <em class="map-here"><b>亲</b>，可以查看地图哦!~</em>
+            
+			</h2>
+        
+			<div class="bdLikeNum"><span></span>人感兴趣</div>
+            
+			<div class="bdscore" id="rscore">
+				<a title="" href="http://leshan.lotour.com/emeishanfjq/pingce/"><em></em><span>分</span></a>
+				<b></b>
+				<b></b>
+				<b></b>
+				<b></b>
+				<b></b>
+			</div>
+            
+            <div class="jd-ticket" deffer="1">
+				<p class="tkt-price clearfix">
+					<span class="t-pri">
+                    
+                        ￥<b>185</b>
+                        
+					</span>
+					<a class="tkt-btn" href="javascript:void(0)" title=""></a>
+				</p>
+				<p class="tkt-time">
+                
+                    开放时间 08:30-18:30
+                
+				</p>				
+				<div class="tkt-layer">
+					<div class="tkt-layer-con clearfix">						
+						<h3>门票</h3>
+						<p>
+                           旺季（1月16日—12月14日）：185元<br>
+                            
+						   淡季（12月15日—1月15日）：110元<br>
+						 
+                           优惠门票：1.进山门票均不含保险、寺庙门票和索道等费用，钱、票请当面点清。须随身携带门票和符合优惠或免票条件的证件以备各景点查验，遗失门票须照价补票，补票与售票程序相同。
+2、请决定游览后再购买门票，不办理退票。
+3、优惠对象：请仔细阅读优惠政策，确认自己符合优惠条件，并主动向售票员出示相关证件，待确认后才能购买优惠票。检票口将再次查验证件。
+4、免票对象：请仔细阅读免票政策，确认自己符合免票条件，直接到入口处向检票员出示相关的证件，待确认后才能免票进山。
+5、门票有效期为2个自然日，购票当日为第1个自然日，首次进山时必须在检票门闸机采集面部影像，否则自动作废。
+6、进山后，各核心景点工作人员将再次检票并进行人票对比，确保持票人和面部影像为同一人后放行。若影像与持票人不符则门票自动作废，持票人不得进入景点。
+7、购票政策若有变动，以最新通知为准。
+一、以下人员可享受免票：
+（1）持有在有效期内居民身份证、护照、学生证、少先队员证的6周岁（含）以下儿童。
+（2）身高1.2米（含）以下的儿童。
+（3）离休干部、省部级以上劳动模范和英雄模范、全国级道德模范。
+（4）持有效期内居民身份证、护照的70周岁（含）以上游客。
+（5）持有效期内新闻出版总署《新闻记者证》的记者。
+（6）持有效期内《军官证》或《士兵证》的中国现役军人和现役伤残军人,以及持《人民警察伤残抚恤证》的因公致残警察。
+（7）持省、直辖市民政厅优抚专用《中华人民共和国残疾军人证》的非现役伤残军人。
+（8）持民政部颁发《中华人民共和国残疾人证》的残疾人。
+二、以下人员可享受优惠票：
+（1）身高1.2米—1.5米（含）的儿童。
+（2）持有效期内居民身份证、护照、学生证、少先队员证、共青团员证的18周岁（不含）以下未成年人。
+（3）持每学年均有效注册学生证的在读学生（含全日制统招本科生、大中专生、中小学生，不含短期培训生、交流生和研究生）。
+（4）持有效期内居民身份证、护照的60周岁（含）至69周岁游客。
+（5）持《教师资格证》的教师，只限教师节当天享受优惠。
+注：享受免票或优惠的外国人士，必须出示英文证件。
+                        
+						</p>
+						<h3>开放时间</h3>
+                        
+						<p>旺季（1月16日—12月14日）：08:30-18:30</p>
+                            
+                        <p>淡季（12月15日—1月15日）：08:30-18:30</p>
+                        
+						<p><strong>建议游玩时间</strong>2-3天</p>
+						<p><strong>电话</strong>400-8196-333</p>
+						<p><strong>网址</strong><a title="" href="http://www.ems517.com">http://www.ems517.com</a></p>						
+					</div>	
+				</div>				
+			</div>
+            									
+		</div>        
+	</div>    
+</div>
+<script type="text/javascript">
+    function SelectScour(){
+        $.getJSON("http://api.lotour.net/brandhome/Region/SelectRegionScore?regionId=2075&callback=?", function (data) {
+            var star1 = parseInt(data.Score / 2);
+            var scor = parseInt(data.Score);
+            var scor1 = parseInt((data.Score - scor) * 10);
+            $("#rscore").find("em").html(scor+"."+scor1);
+            for (var i = 0; i < star1; i++) {
+                $("#rscore>b:eq("+i+")").html("<i></i>");
+            }
+            $("#rscore>b:eq("+star1+")").html("<i style=\"width:"+parseInt((data.Score/2-star1)*100)+"%\"></i>");
+        });
+    }
+    
+    $(function () {
+        
+        SelectScour();
+        
+        var winw = $(window).width();	
+        $('.map-box').css({"margin-left":(winw-980)/2,"top":"233px","border":"1px solid #f5f5f5"});
+    });
+</script>
+
+
+<!--=S 地图弹层-->
+<div class="map-box ">
+	<a class="map-x" href="#" title="关闭"></a>		
+	<div class="map-con" id="J_miniMap">
+	</div>
+
+    <div class="map-con-r">
+		<h3>四川峨眉山</h3>
+		<h4><strong>地址</strong>四川省峨眉山市名山南路41号</h4>
+		<h4><strong>交通</strong></h4>
+		<p>1、峨眉山距成都156公里，距乐山34公里。从成都新南门车站（028—85433609），平均每30分钟便有班车发往峨眉山或乐山，车程约2小时，票价45元左右。</p><p>2、乐山中心站、肖坝车站有班车发住峨眉山，中心站每30分钟一班，车程约30分钟，票价8元。此外，绵阳也有发往峨眉山的直达车。</p><p>3、重庆菜园坝客运中心每天上午9时和11时均有发往峨眉山的班车，中途会在陈家坪长途客运站接客，游客可以在重庆上述两个车站上车。车费有90元与105元两种。峨眉山市客运中心和景区客运中心都有车返回重庆。</p><p>要注意的是，峨眉汽车站有两个：一是位于峨眉山市区的九珠（长途）客运中心，距离峨眉山风景区约6公里，乘车约10分钟；二是位于景区内的旅游客运中心。所以乘坐发往峨眉山的班车时，一定要在上车前问清楚目的站是哪一个，以免耽误行程。</p><p>如果乘坐的是发往九珠客运站的班车，下车后可乘出租车前往报国寺，也可以在九珠客运站外乘坐公交（火车站——市一中，票价1元）在人民医院站下车，换乘公交（市区——伏虎寺，票价1.5元）即可抵达景区。</p>				
+	</div>
+	
+</div>
+<!--=E 地图弹层-->
+<style type="text/css">
+.map-mark {
+    width: 24px;
+    height: 28px;
+    background: url(http://img1.lotour.net/lotour/biaodian-d.png) no-repeat -35px 0;
+    overflow: hidden;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 22px;
+    cursor: pointer;
+    position: relative;
+    z-index: 1008;
+}
+.map-mark.on {
+    background-position: -35px -35px;
+    z-index: 1009;
+}
+</style>
+<script type="text/javascript" src="http://js.lotour.net/map.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://js.lotour.net/jquery.tmpl.min.js"></script>
+<script type="text/javascript">
+    var mapInfo = {
+        lat: parseFloat('29.5166'),
+        lng: parseFloat('103.336')
+    };
+    var miniMapBox = $('#J_miniMap'), miniMap, MiniMarker;
+
+    function initMiniMap() {
+        var latLng = new google.maps.LatLng(mapInfo.lat, mapInfo.lng);
+        var mapOptions = {
+            center: latLng,
+            zoom: 10,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+        miniMap = new google.maps.Map(miniMapBox.get(0), mapOptions);
+        var markerHtml = '<div class="map-mark"></div>';
+        new MiniMarker(miniMap, markerHtml, latLng);
+        
+
+        var marker = new google.maps.Marker({
+            position: latLng
+        });
+
+    }
+    function MarkerOverlay() {
+        var Overlay = function (map, text, latLng, ready) {
+            this.map = map;
+            this.text = text;
+            this.latLng = latLng;
+            this.ready = ready;
+            this.div = null;
+            this.setMap(this.map);
+        }
+
+        Overlay.prototype = new google.maps.OverlayView();
+
+        $.extend(Overlay.prototype, {
+            onAdd: function () {
+                var div = $('<div/>').html(this.text).css('position', 'absolute');
+                $(this.getPanes().overlayImage).append(div);
+                this.div = div;
+                if (typeof this.ready === 'function') {
+                    this.ready.call(this);
+                }
+            },
+            draw: function () {
+                var latLng = this.getProjection().fromLatLngToDivPixel(this.latLng);
+                this.div.css({
+                    'left': latLng.x - this.div.width() / 2,
+                    'bottom': -latLng.y
+                });
+            },
+            onRemove: function () {
+                this.div.remove();
+                this.div = null;
+            }
+        });
+
+        return Overlay;
+    }
+
+    function updateBrowse() {
+        var regionObj = new RegionBrowse(2075);
+        regionObj.updateBrowse()
+        $.getJSON("http://api.lotour.net/rss/dmspageview.ashx?id=2075&callback=?", function (data) {
+            var span = $("div.bdLikeNum").find("span");
+            span.html(data.pageview);
+        });
+    }
+    
+    $(function () {
+        updateBrowse();
+        //地图加载
+        var mapload = new MfwMapLoad(function () {
+            if (mapInfo == undefined || !$.isPlainObject(mapInfo) || $.isEmptyObject(mapInfo)) {
+                return;
+            }
+            MiniMarker = MarkerOverlay();
+            $(".map-btn").click(function () {
+                if($(".map-box").is(":hidden")){
+                    if($(".tkt-btn").length>0&&!$(".tkt-layer").is(":hidden")){
+                        $(".tkt-btn").trigger("click");
+                    }
+                    $(".map-box").show();
+                    initMiniMap();
+                }
+                else{
+                    $(".map-box").hide();
+                }
+            });
+            $(".bd-r-mapbtn,#abigmap").click(function(){
+                initMaxMap();
+            });
+        }, 5000, false);
+        mapload.autoLoadMap();
+        //地图弹层
+        
+        $(".map-x").click(function () {
+            $(".map-box").hide();
+        });
+    });
+</script>
+
+
+<div class="mddNavWrap">
+    <div class="mddNavbg">
+	    <div class="mddNav">            
+		    <ul class="clearfix">         
+			    <li class="on"><a title="峨眉山景区旅游必知" href="http://leshan.lotour.com/emeishanfjq/"><span>必知</span></a></li>
+                
+                 <li class=""><a title="峨眉山景区旅游景点" href="http://leshan.lotour.com/emeishanfjq/jingqu/"><span>景点</span></a></li>                
+			         
+                <li class=""><a title="峨眉山景区旅游游记" href="http://leshan.lotour.com/emeishanfjq/lvyouyouji/"><span>游记</span></a></li>  
+                              
+			    <li class=""><a title="峨眉山景区旅游口碑" href="http://leshan.lotour.com/emeishanfjq/pingce/"><span>口碑</span></a></li>                
+			    <li class=""><a title="峨眉山景区旅游文章" href="http://leshan.lotour.com/emeishanfjq/news/"><span>文章</span></a></li>                
+			    
+                <li class=""><a title="峨眉山景区旅游预订" href="http://leshan.lotour.com/emeishanfjq/yuding/"><span>预订</span></a></li>
+                               	
+		    </ul>
+            <div class="bz-nav sphl">
+				    <dl class="clearfix">				
+					    <dd><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					    <dd><a href="javascript:void(0)" title="">玩法</a></dd>
+					    <dd><a href="javascript:void(0)" title="">资讯</a></dd>
+					    <dd><a href="javascript:void(0)" title="">住哪儿</a></dd>
+					    <dd><a href="javascript:void(0)" title="">包打听</a></dd>
+					    <dd><a href="javascript:void(0)" title="">如何到达</a></dd>					
+					    <dd><a href="javascript:void(0)" title="">附近城市</a></dd>
+					    <dt><a href="javascript:void(0)" title=""><span>手绘攻略</span></a></dt>
+				    </dl>
+			    </div>
+            <div class="bz-nav sphl">
+				<dl class="clearfix">
+					<dd class="nav1"><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					<dd class="nav2"><a href="javascript:void(0)" title="">旅行<br />月历</a></dd>
+					<dd class="nav3"><a href="javascript:void(0)" title="">必体验</a></dd>
+					<dd class="nav4"><a href="javascript:void(0)" title="">玩法</a></dd>
+					<dd class="nav5"><a href="javascript:void(0)" title="">抵达<br />住哪</a></dd>
+					<dd class="nav6"><a href="javascript:void(0)" title="">包打听</a></dd>
+					<dd class="nav7"><a href="javascript:void(0)" title="">周边<br />线路</a></dd>					
+				</dl>
+			</div>
+            <div class="bz-nav sphl">
+				<dl class="clearfix">
+					<dd class="nav1"><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					<dd class="nav3"><a href="javascript:void(0)" title="">必体验</a></dd>
+					<dd class="nav4"><a href="javascript:void(0)" title="">玩法</a></dd>
+					<dd class="nav5"><a href="javascript:void(0)" title="">重要<br />提示</a></dd>
+					<dd class="nav6"><a href="javascript:void(0)" title="">附近<br />景区</a></dd>
+					<dd class="nav7"><a href="javascript:void(0)" title="">城市<br />相关</a></dd>
+				</dl>
+			</div>
+	    </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(".bz-nav:eq(2)").removeClass("sphl");
+    $(function () {
+
+        var winw = $(window).width();
+        $('.map-box').css({ "margin-left": (winw - 980) / 2, "top": "233px", "border": "1px solid #f5f5f5" });
+
+        //滚动固定导航
+        $(window).scroll(function () {
+            var st = $(document).scrollTop(), toph = $(".lt-nav-new").height() + $(".bdBannerWrap").height();
+            if (st - toph >= 0) {
+                $(".mddNavWrap").addClass("mddNavWrapFix");
+                $(".bz-con1").addClass("pt-con1");
+                if ($.browser.msie && ($.browser.version == "6.0") && !$.support.style) {
+                    $(".mddNavWrap").css({ "top": st, "margin-top": "0" })
+                }
+            } else if (st - toph < 0) {
+                $(".mddNavWrap").removeClass("mddNavWrapFix");
+                $(".bz-con1").removeClass("pt-con1");
+                if ($.browser.msie && ($.browser.version == "6.0") && !$.support.style) {
+                    $(".mddNavWrap").css({ "top": "0", "margin-top": "0" })
+                }
+            }
+        });
+    });
+</script>
+<div class="bd-main bz-main clearfix">
+    <div class="bz-con bz-con1 jd-con1">
+        <ul class="clearfix">	
+			<li><a href="http://leshan.lotour.com/zhengwen/2015/06/1282679.shtml" target="_blank" title="俯瞰峨眉山"><img src="http://img1.lotour.net/cmsMustKnowScenic/2015/06/2015060717171492194829.jpg" width="702" height="394" alt="俯瞰峨眉山" /></a></li>
+			<li><a href="http://leshan.lotour.com/zhengwen/2015/06/1282679.shtml" target="_blank" title="峨眉金顶"><img src="http://img1.lotour.net/cmsMustKnowScenic/2015/06/2015060717173883816814.jpg" width="278" height="197" alt="峨眉金顶" /></a></li>
+			<li><a href="http://leshan.lotour.com/zhengwen/2015/06/1282679.shtml" target="_blank" title="峨眉山泼猴"><img src="http://img1.lotour.net/cmsMustKnowScenic/2015/06/201506071717530618737.jpg" width="278" height="197" alt="峨眉山泼猴" /></a></li>			
+		</ul>
+        <div class="gx-txt">
+        	<em></em>
+            <div class="gx-txt-h">
+                <p class="gx-p1">峨眉山地处北纬30度，号称最神秘的纬度线上，系邛崃山脉北岭南支，最高峰万佛顶，海拔3099米。峨眉山距成都160公里、乐山市34公里。以“秀甲九州岛”闻名于世，以“峨眉天下秀”与“青城天下幽”、“剑门天下险”、“夔门天下雄”并称为巴蜀四大风景名胜......<a href="http://leshan.lotour.com/zhengwen/2015/06/1282679.shtml" target="_blank" title="">[详细]</a></p>
+                <p class="gx-p2">最佳旅游时间：11月-2月，峨眉山麓氡温泉</p>
+            </div>            	
+        </div>
+    </div>
+
+    <div class="bz-con clearfix">
+        <div class="bz-con-tit clearfix"> 
+            <ul class="bz-tab-tit" id="experiences">
+                <li deffer="0"><strong class="tit2"><a title="" href="javascript:void(0)">游</a></strong></li>
+                <li deffer="1"><strong class="tit2"><a title="" href="javascript:void(0)" class="">吃</a></strong></li>
+                <li deffer="2"><strong class="tit2"><a title="" href="javascript:void(0)" class="">购</a></strong></li>                    
+                <li deffer="3"><strong class="tit2"><a title="" href="javascript:void(0)" class="">娱</a></strong></li>
+            </ul>			
+        </div>
+        
+        <div class="bz-tab hot-jingdian">
+        	<a class="more" title="更多" target="_blank" href="http://leshan.lotour.com/emeishanfjq/jingqu/">更多</a>		
+			<ul class="clearfix">
+            
+                <li>
+				    <div class="jd-img">
+					    <a href="http://leshan.lotour.com/leshanjingding/" target="_blank" title=""><img width="233" height="150" src="http://img1.lotour.net/mudidiplay/2015/1010/20151010173955012c2.jpg" alt="" /></a>
+					    <em><span><b deffer="30422"></b>人感兴趣</span></em>
+				    </div>	
+				    <h3 class="clearfix"><a href="http://leshan.lotour.com/leshanjingding/" target="_blank" title="">峨眉山金顶</a></h3>
+			    </li>      
+            
+                <li>
+				    <div class="jd-img">
+					    <a href="http://leshan.lotour.com/leshanleiyinsi/" target="_blank" title=""><img width="233" height="150" src="http://img1.lotour.net/mudidiplay/2015/1010/2015101017402039020.jpg" alt="" /></a>
+					    <em><span><b deffer="30425"></b>人感兴趣</span></em>
+				    </div>	
+				    <h3 class="clearfix"><a href="http://leshan.lotour.com/leshanleiyinsi/" target="_blank" title="">峨眉山雷音寺</a></h3>
+			    </li>      
+            
+                <li>
+				    <div class="jd-img">
+					    <a href="http://leshan.lotour.com/leshanemsm/" target="_blank" title=""><img width="233" height="150" src="http://img1.lotour.net/mudidiplay/2015/1010/2015101017422205527.jpg" alt="" /></a>
+					    <em><span><b deffer="30365"></b>人感兴趣</span></em>
+				    </div>	
+				    <h3 class="clearfix"><a href="http://leshan.lotour.com/leshanemsm/" target="_blank" title="">峨眉山门</a></h3>
+			    </li>      
+            
+                <li>
+				    <div class="jd-img">
+					    <a href="http://leshan.lotour.com/leshanzhongfengs/" target="_blank" title=""><img width="233" height="150" src="" alt="" /></a>
+					    <em><span><b deffer="30299"></b>人感兴趣</span></em>
+				    </div>	
+				    <h3 class="clearfix"><a href="http://leshan.lotour.com/leshanzhongfengs/" target="_blank" title="">峨眉山中峰寺</a></h3>
+			    </li>      
+            
+                <li>
+				    <div class="jd-img">
+					    <a href="http://leshan.lotour.com/lsdamiaofeilaid/" target="_blank" title=""><img width="233" height="150" src="http://img1.lotour.net/mudidiplay/2015/1010/2015101017435100971.jpg" alt="" /></a>
+					    <em><span><b deffer="2084"></b>人感兴趣</span></em>
+				    </div>	
+				    <h3 class="clearfix"><a href="http://leshan.lotour.com/lsdamiaofeilaid/" target="_blank" title="">大庙飞来殿</a></h3>
+			    </li>      
+            
+                <li>
+				    <div class="jd-img">
+					    <a href="http://leshan.lotour.com/leshanshenshuige/" target="_blank" title=""><img width="233" height="150" src="http://img1.lotour.net/mudidiplay/2015/1010/2015101017443322173.jpg" alt="" /></a>
+					    <em><span><b deffer="30407"></b>人感兴趣</span></em>
+				    </div>	
+				    <h3 class="clearfix"><a href="http://leshan.lotour.com/leshanshenshuige/" target="_blank" title="">神水阁</a></h3>
+			    </li>      
+            
+                <li>
+				    <div class="jd-img">
+					    <a href="http://leshan.lotour.com/sswnstongtiefox/" target="_blank" title=""><img width="233" height="150" src="http://img1.lotour.net/mudidiplay/2015/1010/20151010174503346d3.jpg" alt="" /></a>
+					    <em><span><b deffer="8660"></b>人感兴趣</span></em>
+				    </div>	
+				    <h3 class="clearfix"><a href="http://leshan.lotour.com/sswnstongtiefox/" target="_blank" title="">圣寿万年寺佛像</a></h3>
+			    </li>      
+            
+                <li>
+				    <div class="jd-img">
+					    <a href="http://leshan.lotour.com/emeishanbailongdong/" target="_blank" title=""><img width="233" height="150" src="" alt="" /></a>
+					    <em><span><b deffer="30405"></b>人感兴趣</span></em>
+				    </div>	
+				    <h3 class="clearfix"><a href="http://leshan.lotour.com/emeishanbailongdong/" target="_blank" title="">峨眉山白龙洞</a></h3>
+			    </li>      
+            
+            </ul>
+        </div>
+          
+        <script type="text/javascript">
+            $("#experiences li[deffer=1]").remove();
+                        </script>
+          
+        <script type="text/javascript">
+            $("#experiences li[deffer=2]").remove();
+                        </script>
+          
+        <script type="text/javascript">
+            $("#experiences li[deffer=3]").remove();
+                        </script>
+          
+    </div>
+    <script type="text/javascript">
+        if ($("#experiences li").length == 0) {
+            $("#experiences").parents(".bz-con").remove();
+            $("dd.nav3").remove();
+        }
+        else {
+            $("#experiences li").eq(0).find("a").addClass("on");
+        }
+    </script>
+
+    <script type="text/javascript">
+        $("dd.nav4").remove();
+    </script>
+
+    <div class="bz-con clearfix">
+		<div class="bz-con-l">
+			<div class="bz-con-tit clearfix">
+            	<strong class="tit5"><a class="on" href="javascript:void(0)" title="">重要提示</a></strong>
+                
+            	<ul class="dating-tit">
+                
+                    <li><strong><a title="" href="javascript:void(0)" class="on">1</a></strong></li>  
+                
+                    <li><strong><a title="" href="javascript:void(0)" class="">2</a></strong></li>  
+                			
+				</ul>
+            </div>
+            
+            <div class="bz-tab bz-dating" style="  ">			
+				<ul class="bz-tips-list" >
+<li class=""><b>峨眉山徒步路线</b> 一条是以清音阁为起点，从洪椿坪、仙峰寺、遇仙寺这条线路上雷洞坪，全长40.5公里；另一条是以万年寺为起点，从息心所、初殿上雷洞坪，全长21.5公里；刚开始徒步都有一个循序渐进的过程，一定不要急于求成。</li>      
+<li class=""><b>不要只顾低头走路</b> 不要只故低头走路而错过了周围的风景，不要暴走，大强度的体力付出得不偿失，最适合的速度是维持自己走一整天的速度。科学的方式是走50分钟休息10分钟，可根据自身情况调整。</li>  
+ <li class=""><b>适当补充食物和水</b> 掌握吃喝的频度，预备一些小零食，不要暴饮暴食，少食多餐，及时补充水分，如果天热，可以喝一些含盐的饮用水。</li>      
+<li class=""><b>不要走小道</b> 沿路都有路标，按修好的道路行走，不要走小道，如走失，请及时按照门票上的电话联系。</li>      
+<li class=""><b>登山所需装备</b> 峨眉山的开发很完善，所以并不需要特殊的登山装备，如果年纪大，可以考虑在山下买根拐杖。</li>    
+         
+</ul>
+			</div>      
+            
+            <div class="bz-tab bz-dating" style="  display:none">			
+				<ul class="bz-tips-list" >
+<li class=""><b>斗猴需谨慎</b> 山上不要随意逗猴，最好在清音阁或万年寺就买个竹竿（1元），遇到猴子不要惊慌，将竹竿敲击地面，猴子会避让你的，还有就是收好随身物品，不要当猴子面吃东西。</li>  
+<li class=""><b>住宿要有空调或电热毯</b> 峨眉山住宿一定要选择有空调或电热毯的房间，因为峨眉山夜间气候阴冷，如果赶上下雨、下雪会更难受，有电热毯或者空调就显得尤其重要。</li>      
+<li class=""><b>奇妙的阴阳界</b> 峨眉山中间有一条“界线”，山下被称为“阳间”，山上被称为“阴间”。积云有一定的重量，所以在峨眉山的那条界线的位置。因此，游人在金顶时时常会听见雷声，但只有“阳间”在下雨，“阴间”不会下雨。</li>           
+</ul>
+			</div>      
+            
+        </div>
+        <div class="bz-con-r">
+			<div class="bz-con-tit clearfix">
+            	<strong class="tit5"><a href="javascript:void(0)" title="">包打听</a></strong>
+                
+            	<ul class="dating-tit">
+                
+                    <li><strong><a title="" href="javascript:void(0)" class="on">1</a></strong></li>  
+                
+                    <li><strong><a title="" href="javascript:void(0)" class="">2</a></strong></li>  
+                				
+				</ul>
+            </div>
+        
+            <div class="bz-tab bz-dating" style=" ">
+				<ul class="bz-q-list">
+                
+                    <li class="hover">
+						<h3><em></em><span>自驾游过来停车方便吗？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>峨眉山景区公路全长61.69公里，其中主线起于峨眉山市峨山镇杨岗，经黄湾、两河口、万年寺、零公里、雷洞坪，止于接引殿，全长51公里。杨岗至零公里以下38.69公里为沥青混凝土路面，零公里至
+                                
+                                    <a target="_blank" href="http://leshan.lotour.com/zhengwen/2015/06/1282791.shtml" title="">[详细]</a>
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>景区有什么特殊交通工具吗？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>滑竿，也称“轿子”，是峨眉山景区的特色交通工具。实行统一着装、统一计价、统一管理，按乘/里收费。平均价格15元/华里/乘，具体价格参照景区。
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>峨眉山景区一年中气候如何？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>峨眉景区随海拔高度的不同，而呈现不同的气候特征。清音阁以下为低山区，植被葱郁、风爽泉清，气温与平原无大差异，早晚略添衣着即可。清音阁至洗象池为中山区，气温已较山下平原低4℃－5℃
+                                
+                                    <a target="_blank" href="http://leshan.lotour.com/zhengwen/2015/06/1282701.shtml" title="">[详细]</a>
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>峨眉山景区有什么好玩的娱乐项目吗</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>报国寺景区有几家温泉主题酒店，主要是含氡温泉，如果条件允许，可以选在那里住宿，放松一下。
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>峨眉山景区内哪个景点最好玩？玩时要注意什么？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>日出、云海、佛光、圣灯又称峨眉四绝，观赏点都在金顶。晴天登上金顶，当下方雾气弥漫，背对太阳而立，让阳光从身后射来，在前方雾气中就会出现一个彩虹般的光环，中间浮动人影，影子还会随
+                                
+                                    <a target="_blank" href="http://leshan.lotour.com/zhengwen/2015/06/1282699.shtml" title="">[详细]</a>
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>峨眉山景区的卫生间怎么走？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>从过了猴生态区的步行道一直到雷洞坪都不会有明显的公厕，一般来说，在沿途的小吃店附近就有厕所，但是离步行道有点距离，而且厕所比较简陋，所以要抓住机会去轻松。
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>游览峨眉山景区的最佳时间是什么时候</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>峨眉山一年四季皆是美景，春秋两季是最佳季节。4月百花齐放，5月赏杜鹃，6月山顶多雨，山下晴朗，适宜避暑，10月看红叶，11月到2月看雪景。冬天山顶晴朗，是看日出、日落、云海、佛光的最佳
+                                
+                                    <a target="_blank" href="http://leshan.lotour.com/zhengwen/2015/06/1282698.shtml" title="">[详细]</a>
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>去峨眉山景区玩一趟大概要花费多少？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>如果在峨眉山玩3天，三天食宿（普通住宿100元左右）加上景区门票（185元）、索道（65元）、游览车（90元）花费约700元左右；如果住山顶酒店，还需多预留1000元左右；如果不坐游览车、索道以
+                                
+                                    <a target="_blank" href="http://leshan.lotour.com/zhengwen/2015/06/1282697.shtml" title="">[详细]</a>
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>乘火车前往峨眉山景区方便吗？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>峨眉山火车站位于成昆线，从成都、昆明、西昌、攀枝花等地前往都很方便，但是峨眉山火车站离峨眉山景区还有9公里路程，需要坐公交车或打车才能到。
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>怎么乘坐汽车前往峨眉山景区？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>乐山肖坝车站有直接到报国寺的班车，每天7:40-18:00滚动发车，间隔一小时，半小时可达。
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                									
+				</ul>
+			</div>  
+        
+            <div class="bz-tab bz-dating" style=" display:none">
+				<ul class="bz-q-list">
+                
+                    <li class="hover">
+						<h3><em></em><span>景区大吗？有必要乘坐游览车吗？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>峨眉山景区非常大，全程徒步对普通人来说几乎是不可能，除非你愿意在山上待个三五天。一般人都会选择乘车、索道加徒步几种综合方式。最节省时间和体力的方式就是在报国寺客运中心乘观光车（
+                                
+                                    <a target="_blank" href="http://leshan.lotour.com/zhengwen/2015/06/1282696.shtml" title="">[详细]</a>
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>峨眉山景区内是否有下榻之处？价格如何？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>峨眉山的住宿主要集中在报国寺、清音阁、雷坪洞和金顶四处，金顶价格相对昂贵，但看日出方便。另外也可以选择住沿途寺庙，只是条件一般，大寺院的条件相对好一些。
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>峨眉山景区内什么地方可以吃饭？价格贵吗？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>万年寺素斋万年寺开饭时间：早上7：00-7：30，中午11：00-11：30，下午6：00-6：30。价格从几元到十几元。订餐电话：0833-5090059雪芽生态养生园雪芽坊生态养生园是峨眉山养生宝库，养生食材
+                                
+                                    <a target="_blank" href="http://leshan.lotour.com/zhengwen/2015/06/1282694.shtml" title="">[详细]</a>
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                									
+				</ul>
+			</div>  
+        			
+			
+        </div>
+    </div>
+    
+    <div class="bz-con clearfix">
+		<h2 class="bz-con-tit clearfix"><strong class="tit4"><a href="javascript:void(0)" title="">附近景区</a></strong></h2>
+        
+        <div class="bz-con-l2">
+            <div class="bz-map"> <img width="520" height="508" src="http://ditu.google.cn/maps/api/staticmap?markers=29.5166,103.336&markers=color:0x59C1FF|label:A|29.6101,103.501&markers=color:0x59C1FF|label:B|29.4998,103.627&markers=color:0x59C1FF|label:C|29.751361,103.577141&markers=color:0x59C1FF|label:D|29.2391802,103.0781298&markers=color:0x59C1FF|label:E|29.749628,103.015381&&size=520x508&sensor=false" alt="" /> </div>				
+        </div>
+        <div class="bz-con-r2">
+            <ul class="zb-jq">
+            
+               <li>
+                    <h3 class="clearfix"><a title="" href="http://leshan.lotour.com/zhuyeqingstmy/" target="_blank"><i class="zb-mdot">A</i><span>竹叶青生态茗园</span></a><b class="nA">3A景区</b><em class="nlike" deffer="4195"></em><em class="nmi">距离19.07km</em></h3>
+                    <p>竹叶青生态茗园峨眉山竹叶青生态茗园位于四川省乐山峨眉山市佛光东路,是集茶文化展示、品茗休闲、茶叶生态观...<a title="" href="http://leshan.lotour.com/zhuyeqingstmy/" target="_blank">[详细]</a></p>
+                </li>   
+            
+               <li>
+                    <h3 class="clearfix"><a title="" href="http://leshan.lotour.com/daduhexiagu/" target="_blank"><i class="zb-mdot">B</i><span>大渡河峡谷公园</span></a><em class="nlike" deffer="8656"></em><em class="nmi">距离28.25km</em></h3>
+                    <p>大渡河金口大峡谷，西起汉源乌斯河，东至乐山金口河，全长26公里。谷底一般宽70至200米，局部小于50米。峡谷...<a title="" href="http://leshan.lotour.com/daduhexiagu/" target="_blank">[详细]</a></p>
+                </li>   
+            
+               <li>
+                    <h3 class="clearfix"><a title="" href="http://leshan.lotour.com/xiaosanxia/" target="_blank"><i class="zb-mdot">C</i><span>小三峡</span></a><em class="nlike" deffer="30341"></em><em class="nmi">距离35.03km</em></h3>
+                    <p>嘉州小三峡在四川乐山市北约23公里的岷江山。北为犁头峡,中为背峨峡,南为平羌峡,全长8公里。是古代成都地区...<a title="" href="http://leshan.lotour.com/xiaosanxia/" target="_blank">[详细]</a></p>
+                </li>   
+            
+               <li>
+                    <h3 class="clearfix"><a title="" href="http://leshan.lotour.com/jinkouhedxg/" target="_blank"><i class="zb-mdot">D</i><span>金口河大峡谷</span></a><em class="nlike" deffer="57139"></em><em class="nmi">距离39.74km</em></h3>
+                    <p>四川省地勘局区域地质调查队和207地质队的地质专家们,在乐山金口河区实地勘查时发现,雄壮奇观、险峻幽幻的大...<a title="" href="http://leshan.lotour.com/jinkouhedxg/" target="_blank">[详细]</a></p>
+                </li>   
+            
+               <li>
+                    <h3 class="clearfix"><a title="" href="http://yaan.lotour.com/wangyuguzhen/" target="_blank"><i class="zb-mdot">E</i><span>望鱼古镇</span></a><em class="nlike" deffer="57857"></em><em class="nmi">距离40.44km</em></h3>
+                    <p>望鱼老街因地形限制,整体形态呈狭长形,建筑由长街串连布成,且多采用下店上宅或以天井分割前后不同功能,具有...<a title="" href="http://yaan.lotour.com/wangyuguzhen/" target="_blank">[详细]</a></p>
+                </li>   
+            
+            </ul>
+        </div>
+    </div>
+    
+    <div class="bz-con clearfix">				
+		<div class="bz-con-l">
+			<h2 class="bz-con-tit clearfix"><strong class="tit7"><a href="javascript:void(0)" title="">乐山玩法</a></strong> 
+            
+			</h2>			
+			<ul class="wf-city">
+            	
+				<li>
+					<h3 class="clearfix"><em class="i-miji"></em><span><a title="小姑凉的第一篇游记，乐山美食 峨眉山攻略" target="_blank" href="http://leshan.lotour.com/zj/1104361">小姑凉的第一篇游记，乐山美食 峨眉山攻略</a></span></h3>
+					<p class="wf-text">&#183;&#183;&#183;&#183;&#183;&#183;&#183;&#183;&#183;&#183;&#183;&#183;&#183;吃货走过，先放两张高清无码乐山美食&#183;&#183;&#183;&#183;&#183;&#183;&#183;&#183;&#183;&#183;&#183;其实这次游记的标题应该是——《若尔盖，...<a title="" target="_blank" href="http://leshan.lotour.com/zj/1104361">[详细]</a></p>
+					<p class="wf-place wf-place2" deffer="5498980"><a title="" target="_blank" href="http://my.lotour.com/i/5498980"></a><i class="sphl">V</i><span>2014年7月游览过：</span> 
+                        
+                                  <a title="" target="_blank" href="http://leshan.lotour.com/emeishanfjq/">峨眉山景区</a>
+                                     
+                                      &gt;   
+                                     
+                                  <a title="" target="_blank" href="http://leshan.lotour.com/">乐山</a>
+                                     	
+					</p>				
+				</li>
+            	
+				<li>
+					<h3 class="clearfix"><em class="i-miji"></em><span><a title="佛光日出云海的诱惑  峨眉山三日游" target="_blank" href="http://leshan.lotour.com/zj/1112816">佛光日出云海的诱惑  峨眉山三日游</a></span></h3>
+					<p class="wf-text">——————————————写在最前面的精华推荐（无广告）—————————峨眉山素席全国闻名，其中以万年寺所制作素斋宴...<a title="" target="_blank" href="http://leshan.lotour.com/zj/1112816">[详细]</a></p>
+					<p class="wf-place wf-place2" deffer="4489066"><a title="" target="_blank" href="http://my.lotour.com/i/4489066"></a><i class="sphl">V</i><span>2014年7月游览过：</span> 
+                        
+                                  <a title="" target="_blank" href="http://leshan.lotour.com/emeishanshi/">峨眉山市</a>
+                                     	
+					</p>				
+				</li>
+            	
+				<li>
+					<h3 class="clearfix"><em class="i-miji"></em><span><a title="璀璨无尽的灯火星光   四川七日游" target="_blank" href="http://leshan.lotour.com/zj/1112817">璀璨无尽的灯火星光   四川七日游</a></span></h3>
+					<p class="wf-text">话说我想去四川想了很久了，成都、峨眉山、乐山大佛、都江堰、九寨沟、新都桥、川藏318自驾游…………这些都是我很想很想去的...<a title="" target="_blank" href="http://leshan.lotour.com/zj/1112817">[详细]</a></p>
+					<p class="wf-place wf-place2" deffer="4490057"><a title="" target="_blank" href="http://my.lotour.com/i/4490057"></a><i class="sphl">V</i><span>2013年9月游览过：</span> 
+                        
+                                  <a title="" target="_blank" href="http://leshan.lotour.com/emeishanshi/">峨眉山市</a>
+                                     	
+					</p>				
+				</li>
+            	
+				<li>
+					<h3 class="clearfix"><em class="i-miji"></em><span><a title="幺姑坨的百年酒坊" target="_blank" href="http://leshan.lotour.com/zj/1671256">幺姑坨的百年酒坊</a></span></h3>
+					<p class="wf-text"><a title="" target="_blank" href="http://leshan.lotour.com/zj/1671256">[详细]</a></p>
+					<p class="wf-place wf-place2" deffer="5644812"><a title="" target="_blank" href="http://my.lotour.com/i/5644812"></a><i class="sphl">V</i><span>2016年11月游览过：</span> 
+                        
+                                  <a title="" target="_blank" href="http://leshan.lotour.com/qianwei/">犍为</a>
+                                     	
+					</p>				
+				</li>
+            											
+			</ul>
+        </div>
+        <div class="bz-con-r">
+			<h2 class="bz-con-tit clearfix"> <strong class="tit7"><a title="" href="javascript:void(0)">乐山鲜闻</a></strong> <a href="http://leshan.lotour.com/news/" target="_blank" title="更多" class="more">更多</a> </h2>
+			<ul class="bz-news-list">
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-24898.shtml" target="_blank" title="乐游乐山，观大佛品尝地道美食">乐游乐山，观大佛品尝地道美食</a> <span>2016-11-11</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-22122.shtml" target="_blank" title="隐于深山的芭蕉沟 已到古稀之年">隐于深山的芭蕉沟 已到古稀之年</a> <span>2016-10-31</span></li>      
+                
+                <li class="on "><a href="http://www.lotour.com/zhengwen/2/lg-jc-23856.shtml" target="_blank" title="穿云破雾 去寻那金顶上的金碧辉煌">穿云破雾 去寻那金顶上的金碧辉煌</a> <span>2016-10-28</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-23565.shtml" target="_blank" title="我向世界介绍四川，乐山犍为罗城古镇">我向世界介绍四川，乐山犍为罗城古镇</a> <span>2016-10-27</span></li>      
+                
+                <li class="on "><a href="http://www.lotour.com/zhengwen/2/lg-jc-23637.shtml" target="_blank" title="蓝瘦香菇？来这里马上满血复活">蓝瘦香菇？来这里马上满血复活</a> <span>2016-10-26</span></li>      
+                
+                <li class="on newsline"><a href="http://www.lotour.com/zhengwen/2/lg-jc-22940.shtml" target="_blank" title="“峨眉天下秀”秋游记">“峨眉天下秀”秋游记</a> <span>2016-10-19</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-22923.shtml" target="_blank" title="五通黄鸡肉  一代名食上演“三国杀”">五通黄鸡肉  一代名食上演“三国杀”</a> <span>2016-10-17</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-22907.shtml" target="_blank" title="乐山小吃：川菜上河帮的傲娇">乐山小吃：川菜上河帮的傲娇</a> <span>2016-10-17</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-22863.shtml" target="_blank" title="乐山翘脚儿：大锅煮簸箕的魔幻神奇">乐山翘脚儿：大锅煮簸箕的魔幻神奇</a> <span>2016-10-17</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-22849.shtml" target="_blank" title="嘉州三老：乐山味道江湖的风清扬">嘉州三老：乐山味道江湖的风清扬</a> <span>2016-10-14</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-22821.shtml" target="_blank" title="麻辣烫身世揭秘：邓爷爷造就的风靡美食">麻辣烫身世揭秘：邓爷爷造就的风靡美食</a> <span>2016-10-14</span></li>      
+                
+                <li class="newsline"><a href="http://www.lotour.com/zhengwen/2/lg-jc-22818.shtml" target="_blank" title="乐山味道？就是川菜上河帮帮主亲自下厨">乐山味道？就是川菜上河帮帮主亲自下厨</a> <span>2016-10-14</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-22805.shtml" target="_blank" title="乐山版清明上河图——天街的前世今生">乐山版清明上河图——天街的前世今生</a> <span>2016-10-14</span></li>      
+                
+                <li class=""><a href="http://leshan.lotour.com/zhengwen/2016/10/1322699.shtml" target="_blank" title="普贤法像落成十周年 峨眉山开启“圆梦之旅”">普贤法像落成十周年 峨眉山开启“圆梦之旅”</a> <span>2016-10-09</span></li>      
+                
+                <li class="on "><a href="http://www.lotour.com/zhengwen/2/lg-jc-22123.shtml" target="_blank" title="艰难的峨眉山行愿体验之旅">艰难的峨眉山行愿体验之旅</a> <span>2016-10-08</span></li>      
+                
+                <li class="on "><a href="http://www.lotour.com/zhengwen/1/lg-jc-19082.shtml" target="_blank" title="峨眉山，流氓猴的三种手段">峨眉山，流氓猴的三种手段</a> <span>2016-10-06</span></li>      
+                			
+			</ul>
+		</div>
+    </div>
+<script type="text/javascript">
+    $(function () {
+        //左侧导航
+        $('.bz-nav:eq(2) dd').live('click', function () {
+            $(this).find("a").addClass("on");
+            $(this).siblings("dd").find("a").removeClass("on");
+            var index = $(this).parent().find("dd:visible").index($(this)),
+				 h = $('.bz-con').eq(index).offset().top - 90;
+            if (h < 318) {
+                $("html, body").animate({
+                    scrollTop: 233
+                }, 400);
+            } else {
+                $("html, body").animate({
+                    scrollTop: h
+                }, 400);
+            }
+        });
+        $(window).scroll(function () {
+            $('.bz-con').each(function () {
+                if ($(this).offset().top >= $(document).scrollTop() - $(this).outerHeight(true) + 150) {
+                    $('.bz-nav:eq(2) dd').eq($('.bz-con').index($(this))).find("a").addClass("on");
+                    $('.bz-nav:eq(2) dd').eq($('.bz-con').index($(this))).siblings("dd").find("a").removeClass("on");
+                    return false
+                }
+            });
+            var rollh = $(".bz-main").height() + 216 - $(".bz-nav:eq(2)").height();
+            if (rollh < $(document).scrollTop()) {
+                $(".bz-nav:eq(2)").hide();
+            } else {
+                $(".bz-nav:eq(2)").show();
+            };
+        });
+
+        //个性	
+        $(".jd-con1-con li").live("hover", function () {
+            $(this).toggleClass("hover");
+        });
+        $(".gx-txt-h").css("margin-top", ($(".gx-txt").height() - $(".gx-txt-h").height()) / 2);
+
+        //必体验
+        $(".bz-tab-con li").live("hover", function () {
+            $(this).toggleClass("hover");
+        });
+
+        //包打听		
+        $(".bz-q-list li").live("hover", function () {
+            $(this).addClass("hover");
+            $(this).siblings("li").removeClass("hover");
+        });
+        $('.bz-tips-list li').live("hover", function () {
+            $(this).toggleClass("hover");
+        });
+
+        //tab切换
+        $(".bz-con-tit li").hover(function () {
+            var _this = $(this), ul = _this.parent(), li = ul.find('li'), index = li.index(_this);
+            ul.parent().siblings(".bz-tab").hide().eq(index).show();
+            li.find('a').removeClass("on");
+            _this.find('a').addClass("on");
+        });
+        $(".jd-wanfa h3").click(function () {
+            var _this = $(this), ul = _this.parents("ul"), li = ul.find("h3"), index = li.index(_this);
+            //ul.parent().siblings(".bz-con-l2").children(".bz-tab").hide().eq(index).show();
+            li.find('a').removeClass("on");
+            _this.find('a').addClass("on");
+            InitMapx(list_slice(poi_list, index+1));
+        });
+
+        //门票弹层
+        $(".tkt-btn").live('click', function () {
+            if (!$(".map-box").is(":hidden")) {
+                $(".map-box").hide();
+            }
+            $(this).parent().siblings(".tkt-layer").slideToggle();
+            $(this).toggleClass("tkt-btn2");
+        });
+
+        $(".wf-place2").each(function () {
+            var _this = $(this), author = _this.attr("deffer");
+            $.getJSON("http://my.lotour.com/i/Common/GetMemberMessage?memberId=" + author + "&callback=?", function (data) {
+                if (data.Success) {
+                    var result = data.Result.Data;
+                    _this.find("a").eq(0).html(result.NickName);
+                    if (result.VStatus > 0) {
+                        _this.find("i").removeClass("sphl");
+                        if (result.VStatus == 2) {
+                            _this.find("i").addClass("i-red");
+                        }
+                        else {
+                            _this.find("i").addClass("i-blue");
+                        }
+                    }
+                }
+            });
+        });
+
+        $("b[deffer]").each(function () {
+            var _this = $(this), regionid = _this.attr("deffer");
+            $.getJSON("http://api.lotour.net/rss/dmspageview.ashx?id=" + regionid + "&callback=?", function (data) {
+                _this.html(data.pageview);
+            });
+        });
+        $("em.nlike").each(function () {
+            var _this = $(this), regionid = _this.attr("deffer");
+            $.getJSON("http://api.lotour.net/rss/dmspageview.ashx?id=" + regionid + "&callback=?", function (data) {
+                _this.html(data.pageview + "人感兴趣");
+            });
+        });
+
+    });
+</script>
+
+<!--=S 灵感推荐 -->
+<a class="lg-tuijian-btn" href="javascript:void(0)"></a>
+<div class="lg-tuijian">
+	<div class="lg-tuijian-con">
+    	<a class="lg-tuijian-x" href="javascript:void(0)"></a>
+        <h2 class="lg-tuijian-tit">峨眉山景区旅游灵感推荐
+        
+            <a href="http://www.lotour.com/zhengwen/r251" target="_blank" title="">更多&gt;&gt;</a>
+        
+        </h2>
+        <ul class="lg-tuijian-list clearfix">
+        
+        	<li>
+            	<div class="img"><a href="http://www.lotour.com/zhengwen/2/lg-jc-23856.shtml" target="_blank" title=""><img src="http://img1.lotour.net/Inspiration/2016/1028/20161028131824494850293_1920_590.jpg" width="130" height="84" alt=""></a></div>
+                <div class="txt">
+                	<h3><a href="http://www.lotour.com/zhengwen/2/lg-jc-23856.shtml" target="_blank" title="穿云破雾 去寻那金顶上的金碧辉煌">穿云破雾 去寻那金顶上的金碧辉煌</a></h3>
+                    <p>作者：<a href="http://zhuanlan.lotour.com/922" target="_blank" title="">尔冬</a></p>
+                    <div class="tags">
+                    	<a href="http://www.lotour.com/zhengwen/x3738" target="_blank" title="山">山</a><a href="http://www.lotour.com/zhengwen/x4136" target="_blank" title="佛教">佛教</a>
+                    </div>
+                </div>
+            </li>
+         
+        	<li>
+            	<div class="img"><a href="http://www.lotour.com/zhengwen/2/lg-jc-23637.shtml" target="_blank" title=""><img src="http://img1.lotour.net/Inspiration/2016/1025/20161025202725424475046_1920_590.jpg" width="130" height="84" alt=""></a></div>
+                <div class="txt">
+                	<h3><a href="http://www.lotour.com/zhengwen/2/lg-jc-23637.shtml" target="_blank" title="蓝瘦香菇？来这里马上满血复活">蓝瘦香菇？来这里马上满血复活</a></h3>
+                    <p>作者：<a href="http://zhuanlan.lotour.com/1569" target="_blank" title="">猫之茶</a></p>
+                    <div class="tags">
+                    	<a href="http://www.lotour.com/zhengwen/x3766" target="_blank" title="泡温泉">泡温泉</a><a href="http://www.lotour.com/zhengwen/x3779" target="_blank" title="特色住宿">特色住宿</a><a href="http://www.lotour.com/zhengwen/x3717" target="_blank" title="古城古镇">古城古镇</a>
+                    </div>
+                </div>
+            </li>
+         
+        	<li>
+            	<div class="img"><a href="http://www.lotour.com/zhengwen/2/lg-jc-22940.shtml" target="_blank" title=""><img src="http://img1.lotour.net/Inspiration/2016/1017/20161017115402011577025_1920_590.jpg" width="130" height="84" alt=""></a></div>
+                <div class="txt">
+                	<h3><a href="http://www.lotour.com/zhengwen/2/lg-jc-22940.shtml" target="_blank" title="“峨眉天下秀”秋游记">“峨眉天下秀”秋游记</a></h3>
+                    <p>作者：<a href="http://zhuanlan.lotour.com/1386" target="_blank" title="">尝笑笑</a></p>
+                    <div class="tags">
+                    	<a href="http://www.lotour.com/zhengwen/x3738" target="_blank" title="山">山</a><a href="http://www.lotour.com/zhengwen/x4136" target="_blank" title="佛教">佛教</a>
+                    </div>
+                </div>
+            </li>
+           
+        </ul>
+    </div>	
+</div>
+<script type="text/javascript">
+    $(function () {
+        $(".lg-tuijian-list li:last").css("margin-right", "0px");
+        if ($(window).width() < 1200) {
+            $(".lg-tuijian").addClass("lg-tuijian-s");
+        } else {
+            $(".lg-tuijian").removeClass("lg-tuijian-s");
+        }
+        $(".lg-tuijian-btn").mouseover(function () {
+            $(this).css("left", "-75px");
+            $(".lg-tuijian").stop().animate({ 'left': '0' }, 800, 'linear');
+        }).trigger("mouseover");
+        $(".lg-tuijian-x").click(function () {
+            $(".lg-tuijian").stop().animate({ 'left': '-100%' }, 500, 'linear');
+            $(".lg-tuijian-btn").stop().animate({ 'left': '0' }, 600, 'linear');
+        });
+
+    });
+</script>
+<!--=E 灵感推荐 -->
+
+    
+    <div class="main bdMain">
+        
+
+<div class="content">
+    <h2 class="conlist-tit">— 乐山旅游行政区划 —</h2>
+    <div class="conlist-con">
+    
+        <dl>
+            <dt><a href="http://leshan.lotour.com/emeishanshi/" title="峨眉山市">峨眉山市</a></dt>
+            <dd>
+            
+                <a href="http://leshan.lotour.com/emeishanfjq/" title="峨眉山景区">峨眉山景区</a>
+          
+                <a href="http://leshan.lotour.com/leshanxixiangchi/" title="洗象池">洗象池</a>
+          
+                <a href="http://leshan.lotour.com/dujuanhuabhq/" title="杜鹃花保护区">杜鹃花保护区</a>
+          
+                <a href="http://leshan.lotour.com/meishanxixiangc/" title="洗象池">洗象池</a>
+          
+                <a href="http://leshan.lotour.com/leshanexiuhu/" title="峨秀湖">峨秀湖</a>
+          
+                <a href="http://leshan.lotour.com/zhuyeqingstmy/" title="竹叶青生态茗园">竹叶青生态茗园</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://leshan.lotour.com/leshanshizhong/" title="乐山市中">乐山市中</a></dt>
+            <dd>
+            
+                <a href="http://leshan.lotour.com/wuyousi/" title="乌尤寺">乌尤寺</a>
+          
+                <a href="http://leshan.lotour.com/leshanjyszjq/" title="乐山金鹰山庄">乐山金鹰山庄</a>
+          
+                <a href="http://leshan.lotour.com/foguanghu/" title="佛光湖">佛光湖</a>
+          
+                <a href="http://leshan.lotour.com/lingyunzhandao/" title="凌云栈道">凌云栈道</a>
+          
+                <a href="http://leshan.lotour.com/leshanyanmu/" title="乐山岩墓">乐山岩墓</a>
+          
+                <a href="http://leshan.lotour.com/laoxiaoding/" title="老霄顶">老霄顶</a>
+          
+                <a href="http://leshan.lotour.com/leshanlydjq/" title="乐山旅游度假区">乐山旅游度假区</a>
+          
+                <a href="http://leshan.lotour.com/wumubolanyuan/" title="乌木博览苑">乌木博览苑</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://leshan.lotour.com/mabian/" title="马边">马边</a></dt>
+            <dd>
+            
+                <a href="http://leshan.lotour.com/sggzcyjszk/" title="三国古战场遗迹">三国古战场遗迹</a>
+          
+                <a href="http://leshan.lotour.com/nabiandafengding/" title="大风顶自然保护区">大风顶自然保护区</a>
+          
+                <a href="http://leshan.lotour.com/yizuxuanfq/" title="彝族悬佛群">彝族悬佛群</a>
+          
+                <a href="http://leshan.lotour.com/leshandfdbhq/" title="乐山大风顶保护区">乐山大风顶保护区</a>
+          
+                <a href="http://leshan.lotour.com/qiaobaguzhen/" title="荞坝古镇">荞坝古镇</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://leshan.lotour.com/ebian/" title="峨边">峨边</a></dt>
+            <dd>
+            
+                <a href="http://leshan.lotour.com/ershsidanglq/" title="二十四凼林">二十四凼林</a>
+          
+                <a href="http://leshan.lotour.com/heizhugou/" title="黑竹沟">黑竹沟</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://leshan.lotour.com/muchuan/" title="沐川">沐川</a></dt>
+            <dd>
+            
+                <a href="http://leshan.lotour.com/chuanxizhuhai/" title="川西竹海">川西竹海</a>
+          
+                <a href="http://leshan.lotour.com/huangdansjslgy/" title="黄丹省级森林公园">黄丹省级森林公园</a>
+          
+                <a href="http://leshan.lotour.com/heixionggu/" title="黑熊谷">黑熊谷</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://leshan.lotour.com/jiajiang/" title="夹江">夹江</a></dt>
+            <dd>
+            
+                <a href="http://leshan.lotour.com/yanggongque/" title="杨公阙">杨公阙</a>
+          
+                <a href="http://leshan.lotour.com/jiajiangtianfuguanguangchayuan/" title="夹江天福观光茶园">夹江天福观光茶园</a>
+          
+                <a href="http://leshan.lotour.com/jiajiangqfyan/" title="夹江千佛岩">夹江千佛岩</a>
+          
+                <a href="http://leshan.lotour.com/biyunshanyegy/" title="碧云山野公园">碧云山野公园</a>
+          
+                <a href="http://leshan.lotour.com/tangsongsgymy/" title="唐宋石缸银摩崖">唐宋石缸银摩崖</a>
+          
+                <a href="http://leshan.lotour.com/jiajiangqfya/" title="夹江千佛崖">夹江千佛崖</a>
+          
+                <a href="http://leshan.lotour.com/huangputangl/" title="皇甫坦故里">皇甫坦故里</a>
+          
+                <a href="http://leshan.lotour.com/niuxiansi/" title="牛仙寺">牛仙寺</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://leshan.lotour.com/jingyan/" title="井研">井研</a></dt>
+            <dd>
+            
+                <a href="http://leshan.lotour.com/zhuyuanlsly/" title="竹园烈士陵园">竹园烈士陵园</a>
+          
+                <a href="http://leshan.lotour.com/xiongkewugj/" title="熊克武故居">熊克武故居</a>
+          
+                <a href="http://leshan.lotour.com/hongxinghu/" title="红星湖">红星湖</a>
+          
+                <a href="http://leshan.lotour.com/dafohu/" title="大佛湖">大佛湖</a>
+          
+                <a href="http://leshan.lotour.com/zhushijiexiaof/" title="朱氏节孝坊">朱氏节孝坊</a>
+          
+                <a href="http://leshan.lotour.com/taiyou/" title="台柚">台柚</a>
+          
+                <a href="http://leshan.lotour.com/leichanggj/" title="雷畅故居">雷畅故居</a>
+          
+                <a href="http://leshan.lotour.com/qianfoguzhen/" title="千佛古镇">千佛古镇</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://leshan.lotour.com/qianwei/" title="犍为">犍为</a></dt>
+            <dd>
+            
+                <a href="http://leshan.lotour.com/jianweiwenmiao/" title="犍为文庙">犍为文庙</a>
+          
+                <a href="http://leshan.lotour.com/jiayangxiaohuoc/" title="嘉阳小火车">嘉阳小火车</a>
+          
+                <a href="http://leshan.lotour.com/luochenggz/" title="罗城古镇">罗城古镇</a>
+          
+                <a href="http://leshan.lotour.com/jianweijyxhc/" title="犍为嘉阳小火车">犍为嘉阳小火车</a>
+          
+                <a href="http://leshan.lotour.com/jianweixwenmiao/" title="犍为县文庙">犍为县文庙</a>
+          
+                <a href="http://leshan.lotour.com/quanshuirdq/" title="泉水溶洞群">泉水溶洞群</a>
+          
+                <a href="http://leshan.lotour.com/molihuajd/" title="茉莉花基地">茉莉花基地</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://leshan.lotour.com/jinkouhe/" title="金口河">金口河</a></dt>
+            <dd>
+            
+                <a href="http://leshan.lotour.com/jinkouhedxg/" title="金口河大峡谷">金口河大峡谷</a>
+          
+                <a href="http://leshan.lotour.com/daduhexiagu/" title="大渡河峡谷公园">大渡河峡谷公园</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://leshan.lotour.com/wutongqiaoqu/" title="五通桥">五通桥</a></dt>
+            <dd>
+            
+                <a href="http://leshan.lotour.com/wutongqiaoqushaluogou/" title="桫椤沟">桫椤沟</a>
+          
+                <a href="http://leshan.lotour.com/wutongqiao/" title="五通桥">五通桥</a>
+          
+                <a href="http://leshan.lotour.com/nongjiabwg/" title="农家博物馆">农家博物馆</a>
+          
+                <a href="http://leshan.lotour.com/leshanxiaoxihu/" title="乐山小西湖">乐山小西湖</a>
+          
+                <a href="http://leshan.lotour.com/shaluoxiagjq/" title="桫椤峡谷">桫椤峡谷</a>
+          
+                <a href="http://leshan.lotour.com/dingyoujunlsjng/" title="丁佑君纪念馆">丁佑君纪念馆</a>
+          
+                <a href="http://leshan.lotour.com/baozishan/" title="宝子山">宝子山</a>
+          
+                <a href="http://leshan.lotour.com/yangzongci/" title="杨宗祠">杨宗祠</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://leshan.lotour.com/shawanqu/" title="沙湾">沙湾</a></dt>
+            <dd>
+            
+                <a href="http://leshan.lotour.com/daduhehxzb/" title="大渡河河心洲坝">大渡河河心洲坝</a>
+          
+                <a href="http://leshan.lotour.com/scmeinvfengsl/" title="美女峰森林公园">美女峰森林公园</a>
+          
+                <a href="http://leshan.lotour.com/leshanhongchunp/" title="洪椿坪">洪椿坪</a>
+          
+                <a href="http://leshan.lotour.com/leshantiyuzx/" title="乐山体育中心">乐山体育中心</a>
+          
+                <a href="http://leshan.lotour.com/yizuzujizm/" title="彝族祖籍之谜">彝族祖籍之谜</a>
+          
+                <a href="http://leshan.lotour.com/lsguomoruogj/" title="乐山郭沫若故居">乐山郭沫若故居</a>
+          
+                <a href="http://leshan.lotour.com/jinyingsz/" title="金鹰山庄">金鹰山庄</a>
+          
+                <a href="http://leshan.lotour.com/gongtongsdzkq/" title="龚铜水电站库区">龚铜水电站库区</a>
+          
+          </dd>
+        </dl>
+      
+    </div>
+</div>
+
+        <div class="content">
+            <div class="travel-recom">    	<h2 class="travel-t">国内游目的地推荐</h2>        <ul class="traver-c clear">        	<li><a title="" target="_blank" href="http://beijing.lotour.com/">北京</a></li><li><a title="" target="_blank" href="http://haerbin.lotour.com/">哈尔滨</a></li><li><a title="" target="_blank" href="http://dalian.lotour.com">大连</a></li><li><a title="" target="_blank" href="http://sanya.lotour.com/">三亚</a></li><li><a title="" target="_blank" href="http://lijiang.lotour.com/">丽江</a></li><li><a title="" target="_blank" href="http://nanjing.lotour.com/">南京</a></li><li><a title="" target="_blank" href="http://hangzhou.lotour.com/">杭州</a></li><li><a title="" target="_blank" href="http://chongqing.lotour.com/">重庆</a></li><li><a title="" target="_blank" href="http://chengdu.lotour.com/">成都</a></li><li><a title="" target="_blank" href="http://yangzhou.lotour.com/">扬州</a></li><li><a title="" target="_blank" href="http://shanghai.lotour.com/">上海</a></li><li><a title="" target="_blank" href="http://xiamen.lotour.com/">厦门</a></li><li><a title="" target="_blank" href="http://qinhuangdao.lotour.com/">秦皇岛</a></li><li><a title="" target="_blank" href="http://jssuzhou.lotour.com/">苏州</a></li><li><a title="" target="_blank" href="http://shangrao.lotour.com/">上饶</a></li><li><a title="" target="_blank" href="http://leshan.lotour.com/">乐山</a></li><li><a title="" target="_blank" href="http://tianjin.lotour.com/">天津</a></li><li><a title="" target="_blank" href="http://huangshan.lotour.com/">黄山</a></li><li><a title="" target="_blank" href="http://guangzhou.lotour.com/">广州</a></li><li><a title="" target="_blank" href="http://wenzhou.lotour.com/">温州</a></li><li><a title="" target="_blank" href="http://hangzhou.lotour.com/">杭州</a></li><li><a title="" target="_blank" href="http://xian.lotour.com/">西安</a></li><li><a title="" target="_blank" href="http://luoyang.lotour.com/">洛阳</a></li><li><a title="" target="_blank" href="http://chengde.lotour.com/">承德</a></li><li><a title="" target="_blank" href="http://qingdao.lotour.com/">青岛</a></li><li><a title="" target="_blank" href="http://weihai.lotour.com/">威海</a></li><li><a title="" target="_blank" href="http://jinan.lotour.com/">济南</a></li></li><li><a title="" target="_blank" href="http://taian.lotour.com/">泰安</a></li><li><a title="" target="_blank" href="http://beihai.lotour.com/">北海</a></li><li><a title="" target="_blank" href="http://changsha.lotour.com/">长沙</a></li><li><a title="" target="_blank" href="http://dalibaizu.lotour.com/">大理</a></li><li><a title="" target="_blank" href="http://guiyang.lotour.com/">贵阳</a></li><li><a title="" target="_blank" href="http://guilin.lotour.com/">桂林</a></li><li><a title="" target="_blank" href="http://haikou.lotour.com/">海口</a></li><li><a title="" target="_blank" href="http://hulunbeier.lotour.com/">呼伦贝尔</a></li><li><a title="" target="_blank" href="http://kaifeng.lotour.com/">开封</a></li><li><a title="" target="_blank" href="http://kunming.lotour.com/">昆明</a></li><li><a title="" target="_blank" href="http://lasa.lotour.com/">拉萨</a></li><li><a title="" target="_blank" href="http://mudanjiang.lotour.com/">牡丹江</a></li><li><a title="" target="_blank" href="http://ningbo.lotour.com/">宁波</a></li><li><a title="" target="_blank" href="http://qiqihaer.lotour.com/">齐齐哈尔</a></li><li><a title="" target="_blank" href="http://shaoxing.lotour.com/">绍兴</a></li><li><a title="" target="_blank" href="http://shenzhen.lotour.com/">深圳</a></li><li><a title="" target="_blank" href="http://shenyang.lotour.com/">沈阳</a></li><li><a title="" target="_blank" href="http://shijiazhuang.lotour.com/">石家庄</a></li><li><a title="" target="_blank" href="http://wulumuqi.lotour.com/">乌鲁木齐</a></li><li><a title="" target="_blank" href="http://wuxi.lotour.com/">无锡</a></li><li><a title="" target="_blank" href="http://wuhan.lotour.com/">武汉</a></li><li><a title="" target="_blank" href="http://yinchuan.lotour.com/">银川</a></li><li><a title="" target="_blank" href="http://zhuhai.lotour.com/">珠海</a></li>                   </ul>        <h2 class="travel-t">出境游目的地推荐</h2>        <ul class="traver-c clear">  <li><a title="" target="_blank" href="http://jpn.lotour.com/">日本</a></li><li><a title="" target="_blank" href="http://kor.lotour.com/">韩国</a></li><li><a title="" target="_blank" href="http://ind.lotour.com/">印度 </a></li><li><a title="" target="_blank" href="http://nep.lotour.com/">尼泊尔</a></li><li><a title="" target="_blank" href="http://tha.lotour.com/">泰国 </a></li><li><a title="" target="_blank" href="http://cam.lotour.com/">柬埔寨</a></li><li><a title="" target="_blank" href="http://gbr.lotour.com/">英国 </a></li><li><a title="" target="_blank" href="http://fra.lotour.com/">法国</a></li><li><a title="" target="_blank" href="http://tur.lotour.com/">土耳其</a></li><li><a title="" target="_blank" href="http://aus.lotour.com/">澳大利亚</a></li><li><a title="" target="_blank" href="http://nzl.lotour.com/">新西兰</a></li><li><a title="" target="_blank" href="http://ken.lotour.com/">肯尼亚</a></li><li><a title="" target="_blank" href="http://egy.lotour.com/">埃及</a></li><li><a title="" target="_blank" href="http://usa.lotour.com/">美国 </a></li> <li><a title="" target="_blank" href="http://mya.lotour.com/">缅甸</a></li><li><a title="" target="_blank" href="http://fin.lotour.com/">芬兰</a></li><li><a title="" target="_blank" href="http://swe.lotour.com/">瑞典</a></li><li><a title="" target="_blank" href="http://mri.lotour.com/">毛里求斯</a></li> </ul>    </div>
+
+        </div>
+        <div class="content">
+          
+        </div>
+         <script>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');  ga('create', 'UA-61824887-1', 'auto');  ga('send', 'pageview');</script>
+    </div>
+    
+<!--=S 公共底 -->  
+<div class="ltFooter">
+	<div class="ltfoot clear">
+		<div class="ltfootA">
+			<a href="http://corp.lotour.com/index.shtml" target="_blank" title="乐途介绍">乐途介绍</a><i>|</i><a href="http://corp.lotour.com/job_2.shtml" target="_blank" title="招贤纳士">招贤纳士</a><i>|</i><a href="http://corp.lotour.com/lotour_honour.shtml" target="_blank" title="网站荣誉">网站荣誉</a><i>|</i><a href="http://corp.lotour.com/contact.shtml" target="_blank" title="联系我们">联系我们</a><i>|</i><a href="http://corp.lotour.com/parter.shtml" target="_blank" title="合作伙伴">合作伙伴</a><i>|</i><a href="http://corp.lotour.com/adv_sev.shtml" target="_blank" title="营销形式">营销形式</a><i>|</i><a href="http://corp.lotour.com/adv_case.shtml" target="_blank" title="成功案例">成功案例</a><i>|</i><a href="http://member.lotour.com/" target="_blank" title="商家入驻">商家入驻</a><i>|</i><a href="http://member.lotour.com/" target="_blank" title="商家登录">商家登录</a><i>|</i><a href="http://d.lotour.com/yudingbangzhu/" target="_blank" title="预订帮助">预订帮助</a><i>|</i><a href="http://corp.lotour.com/term.shtml" target="_blank" title="服务条款">服务条款</a>
+		</div>
+		<div class="ltfootB">
+			<a class="btmLogo" target="_blank" href="http://www.lotour.com/" title="乐途旅游网"></a>
+			<p><a href="http://www.miibeian.gov.cn" target="_blank" title="">京ICP备12008860号-1</a>&nbsp;&nbsp;<a href="http://corp.lotour.com/licence_gd.shtml" target="_blank" title="">广电节目制作许可证：1313号</a>&nbsp;&nbsp;京公网安备：11010502001653<br />
+			<span class="Arial">Copyright &copy; 2005 - 2016&nbsp;&nbsp;<a href="http://www.lotour.com/" target="_blank">Lotour.com</a>&nbsp;&nbsp;All Rights Reserved.</span>&nbsp;<a href="http://www.lotour.com/" target="_blank" title="乐途旅游网">乐途旅游网</a>&nbsp;版权所有</p>
+			<a class="btmIco" target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202008020400006"></a>
+		</div>		
+	</div>
+</div>
+<!--=E 公共底 -->
+<script type="text/javascript" src="http://js.lotour.net/feedback_v1.js"></script><script type="text/javascript" src="http://js.lotour.net/analytics/statsv2.js" defer charset="UTF-8"></script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-39387460-1']);
+    _gaq.push(['_setDomainName', 'lotour.com']);
+    _gaq.push(['_addOrganic', 'baidu', 'word']);
+    _gaq.push(['_addOrganic', 'soso', 'w']);
+    _gaq.push(['_addOrganic', '3721', 'name']);
+    _gaq.push(['_addOrganic', 'yodao', 'q']);
+    _gaq.push(['_addOrganic', 'vnet', 'kw']);
+    _gaq.push(['_addOrganic', 'sogou', 'query']);
+    _gaq.push(['_addOrganic', '360', 'q']);
+    _gaq.push(['_addOrganic', 'so', 'q']);
+    var full_url = location.pathname + location.search + location.hash;
+    _gaq.push(['_trackPageview', full_url]);
+    _gaq.push(['_trackPageLoadTime']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F317768ad40e6ddbe20f10e89b4712c35' type='text/javascript'%3E%3C/script%3E"));
+
+
+</script>
+
+    <!--=S 右底工具条 -->
+<div class="toolbarNew">
+	<div class="tbarNewBtnS"></div>
+	<ul>
+		<li><a hidefocus="true" href="javascript:void(0);" method="been" deffer="2075" class="footmark" title=""><i></i><span>我去过</span></a></li>
+		<li><a hidefocus="true" href="javascript:void(0);" method="want" deffer="2075" class="addWantTo" title=""><i></i><span>我想去</span></a></li>
+		<li><a hidefocus="true" href="javascript:void(0);" method="help" deffer="2075" deffername="峨眉山景区" class="help" title=""><i></i><span>发求助</span></a> </li>
+		<li class="tbarShare"> <a href="javascript:void(0);" class="tbarShareIco"> <i></i> <span>分享</span> </a>
+			<div class="sharecon"> 
+				<!-- Baidu Button BEGIN -->
+				<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare"> <span class="bds_more"></span> </div>
+				<script type="text/javascript" id="bdshare_js" data="type=tools&amp;mini=1&amp;uid=0" ></script> 
+				<script type="text/javascript" id="bdshell_js"></script> 
+				<script type="text/javascript">
+				    document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                </script> 
+				<!-- Baidu Button END --> 
+			</div>
+		</li>
+	</ul>
+	<script type="text/javascript">
+	    $(function () {
+	        $(window).scroll(function () {
+	            var st = $(document).scrollTop(), winh = $(window).height();
+	            if (st > 0) {
+	                if ($('.tbarS').length > 0) { return false }
+	                $('.tbarNewBtnS').click()
+	                $('.toolbarNew').addClass('tbarS')
+	            } else if (st <= 0) {
+	                $('.tbarNewBtn').click()
+	                $('.toolbarNew').removeClass('tbarS')
+	            }
+	        });
+	        $('.tbarNewGtop').live('click', function () { $("html, body").animate({ scrollTop: 0 }, 120); })
+	        $('.tbarNewBtnS').live('click', function () {
+	            $('.toolbarNew ul').stop().animate({ 'height': '312px' })
+	            $('.tbarNewGtop').stop().animate({ 'height': '45px' })
+	            $(this).addClass('tbarNewBtn').removeClass('tbarNewBtnS');
+	            return false
+	        })
+	        $('.tbarNewBtn').live('click', function () {
+	            $('.toolbarNew ul').stop().animate({ 'height': '0px' })
+	            $('.tbarNewGtop').stop().animate({ 'height': '3px' })
+	            $(this).addClass('tbarNewBtnS').removeClass('tbarNewBtn');
+	            return false
+	        })
+
+	        $("a[method=been]").click(function () {
+	            var regionid = $(this).attr("deffer");
+	            var a = $("a[method=been][deffer=" + regionid + "]");
+	            $.getJSON("http://my.lotour.com/login/login/islogin?callback=?&" + (new Date()), function (data) {
+	                if (data.uid > 0)
+	                    a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.uid + "/?rid=" + regionid, "target": "_blank" });
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.memberId + "/?rid=" + regionid, "target": "_blank" });
+	                    }, function (data) {
+	                        SetTopState();
+	                        a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.memberId + "/?rid=" + regionid, "target": "_blank" });
+	                    }, 1, "http://my.lotour.com/i/NotesPublish/replaceUid?rid=" + regionid);
+	                }
+	            });
+	        });
+	        $("a[method=want]").click(function () {
+	            var regionid = $(this).attr("deffer"), month = new Date().getMonth() + 1;
+	            var a = $("a[method=want][deffer=" + regionid + "]");
+	            $.getJSON("http://my.lotour.com/login/login/islogin?callback=?&" + (new Date()), function (data) {
+	                if (data.uid > 0) {
+	                    $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    $('.layerBg').css('height', $(document).height()).show();
+	                }
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    }, function (data) {
+	                        SetTopState();
+	                        $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    }, 1, location.href.toString().replace("#", "") + "?rid=" + regionid + "&ReturnAction=dplace");
+	                }
+	            });
+	        });
+	        $("a[method=help]").click(function () {
+	            var regionid = $(this).attr("deffer"), rname = $(this).attr("deffername");
+	            $.getJSON('http://my.lotour.com/login/login/islogin?callback=?&' + (new Date()), function (data) {
+	                if (data.uid > 0) {
+	                    showHelp(regionid, rname);
+	                }
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        showHelp(regionid, rname);
+	                    }, function (data) {
+	                        SetTopState();
+	                        showHelp(regionid, rname);
+	                    }, 1, location.href.toString().replace("#", "") + "?rid=" + regionid + "&ReturnAction=ask");
+	                }
+	            });
+	        });
+	    });
+	    function showHelp(regionid, rname) {
+	        $('#ask_topic').fadeIn(500).loadAskPanel(0);
+	        $('.layerBg').css('height', $(document).height()).show();
+	        $('#txtAskRegionSelect1').val(rname).attr('disabled', 'disabled');
+	        $('#hidAskTopicRegionId1').val(regionid);
+	        $.ajax({
+	            cache: false,
+	            type: "GET",
+	            dataType: 'jsonp',
+	            jsonp: 'callback',
+	            url: "http://my.lotour.com/i/DPlace/AskTopic/GetBeenCount/",
+	            data: { regionId: regionid },
+	            success: function (data) {
+	                data = data.Result.Data;
+	                if (data.count > 0) {
+	                    $("#BeenMsg").html(data.count + "专家为您解答");
+	                }
+	            },
+	            error: function (xhr, textStatus, errorThrown) {
+	            }
+	        });
+	    }
+  </script>
+	<div class="tbarNewGtop"></div>
+</div>
+<!--=E 右底工具条 -->
+</body>
+</html>

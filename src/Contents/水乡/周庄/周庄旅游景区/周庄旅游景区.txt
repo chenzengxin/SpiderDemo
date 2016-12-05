@@ -1,0 +1,1697 @@
+
+
+<!DOCTYPE html>
+
+<html>
+    
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    
+    <meta name="description" content="乐途旅游网_周庄旅游，提供周庄，周庄旅游景点推荐，周庄旅游攻略，周庄旅游玩法，最适合去周庄旅游的季节，周庄旅游注意事项，周庄旅游线路，周庄酒店预定，周庄旅游地图等出行指南及旅行服务" />
+    <meta name="keywords" content="周庄旅游_周庄旅游攻略_周庄旅游景点" />
+    <title>周庄旅游_周庄旅游攻略_周庄旅游景点_乐途旅游网</title>
+    <link rel="shortcut icon" href="http://www.lotour.com/favicon2.ico" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/base.css" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/lt_top.css" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/jingdian.css" />
+    <script type="text/javascript" src="http://js.lotour.net/jquery-1.8.3.min.js"></script>
+    <!--[if IE 6]><script type="text/javascript" src="http://js.lotour.net/DD_belatedPNG.js"></script><script type="text/javascript">DD_belatedPNG.fix('.logo img,.lt-nav-new-bg,.bdNavWraper,.map-btn,.mddNavWrap,.jd-img em');</script><![endif]--><!--[if lt IE 9]><script type="text/javascript" src="http://js.lotour.net/PIE_IE678.js"></script><![endif]--><!--[if IE 9]><script type="text/javascript" src="http://js.lotour.net/PIE_IE9.js"></script><![endif]--><script type="text/javascript">$(function () {if(window.PIE){$('.jq-list-l-up img').each(function(){ PIE.attach(this);});}});</script>
+</head>
+
+<body class="">
+    
+<script type="text/javascript" src="http://js.lotour.net/login/searchhotellogin_v5.js"></script>
+<script src="http://js.lotour.net/mylotour/v1/mylotour_v2.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://js.lotour.net/lotour_v1.js"></script>
+<div class="lt-nav-new">
+	<a href="http://www.lotour.com/" target="_blank"><img class="logo" src="http://img1.lotour.com/bdhomeV2/new_logo.png" /></a>
+	<div class="nav-new-btn">
+    	<a href="#" class="btn"></a>
+    	<div class="nav-new-layer">
+        	<ul>
+            <li>
+            	<h5><a href="http://www.lotour.com/mudidi/" target="_blank">目的地</a></h5>
+                <div class="links">
+                    <a href="http://shangqiu.lotour.com/" target="_blank">商丘</a><a href="http://xian.lotour.com/" target="_blank">西安</a><a href="http://shannan.lotour.com/" target="_blank">西藏山南</a><a href="http://kunming.lotour.com/yunnanshilin/" target="_blank">石林</a>     <a href="http://shangrao.lotour.com/guifeng/" target="_blank">龟峰</a> <a href="http://xuchang.lotour.com/" target="_blank">许昌</a>                                                                         
+
+                </div>
+            </li>
+            <li class="sg">
+            	<h5>发&nbsp;&nbsp;&nbsp;现</h5>
+                <div class="links">
+                	<a href="http://www.lotour.com/zhoubianyou" target="_blank">周边游</a>
+                	<a href="http://www.lotour.com/guoneiyou" target="_blank">国内游</a>
+                	<a href="http://www.lotour.com/chujingyou" target="_blank">出境游</a>
+                </div>
+            </li>
+            <li class="sg">
+            	<h5>社&nbsp;&nbsp;&nbsp;区</h5>
+                <div class="links">
+                    <a href="http://www.lotour.com/daren/" target="_blank">大咖</a>
+                	<a href="http://www.lotour.com/zijiayou/" target="_blank">自驾</a>
+                    <a href="http://sc.lotour.com/" target="_blank">福利</a>
+                </div>
+            </li>
+            <li>
+            	<h5>预&nbsp;&nbsp;&nbsp;订</h5>
+                <div class="links">
+                    <a href="http://d.lotour.com/hotel/" target="_blank">酒店</a>
+                    <a href="http://d.lotour.com/jipiao/" target="_blank">机票</a>
+                	<a href="http://d.lotour.com/dangdigentuan/" target="_blank">地接</a>
+                	<a id="dujiaxianlu" href="http://d.lotour.com/dujiaxianlu/shanghai/" target="_blank">度假</a>
+                </div>
+            </li>
+            </ul>
+        </div>
+    </div>
+  <div class="ltCrumb clear"> <a href="http://www.lotour.com/" target="_blank" title="">首页</a>&nbsp;&gt;&nbsp;<a href="http://www.lotour.com/mudidi" target="_blank" title="">目的地</a>&nbsp;&gt; 
+      
+              <a href="http://jiangsu.lotour.com/" title="" target="_blank">江苏旅游</a>
+                  &gt;
+          
+              <a href="http://jssuzhou.lotour.com/" title="" target="_blank">苏州旅游</a>
+                  
+                    [<a href="http://jssuzhou.lotour.com/sitemap.shtml" target="_blank" title="城市导航">城市导航</a>]
+               &gt;
+          
+              <a href="http://jssuzhou.lotour.com/kunshan/" title="" target="_blank">昆山旅游</a>
+                  &gt;
+          
+      <h1><a  href="http://jssuzhou.lotour.com/zhouzhuang/" title="">周庄旅游景区</a>
+              
+      </h1>
+  </div>
+  <div class="lt-nav-r">
+  	<div class="lt-nav-item lt-nav-item-srh">
+    	<b></b>
+        <div class="lt-srh-new">
+            <form action="http://ip.lotour.com/home/mudidi" method="get" target="_blank" name="zonghe">
+        	    <div class="lt-srh-l">
+                    <div class="lt-srh-new-clk">
+                        <a href="#" class="l1"><i></i><em></em></a>
+                    </div>
+                    <input type="text" value="点此搜索" name="keyword" id="keyword" class="ipt" />
+                    <input type="hidden" value="0" name="htype" id="htype" />
+                    <input type="hidden" value="" name="keys" id="keys" />
+                    <input type="submit" class="btn" id="btnzonghe" name="btnzonghe" value="" />
+                </div>               
+            </form>
+            <div class="lt-srh-new-layer">
+                <ul>
+                    <li class="l1"><a href="#"><i></i>搜目的地</a></li>
+                    <li class="l2"><a href="#"><i></i>搜达人</a></li>
+                    <li class="l3"><a href="#"><i></i>搜客栈酒店</a></li>
+                    <li class="l4"><a href="#"><i></i>搜当地跟团</a></li>
+                    <li class="l5"><a href="#"><i></i>搜度假线路</a></li>
+                </ul>
+            </div>
+            <div id="hotcityhintDiv" style="z-index: 300001;" class="inputExtendBox sphl">
+                <ul id="scity" class="suggestBox"></ul>
+            </div>
+            <div class="city_divtc" id="Search_Synthesize_Div" style="z-index: 3000006;"><div class="city_divtc_t"><a class="closex"></a><span>国内</span></div><div class="city_divtc_m"><ul><li><a href="http://shangqiu.lotour.com/" target="_blank" title=" 商丘"> 商丘</a></li><li><a href="http://xian.lotour.com/" target="_blank" title=" 西安"> 西安</a></li><li><a href="http://dandong.lotour.com/fengcheng/" target="_blank" title="凤城"> 凤城</a></li><li><a href="http://shannan.lotour.com/" target="_blank" title=" 山南"> 山南</a></li><li><a href="http://kunming.lotour.com/yunnanshilin/" target="_blank" title="石林"> 石林</a></li><li><a href="http://shangrao.lotour.com/guifeng/" target="_blank" title=" 龟峰"> 龟峰</a></li><li><a href="http://lijiang.lotour.com/" target="_blank" title="丽江">丽江</a></li><li><a href="http://zhoushan.lotour.com/" target="_blank" title="舟山">舟山</a></li><li><a href="http://huangshan.lotour.com/" target="_blank" title="黄山">黄山</a></li><li><a href="http://shaoxing.lotour.com/" target="_blank" title="绍兴">绍兴</a></li><li><a href="http://hangzhou.lotour.com/" target="_blank" title=" 杭州"> 杭州</a></li><li><a href="http://xiamen.lotour.com/" target="_blank" title=" 厦门"> 厦门</a></li><li><a href="http://jiaxing.lotour.com/wuzhenguzhen/" target="_blank" title=" 乌镇"> 乌镇</a></li><li><a href="http://qingdao.lotour.com/" target="_blank" title=" 青岛"> 青岛</a></li><li><a href="http://shanghai.lotour.com" target="_blank" title="上海">上海</a></li></ul></div><div class="city_divtc_t"><span>境外</span></div><div class="city_divtc_m"><ul><li><a href="http://tha.lotour.com/" target="_blank" title="泰国">泰国</a></li><li><a href="http://cam.lotour.com/" target="_blank" title="柬埔寨">柬埔寨</a></li><li><a href="http://tha.lotour.com/qingmai/" target="_blank" title="清迈">清迈</a></li><li><a href="http://aus.lotour.com/" target="_blank" title=" 澳大利亚"> 澳大利亚</a></li><li><a href="http://tha.lotour.com/pujifu/" target="_blank" title="普吉岛">普吉岛</a></li><li><a href="http://mas.lotour.com/shaba/" target="_blank" title="沙巴">沙巴</a></li><li><a href="http://pf.lotour.com/" target="_blank" title="大溪地">大溪地</a></li><li><a href="http://nep.lotour.com/" target="_blank" title="尼泊尔">尼泊尔</a></li><li><a href="http://fra.lotour.com/baliqu/" target="_blank" title="巴黎">巴黎</a></li><li><a href="http://taiwan.lotour.com/" target="_blank" title=" 台湾"> 台湾</a></li><li><a href="http://sri.lotour.com/" target="_blank" title=" 斯里兰卡"> 斯里兰卡</a></li><li><a href="http://gbr.lotour.com/lundun1/" target="_blank" title="伦敦">伦敦</a></li><li><a href="http://ina.lotour.com/balidao1/" target="_blank" title="巴厘岛">巴厘岛</a></li><li><a href="http://macao.lotour.com/" target="_blank" title="澳门">澳门</a></li><li><a href="http://fij.lotour.com/" target="_blank" title="斐济">斐济</a></li></ul></div></div>
+
+        </div>
+    </div>
+  	
+  	<div class="lt-login"></div>
+  </div>
+</div>
+
+<!-- 想去浮层 -->
+<div id="dream_place">
+</div>
+<!-- 求助浮层 -->
+<div id="ask_topic" class="msgLayer msgMod" style="display:none;">
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $s.loadCss("http://css.lotour.net/mylotour/v1/wantgo_new");
+        $("#dream_place").DPPanel({
+            className: "msgLayer",
+            close: function () {
+                //关闭时候执行
+                $(".layerBg").hide();
+            },
+            init: function () {
+                //初始化时候执行
+            },
+            publish: function (arr) {
+                //发布时候执行
+                try { dplaceweiboTui($("#dream_place_reseaon").val()) } catch (e) { }
+                location.reload();
+            }
+        }).hide();
+
+        $("#ask_topic").AskPanel({
+            className: "msgLayer",
+            close: function () {
+                //关闭时候执行
+                $(".layerBg").hide();
+            },
+            init: function () {
+                //初始化时候执行
+            },
+            publish: function (arr) {
+                //发布时候执行
+                $a("添加成功");
+            }
+        }).hide();
+
+        var askweibo = new PWeibo({
+            container: 'ask-weiboshare'
+        });
+        askweibo.create();
+        askweiboTui = function (txtcon) {
+            var content = "我在乐途旅游网发布了一条求助，求大家回复啊！";
+            content += "“" + txtcon + "”";
+            askweibo.send(content, function () {
+            });
+        };
+    });
+
+    
+
+    function AskHelp() {
+        $('#ask_topic').fadeIn(500).loadAskPanel(0); $('.layerBg').css('height', $(document).height()).show();
+    }
+    function WantGo() {
+        $('#dream_place').fadeIn(500).loadDPPanel('', 0, true); $('.layerBg').css('height', $(document).height()).show();
+    }
+
+    var SEARCHLEFT = -44, box;
+    if ($.cookie("CityID") == null || $.cookie("ChName") == null || $.cookie("IndexAreaName") == null) {
+        $.getScript("http://ip.lotour.com", function () {
+            $.cookie("CityID", result.regionid, { expires: 30, path: '/', domain: 'lotour.com' });
+            $.cookie("ChName", result.Chname, { expires: 30, path: '/', domain: 'lotour.com' });
+            $.cookie("IndexAreaName", result.regionname, { expires: 30, path: '/', domain: 'lotour.com' });
+            $("#dujiaxianlu").attr("href", "http://d.lotour.com/dujiaxianlu/" + $.cookie("ChName") + "/");
+        });
+    }
+    else
+        $("#dujiaxianlu").attr("href", "http://d.lotour.com/dujiaxianlu/" + $.cookie("ChName") + "/");
+
+    $('.lt-srh-new-layer li').click(function () {
+        var index = $(this).index();
+        $('.lt-srh-new-clk a').attr('class', 'l' + (index + 1));
+        if (index > 1) {
+            $("#htype").attr("value", index - 1);
+        }
+        else if (index == 1) {
+            $("#htype").attr("value", 5);
+        }
+        else {
+            $("#htype").attr("value", index);
+        }
+        $("keys").attr("value", "");
+        switch (index) {
+            case 0:
+                box = $("#keyword").searchbox({ "Left": SEARCHLEFT, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 1:
+                box = $("#keyword").searchbox({ "Flay": "xue_Daren", "Js": "", "Url": "http://my.lotour.com/DarenSearch/handler/AssociateDaren.ashx", "i": 1, "j": 5, "Top": 40, "Left": SEARCHLEFT, "tips": "" });
+                break;
+            case 2:
+                box = $("#keyword").searchbox({ "Flay": "xue_Hotel", "Js": "http://js.lotour.net/searchlayer/djmdd.js", "Url": "http://d.lotour.com/hotel/api/AssociateRegion", "i": 1, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 3:
+                box = $("#keyword").searchbox({ "Flay": "xue_Djxl_Mdd", "Js": "http://js.lotour.net/searchlayer/djmdd.js", "Url": "http://d.lotour.com/dangdigentuan/api-AssociateRegion", "i": 1, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 4:
+                box = $("#keyword").searchbox({ "Flay": "xue_OrderLine_Dest", "Js": "http://d.lotour.com/dujiaxianlu/api-AssociateCommonOsite?sSite=" + $.cookie("CityID") + "&randID=" + escape(new Date()) + "&callback=?", "Url": "http://beijing.lotour.com/dujiaxianlu/api-AssociateOSiteRegion", "i": 0, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+        }
+        $('.lt-srh-new-layer').hide()
+        return false;
+    }).eq(0).trigger("click");
+
+    var loginState = new lotourLoginState({});
+    //loginState.init();
+
+    //导航
+    $('.lt-nav-item').hover(function () {
+        $(this).find('.menu,.lt-srh-new').toggle()
+    })
+
+    $('.lt-srh-new-clk a').click(function () {
+        $('.lt-srh-new-layer').toggle();
+        return false
+    })
+    $('.lt-nav-item-srh').unbind('hover').click(function () {
+        $('.lt-srh-new').toggle();
+        //return false
+    });
+
+    $('.nav-new-btn').hover(function () {
+        $(this).find('.btn').toggleClass('btn-on');
+        $(this).find('.nav-new-layer').toggle();
+    });
+    $('.nav-new-layer li,.ltCommentList li').hover(function () {
+        $(this).toggleClass('hover');
+    });
+</script>
+<!--=S 头图 -->
+
+<div class="bdBannerWrap bdBannerChl mddBannerCh2">
+    
+    <div class="bd-main clearfix">
+		<div class="mdd-adv">
+			<script src="http://js.lotour.net/bcef/409.js" type="text/javascript"></script>
+		</div>
+		<div class="mddName clearfix">				
+			<h2><a title="周庄旅游" class="bdName-tit" href="http://jssuzhou.lotour.com/zhouzhuang/">周庄</a><a title="" href="javascript:void(0)" class="map-btn"></a>
+            
+                <em class="map-here"><b>亲</b>，可以查看地图哦!~</em>
+            
+			</h2>
+        
+			<div class="bdLikeNum"><span></span>人感兴趣</div>
+            
+			<div class="bdscore" id="rscore">
+				<a title="" href="http://jssuzhou.lotour.com/zhouzhuang/pingce/"><em></em><span>分</span></a>
+				<b></b>
+				<b></b>
+				<b></b>
+				<b></b>
+				<b></b>
+			</div>
+            
+            <div class="jd-ticket" deffer="2">
+				<p class="tkt-price clearfix">
+					<span class="t-pri">
+                    
+                        ￥<b>100</b>
+                        
+					</span>
+					<a class="tkt-btn" href="javascript:void(0)" title=""></a>
+				</p>
+				<p class="tkt-time">
+                
+                    开放时间 08:00-16:30
+                
+				</p>				
+				<div class="tkt-layer">
+					<div class="tkt-layer-con clearfix">						
+						<h3>门票</h3>
+						<p>
+                           旺季（3月1日—11月30日）：100元<br>
+                            
+						   淡季（12月1日—2月28日）：100元<br>
+						 
+                           优惠门票：周庄的门票并没有淡旺季之分，日游联票周庄门票：100元，夜游周庄门票：80元。古镇景区日游：包括沈厅、双桥、文化街等十六个景点；
+古镇景区夜游：包括水上巡演（冬季除外）、双桥情思、张厅怀古、富安桥叶酸、感受老街
+江南采珠游：￥60元/船；四季周庄演出门票：普通座￥150/人；贵宾席￥280/人；古镇水巷游：￥100/船
+
+水上风情游：
+南湖码头上船（备有快艇、风帆船）
+万三水上休闲游：￥150/船&#183;环镇水上游：￥40/人
+富贵欢乐世界：￥30/人环镇水上游门票：40元江南采珠游：60元四季周庄演出门票：150元
+儿童票：身高1-1.4米之间购半票。1米以下免票。60周岁-70周岁老人票凭证半票；残疾人士凭残疾证5折优惠；70岁周岁以上老人、现役军官证、国家导游证、记者证、驾驶员A照免票。
+                        
+						</p>
+						<h3>开放时间</h3>
+                        
+						<p>旺季（3月1日—11月30日）：08:00-16:30</p>
+                            
+                        <p>淡季（12月1日—2月28日）：08:00-16:30</p>
+                        
+                        <p>详情：日游开放时间08:00—16:30，夜游开放时间16:00—20:00（冬季16:00—19:00）
+留宿周庄的游客，请到售票处旁边的拍照点进行免费拍照，门票有效期将延长3天 
+夜游票仅限取票当天16：00点后入园游玩</p>
+                        
+						<p><strong>建议游玩时间</strong>1～3天</p>
+						<p><strong>电话</strong>0512-57211699</p>
+						<p><strong>网址</strong><a title="" href="http://www.zhouzhuang.net">http://www.zhouzhuang.net</a></p>						
+					</div>	
+				</div>				
+			</div>
+            									
+		</div>        
+	</div>    
+</div>
+<script type="text/javascript">
+    function SelectScour(){
+        $.getJSON("http://api.lotour.net/brandhome/Region/SelectRegionScore?regionId=1703&callback=?", function (data) {
+            var star1 = parseInt(data.Score / 2);
+            var scor = parseInt(data.Score);
+            var scor1 = parseInt((data.Score - scor) * 10);
+            $("#rscore").find("em").html(scor+"."+scor1);
+            for (var i = 0; i < star1; i++) {
+                $("#rscore>b:eq("+i+")").html("<i></i>");
+            }
+            $("#rscore>b:eq("+star1+")").html("<i style=\"width:"+parseInt((data.Score/2-star1)*100)+"%\"></i>");
+        });
+    }
+    
+    $(function () {
+        
+        SelectScour();
+        
+        var winw = $(window).width();	
+        $('.map-box').css({"margin-left":(winw-980)/2,"top":"233px","border":"1px solid #f5f5f5"});
+    });
+</script>
+
+
+<!--=S 地图弹层-->
+<div class="map-box ">
+	<a class="map-x" href="#" title="关闭"></a>		
+	<div class="map-con" id="J_miniMap">
+	</div>
+
+    <div class="map-con-r">
+		<h3>周庄古镇</h3>
+		<h4><strong>地址</strong>位于昆山市境内西南隅，与吴江、吴县、上海市青浦县交界</h4>
+		<h4><strong>交通</strong></h4>
+		<p>1.上海出发：在上海客运总站、北区客运站、青浦汽车站都有直达周庄古镇的班车。</p><p>2.苏州出发：苏州汽车北站至周庄有直达班车，时间1小时，票价17元；汽车南站到吴江江泽，票价13元，时间1小时20分钟，下车后步行不久就是周庄。</p><p>3.昆山出发：从新客站始发的"昆山--周庄/130路" 或从市区里面的亭林公园,红峰二村那边始发的"161路"、133到汽车北站 均有公交直达。</p>				
+	</div>
+	
+</div>
+<!--=E 地图弹层-->
+<style type="text/css">
+.map-mark {
+    width: 24px;
+    height: 28px;
+    background: url(http://img1.lotour.net/lotour/biaodian-d.png) no-repeat -35px 0;
+    overflow: hidden;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 22px;
+    cursor: pointer;
+    position: relative;
+    z-index: 1008;
+}
+.map-mark.on {
+    background-position: -35px -35px;
+    z-index: 1009;
+}
+</style>
+<script type="text/javascript" src="http://js.lotour.net/map.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://js.lotour.net/jquery.tmpl.min.js"></script>
+<script type="text/javascript">
+    var mapInfo = {
+        lat: parseFloat('31.124254'),
+        lng: parseFloat('120.845657')
+    };
+    var miniMapBox = $('#J_miniMap'), miniMap, MiniMarker;
+
+    function initMiniMap() {
+        var latLng = new google.maps.LatLng(mapInfo.lat, mapInfo.lng);
+        var mapOptions = {
+            center: latLng,
+            zoom: 10,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+        miniMap = new google.maps.Map(miniMapBox.get(0), mapOptions);
+        var markerHtml = '<div class="map-mark"></div>';
+        new MiniMarker(miniMap, markerHtml, latLng);
+        
+
+        var marker = new google.maps.Marker({
+            position: latLng
+        });
+
+    }
+    function MarkerOverlay() {
+        var Overlay = function (map, text, latLng, ready) {
+            this.map = map;
+            this.text = text;
+            this.latLng = latLng;
+            this.ready = ready;
+            this.div = null;
+            this.setMap(this.map);
+        }
+
+        Overlay.prototype = new google.maps.OverlayView();
+
+        $.extend(Overlay.prototype, {
+            onAdd: function () {
+                var div = $('<div/>').html(this.text).css('position', 'absolute');
+                $(this.getPanes().overlayImage).append(div);
+                this.div = div;
+                if (typeof this.ready === 'function') {
+                    this.ready.call(this);
+                }
+            },
+            draw: function () {
+                var latLng = this.getProjection().fromLatLngToDivPixel(this.latLng);
+                this.div.css({
+                    'left': latLng.x - this.div.width() / 2,
+                    'bottom': -latLng.y
+                });
+            },
+            onRemove: function () {
+                this.div.remove();
+                this.div = null;
+            }
+        });
+
+        return Overlay;
+    }
+
+    function updateBrowse() {
+        var regionObj = new RegionBrowse(1703);
+        regionObj.updateBrowse()
+        $.getJSON("http://api.lotour.net/rss/dmspageview.ashx?id=1703&callback=?", function (data) {
+            var span = $("div.bdLikeNum").find("span");
+            span.html(data.pageview);
+        });
+    }
+    
+    $(function () {
+        updateBrowse();
+        //地图加载
+        var mapload = new MfwMapLoad(function () {
+            if (mapInfo == undefined || !$.isPlainObject(mapInfo) || $.isEmptyObject(mapInfo)) {
+                return;
+            }
+            MiniMarker = MarkerOverlay();
+            $(".map-btn").click(function () {
+                if($(".map-box").is(":hidden")){
+                    if($(".tkt-btn").length>0&&!$(".tkt-layer").is(":hidden")){
+                        $(".tkt-btn").trigger("click");
+                    }
+                    $(".map-box").show();
+                    initMiniMap();
+                }
+                else{
+                    $(".map-box").hide();
+                }
+            });
+            $(".bd-r-mapbtn,#abigmap").click(function(){
+                initMaxMap();
+            });
+        }, 5000, false);
+        mapload.autoLoadMap();
+        //地图弹层
+        
+        $(".map-x").click(function () {
+            $(".map-box").hide();
+        });
+    });
+</script>
+
+
+<div class="mddNavWrap">
+    <div class="mddNavbg">
+	    <div class="mddNav">            
+		    <ul class="clearfix">         
+			    <li class="on"><a title="周庄旅游必知" href="http://jssuzhou.lotour.com/zhouzhuang/"><span>必知</span></a></li>
+                
+                 <li class=""><a title="周庄旅游景点" href="http://jssuzhou.lotour.com/zhouzhuang/jingqu/"><span>景点</span></a></li>                
+			         
+                <li class=""><a title="周庄旅游游记" href="http://jssuzhou.lotour.com/zhouzhuang/lvyouyouji/"><span>游记</span></a></li>  
+                              
+			    <li class=""><a title="周庄旅游口碑" href="http://jssuzhou.lotour.com/zhouzhuang/pingce/"><span>口碑</span></a></li>                
+			    <li class=""><a title="周庄旅游文章" href="http://jssuzhou.lotour.com/zhouzhuang/news/"><span>文章</span></a></li>                
+			    
+                <li class=""><a title="周庄旅游预订" href="http://jssuzhou.lotour.com/zhouzhuang/yuding/"><span>预订</span></a></li>
+                               	
+		    </ul>
+            <div class="bz-nav sphl">
+				    <dl class="clearfix">				
+					    <dd><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					    <dd><a href="javascript:void(0)" title="">玩法</a></dd>
+					    <dd><a href="javascript:void(0)" title="">资讯</a></dd>
+					    <dd><a href="javascript:void(0)" title="">住哪儿</a></dd>
+					    <dd><a href="javascript:void(0)" title="">包打听</a></dd>
+					    <dd><a href="javascript:void(0)" title="">如何到达</a></dd>					
+					    <dd><a href="javascript:void(0)" title="">附近城市</a></dd>
+					    <dt><a href="javascript:void(0)" title=""><span>手绘攻略</span></a></dt>
+				    </dl>
+			    </div>
+            <div class="bz-nav sphl">
+				<dl class="clearfix">
+					<dd class="nav1"><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					<dd class="nav2"><a href="javascript:void(0)" title="">旅行<br />月历</a></dd>
+					<dd class="nav3"><a href="javascript:void(0)" title="">必体验</a></dd>
+					<dd class="nav4"><a href="javascript:void(0)" title="">玩法</a></dd>
+					<dd class="nav5"><a href="javascript:void(0)" title="">抵达<br />住哪</a></dd>
+					<dd class="nav6"><a href="javascript:void(0)" title="">包打听</a></dd>
+					<dd class="nav7"><a href="javascript:void(0)" title="">周边<br />线路</a></dd>					
+				</dl>
+			</div>
+            <div class="bz-nav sphl">
+				<dl class="clearfix">
+					<dd class="nav1"><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					<dd class="nav3"><a href="javascript:void(0)" title="">必体验</a></dd>
+					<dd class="nav4"><a href="javascript:void(0)" title="">玩法</a></dd>
+					<dd class="nav5"><a href="javascript:void(0)" title="">重要<br />提示</a></dd>
+					<dd class="nav6"><a href="javascript:void(0)" title="">附近<br />景区</a></dd>
+					<dd class="nav7"><a href="javascript:void(0)" title="">城市<br />相关</a></dd>
+				</dl>
+			</div>
+	    </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(".bz-nav:eq(2)").removeClass("sphl");
+    $(function () {
+
+        var winw = $(window).width();
+        $('.map-box').css({ "margin-left": (winw - 980) / 2, "top": "233px", "border": "1px solid #f5f5f5" });
+
+        //滚动固定导航
+        $(window).scroll(function () {
+            var st = $(document).scrollTop(), toph = $(".lt-nav-new").height() + $(".bdBannerWrap").height();
+            if (st - toph >= 0) {
+                $(".mddNavWrap").addClass("mddNavWrapFix");
+                $(".bz-con1").addClass("pt-con1");
+                if ($.browser.msie && ($.browser.version == "6.0") && !$.support.style) {
+                    $(".mddNavWrap").css({ "top": st, "margin-top": "0" })
+                }
+            } else if (st - toph < 0) {
+                $(".mddNavWrap").removeClass("mddNavWrapFix");
+                $(".bz-con1").removeClass("pt-con1");
+                if ($.browser.msie && ($.browser.version == "6.0") && !$.support.style) {
+                    $(".mddNavWrap").css({ "top": "0", "margin-top": "0" })
+                }
+            }
+        });
+    });
+</script>
+<div class="bd-main bz-main clearfix">
+    <div class="bz-con bz-con1 jd-con1">
+        <ul class="clearfix">	
+			<li><a href="http://jssuzhou.lotour.com/zhengwen/2015/04/1274855.shtml" target="_blank" title="周庄 小桥流水人家"><img src="http://img1.lotour.net/cmsMustKnowScenic/2015/04/2015042219094928742561.jpg" width="702" height="394" alt="周庄 小桥流水人家" /></a></li>
+			<li><a href="http://jssuzhou.lotour.com/zhengwen/2015/04/1274855.shtml" target="_blank" title="周庄古戏台昆曲演出"><img src="http://img1.lotour.net/cmsMustKnowScenic/2015/04/2015042311405937196531.jpg" width="278" height="197" alt="周庄古戏台昆曲演出" /></a></li>
+			<li><a href="http://jssuzhou.lotour.com/zhengwen/2015/04/1274855.shtml" target="_blank" title="周庄慢夜"><img src="http://img1.lotour.net/cmsMustKnowScenic/2015/04/201504231149140721511.jpg" width="278" height="197" alt="周庄慢夜" /></a></li>			
+		</ul>
+        <div class="gx-txt">
+        	<em></em>
+            <div class="gx-txt-h">
+                <p class="gx-p1">周庄的特色更多在于它因河成街、傍水而居的格局——蜿蜒的巷子与河道布局紧凑，古老的石桥与墙头间或一现，再配上河上船娘的软语小调，此时若有小雨零星，绝对就是“小桥流水人家”的标准版本。无论是“四大”还是六大，周庄都是江南古镇里最出彩的重头戏...<a href="http://jssuzhou.lotour.com/zhengwen/2015/04/1274855.shtml" target="_blank" title="">[详细]</a></p>
+                <p class="gx-p2">最佳旅游时间：3月-11月，“小桥、流水、人家”的灵秀水乡风貌，独特的人文建筑景观。</p>
+            </div>            	
+        </div>
+    </div>
+
+    <div class="bz-con clearfix">
+        <div class="bz-con-tit clearfix"> 
+            <ul class="bz-tab-tit" id="experiences">
+                <li deffer="0"><strong class="tit2"><a title="" href="javascript:void(0)">游</a></strong></li>
+                <li deffer="1"><strong class="tit2"><a title="" href="javascript:void(0)" class="">吃</a></strong></li>
+                <li deffer="2"><strong class="tit2"><a title="" href="javascript:void(0)" class="">购</a></strong></li>                    
+                <li deffer="3"><strong class="tit2"><a title="" href="javascript:void(0)" class="">娱</a></strong></li>
+            </ul>			
+        </div>
+        
+        <div class="bz-tab hot-jingdian">
+        	<a class="more" title="更多" target="_blank" href="http://jssuzhou.lotour.com/zhouzhuang/jingqu/">更多</a>		
+			<ul class="clearfix">
+            
+                <li>
+				    <div class="jd-img">
+					    <a href="http://jssuzhou.lotour.com/zhouzhuangnanhu/" target="_blank" title=""><img width="233" height="150" src="http://img1.lotour.net/mudidiplay/2015/0519/20150519093854400db.jpg" alt="" /></a>
+					    <em><span><b deffer="201027"></b>人感兴趣</span></em>
+				    </div>	
+				    <h3 class="clearfix"><a href="http://jssuzhou.lotour.com/zhouzhuangnanhu/" target="_blank" title="">南湖</a></h3>
+			    </li>      
+            
+                <li>
+				    <div class="jd-img">
+					    <a href="http://jssuzhou.lotour.com/kunshansq/" target="_blank" title=""><img width="233" height="150" src="http://img1.lotour.net/mudidiplay/2015/0427/20150427095633406aa.jpg" alt="" /></a>
+					    <em><span><b deffer="43650"></b>人感兴趣</span></em>
+				    </div>	
+				    <h3 class="clearfix"><a href="http://jssuzhou.lotour.com/kunshansq/" target="_blank" title="">昆山双桥</a></h3>
+			    </li>      
+            
+                <li>
+				    <div class="jd-img">
+					    <a href="http://jssuzhou.lotour.com/zhouzhuanghlsj/" target="_blank" title=""><img width="233" height="150" src="http://img1.lotour.net/mudidiplay/2015/0427/2015042709540030541.jpg" alt="" /></a>
+					    <em><span><b deffer="54763"></b>人感兴趣</span></em>
+				    </div>	
+				    <h3 class="clearfix"><a href="http://jssuzhou.lotour.com/zhouzhuanghlsj/" target="_blank" title="">周庄欢乐世界</a></h3>
+			    </li>      
+            
+                <li>
+				    <div class="jd-img">
+					    <a href="http://jssuzhou.lotour.com/fuanqiao/" target="_blank" title=""><img width="233" height="150" src="http://img1.lotour.net/mudidiplay/2015/0429/20150429184128189f2.jpg" alt="" /></a>
+					    <em><span><b deffer="215133"></b>人感兴趣</span></em>
+				    </div>	
+				    <h3 class="clearfix"><a href="http://jssuzhou.lotour.com/fuanqiao/" target="_blank" title="">富安桥</a></h3>
+			    </li>      
+            
+                <li>
+				    <div class="jd-img">
+					    <a href="http://jssuzhou.lotour.com/zhouzhuangfang/" target="_blank" title=""><img width="233" height="150" src="http://img1.lotour.net/mudidiplay/2015/0427/201504270951092100b.jpg" alt="" /></a>
+					    <em><span><b deffer="201025"></b>人感兴趣</span></em>
+				    </div>	
+				    <h3 class="clearfix"><a href="http://jssuzhou.lotour.com/zhouzhuangfang/" target="_blank" title="">周庄舫</a></h3>
+			    </li>      
+            
+                <li>
+				    <div class="jd-img">
+					    <a href="http://jssuzhou.lotour.com/shenwansanguju/" target="_blank" title=""><img width="233" height="150" src="http://img1.lotour.net/mudidiplay/2015/0423/2015042311075385050.jpg" alt="" /></a>
+					    <em><span><b deffer="215140"></b>人感兴趣</span></em>
+				    </div>	
+				    <h3 class="clearfix"><a href="http://jssuzhou.lotour.com/shenwansanguju/" target="_blank" title="">沈万三故居</a></h3>
+			    </li>      
+            
+                <li>
+				    <div class="jd-img">
+					    <a href="http://jssuzhou.lotour.com/taipingqiaojd/" target="_blank" title=""><img width="233" height="150" src="http://img1.lotour.net/mudidiplay/2015/0429/2015042918393051bb2.jpg" alt="" /></a>
+					    <em><span><b deffer="201034"></b>人感兴趣</span></em>
+				    </div>	
+				    <h3 class="clearfix"><a href="http://jssuzhou.lotour.com/taipingqiaojd/" target="_blank" title="">太平桥</a></h3>
+			    </li>      
+            
+                <li>
+				    <div class="jd-img">
+					    <a href="http://jssuzhou.lotour.com/zhuangtian/" target="_blank" title=""><img width="233" height="150" src="http://img1.lotour.net/mudidiplay/2015/0423/20150423111244533b5.jpg" alt="" /></a>
+					    <em><span><b deffer="215136"></b>人感兴趣</span></em>
+				    </div>	
+				    <h3 class="clearfix"><a href="http://jssuzhou.lotour.com/zhuangtian/" target="_blank" title="">庄田</a></h3>
+			    </li>      
+            
+            </ul>
+        </div>
+          
+        <div class="bz-tab hot-jingdian" style="display:none">		
+			<ul class="clearfix">
+            
+                <li>
+					<div class="jd-img">
+						<a href="http://jssuzhou.lotour.com/zhengwen/2015/04/1274889.shtml" target="_blank" title=""><img width="233" height="150" src="http://img2.lotour.net/mustknow/2015/0423/2015042313420155366403.jpeg" alt="" /></a>						
+					</div>	
+					<h3 class="clearfix"><a href="http://jssuzhou.lotour.com/zhengwen/2015/04/1274889.shtml" target="_blank" title="">三毛茶楼</a></h3>
+				</li>    
+              
+                <li>
+					<div class="jd-img">
+						<a href="http://jssuzhou.lotour.com/zhengwen/2015/04/1274873.shtml" target="_blank" title=""><img width="233" height="150" src="http://img3.lotour.net/mustknow/2015/0423/2015042313390834998096.jpg" alt="" /></a>						
+					</div>	
+					<h3 class="clearfix"><a href="http://jssuzhou.lotour.com/zhengwen/2015/04/1274873.shtml" target="_blank" title="">周庄花间堂桔梗餐厅</a></h3>
+				</li>    
+              
+                <li>
+					<div class="jd-img">
+						<a href="http://jssuzhou.lotour.com/zhengwen/2015/04/1274875.shtml" target="_blank" title=""><img width="233" height="150" src="http://img3.lotour.net/mustknow/2015/0423/2015042313310631999535.jpg" alt="" /></a>						
+					</div>	
+					<h3 class="clearfix"><a href="http://jssuzhou.lotour.com/zhengwen/2015/04/1274875.shtml" target="_blank" title="">沈厅酒家</a></h3>
+				</li>    
+              
+            </ul>
+        </div>
+        
+        <div class="bz-tab hot-jingdian" style="display:none">		
+			<ul class="clearfix">
+            
+                <li>
+					<div class="jd-img">
+						<a href="http://jssuzhou.lotour.com/zhengwen/2015/04/1274901.shtml" target="_blank" title=""><img width="233" height="150" src="http://img1.lotour.net/mustknow/2015/0423/2015042313434237103204.jpg" alt="" /></a>						
+					</div>	
+					<h3 class="clearfix"><a href="http://jssuzhou.lotour.com/zhengwen/2015/04/1274901.shtml" target="_blank" title="">贞丰文化街</a></h3>
+				</li>    
+              
+            </ul>
+        </div>
+        
+        <div class="bz-tab hot-jingdian" style="display:none">		
+			<ul class="clearfix">
+            
+                <li>
+					<div class="jd-img">
+						<a href="http://jssuzhou.lotour.com/zhengwen/2015/04/1274971.shtml" target="_blank" title=""><img width="233" height="150" src="http://img2.lotour.net/mustknow/2015/0423/2015042313513362891501.jpg" alt="" /></a>						
+					</div>	
+					<h3 class="clearfix"><a href="http://jssuzhou.lotour.com/zhengwen/2015/04/1274971.shtml" target="_blank" title="">猫的天空之城</a></h3>
+				</li>    
+              
+                <li>
+					<div class="jd-img">
+						<a href="http://jssuzhou.lotour.com/zhengwen/2015/04/1274963.shtml" target="_blank" title=""><img width="233" height="150" src="http://img3.lotour.net/mustknow/2015/0423/2015042313483006968219.jpg" alt="" /></a>						
+					</div>	
+					<h3 class="clearfix"><a href="http://jssuzhou.lotour.com/zhengwen/2015/04/1274963.shtml" target="_blank" title="">四季周庄</a></h3>
+				</li>    
+              
+                <li>
+					<div class="jd-img">
+						<a href="http://jssuzhou.lotour.com/zhengwen/2015/04/1274956.shtml" target="_blank" title=""><img width="233" height="150" src="http://img2.lotour.net/mustknow/2015/0423/2015042313464488483364.JPG" alt="" /></a>						
+					</div>	
+					<h3 class="clearfix"><a href="http://jssuzhou.lotour.com/zhengwen/2015/04/1274956.shtml" target="_blank" title="">周庄古戏台 </a></h3>
+				</li>    
+              
+            </ul>
+        </div>
+        
+    </div>
+    <script type="text/javascript">
+        if ($("#experiences li").length == 0) {
+            $("#experiences").parents(".bz-con").remove();
+            $("dd.nav3").remove();
+        }
+        else {
+            $("#experiences li").eq(0).find("a").addClass("on");
+        }
+    </script>
+
+    <script type="text/javascript">
+        $("dd.nav4").remove();
+    </script>
+
+    <div class="bz-con clearfix">
+		<div class="bz-con-l">
+			<div class="bz-con-tit clearfix">
+            	<strong class="tit5"><a class="on" href="javascript:void(0)" title="">重要提示</a></strong>
+                
+            	<ul class="dating-tit">
+                			
+				</ul>
+            </div>
+            
+            <div class="bz-tab bz-dating" style="  ">			
+				<ul class="bz-tips-list">
+<li class=""><b>游船</b> 周庄之所以能在城市化进程中保留下来，就是因为它深处湖泊沼泽之中，以往百姓出行都是以舟代步。所以到周庄不妨乘坐一下独具水乡特色的游船，听船娘用正宗的吴语唱歌。</li>      
+<li class=""><b>古镇同游</b> 苏州有许多水乡古镇，除了周庄之外，同里、甪直、锦溪、千灯也比较有名。推荐同里和甪直，它们和周庄离得很近，可以一起游玩。同里的退思园是世界文化遗产，甪直的万盛米行家喻户晓。</li>      
+<li class=""><b>雨期出行</b> 江南四季多雨，尤其是在6、7月间还有长达1个月的梅雨，此时务必携带雨具。但雨期也不要放弃出行，江南水乡最美的意境往往就在朦胧雨时。</li> 
+<li class=""><b>医疗</b> 周庄医疗设施不比大城市，周庄景区外的周庄镇上的周庄人民医院是镇上条件较好的医院。     
+</li>
+<li class=""><b>游玩须知</b> 周庄大多为石板路，最好不要穿高跟鞋，以免卡入石缝中。     
+</ul>
+
+			</div>      
+            
+        </div>
+        <div class="bz-con-r">
+			<div class="bz-con-tit clearfix">
+            	<strong class="tit5"><a href="javascript:void(0)" title="">包打听</a></strong>
+                
+            	<ul class="dating-tit">
+                				
+				</ul>
+            </div>
+        
+            <div class="bz-tab bz-dating" style=" ">
+				<ul class="bz-q-list">
+                
+                    <li class="hover">
+						<h3><em></em><span>去周庄玩儿必须要购买景点通票吗？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>周庄门票包含：张厅、沈厅、全福寺、古戏台、逸飞之家、南湖秋月园、迷楼、沈万三故居、叶楚伧故居、沈万三水墓、文化街、澄虚道院、蚬江渔唱渔业馆、天富博物馆、周庄博物馆15个景点（包含
+                                
+                                    <a target="_blank" href="http://jssuzhou.lotour.com/zhengwen/2015/04/1275006.shtml" title="">[详细]</a>
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>去周庄玩一趟大概要花费多少？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>白天票价100元，包括里面大大小小16个分景点的门票，夜票80元．四点半以后，只能进庄里主要的三个景点，其它的都关闭了。你也可以找个导游帮助买团体票，应该可以便宜一点。周庄最美的莫过于
+                                
+                                    <a target="_blank" href="http://jssuzhou.lotour.com/zhengwen/2015/04/1275005.shtml" title="">[详细]</a>
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>周庄有多少年的历史了？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>周庄位于苏州城东南，昆山的西南处，古称贞丰里。春秋战国时期，周庄境内为吴王少子摇的封地，称摇城。北宋元佑元年（1086年）周迪功郎舍宅200余亩捐于当地全福寺为寺，始称周庄，元代中期，
+                                
+                                    <a target="_blank" href="http://jssuzhou.lotour.com/zhengwen/2015/04/1275004.shtml" title="">[详细]</a>
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>自驾游过来停车方便吗？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>周庄停车还是蛮方便的，景区门口有停车场，然后古镇门口也有停车场，汽车站那也有，距离不远。
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>景区有什么特殊交通工具吗？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>周庄景区的游船有古镇和新区两部分。古镇上所租木舟游船每条约80元（限乘8人）/20分钟，新区150元（限乘8人）/1小时。具体游船项目及收费如下：南湖风情游40元/船（限乘8人）南湖冲浪游80元
+                                
+                                    <a target="_blank" href="http://jssuzhou.lotour.com/zhengwen/2015/04/1275002.shtml" title="">[详细]</a>
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>景区大吗？有必要乘坐游览车吗？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>周庄古镇虽然很大，但古镇内阡陌交通，巷道狭窄，无法通行游览车，适合漫步旅游。如果真感觉累的话，可以乘坐游船穿梭在古镇水巷中，体验江南水乡风情。
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>周庄内是否有下榻之处？价格如何？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>虽然景区外也有一些不错的住宿点，但来到水乡，自然是住在古镇里更有味道。景区内有许多民居客栈，都统一管理比较正规，有很多家是旅游局核准的“周庄人家”。普通标间的价位大约在80～180元
+                                
+                                    <a target="_blank" href="http://jssuzhou.lotour.com/zhengwen/2015/04/1275001.shtml" title="">[详细]</a>
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>周庄内有什么可以吃的？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>提及周庄美食，不能不提沈万三。沈万三是元末明初的江南首富，富可敌国，关于此人的故事传说颇为丰富，聚宝盆，筑南京城，与朱元璋轶事等等，感兴趣不妨网上搜索一下。这么一个有巨大影响力
+                                
+                                    <a target="_blank" href="http://jssuzhou.lotour.com/zhengwen/2015/04/1274999.shtml" title="">[详细]</a>
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>周庄内什么地方可以吃饭？价格贵吗？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>周庄古镇很多饭店餐厅，但在周庄古镇那些挂有小黑板明码标价的小饭馆吃饭最经济实惠！推荐小河沟旁边的小餐馆，坐下来点一份螺丝，一份阿婆菜，看着两边的风景，感觉特别好，里面东西不贵，
+                                
+                                    <a target="_blank" href="http://jssuzhou.lotour.com/zhengwen/2015/04/1274997.shtml" title="">[详细]</a>
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                									
+				</ul>
+			</div>  
+        			
+			
+        </div>
+    </div>
+    
+    <div class="bz-con clearfix">
+		<h2 class="bz-con-tit clearfix"><strong class="tit4"><a href="javascript:void(0)" title="">附近景区</a></strong></h2>
+        
+        <div class="bz-con-l2">
+            <div class="bz-map"> <img width="520" height="508" src="http://ditu.google.cn/maps/api/staticmap?markers=31.124254,120.845657&markers=color:0x59C1FF|label:A|31.180874,120.901509&markers=color:0x59C1FF|label:B|31.0727,120.91&markers=color:0x59C1FF|label:C|31.0866,120.932&markers=color:0x59C1FF|label:D|31.153182,120.717561&markers=color:0x59C1FF|label:E|31.1022,121.009&&size=520x508&sensor=false" alt="" /> </div>				
+        </div>
+        <div class="bz-con-r2">
+            <ul class="zb-jq">
+            
+               <li>
+                    <h3 class="clearfix"><a title="" href="http://jssuzhou.lotour.com/jinxiguzhen/" target="_blank"><i class="zb-mdot">A</i><span>锦溪古镇</span></a><b class="nA">4A景区</b><em class="nlike" deffer="3064"></em><em class="nmi">距离8.25km</em></h3>
+                    <p>锦溪（旧称陈墓），位于昆山市西南隅，距古镇周庄8公里。东临淀山湖，西依澄湖，南靠五保湖，北有矾清湖、白...<a title="" href="http://jssuzhou.lotour.com/jinxiguzhen/" target="_blank">[详细]</a></p>
+                </li>   
+            
+               <li>
+                    <h3 class="clearfix"><a title="" href="http://shanghai.lotour.com/daguanyuan1/" target="_blank"><i class="zb-mdot">B</i><span>大观园</span></a><b class="nA">4A景区</b><em class="nlike" deffer="1243"></em><em class="nmi">距离8.4km</em></h3>
+                    <p>上海大观园位于青浦县西面,距市区50公里,是上海园林部门于1979年开始建设的一个大型仿古建筑群和现代园林。...<a title="" href="http://shanghai.lotour.com/daguanyuan1/" target="_blank">[详细]</a></p>
+                </li>   
+            
+               <li>
+                    <h3 class="clearfix"><a title="" href="http://shanghai.lotour.com/dingshanghmy/" target="_blank"><i class="zb-mdot">C</i><span>淀山湖梅园</span></a><em class="nlike" deffer="19695"></em><em class="nmi">距离9.24km</em></h3>
+                    <p>上海青浦淀山湖梅园坐落在淀山湖风景区内,位于上海市青浦区西面,距市区50公里。是中国二十世纪八十上海淀山...<a title="" href="http://shanghai.lotour.com/dingshanghmy/" target="_blank">[详细]</a></p>
+                </li>   
+            
+               <li>
+                    <h3 class="clearfix"><a title="" href="http://jssuzhou.lotour.com/tongliguzhen1/" target="_blank"><i class="zb-mdot">D</i><span>同里古镇</span></a><b class="nA">5A景区</b><em class="nlike" deffer="1711"></em><em class="nmi">距离12.62km</em></h3>
+                    <p>同里镇位于苏州东南18公里，是江苏省目前保存最完整的水乡古镇之一。古名富土，唐初称铜里，宋建镇，改为同...<a title="" href="http://jssuzhou.lotour.com/tongliguzhen1/" target="_blank">[详细]</a></p>
+                </li>   
+            
+               <li>
+                    <h3 class="clearfix"><a title="" href="http://shanghai.lotour.com/dongfanglvzhou1/" target="_blank"><i class="zb-mdot">E</i><span>东方绿舟</span></a><b class="nA">4A景区</b><em class="nlike" deffer="19697"></em><em class="nmi">距离15.76km</em></h3>
+                    <p>东方绿舟位于上海市青浦区,是上海唯一的集拓展培训、青少年社会实践、团队活动以及休闲旅游为一体的大型公园...<a title="" href="http://shanghai.lotour.com/dongfanglvzhou1/" target="_blank">[详细]</a></p>
+                </li>   
+            
+            </ul>
+        </div>
+    </div>
+    
+    <div class="bz-con clearfix">				
+		<div class="bz-con-l">
+			<h2 class="bz-con-tit clearfix"><strong class="tit7"><a href="javascript:void(0)" title="">苏州玩法</a></strong> 
+                
+                <a class="more" title="更多" target="_blank" href="http://jssuzhou.lotour.com/wanfa/">更多</a>
+            
+			</h2>			
+			<ul class="wf-city">
+            
+                <li>
+					<h3 class="clearfix"><em class="i-guanfang"></em><span><a title="锦溪、周庄水乡一日游" target="_blank" href="http://jssuzhou.lotour.com/wanfa-278">锦溪、周庄水乡一日游</a></span></h3>
+					<p class="wf-text">“人人都说周庄好，岂知咫尺有锦溪。”凡是游览周庄后又作锦溪游的人们，无不如是说。如果只游周庄而止步锦溪，对旅游爱好者来说...<a title="" target="_blank" href="http://jssuzhou.lotour.com/wanfa-278">[详细]</a></p>
+					<p class="wf-place"><span>游览路线：</span> 
+                        
+                                           <a title="" target="_blank" href="http://jssuzhou.lotour.com/jinxiguzhen/">锦溪古镇</a>
+                                     
+                                      &gt; 
+                                           
+                                           <a title="" target="_blank" href="http://jssuzhou.lotour.com/zhouzhuang/">周庄</a>
+                                        
+					</p>				
+				</li>  
+            
+                <li>
+					<h3 class="clearfix"><em class="i-guanfang"></em><span><a title="苏州园林经典一日游" target="_blank" href="http://jssuzhou.lotour.com/wanfa-277">苏州园林经典一日游</a></span></h3>
+					<p class="wf-text">苏州园林，在汉族建筑中独树一帜，有重大成就的古典园林建筑。一日的行程远远无法穷尽苏州上百园林的建筑艺术之美。如果时间更长...<a title="" target="_blank" href="http://jssuzhou.lotour.com/wanfa-277">[详细]</a></p>
+					<p class="wf-place"><span>游览路线：</span> 
+                        
+                                           <a title="" target="_blank" href="http://jssuzhou.lotour.com/zhuozhengyuan/">拙政园</a>
+                                     
+                                      &gt; 
+                                           
+                                           <a title="" target="_blank" href="http://jssuzhou.lotour.com/suzhoushizilin/">苏州狮子林</a>
+                                     
+                                      &gt; 
+                                           
+                                           <a title="" target="_blank" href="http://jssuzhou.lotour.com/huqiu/">虎丘</a>
+                                     
+                                      &gt; 
+                                           
+                                           <a title="" target="_blank" href="http://jssuzhou.lotour.com/hanshansi1/">寒山寺</a>
+                                        
+					</p>				
+				</li>  
+            	
+				<li>
+					<h3 class="clearfix"><em class="i-miji"></em><span><a title="约泡吗？我在温泉等你" target="_blank" href="http://jssuzhou.lotour.com/zj/1101001">约泡吗？我在温泉等你</a></span></h3>
+					<p class="wf-text">苏州天颐温泉在苏州的郊区，自驾游的朋友们很方便可以找到，里面高尔夫、垂钓等休闲娱乐很多。自驾游可以上G4导航就可以了，鉴...<a title="" target="_blank" href="http://jssuzhou.lotour.com/zj/1101001">[详细]</a></p>
+					<p class="wf-place wf-place2" deffer="5348078"><a title="" target="_blank" href="http://my.lotour.com/i/5348078"></a><i class="sphl">V</i><span>2014年12月游览过：</span> 
+                        
+                                  <a title="" target="_blank" href="http://jssuzhou.lotour.com/">苏州</a>
+                                     	
+					</p>				
+				</li>
+            	
+				<li>
+					<h3 class="clearfix"><em class="i-miji"></em><span><a title="逛苏州 八、苏州车展 车模1" target="_blank" href="http://jssuzhou.lotour.com/zj/1096647">逛苏州 八、苏州车展 车模1</a></span></h3>
+					<p class="wf-text">靓女上场瞧这位的气质，不错吧？经过了一番准备，车模们粉墨登场，一汽大众这边最热闹。模特们个个端庄秀丽，落落大方，穿着也规...<a title="" target="_blank" href="http://jssuzhou.lotour.com/zj/1096647">[详细]</a></p>
+					<p class="wf-place wf-place2" deffer="5436508"><a title="" target="_blank" href="http://my.lotour.com/i/5436508"></a><i class="sphl">V</i><span>2014年10月游览过：</span> 
+                        
+                                  <a title="" target="_blank" href="http://jssuzhou.lotour.com/">苏州</a>
+                                     	
+					</p>				
+				</li>
+            											
+			</ul>
+        </div>
+        <div class="bz-con-r">
+			<h2 class="bz-con-tit clearfix"> <strong class="tit7"><a title="" href="javascript:void(0)">苏州鲜闻</a></strong> <a href="http://jssuzhou.lotour.com/news/" target="_blank" title="更多" class="more">更多</a> </h2>
+			<ul class="bz-news-list">
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-26612.shtml" target="_blank" title="「青澄酒店」枕着艺术的体温入眠">「青澄酒店」枕着艺术的体温入眠</a> <span>2016-12-05</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-26495.shtml" target="_blank" title="姑苏城外，一场伟大的失眠">姑苏城外，一场伟大的失眠</a> <span>2016-12-02</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-26244.shtml" target="_blank" title="白发苏州">白发苏州</a> <span>2016-11-29</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-26230.shtml" target="_blank" title="震泽古镇：浓浓丝情系我心">震泽古镇：浓浓丝情系我心</a> <span>2016-11-28</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-26119.shtml" target="_blank" title="同里，苏州园林与江南古镇融合美">同里，苏州园林与江南古镇融合美</a> <span>2016-11-25</span></li>      
+                
+                <li class="newsline"><a href="http://www.lotour.com/zhengwen/2/lg-jc-25964.shtml" target="_blank" title="红尘客栈，怎奈醉在这个别处江湖">红尘客栈，怎奈醉在这个别处江湖</a> <span>2016-11-24</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-25144.shtml" target="_blank" title="苏州有位老人，你们真该去看看">苏州有位老人，你们真该去看看</a> <span>2016-11-23</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-25764.shtml" target="_blank" title="【苏州】西山有“白鹭”，湖边享悠闲">【苏州】西山有“白鹭”，湖边享悠闲</a> <span>2016-11-23</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-25714.shtml" target="_blank" title="太湖白鹭，成就周末理想生活">太湖白鹭，成就周末理想生活</a> <span>2016-11-22</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-24559.shtml" target="_blank" title="寻一处民宿隐世：在村之上，在湖之畔">寻一处民宿隐世：在村之上，在湖之畔</a> <span>2016-11-20</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-25480.shtml" target="_blank" title="你敢吃吗？吴越民间的平价河豚">你敢吃吗？吴越民间的平价河豚</a> <span>2016-11-18</span></li>      
+                
+                <li class="newsline"><a href="http://www.lotour.com/zhengwen/2/lg-jc-25464.shtml" target="_blank" title="其实，每个人的心里都藏着这样一种生活">其实，每个人的心里都藏着这样一种生活</a> <span>2016-11-18</span></li>      
+                
+                <li class="on "><a href="http://www.lotour.com/zhengwen/2/lg-jc-25475.shtml" target="_blank" title="初冬的时光，去周庄喝一碗阿婆茶">初冬的时光，去周庄喝一碗阿婆茶</a> <span>2016-11-17</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-24623.shtml" target="_blank" title="去包邮区最大的战场打CS">去包邮区最大的战场打CS</a> <span>2016-11-16</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-24669.shtml" target="_blank" title="木渎洗肺之旅：做一日岛主，品臧书羊肉">木渎洗肺之旅：做一日岛主，品臧书羊肉</a> <span>2016-11-15</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-24619.shtml" target="_blank" title="苏州木渎藏书羊肉界的四大天王是谁？">苏州木渎藏书羊肉界的四大天王是谁？</a> <span>2016-11-15</span></li>      
+                			
+			</ul>
+		</div>
+    </div>
+<script type="text/javascript">
+    $(function () {
+        //左侧导航
+        $('.bz-nav:eq(2) dd').live('click', function () {
+            $(this).find("a").addClass("on");
+            $(this).siblings("dd").find("a").removeClass("on");
+            var index = $(this).parent().find("dd:visible").index($(this)),
+				 h = $('.bz-con').eq(index).offset().top - 90;
+            if (h < 318) {
+                $("html, body").animate({
+                    scrollTop: 233
+                }, 400);
+            } else {
+                $("html, body").animate({
+                    scrollTop: h
+                }, 400);
+            }
+        });
+        $(window).scroll(function () {
+            $('.bz-con').each(function () {
+                if ($(this).offset().top >= $(document).scrollTop() - $(this).outerHeight(true) + 150) {
+                    $('.bz-nav:eq(2) dd').eq($('.bz-con').index($(this))).find("a").addClass("on");
+                    $('.bz-nav:eq(2) dd').eq($('.bz-con').index($(this))).siblings("dd").find("a").removeClass("on");
+                    return false
+                }
+            });
+            var rollh = $(".bz-main").height() + 216 - $(".bz-nav:eq(2)").height();
+            if (rollh < $(document).scrollTop()) {
+                $(".bz-nav:eq(2)").hide();
+            } else {
+                $(".bz-nav:eq(2)").show();
+            };
+        });
+
+        //个性	
+        $(".jd-con1-con li").live("hover", function () {
+            $(this).toggleClass("hover");
+        });
+        $(".gx-txt-h").css("margin-top", ($(".gx-txt").height() - $(".gx-txt-h").height()) / 2);
+
+        //必体验
+        $(".bz-tab-con li").live("hover", function () {
+            $(this).toggleClass("hover");
+        });
+
+        //包打听		
+        $(".bz-q-list li").live("hover", function () {
+            $(this).addClass("hover");
+            $(this).siblings("li").removeClass("hover");
+        });
+        $('.bz-tips-list li').live("hover", function () {
+            $(this).toggleClass("hover");
+        });
+
+        //tab切换
+        $(".bz-con-tit li").hover(function () {
+            var _this = $(this), ul = _this.parent(), li = ul.find('li'), index = li.index(_this);
+            ul.parent().siblings(".bz-tab").hide().eq(index).show();
+            li.find('a').removeClass("on");
+            _this.find('a').addClass("on");
+        });
+        $(".jd-wanfa h3").click(function () {
+            var _this = $(this), ul = _this.parents("ul"), li = ul.find("h3"), index = li.index(_this);
+            //ul.parent().siblings(".bz-con-l2").children(".bz-tab").hide().eq(index).show();
+            li.find('a').removeClass("on");
+            _this.find('a').addClass("on");
+            InitMapx(list_slice(poi_list, index+1));
+        });
+
+        //门票弹层
+        $(".tkt-btn").live('click', function () {
+            if (!$(".map-box").is(":hidden")) {
+                $(".map-box").hide();
+            }
+            $(this).parent().siblings(".tkt-layer").slideToggle();
+            $(this).toggleClass("tkt-btn2");
+        });
+
+        $(".wf-place2").each(function () {
+            var _this = $(this), author = _this.attr("deffer");
+            $.getJSON("http://my.lotour.com/i/Common/GetMemberMessage?memberId=" + author + "&callback=?", function (data) {
+                if (data.Success) {
+                    var result = data.Result.Data;
+                    _this.find("a").eq(0).html(result.NickName);
+                    if (result.VStatus > 0) {
+                        _this.find("i").removeClass("sphl");
+                        if (result.VStatus == 2) {
+                            _this.find("i").addClass("i-red");
+                        }
+                        else {
+                            _this.find("i").addClass("i-blue");
+                        }
+                    }
+                }
+            });
+        });
+
+        $("b[deffer]").each(function () {
+            var _this = $(this), regionid = _this.attr("deffer");
+            $.getJSON("http://api.lotour.net/rss/dmspageview.ashx?id=" + regionid + "&callback=?", function (data) {
+                _this.html(data.pageview);
+            });
+        });
+        $("em.nlike").each(function () {
+            var _this = $(this), regionid = _this.attr("deffer");
+            $.getJSON("http://api.lotour.net/rss/dmspageview.ashx?id=" + regionid + "&callback=?", function (data) {
+                _this.html(data.pageview + "人感兴趣");
+            });
+        });
+
+    });
+</script>
+
+<!--=S 灵感推荐 -->
+<a class="lg-tuijian-btn" href="javascript:void(0)"></a>
+<div class="lg-tuijian">
+	<div class="lg-tuijian-con">
+    	<a class="lg-tuijian-x" href="javascript:void(0)"></a>
+        <h2 class="lg-tuijian-tit">周庄旅游灵感推荐
+        
+            <a href="http://www.lotour.com/zhengwen/r105" target="_blank" title="">更多&gt;&gt;</a>
+        
+        </h2>
+        <ul class="lg-tuijian-list clearfix">
+        
+        	<li>
+            	<div class="img"><a href="http://www.lotour.com/zhengwen/2/lg-jc-25475.shtml" target="_blank" title=""><img src="http://img1.lotour.net/Inspiration/2016/1117/20161117102004903756143_1920_590.jpg" width="130" height="84" alt=""></a></div>
+                <div class="txt">
+                	<h3><a href="http://www.lotour.com/zhengwen/2/lg-jc-25475.shtml" target="_blank" title="初冬的时光，去周庄喝一碗阿婆茶">初冬的时光，去周庄喝一碗阿婆茶</a></h3>
+                    <p>作者：<a href="http://zhuanlan.lotour.com/2141" target="_blank" title="">左左xians</a></p>
+                    <div class="tags">
+                    	<a href="http://www.lotour.com/zhengwen/x3717" target="_blank" title="古城古镇">古城古镇</a><a href="http://www.lotour.com/zhengwen/x3722" target="_blank" title="水乡">水乡</a>
+                    </div>
+                </div>
+            </li>
+         
+        	<li>
+            	<div class="img"><a href="http://www.lotour.com/zhengwen/2/lg-jc-23669.shtml" target="_blank" title=""><img src="http://img1.lotour.net/Inspiration/2016/1026/20161026081147873186014_1920_590.jpg" width="130" height="84" alt=""></a></div>
+                <div class="txt">
+                	<h3><a href="http://www.lotour.com/zhengwen/2/lg-jc-23669.shtml" target="_blank" title="择一城终老 享一世安宁">择一城终老 享一世安宁</a></h3>
+                    <p>作者：<a href="http://zhuanlan.lotour.com/2129" target="_blank" title="">lovemy凤凰</a></p>
+                    <div class="tags">
+                    	<a href="http://www.lotour.com/zhengwen/x3722" target="_blank" title="水乡">水乡</a><a href="http://www.lotour.com/zhengwen/x3779" target="_blank" title="特色住宿">特色住宿</a><a href="http://www.lotour.com/zhengwen/x3771" target="_blank" title="演出表演">演出表演</a><a href="http://www.lotour.com/zhengwen/x3780" target="_blank" title="文艺范">文艺范</a><a href="http://www.lotour.com/zhengwen/x3783" target="_blank" title="摄影">摄影</a>
+                    </div>
+                </div>
+            </li>
+         
+        	<li>
+            	<div class="img"><a href="http://www.lotour.com/zhengwen/2/lg-jc-23016.shtml" target="_blank" title=""><img src="http://img1.lotour.net/Inspiration/2016/1017/20161017223058605704713_1920_590.jpg" width="130" height="84" alt=""></a></div>
+                <div class="txt">
+                	<h3><a href="http://www.lotour.com/zhengwen/2/lg-jc-23016.shtml" target="_blank" title="出名要趁早，比如周庄">出名要趁早，比如周庄</a></h3>
+                    <p>作者：<a href="http://zhuanlan.lotour.com/2161" target="_blank" title="">行走的芹菜</a></p>
+                    <div class="tags">
+                    	<a href="http://www.lotour.com/zhengwen/x3717" target="_blank" title="古城古镇">古城古镇</a>
+                    </div>
+                </div>
+            </li>
+           
+        </ul>
+    </div>	
+</div>
+<script type="text/javascript">
+    $(function () {
+        $(".lg-tuijian-list li:last").css("margin-right", "0px");
+        if ($(window).width() < 1200) {
+            $(".lg-tuijian").addClass("lg-tuijian-s");
+        } else {
+            $(".lg-tuijian").removeClass("lg-tuijian-s");
+        }
+        $(".lg-tuijian-btn").mouseover(function () {
+            $(this).css("left", "-75px");
+            $(".lg-tuijian").stop().animate({ 'left': '0' }, 800, 'linear');
+        }).trigger("mouseover");
+        $(".lg-tuijian-x").click(function () {
+            $(".lg-tuijian").stop().animate({ 'left': '-100%' }, 500, 'linear');
+            $(".lg-tuijian-btn").stop().animate({ 'left': '0' }, 600, 'linear');
+        });
+
+    });
+</script>
+<!--=E 灵感推荐 -->
+
+    
+    <div class="main bdMain">
+        
+
+<div class="content">
+    <h2 class="conlist-tit">— 苏州旅游行政区划 —</h2>
+    <div class="conlist-con">
+    
+        <dl>
+            <dt><a href="http://jssuzhou.lotour.com/gongyeyuanqu/" title="苏州工业园区">苏州工业园区</a></dt>
+            <dd>
+            
+                <a href="http://jssuzhou.lotour.com/jinjihu1/" title="金鸡湖">金鸡湖</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://jssuzhou.lotour.com/taicang/" title="太仓">太仓</a></dt>
+            <dd>
+            
+                <a href="http://jssuzhou.lotour.com/tcnanyuangongyuan/" title="太仓南园公园">太仓南园公园</a>
+          
+                <a href="http://jssuzhou.lotour.com/zhangpuzhaidi/" title="张溥宅第">张溥宅第</a>
+          
+                <a href="http://jssuzhou.lotour.com/tacangshigq/" title="石拱桥">石拱桥</a>
+          
+                <a href="http://jssuzhou.lotour.com/liuhezhen/" title="浏河镇">浏河镇</a>
+          
+                <a href="http://jssuzhou.lotour.com/taicangshaxiguzhen/" title="太仓沙溪古镇">太仓沙溪古镇</a>
+          
+                <a href="http://jssuzhou.lotour.com/taicanggongyuan/" title="太仓公园">太仓公园</a>
+          
+                <a href="http://jssuzhou.lotour.com/zhangpugj/" title="张溥故居">张溥故居</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://jssuzhou.lotour.com/wujiangshi/" title="吴江">吴江</a></dt>
+            <dd>
+            
+                <a href="http://jssuzhou.lotour.com/gengletang/" title="耕乐堂">耕乐堂</a>
+          
+                <a href="http://jssuzhou.lotour.com/ciyunsita/" title="慈云寺塔">慈云寺塔</a>
+          
+                <a href="http://jssuzhou.lotour.com/wujiangjhgy/" title="镜湖公园">镜湖公园</a>
+          
+                <a href="http://jssuzhou.lotour.com/xiaojiuhuasi/" title="小九华寺">小九华寺</a>
+          
+                <a href="http://jssuzhou.lotour.com/zhenze/" title="震泽">震泽</a>
+          
+                <a href="http://jssuzhou.lotour.com/suzhouwan/" title="苏州湾">苏州湾</a>
+          
+                <a href="http://jssuzhou.lotour.com/jingsiyuan/" title="静思园">静思园</a>
+          
+                <a href="http://jssuzhou.lotour.com/chunhongyzgy/" title="垂虹遗址公园">垂虹遗址公园</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://jssuzhou.lotour.com/kunshan/" title="昆山">昆山</a></dt>
+            <dd>
+            
+                <a href="http://jssuzhou.lotour.com/chongninggs/" title="崇宁古寺">崇宁古寺</a>
+          
+                <a href="http://jssuzhou.lotour.com/sanbuerqiao/" title="三步二桥">三步二桥</a>
+          
+                <a href="http://jssuzhou.lotour.com/kunqubwg/" title="昆曲博物馆">昆曲博物馆</a>
+          
+                <a href="http://jssuzhou.lotour.com/kunshandanguiyuan/" title="丹桂苑">丹桂苑</a>
+          
+                <a href="http://jssuzhou.lotour.com/yufengshan/" title="玉峰山">玉峰山</a>
+          
+                <a href="http://jssuzhou.lotour.com/tinlingy/" title="亭林公园">亭林公园</a>
+          
+                <a href="http://jssuzhou.lotour.com/jishanqiao/" title="集善桥">集善桥</a>
+          
+                <a href="http://jssuzhou.lotour.com/zhongyuansi1/" title="重元寺">重元寺</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://jssuzhou.lotour.com/zhangjiagang/" title="张家港">张家港</a></dt>
+            <dd>
+            
+                <a href="http://jssuzhou.lotour.com/zjgstyzx/" title="张家港体育中心">张家港体育中心</a>
+          
+                <a href="http://jssuzhou.lotour.com/dongduyuan/" title="东渡苑">东渡苑</a>
+          
+                <a href="http://jssuzhou.lotour.com/heyangshangeguan/" title="河阳山歌馆">河阳山歌馆</a>
+          
+                <a href="http://jssuzhou.lotour.com/fenghuangshan/" title="凤凰山">凤凰山</a>
+          
+                <a href="http://jssuzhou.lotour.com/yongqingsi/" title="永庆寺">永庆寺</a>
+          
+                <a href="http://jssuzhou.lotour.com/caixiangjing/" title="采香径">采香径</a>
+          
+                <a href="http://jssuzhou.lotour.com/zhangjiagxsfjq/" title="香山景区">香山景区</a>
+          
+                <a href="http://jssuzhou.lotour.com/zhangjiaganggy/" title="张家港公园">张家港公园</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://jssuzhou.lotour.com/changshu/" title="常熟">常熟</a></dt>
+            <dd>
+            
+                <a href="http://jssuzhou.lotour.com/changshufuzhuangcheng/" title="常熟服装城">常熟服装城</a>
+          
+                <a href="http://jssuzhou.lotour.com/suzhouyushangy/" title="虞山公园">虞山公园</a>
+          
+                <a href="http://jssuzhou.lotour.com/fangtagujimingshengqu/" title="方塔古迹名胜区">方塔古迹名胜区</a>
+          
+                <a href="http://jssuzhou.lotour.com/jiangxiangcun/" title="蒋巷村">蒋巷村</a>
+          
+                <a href="http://jssuzhou.lotour.com/suzhoudst/" title="苏州读书台">苏州读书台</a>
+          
+                <a href="http://jssuzhou.lotour.com/zhaoyongxianzhai/" title="赵用贤宅">赵用贤宅</a>
+          
+                <a href="http://jssuzhou.lotour.com/baoyanstggy/" title="宝岩观光园">宝岩观光园</a>
+          
+                <a href="http://jssuzhou.lotour.com/shanghu/" title="尚湖">尚湖</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://jssuzhou.lotour.com/xiangchengqu/" title="相城">相城</a></dt>
+            <dd>
+            
+                <a href="http://jssuzhou.lotour.com/heshangongyuan/" title="何山公园">何山公园</a>
+          
+                <a href="http://jssuzhou.lotour.com/yuanhewenhuachuangyichanyeyuan/" title="元和文化创意产业园">元和文化创意产业园</a>
+          
+                <a href="http://jssuzhou.lotour.com/chunshenjm/" title="春申君庙">春申君庙</a>
+          
+                <a href="http://jssuzhou.lotour.com/chunshenhu/" title="春申湖">春申湖</a>
+          
+                <a href="http://jssuzhou.lotour.com/xiangchengfeiyiguan/" title="相城非遗馆">相城非遗馆</a>
+          
+                <a href="http://jssuzhou.lotour.com/yuyaojinzhuanbowuguan/" title="御窑金砖博物馆">御窑金砖博物馆</a>
+          
+                <a href="http://jssuzhou.lotour.com/shenzhoumu/" title="沈周墓">沈周墓</a>
+          
+                <a href="http://jssuzhou.lotour.com/yunheyanzimu/" title="运河公园">运河公园</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://jssuzhou.lotour.com/wuzhongqu/" title="吴中">吴中</a></dt>
+            <dd>
+            
+                <a href="http://jssuzhou.lotour.com/gaoyiyuan/" title="高义园">高义园</a>
+          
+                <a href="http://jssuzhou.lotour.com/wenhuimingmu/" title="文徽明墓">文徽明墓</a>
+          
+                <a href="http://jssuzhou.lotour.com/xitanghe/" title="西塘河">西塘河</a>
+          
+                <a href="http://jssuzhou.lotour.com/yingxiongzhong/" title="英雄冢">英雄冢</a>
+          
+                <a href="http://jssuzhou.lotour.com/wuzhongsxsty/" title="水乡生态园">水乡生态园</a>
+          
+                <a href="http://jssuzhou.lotour.com/yanjiahuayuan/" title="严家花园">严家花园</a>
+          
+                <a href="http://jssuzhou.lotour.com/dongtingds/" title="洞庭东山">洞庭东山</a>
+          
+                <a href="http://jssuzhou.lotour.com/fanchengdaci/" title="范成大祠">范成大祠</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://jssuzhou.lotour.com/gusu/" title="姑苏">姑苏</a></dt>
+            <dd>
+            
+                <a href="http://jssuzhou.lotour.com/hanshansi1/" title="寒山寺">寒山寺</a>
+          
+                <a href="http://jssuzhou.lotour.com/yangjiaqtzt/" title="杨家桥天主堂">杨家桥天主堂</a>
+          
+                <a href="http://jssuzhou.lotour.com/xiajinqiao/" title="下津桥">下津桥</a>
+          
+                <a href="http://jssuzhou.lotour.com/suzhouguyunhe/" title="苏州古运河">苏州古运河</a>
+          
+                <a href="http://jssuzhou.lotour.com/shantang/" title="山塘街">山塘街</a>
+          
+                <a href="http://jssuzhou.lotour.com/tielingguan/" title="铁铃关">铁铃关</a>
+          
+                <a href="http://jssuzhou.lotour.com/qilishantang/" title="七里山塘">七里山塘</a>
+          
+                <a href="http://jssuzhou.lotour.com/shilubixingjie/" title="石路步行街">石路步行街</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://jssuzhou.lotour.com/pingjiangqu/" title="平江">平江</a></dt>
+            <dd>
+            
+                <a href="http://jssuzhou.lotour.com/puyuan/" title="朴园">朴园</a>
+          
+                <a href="http://jssuzhou.lotour.com/xuanmiaoguan/" title="玄妙观">玄妙观</a>
+          
+                <a href="http://jssuzhou.lotour.com/wangaoci/" title="王鏊祠">王鏊祠</a>
+          
+                <a href="http://jssuzhou.lotour.com/suzhoudaxue/" title="苏州大学">苏州大学</a>
+          
+                <a href="http://jssuzhou.lotour.com/nanbanyuan/" title="南半园">南半园</a>
+          
+                <a href="http://jssuzhou.lotour.com/wufengyuan/" title="五峰园">五峰园</a>
+          
+                <a href="http://jssuzhou.lotour.com/tingfengyuan/" title="听枫园">听枫园</a>
+          
+                <a href="http://jssuzhou.lotour.com/baoensita/" title="报恩寺塔">报恩寺塔</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://jssuzhou.lotour.com/canglang/" title="沧浪">沧浪</a></dt>
+            <dd>
+            
+                <a href="http://jssuzhou.lotour.com/molifeng/" title="东山莫里峰">东山莫里峰</a>
+          
+                <a href="http://jssuzhou.lotour.com/suzhouwenmiaosongdai/" title="文庙内宋代石刻">文庙内宋代石刻</a>
+          
+                <a href="http://jssuzhou.lotour.com/tangyinmi/" title="唐寅园">唐寅园</a>
+          
+                <a href="http://jssuzhou.lotour.com/panshansanjing/" title="盘门三景">盘门三景</a>
+          
+                <a href="http://jssuzhou.lotour.com/kuanggongci/" title="况公祠">况公祠</a>
+          
+                <a href="http://jssuzhou.lotour.com/lvbaogc/" title="绿宝广场">绿宝广场</a>
+          
+                <a href="http://jssuzhou.lotour.com/ruiguangsi/" title="瑞光寺">瑞光寺</a>
+          
+                <a href="http://jssuzhou.lotour.com/yiyuan/" title="怡园">怡园</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://jssuzhou.lotour.com/huqiuqu/" title="虎丘区">虎丘区</a></dt>
+            <dd>
+            
+                <a href="http://jssuzhou.lotour.com/zhenhu/" title="镇湖">镇湖</a>
+          
+                <a href="http://jssuzhou.lotour.com/suzhoussly/" title="苏州水上乐园">苏州水上乐园</a>
+          
+                <a href="http://jssuzhou.lotour.com/hengtangyizhan/" title="横塘驿站">横塘驿站</a>
+          
+                <a href="http://jssuzhou.lotour.com/shushan/" title="树山">树山</a>
+          
+                <a href="http://jssuzhou.lotour.com/suzhouleyuan1/" title="苏州乐园">苏州乐园</a>
+          
+                <a href="http://jssuzhou.lotour.com/tangbohugj/" title="唐伯虎故居">唐伯虎故居</a>
+          
+                <a href="http://jssuzhou.lotour.com/suzhouyunyansita/" title="云岩寺塔">云岩寺塔</a>
+          
+                <a href="http://jssuzhou.lotour.com/wanjingsz/" title="万景山庄">万景山庄</a>
+          
+          </dd>
+        </dl>
+      
+    </div>
+</div>
+
+        <div class="content">
+            <div class="travel-recom">    	<h2 class="travel-t">国内游目的地推荐</h2>        <ul class="traver-c clear">        	<li><a title="" target="_blank" href="http://beijing.lotour.com/">北京</a></li><li><a title="" target="_blank" href="http://haerbin.lotour.com/">哈尔滨</a></li><li><a title="" target="_blank" href="http://dalian.lotour.com">大连</a></li><li><a title="" target="_blank" href="http://sanya.lotour.com/">三亚</a></li><li><a title="" target="_blank" href="http://lijiang.lotour.com/">丽江</a></li><li><a title="" target="_blank" href="http://nanjing.lotour.com/">南京</a></li><li><a title="" target="_blank" href="http://hangzhou.lotour.com/">杭州</a></li><li><a title="" target="_blank" href="http://chongqing.lotour.com/">重庆</a></li><li><a title="" target="_blank" href="http://chengdu.lotour.com/">成都</a></li><li><a title="" target="_blank" href="http://yangzhou.lotour.com/">扬州</a></li><li><a title="" target="_blank" href="http://shanghai.lotour.com/">上海</a></li><li><a title="" target="_blank" href="http://xiamen.lotour.com/">厦门</a></li><li><a title="" target="_blank" href="http://qinhuangdao.lotour.com/">秦皇岛</a></li><li><a title="" target="_blank" href="http://jssuzhou.lotour.com/">苏州</a></li><li><a title="" target="_blank" href="http://shangrao.lotour.com/">上饶</a></li><li><a title="" target="_blank" href="http://leshan.lotour.com/">乐山</a></li><li><a title="" target="_blank" href="http://tianjin.lotour.com/">天津</a></li><li><a title="" target="_blank" href="http://huangshan.lotour.com/">黄山</a></li><li><a title="" target="_blank" href="http://guangzhou.lotour.com/">广州</a></li><li><a title="" target="_blank" href="http://wenzhou.lotour.com/">温州</a></li><li><a title="" target="_blank" href="http://hangzhou.lotour.com/">杭州</a></li><li><a title="" target="_blank" href="http://xian.lotour.com/">西安</a></li><li><a title="" target="_blank" href="http://luoyang.lotour.com/">洛阳</a></li><li><a title="" target="_blank" href="http://chengde.lotour.com/">承德</a></li><li><a title="" target="_blank" href="http://qingdao.lotour.com/">青岛</a></li><li><a title="" target="_blank" href="http://weihai.lotour.com/">威海</a></li><li><a title="" target="_blank" href="http://jinan.lotour.com/">济南</a></li></li><li><a title="" target="_blank" href="http://taian.lotour.com/">泰安</a></li><li><a title="" target="_blank" href="http://beihai.lotour.com/">北海</a></li><li><a title="" target="_blank" href="http://changsha.lotour.com/">长沙</a></li><li><a title="" target="_blank" href="http://dalibaizu.lotour.com/">大理</a></li><li><a title="" target="_blank" href="http://guiyang.lotour.com/">贵阳</a></li><li><a title="" target="_blank" href="http://guilin.lotour.com/">桂林</a></li><li><a title="" target="_blank" href="http://haikou.lotour.com/">海口</a></li><li><a title="" target="_blank" href="http://hulunbeier.lotour.com/">呼伦贝尔</a></li><li><a title="" target="_blank" href="http://kaifeng.lotour.com/">开封</a></li><li><a title="" target="_blank" href="http://kunming.lotour.com/">昆明</a></li><li><a title="" target="_blank" href="http://lasa.lotour.com/">拉萨</a></li><li><a title="" target="_blank" href="http://mudanjiang.lotour.com/">牡丹江</a></li><li><a title="" target="_blank" href="http://ningbo.lotour.com/">宁波</a></li><li><a title="" target="_blank" href="http://qiqihaer.lotour.com/">齐齐哈尔</a></li><li><a title="" target="_blank" href="http://shaoxing.lotour.com/">绍兴</a></li><li><a title="" target="_blank" href="http://shenzhen.lotour.com/">深圳</a></li><li><a title="" target="_blank" href="http://shenyang.lotour.com/">沈阳</a></li><li><a title="" target="_blank" href="http://shijiazhuang.lotour.com/">石家庄</a></li><li><a title="" target="_blank" href="http://wulumuqi.lotour.com/">乌鲁木齐</a></li><li><a title="" target="_blank" href="http://wuxi.lotour.com/">无锡</a></li><li><a title="" target="_blank" href="http://wuhan.lotour.com/">武汉</a></li><li><a title="" target="_blank" href="http://yinchuan.lotour.com/">银川</a></li><li><a title="" target="_blank" href="http://zhuhai.lotour.com/">珠海</a></li>                   </ul>        <h2 class="travel-t">出境游目的地推荐</h2>        <ul class="traver-c clear">  <li><a title="" target="_blank" href="http://jpn.lotour.com/">日本</a></li><li><a title="" target="_blank" href="http://kor.lotour.com/">韩国</a></li><li><a title="" target="_blank" href="http://ind.lotour.com/">印度 </a></li><li><a title="" target="_blank" href="http://nep.lotour.com/">尼泊尔</a></li><li><a title="" target="_blank" href="http://tha.lotour.com/">泰国 </a></li><li><a title="" target="_blank" href="http://cam.lotour.com/">柬埔寨</a></li><li><a title="" target="_blank" href="http://gbr.lotour.com/">英国 </a></li><li><a title="" target="_blank" href="http://fra.lotour.com/">法国</a></li><li><a title="" target="_blank" href="http://tur.lotour.com/">土耳其</a></li><li><a title="" target="_blank" href="http://aus.lotour.com/">澳大利亚</a></li><li><a title="" target="_blank" href="http://nzl.lotour.com/">新西兰</a></li><li><a title="" target="_blank" href="http://ken.lotour.com/">肯尼亚</a></li><li><a title="" target="_blank" href="http://egy.lotour.com/">埃及</a></li><li><a title="" target="_blank" href="http://usa.lotour.com/">美国 </a></li> <li><a title="" target="_blank" href="http://mya.lotour.com/">缅甸</a></li><li><a title="" target="_blank" href="http://fin.lotour.com/">芬兰</a></li><li><a title="" target="_blank" href="http://swe.lotour.com/">瑞典</a></li><li><a title="" target="_blank" href="http://mri.lotour.com/">毛里求斯</a></li> </ul>    </div>
+
+        </div>
+        <div class="content">
+          
+        </div>
+         <script>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');  ga('create', 'UA-60168798-1', 'auto');  ga('send', 'pageview');</script>
+    </div>
+    
+<!--=S 公共底 -->  
+<div class="ltFooter">
+	<div class="ltfoot clear">
+		<div class="ltfootA">
+			<a href="http://corp.lotour.com/index.shtml" target="_blank" title="乐途介绍">乐途介绍</a><i>|</i><a href="http://corp.lotour.com/job_2.shtml" target="_blank" title="招贤纳士">招贤纳士</a><i>|</i><a href="http://corp.lotour.com/lotour_honour.shtml" target="_blank" title="网站荣誉">网站荣誉</a><i>|</i><a href="http://corp.lotour.com/contact.shtml" target="_blank" title="联系我们">联系我们</a><i>|</i><a href="http://corp.lotour.com/parter.shtml" target="_blank" title="合作伙伴">合作伙伴</a><i>|</i><a href="http://corp.lotour.com/adv_sev.shtml" target="_blank" title="营销形式">营销形式</a><i>|</i><a href="http://corp.lotour.com/adv_case.shtml" target="_blank" title="成功案例">成功案例</a><i>|</i><a href="http://member.lotour.com/" target="_blank" title="商家入驻">商家入驻</a><i>|</i><a href="http://member.lotour.com/" target="_blank" title="商家登录">商家登录</a><i>|</i><a href="http://d.lotour.com/yudingbangzhu/" target="_blank" title="预订帮助">预订帮助</a><i>|</i><a href="http://corp.lotour.com/term.shtml" target="_blank" title="服务条款">服务条款</a>
+		</div>
+		<div class="ltfootB">
+			<a class="btmLogo" target="_blank" href="http://www.lotour.com/" title="乐途旅游网"></a>
+			<p><a href="http://www.miibeian.gov.cn" target="_blank" title="">京ICP备12008860号-1</a>&nbsp;&nbsp;<a href="http://corp.lotour.com/licence_gd.shtml" target="_blank" title="">广电节目制作许可证：1313号</a>&nbsp;&nbsp;京公网安备：11010502001653<br />
+			<span class="Arial">Copyright &copy; 2005 - 2016&nbsp;&nbsp;<a href="http://www.lotour.com/" target="_blank">Lotour.com</a>&nbsp;&nbsp;All Rights Reserved.</span>&nbsp;<a href="http://www.lotour.com/" target="_blank" title="乐途旅游网">乐途旅游网</a>&nbsp;版权所有</p>
+			<a class="btmIco" target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202008020400006"></a>
+		</div>		
+	</div>
+</div>
+<!--=E 公共底 -->
+<script type="text/javascript" src="http://js.lotour.net/feedback_v1.js"></script><script type="text/javascript" src="http://js.lotour.net/analytics/statsv2.js" defer charset="UTF-8"></script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-39387460-1']);
+    _gaq.push(['_setDomainName', 'lotour.com']);
+    _gaq.push(['_addOrganic', 'baidu', 'word']);
+    _gaq.push(['_addOrganic', 'soso', 'w']);
+    _gaq.push(['_addOrganic', '3721', 'name']);
+    _gaq.push(['_addOrganic', 'yodao', 'q']);
+    _gaq.push(['_addOrganic', 'vnet', 'kw']);
+    _gaq.push(['_addOrganic', 'sogou', 'query']);
+    _gaq.push(['_addOrganic', '360', 'q']);
+    _gaq.push(['_addOrganic', 'so', 'q']);
+    var full_url = location.pathname + location.search + location.hash;
+    _gaq.push(['_trackPageview', full_url]);
+    _gaq.push(['_trackPageLoadTime']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F317768ad40e6ddbe20f10e89b4712c35' type='text/javascript'%3E%3C/script%3E"));
+
+
+</script>
+
+    <!--=S 右底工具条 -->
+<div class="toolbarNew">
+	<div class="tbarNewBtnS"></div>
+	<ul>
+		<li><a hidefocus="true" href="javascript:void(0);" method="been" deffer="1703" class="footmark" title=""><i></i><span>我去过</span></a></li>
+		<li><a hidefocus="true" href="javascript:void(0);" method="want" deffer="1703" class="addWantTo" title=""><i></i><span>我想去</span></a></li>
+		<li><a hidefocus="true" href="javascript:void(0);" method="help" deffer="1703" deffername="周庄" class="help" title=""><i></i><span>发求助</span></a> </li>
+		<li class="tbarShare"> <a href="javascript:void(0);" class="tbarShareIco"> <i></i> <span>分享</span> </a>
+			<div class="sharecon"> 
+				<!-- Baidu Button BEGIN -->
+				<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare"> <span class="bds_more"></span> </div>
+				<script type="text/javascript" id="bdshare_js" data="type=tools&amp;mini=1&amp;uid=0" ></script> 
+				<script type="text/javascript" id="bdshell_js"></script> 
+				<script type="text/javascript">
+				    document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                </script> 
+				<!-- Baidu Button END --> 
+			</div>
+		</li>
+	</ul>
+	<script type="text/javascript">
+	    $(function () {
+	        $(window).scroll(function () {
+	            var st = $(document).scrollTop(), winh = $(window).height();
+	            if (st > 0) {
+	                if ($('.tbarS').length > 0) { return false }
+	                $('.tbarNewBtnS').click()
+	                $('.toolbarNew').addClass('tbarS')
+	            } else if (st <= 0) {
+	                $('.tbarNewBtn').click()
+	                $('.toolbarNew').removeClass('tbarS')
+	            }
+	        });
+	        $('.tbarNewGtop').live('click', function () { $("html, body").animate({ scrollTop: 0 }, 120); })
+	        $('.tbarNewBtnS').live('click', function () {
+	            $('.toolbarNew ul').stop().animate({ 'height': '312px' })
+	            $('.tbarNewGtop').stop().animate({ 'height': '45px' })
+	            $(this).addClass('tbarNewBtn').removeClass('tbarNewBtnS');
+	            return false
+	        })
+	        $('.tbarNewBtn').live('click', function () {
+	            $('.toolbarNew ul').stop().animate({ 'height': '0px' })
+	            $('.tbarNewGtop').stop().animate({ 'height': '3px' })
+	            $(this).addClass('tbarNewBtnS').removeClass('tbarNewBtn');
+	            return false
+	        })
+
+	        $("a[method=been]").click(function () {
+	            var regionid = $(this).attr("deffer");
+	            var a = $("a[method=been][deffer=" + regionid + "]");
+	            $.getJSON("http://my.lotour.com/login/login/islogin?callback=?&" + (new Date()), function (data) {
+	                if (data.uid > 0)
+	                    a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.uid + "/?rid=" + regionid, "target": "_blank" });
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.memberId + "/?rid=" + regionid, "target": "_blank" });
+	                    }, function (data) {
+	                        SetTopState();
+	                        a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.memberId + "/?rid=" + regionid, "target": "_blank" });
+	                    }, 1, "http://my.lotour.com/i/NotesPublish/replaceUid?rid=" + regionid);
+	                }
+	            });
+	        });
+	        $("a[method=want]").click(function () {
+	            var regionid = $(this).attr("deffer"), month = new Date().getMonth() + 1;
+	            var a = $("a[method=want][deffer=" + regionid + "]");
+	            $.getJSON("http://my.lotour.com/login/login/islogin?callback=?&" + (new Date()), function (data) {
+	                if (data.uid > 0) {
+	                    $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    $('.layerBg').css('height', $(document).height()).show();
+	                }
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    }, function (data) {
+	                        SetTopState();
+	                        $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    }, 1, location.href.toString().replace("#", "") + "?rid=" + regionid + "&ReturnAction=dplace");
+	                }
+	            });
+	        });
+	        $("a[method=help]").click(function () {
+	            var regionid = $(this).attr("deffer"), rname = $(this).attr("deffername");
+	            $.getJSON('http://my.lotour.com/login/login/islogin?callback=?&' + (new Date()), function (data) {
+	                if (data.uid > 0) {
+	                    showHelp(regionid, rname);
+	                }
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        showHelp(regionid, rname);
+	                    }, function (data) {
+	                        SetTopState();
+	                        showHelp(regionid, rname);
+	                    }, 1, location.href.toString().replace("#", "") + "?rid=" + regionid + "&ReturnAction=ask");
+	                }
+	            });
+	        });
+	    });
+	    function showHelp(regionid, rname) {
+	        $('#ask_topic').fadeIn(500).loadAskPanel(0);
+	        $('.layerBg').css('height', $(document).height()).show();
+	        $('#txtAskRegionSelect1').val(rname).attr('disabled', 'disabled');
+	        $('#hidAskTopicRegionId1').val(regionid);
+	        $.ajax({
+	            cache: false,
+	            type: "GET",
+	            dataType: 'jsonp',
+	            jsonp: 'callback',
+	            url: "http://my.lotour.com/i/DPlace/AskTopic/GetBeenCount/",
+	            data: { regionId: regionid },
+	            success: function (data) {
+	                data = data.Result.Data;
+	                if (data.count > 0) {
+	                    $("#BeenMsg").html(data.count + "专家为您解答");
+	                }
+	            },
+	            error: function (xhr, textStatus, errorThrown) {
+	            }
+	        });
+	    }
+  </script>
+	<div class="tbarNewGtop"></div>
+</div>
+<!--=E 右底工具条 -->
+</body>
+</html>

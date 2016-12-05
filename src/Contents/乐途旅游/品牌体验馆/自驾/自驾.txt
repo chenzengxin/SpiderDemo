@@ -1,0 +1,260 @@
+﻿<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=0.75, maximum-scale=1.0, user-scalable=no">
+        <title>自驾游_自驾游线路_自驾游攻略_乐途旅游网</title>
+    <meta name="keywords" content="自驾游,自驾游线路,自驾游攻略">
+    <meta name="description" content="乐途旅游网自驾频道专门为广大自驾游用户提供专业的自驾游线路、自驾游攻略以及相关的自驾游活动为一体的专业自驾游网站">
+    <link rel="shortcut icon" href="http://www.lotour.com/favicon2.ico">
+    <link rel="stylesheet" href="http://css.lotour.net/utf8/base.css" media="screen"/>
+    <link rel="stylesheet" href="http://css.lotour.net/2016/common.css" media="screen"/>
+    <link rel="stylesheet" href="http://css.lotour.net/my_zijia/my_pd.css"/>
+    <script type="text/javascript">
+    </script>
+
+    <!--[if lt IE 9]>
+    <script src="http://js.lotour.net/html5.js"></script>
+    <![endif]-->
+    <script type="text/javascript" src="http://js.lotour.net/jquery-1.8.3.min.js"></script>  
+    <script src="http://js.lotour.net/zhengwen/zhoumoyou.js" type="text/javascript"></script>
+
+    <!--<script type="text/javascript" src="http://js.lotour.net/2016/common.js"></script>-->
+</head>
+<body>
+
+<!--顶部-->
+    <script src="http://js.lotour.net/login/searchtips_utf8.js" id="stip" type="text/javascript"></script>
+<script src="http://js.lotour.net/login/top.only_v3_utf8.js" type="text/javascript"></script><!---->
+<header>
+    <div class="header">
+        <div class="hl">
+            <h1>
+                <a class="logo1" href="http://www.lotour.com/" title="乐途旅游" target="_blank">
+                    <img src="http://img1.lotour.net/index/logo.png"></a>
+            </h1>
+            <nav>
+                <ul>
+                    <li><a href="http://www.lotour.com/" title="首页" class="a" target="_blank">首页</a></li>
+                    <li><a href="http://www.lotour.com/mudidi" title="目的地" class="a" target="_blank">目的地</a></li>
+                    <li><a href="http://www.lotour.com/zhuanti/pinpai/" title="品牌体验馆" class="a" target="_blank">品牌体验馆</a></li>
+                    <li class="put"><a href="javascript:void(0);" class="a">发现</a><div class="ly"><em></em><a href="http://www.lotour.com/zhoubianyou/" title="周边游" target="_blank">周边游</a><a href="http://www.lotour.com/guoneiyou/" title="国内游" target="_blank">国内游</a><a href="http://www.lotour.com/chujingyou/" title="出境游" class="edbr" target="_blank">出境游</a></div></li>
+                    <li><a href="http://www.lotour.com/daren/" title="大咖" class="a" target="_blank">大咖</a></li>
+                    <li><a href="http://www.lotour.com/zhoumoyou/beijing/" title="午后" class="a" target="_blank">午后</a></li>
+                    <li><a href="http://www.lotour.com/zijiayou/" title="自驾" class="a" target="_blank">自驾</a></li>
+                    <li class="put"><a href="javascript:void(0);" class="a">预订</a><div class="ly"><em></em><a href="http://d.lotour.com/hotel/" title="酒店" target="_blank">酒店</a><a href="http://d.lotour.com/dangdigentuan/" title="地接" target="_blank">地接</a><a id="dujiaxianlu" href="http://d.lotour.com/dujiaxianlu/beijing/" title="度假" class="edbr" target="_blank">度假</a></div></li>
+                
+                </ul>
+            </nav>
+        </div>
+        <div class="hr" id="rheader">
+            <div class="tool" style="display: none;">
+
+                <a class="t4" href="#"></a>
+
+                <div class="t3-layer">
+                    <img width="820" height="520" src="http://img1.lotour.com/2016/index/favlayer.jpg"><a href=""></a>
+                </div>
+
+            </div>
+
+            <div class="search noIndexS">
+                <form name="zonghe" method="get" action="http://ip.lotour.com/home/mudidi">
+                    <input class="txt" type="text" id="keyword" name="keyword" autocomplete="off" value=""/>
+                    <input type="hidden" value="" name="keys" id="keys"/>
+                    <input class="btn" type="submit" value="" name="btnzonghe" id="btnzonghe"/>
+                </form>
+                <div class="len"></div>
+                <div class="src-ly" style="display: none;"><a class="cls" href="javascript:void(0);"></a>
+
+                    <div class="in"><h6 class="h1">国内</h6>
+                        <ul class="clearfix">
+                            <li><a href="http://shangqiu.lotour.com/"> 商丘</a></li>
+                            <li><a href="http://shangrao.lotour.com/guifeng/">龟峰</a></li>
+                            <li><a href="http://xuchang.lotour.com/">许昌</a></li>
+                            <li><a href="http://shannan.lotour.com/"> 山南</a></li>
+                            <li><a href="http://kunming.lotour.com/yunnanshilin/">石林</a></li>
+                            <li><a href="http://changdu.lotour.com/">昌都</a></li>
+                            <li><a href="http://haerbin.lotour.com/">哈尔滨</a></li>
+                            <li><a href="http://zhoushan.lotour.com/">舟山</a></li>
+                            <li><a href="http://huangshan.lotour.com/">黄山</a></li>
+                            <li><a href="http://chengdu.lotour.com/">成都</a></li>
+                            <li><a href="http://hangzhou.lotour.com/">杭州</a></li>
+                            <li><a href="http://xiamen.lotour.com/"> 厦门</a></li>
+                            <li><a href="http://qingdao.lotour.com/">青岛</a></li>
+                            <li><a href="http://guilin.lotour.com/">桂林</a></li>
+                            <li><a href="http://huangshan.lotour.com/huizhouqu/">徽州</a></li>
+                        </ul>
+                        <h6 class="h2">出境</h6>
+                        <ul class="clearfix">
+                            <li><a href="http://tha.lotour.com/">泰国</a></li>
+                            <li><a href="http://cam.lotour.com/">柬埔寨</a></li>
+                            <li><a href="http://tha.lotour.com/qingmai/">清迈</a></li>
+                            <li><a href="http://aus.lotour.com/"> 澳大利亚</a></li>
+                            <li><a href="http://tha.lotour.com/pujifu/">普吉岛</a></li>
+                            <li><a href="http://mas.lotour.com/shaba/">沙巴</a></li>
+                            <li><a href="http://pf.lotour.com/">大溪地</a></li>
+                            <li><a href="http://nep.lotour.com/">尼泊尔</a></li>
+                            <li><a href="http://fra.lotour.com/baliqu/">巴黎</a></li>
+                            <li><a href="http://taiwan.lotour.com/"> 台湾</a></li>
+                            <li><a href="http://sri.lotour.com/"> 斯里兰卡</a></li>
+                            <li><a href="http://gbr.lotour.com/lundun1/">伦敦</a></li>
+                            <li><a href="http://ina.lotour.com/balidao1/">巴厘岛</a></li>
+                            <li><a href="http://macao.lotour.com/">澳门</a></li>
+                            <li><a href="http://fij.lotour.com/">斐济</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</header>
+    <!--顶部end-->
+<div class="wrap">
+    <!--大幻灯-->
+    <div class="idx-focus">
+         <ul>
+            <li style="background-image: url(http://img3.lotour.net/bcef/2016/12/2016120118160068721779.jpg);"><a href="http://www.lotour.com/zijiayou/xl/neimenggu/10.shtml" onclick="return _gaq.push(['_trackPageview','/PageAction/zijiayou/slideshow/01/']);" target="_blank"></a>
+                <h5>自驾穿越内蒙古大草原 看尽千里冰封万里雪飘</h5>
+
+            </li>
+            <li style="background-image: url(http://img3.lotour.net/bcef/2016/11/2016111517364315459056.jpg);"><a href="http://adclient.lotour.com/Forms/comment/adurl.aspx?id=6902" onclick="return _gaq.push(['_trackPageview','/PageAction/zijiayou/slideshow/02/']);" target="_blank"></a>
+                <h5>东风悦达起亚·西行漫记</h5>
+
+            </li>
+            <li style="background-image: url(http://img3.lotour.net/bcef/2016/10/2016100916231002706082.jpg);"><a href="http://www.lotour.com/zijiayou/xl/xinjiang/8.shtml" onclick="return _gaq.push(['_trackPageview','/PageAction/zijiayou/slideshow/03/']);" target="_blank"></a>
+                <h5>自驾无人区神秘地带 带你走进最真实的无人区</h5>
+
+            </li>
+    </ul>
+    
+        <div class="pgs clearfix">
+            
+            <i class="on"></i>
+            <i class=""></i>
+                        <i class=""></i>
+                    </div>
+        <div style="display: none;" class="bdBtnL prev"><a href="javascript:void(0)" title="上一个"><span>&lt;</span></a></div>
+        <div style="display: none;" class="bdBtnR next"><a href="javascript:void(0)" title="下一个"><span>&gt;</span></a></div>
+    
+    </div>
+    <!--大幻灯end-->
+    <!--自驾推荐begin-->
+    <div class="pro">
+        <h2>当季热门自驾线路推荐</h2>
+
+        <p>这里有国内外最经典秋季自驾线路，那些最热门、最狂野、最奔放的自驾玩法，正在等着你亲自来体验，你还在等什么？快将行李扔进后车箱，发动引擎，开着自己的爱车快去疯吧！
+    </div>
+    <!--自驾推荐end-->
+    <!--自驾路线begin-->
+        <div class="floor"><div class="list-line" data-index="1" style="display:block"><a href="http://www.lotour.com/zijiayou/xl/xinjiang/8.shtml" target="_blank" ><div class="inner"><div class="bg-img" style="background-image: url(http://img1.lotour.net/mudidiplay/2016/1009/20161009143957771e3.jpg);"></div><div class="contain  clearfix"><div class="left1 fl"><div class="line"><h2>罗布泊+阿尔金山自驾攻略</h2><p></p></div><h3>西北地区&nbsp;新疆线路</h3><span>阿尔金山真的美到爆了，这里有成群的藏野驴，藏羚羊，野牦牛以及绝美的日出，日落，还有第三大咸水湖，你可以和臧牦牛赛跑，也可以和藏驴子驰骋，这里是动物的天堂，确是人类的禁区。</span></div><div class="right1 fr"><img src="http://img1.lotour.net/my_zijia/juxing.png" alt=""/><div class="son clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/0927/2016092719270998c88_140.jpg" alt=""/></div><div class="son_right fr"><h4>吐鲁番</h4><p>吐鲁番，一定要在盛夏去，只有在盛夏，在水与火、清凉与炽热、绿地与黄沙的转换之间，你才能看到她最绮丽的色彩。</p></div></div><div class="son son1 clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/0928/201609281505145498d_140.jpg" alt=""/></div><div class="son_right fr"><h4>余全顺墓地</h4><p>余纯顺是非常著名的探险家，1996年6月，徒步穿越罗布泊的时候意外遇难。余纯顺的墓地距离罗布泊湖心大约有30公里。</p></div></div><div class="son clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/0927/20160927192710192e0_140.jpg" alt=""/></div><div class="son_right fr"><h4>沙子泉</h4><p>沙子泉，在阿尔金山自然保护区境内，世界海拔最高的沙漠库木库勒沙山北麓，除了可看到庞大的野牦牛群外，还可见到沙子泉奇景。</p></div></div></div></div><b><img src="http://img1.lotour.net/my_zijia/pd.png" alt=""/></b></div></a><a href="http://www.lotour.com/zijiayou/xl/xinjiang/9.shtml" target="_blank" ><div class="inner"><div class="bg-img" style="background-image: url(http://img1.lotour.net/mudidiplay/2016/1009/20161009142541173cf.jpg);"></div><div class="contain  clearfix"><div class="right1 fl"><img src="http://img1.lotour.net/my_zijia/juxing.png" alt=""/><div class="son clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/0927/201609271944270937b_140.jpg" alt=""/></div><div class="son_right fr"><h4>罗布泊南古城</h4><p>罗布泊在若羌县境东北部，曾是中国第二大内陆湖，海拔780米。罗布泊和因它而繁盛的楼兰古国，一度吸引了很多国内外的探险者。</p></div></div><div class="son son1 clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/0927/2016092719442720479_140.jpg" alt=""/></div><div class="son_right fr"><h4>八一泉</h4><p>罗布泊的水源非常的有限，八一泉就是当年为了给地面上这些野生动物补给用水而建造的。</p></div></div><div class="son clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/0927/2016092719442734775_140.jpg" alt=""/></div><div class="son_right fr"><h4>雅丹龙城</h4><p>雅丹龙城位于若羌县境北部的罗布泊地区，雅丹是维吾尔语，原是“险峻的土丘”之意，现通指干燥地区的一种特殊地貌。</p></div></div></div><div class="left1 fr"><div class="line"><h2>罗布泊+兴岩地画自驾攻略</h2><p></p></div><h3>西北地区&nbsp;新疆线路</h3><span>“世外桃源”兴地村，既当年斯文赫定发现楼兰古城最后一个补给村庄，现在这个村庄已经没有什么人了，只有3,4户牧羊人还常年生活在大山包围的兴地村。</span></div></div><b><img src="http://img1.lotour.net/my_zijia/pd.png" alt=""/></b></div></a><a href="http://www.lotour.com/zijiayou/xl/xizang/19.shtml" target="_blank" ><div class="inner"><div class="bg-img" style="background-image: url(http://img1.lotour.net/mudidiplay/2016/1107/20161107140101998ee.jpg);"></div><div class="contain  clearfix"><div class="left1 fl"><div class="line"><h2>G219新藏线自驾攻略</h2><p></p></div><h3>西南地区&nbsp;西藏线路</h3><span>新藏全长1455公里，是世界上海拔最高的公路，途中翻越5000米以上大山5座，其中最高的界山达坂海拔高达5248米，是几条进藏路线中最危险的，特别是界山达坂和死人沟。</span></div><div class="right1 fr"><img src="http://img1.lotour.net/my_zijia/juxing.png" alt=""/><div class="son clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/1107/2016110715495043f29_140.jpg" alt=""/></div><div class="son_right fr"><h4>喀什</h4><p>汽车在望不到尽头的高原上奔驰，广袤的土地，偶尓可见散落在草滩上的几处屋舍，孤独寂寞，又刚朴执着地在那里守护着他们的主人。</p></div></div><div class="son son1 clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/1107/2016110715495165f1f_140.jpg" alt=""/></div><div class="son_right fr"><h4>拉孜</h4><p>拉孜地处西藏自治区日喀则市中部、念青唐古拉山最西部，古代茶马古道的重镇，最出名的是这里的藏刀。</p></div></div><div class="son clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/1107/2016110715495174bf9_140.jpg" alt=""/></div><div class="son_right fr"><h4>江孜</h4><p>在后藏日喀则的江孜，有这么一座寺庙—白居寺，这个明代建筑群，算是中国惟一一座集建筑、绘画和雕塑艺术于一身的宗教艺术博物馆</p></div></div></div></div><b><img src="http://img1.lotour.net/my_zijia/pd.png" alt=""/></b></div></a><a href="http://www.lotour.com/zijiayou/xl/xizang/18.shtml" target="_blank" ><div class="inner"><div class="bg-img" style="background-image: url(http://img1.lotour.net/mudidiplay/2016/1104/2016110414271943e29.jpg);"></div><div class="contain  clearfix"><div class="right1 fl"><img src="http://img1.lotour.net/my_zijia/juxing.png" alt=""/><div class="son clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/1104/20161104165846247aa_140.jpg" alt=""/></div><div class="son_right fr"><h4>新都桥</h4><p>新都桥被称为“摄影家的天堂”，藏族青年也会在这个时候穿上传统盛装，在圣洁的雪山下和庄严的寺庙前，留下终生的纪念。</p></div></div><div class="son son1 clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/1104/2016110416584708545_140.jpg" alt=""/></div><div class="son_right fr"><h4>然乌湖</h4><p>然乌湖本是由山体滑坡和泥石流堵塞行成的堰塞湖，所以她就像落入凡间的精灵那般，被山体贴心地包裹了起来，然乌之美，无法言说。</p></div></div><div class="son clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/1104/2016110416584722dbb_140.jpg" alt=""/></div><div class="son_right fr"><h4>林芝</h4><p>林芝市位于西藏的东南部，平均海拔3100米。人间四月，冬天还未褪去，林芝却桃花朵朵，汇聚如海，这里有中国最美的春天。</p></div></div></div><div class="left1 fr"><div class="line"><h2>G318川藏南线</h2><p></p></div><h3>西南地区&nbsp;西藏线路</h3><span>川藏线分南北两线，南线主要以自然风光见长，北线则自然人文并存。川藏南线自东向西，穿行于西藏东部的高山峡谷区。跨越金沙江、澜沧江、怒江、雅鲁藏布江和著名的念青唐古拉山脉、冈底斯山脉等。</span></div></div><b><img src="http://img1.lotour.net/my_zijia/pd.png" alt=""/></b></div></a><a href="http://www.lotour.com/zijiayou/xl/xizang/20.shtml" target="_blank" ><div class="inner"><div class="bg-img" style="background-image: url(http://img1.lotour.net/mudidiplay/2016/1114/2016111416531782220.jpg);"></div><div class="contain  clearfix"><div class="left1 fl"><div class="line"><h2>唐蕃古道自驾攻略</h2><p></p></div><h3>西南地区&nbsp;西藏线路</h3><span>唐蕃古道起自陕西西安（即长安），途经甘肃、青海，至西藏拉萨（即逻些），全长3千余公里。整个古道横贯中国西部，跨越举世闻名的世界屋脊，联通我国西南的友好邻邦，故亦有丝绸南路之称。</span></div><div class="right1 fr"><img src="http://img1.lotour.net/my_zijia/juxing.png" alt=""/><div class="son clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/1114/201611141653179447d_140.jpg" alt=""/></div><div class="son_right fr"><h4>玉树藏族</h4><p>玉树，是长江、黄河、澜沧江三江源头，是文成公主从大唐嫁去吐蕃的漫漫长路上最有故事的一站，也是地震之后废墟之上重建的一座城</p></div></div><div class="son son1 clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/1114/2016111416531807003_140.jpg" alt=""/></div><div class="son_right fr"><h4>那曲</h4><p>西藏的世界级非物质文化遗产项目目前只有藏戏和格萨尔说唱艺术。那曲作为格萨尔文化重镇，是格萨尔艺人的故乡。</p></div></div><div class="son clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/1114/2016111416531814e61_140.jpg" alt=""/></div><div class="son_right fr"><h4>当雄</h4><p>在藏语里“当”是指当雄，“吉仁”意思是祈愿法会，“当吉仁”是当雄的祈愿法会。</p></div></div></div></div><b><img src="http://img1.lotour.net/my_zijia/pd.png" alt=""/></b></div></a></div><div class="list-line" data-index="2" style="display:none"><a href="http://www.lotour.com/zijiayou/xl/neimenggu/10.shtml" target="_blank" ><div class="inner"><div class="bg-img" style="background-image: url(http://img1.lotour.net/mudidiplay/2016/1009/2016100914372266400.jpg);"></div><div class="contain  clearfix"><div class="right1 fl"><img src="http://img1.lotour.net/my_zijia/juxing.png" alt=""/><div class="son clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/0928/2016092815411079e07_140.jpg" alt=""/></div><div class="son_right fr"><h4>海拉尔</h4><p>海拉尔位于内蒙古自治区东北部,海拉尔周边地区景致极佳,以草原、湖泊、冰雪风光为主要的旅游景观。</p></div></div><div class="son son1 clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/0928/20160928154111597fb_140.jpg" alt=""/></div><div class="son_right fr"><h4>莫尔道嘎森林公园</h4><p>当我走进莫尔道嘎童话般的秋雪世界，那一瞬间我被惊着了，不知世上还有如此美妙的地方。</p></div></div><div class="son clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/0928/2016092815411168628_140.jpg" alt=""/></div><div class="son_right fr"><h4>阿尔山森林公园</h4><p>到达阿尔山国家森林公园，感受大兴安岭西侧火山熔岩地貌，一路苍松翠柏，绿草青青。其主要景区包括阿尔山天池，驼峰岭天池等。</p></div></div></div><div class="left1 fr"><div class="line"><h2>呼伦贝尔大草原自驾攻略</h2><p></p></div><h3>华北地区&nbsp;内蒙古线路</h3><span>这是呼伦贝尔南北线，海拉尔集结，向北最远到达奇乾，一个只有10户人家的边境小镇，向西可在贝尔湖畔远眺蒙古国的边防哨卡，向南到达美丽的阿尔山森林地质公园。草原、森林、湖泊尽收眼底。</span></div></div><b><img src="http://img1.lotour.net/my_zijia/pd.png" alt=""/></b></div></a><a href="http://www.lotour.com/zijiayou/xl/neimenggu/11.shtml" target="_blank" ><div class="inner"><div class="bg-img" style="background-image: url(http://img1.lotour.net/mudidiplay/2016/1009/2016100914363747f24.jpg);"></div><div class="contain  clearfix"><div class="left1 fl"><div class="line"><h2>内蒙古大草原自驾攻略</h2><p></p></div><h3>华北地区&nbsp;内蒙古线路</h3><span>在这里你一抬手就仿佛可以触碰到那纯白的云朵，夜晚昂头即可见如同海洋一般浩瀚的星空，你随处都可以看到蓝天白云下成群的牛羊马匹，也能不小心闯入世外桃源般的小山村。</span></div><div class="right1 fr"><img src="http://img1.lotour.net/my_zijia/juxing.png" alt=""/><div class="son clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/0928/20160928170126401f5_140.jpg" alt=""/></div><div class="son_right fr"><h4>锡林郭勒</h4><p>踏上草原之巅，远处看云，近了远了朦胧虚幻。透过云层俯视，城市、村庄、河流、田野，现出一幅幅灵秀的山水画，这就是锡林郭勒。</p></div></div><div class="son son1 clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/0928/2016092817012681182_140.jpg" alt=""/></div><div class="son_right fr"><h4>额尔古纳</h4><p>额尔古纳是蒙古人发祥地，境内留有蒙古祖先穴居遗址，室韦部落传说、三河原、金界壕等。室韦更是全国唯一的俄罗斯民族乡。</p></div></div><div class="son clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/0928/2016092817012693aa4_140.jpg" alt=""/></div><div class="son_right fr"><h4>阿尔山森林公园</h4><p>到达阿尔山国家森林公园，感受大兴安岭西侧火山熔岩地貌，一路苍松翠柏，绿草青青。其主要景区包括阿尔山天池，驼峰岭天池等。</p></div></div></div></div><b><img src="http://img1.lotour.net/my_zijia/pd.png" alt=""/></b></div></a><a href="http://www.lotour.com/zijiayou/xl/xizang/12.shtml" target="_blank" ><div class="inner"><div class="bg-img" style="background-image: url(http://img1.lotour.net/mudidiplay/2016/1011/2016101119202003b4b.jpg);"></div><div class="contain  clearfix"><div class="right1 fl"><img src="http://img1.lotour.net/my_zijia/juxing.png" alt=""/><div class="son clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/1019/2016101918082871d85_140.jpg" alt=""/></div><div class="son_right fr"><h4>柴达木盆地</h4><p>八千里路，五万仞山，泱泱柴达木蕴藏了无可尽数的自然景观与人文遗迹，雅丹地貌、海市蜃楼，这一切，都无不散发着迷人的光彩。</p></div></div><div class="son son1 clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/1019/2016101918082884d41_140.jpg" alt=""/></div><div class="son_right fr"><h4>雅鲁藏布江</h4><p>在藏语中，“雅鲁”和“雅砻”是一个意思，指的是从天上来，这条江最终被命名为“雅鲁藏布江”，全长2840公里。</p></div></div><div class="son clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/1020/2016102010125848f1d_140.jpg" alt=""/></div><div class="son_right fr"><h4>可可西里</h4><p>可可西里是中国最大、世界第三大的一片无人区，也是目前世界上原始生态环境保存最完好的地区。</p></div></div></div><div class="left1 fr"><div class="line"><h2>青藏线自驾攻略</h2><p></p></div><h3>西南地区&nbsp;西藏线路</h3><span>如果你没有到达超过海拔5000米的高度，没有在空气稀薄地带感受过肺部的紧缩，没有在耀眼的阳光下被冰雪的反射光照射的无法张开双眼，没有在急剧下降的温度中体会渐渐变轻的生命，你将无法明白西藏到底有多美！</span></div></div><b><img src="http://img1.lotour.net/my_zijia/pd.png" alt=""/></b></div></a><a href="http://www.lotour.com/zijiayou/xl/xizang/16.shtml" target="_blank" ><div class="inner"><div class="bg-img" style="background-image: url(http://img1.lotour.net/mudidiplay/2016/1101/2016110117372890b8f.jpg);"></div><div class="contain  clearfix"><div class="left1 fl"><div class="line"><h2>滇藏线自驾攻略</h2><p></p></div><h3>西南地区&nbsp;西藏线路</h3><span>滇藏公路（国道214）南起滇西景洪，穿过横断山区原始森林，横跨金沙江，翻越海拔4300余米的百芒雪山和洪拉山，经西藏芒康、左贡、昌都、类乌齐至青藏界多普玛，抵甘肃兰州，西藏自治区境内803公里。</span></div><div class="right1 fr"><img src="http://img1.lotour.net/my_zijia/juxing.png" alt=""/><div class="son clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/1101/2016110117372893ffe_140.jpg" alt=""/></div><div class="son_right fr"><h4>昆明</h4><p>昆明作为中国面向东南亚等国的门户，略带异域又融合各大民族的结合城市，整座城市都很漂亮。</p></div></div><div class="son son1 clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/1101/2016110117372940efb_140.jpg" alt=""/></div><div class="son_right fr"><h4>林芝</h4><p>如果说藏区给人一向的印象是凛冽高寒甚至荒芜苍凉，那林芝无疑是“沙漠中的一点绿洲”了。四月，桃花正盛，美不胜收。</p></div></div><div class="son clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/1101/2016110119021935932_140.jpg" alt=""/></div><div class="son_right fr"><h4>八宿</h4><p>在怒江上体验到各种挑战，东达山垭口5千米以上的海拔挑战，邦达天路72拐的弯道挑战，一次次征途路上都是对肉体和心灵的挑战。</p></div></div></div></div><b><img src="http://img1.lotour.net/my_zijia/pd.png" alt=""/></b></div></a><a href="http://www.lotour.com/zijiayou/xl/xizang/17.shtml" target="_blank" ><div class="inner"><div class="bg-img" style="background-image: url(http://img1.lotour.net/mudidiplay/2016/1104/2016110411530888ab1.jpg);"></div><div class="contain  clearfix"><div class="right1 fl"><img src="http://img1.lotour.net/my_zijia/juxing.png" alt=""/><div class="son clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/1104/20161104162610258eb_140.jpg" alt=""/></div><div class="son_right fr"><h4>都江堰</h4><p>都江堰处于岷江中游，以鱼嘴石碓为岷江分水口，四六分水，四分进入西边的外江是原本的河道；六分进入人为的内江，灌溉成都平原。</p></div></div><div class="son son1 clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/1104/2016110416261033130_140.jpg" alt=""/></div><div class="son_right fr"><h4>甘孜州</h4><p>川西的天气多变，每一次都感受十分深刻，翻越雅家梗时大雾就在车后随着流动，前面艳阳高照，回头一片迷茫。</p></div></div><div class="son clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/1104/2016110416261044a2b_140.jpg" alt=""/></div><div class="son_right fr"><h4>那曲</h4><p>西藏的世界级非物质文化遗产项目目前只有藏戏和格萨尔说唱艺术。那曲作为格萨尔文化重镇，是格萨尔艺人的故乡。</p></div></div></div><div class="left1 fr"><div class="line"><h2>G317川藏北线</h2><p></p></div><h3>西南地区&nbsp;西藏线路</h3><span>川藏北线从成都出发，经雅安直接进甘孜州后，经炉霍、甘孜、德格过岗嘎金沙江大桥入藏，再经江达、昌都抵南北线交合点邦达后，经波密、八一往拉萨，全程2413公里。</span></div></div><b><img src="http://img1.lotour.net/my_zijia/pd.png" alt=""/></b></div></a></div><div class="list-line" data-index="3" style="display:none"><a href="http://www.lotour.com/zijiayou/xl/qinghai/15.shtml" target="_blank" ><div class="inner"><div class="bg-img" style="background-image: url(http://img1.lotour.net/mudidiplay/2016/1031/2016103117585111438.jpg);"></div><div class="contain  clearfix"><div class="left1 fl"><div class="line"><h2>青海湖自驾攻略</h2><p></p></div><h3>西北地区&nbsp;青海线路</h3><span>到青海探寻黄河源，感受中国最美丽湖泊的美丽和神奇，亲临万亩油菜花映衬下的蓝天白云，感受高原天路的壮美，清点数不尽的高原湖泊。去中国的大西北，来一次千里之行，去体会那被口口相传的美景。</span></div><div class="right1 fr"><img src="http://img1.lotour.net/my_zijia/juxing.png" alt=""/><div class="son clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/1028/201610281908542478f_140.jpg" alt=""/></div><div class="son_right fr"><h4>青海湖</h4><p>青海湖位于青海省西北部，既是中国最大的内陆湖泊，也是中国最大的咸水湖。</p></div></div><div class="son son1 clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/1031/20161031175851195d6_140.jpg" alt=""/></div><div class="son_right fr"><h4>门源县</h4><p>不同于内地，七月才是祁连山最美的季节。大片大片的青稞地碧绿若毯，油菜花艳如织锦，铺满了田野山坡，美不胜收。</p></div></div><div class="son clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/1031/20161031175851316b0_140.jpg" alt=""/></div><div class="son_right fr"><h4>茶卡盐湖</h4><p>茶卡盐湖，青海省的“天空之境”，国家旅游地理杂志评出的“人一生必去的55个地方”之一。</p></div></div></div></div><b><img src="http://img1.lotour.net/my_zijia/pd.png" alt=""/></b></div></a><a href="http://www.lotour.com/zijiayou/xl/xizang/21.shtml" target="_blank" ><div class="inner"><div class="bg-img" style="background-image: url(http://img1.lotour.net/mudidiplay/2016/1115/2016111517305020f84.jpg);"></div><div class="contain  clearfix"><div class="right1 fl"><img src="http://img1.lotour.net/my_zijia/juxing.png" alt=""/><div class="son clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/1115/201611151730502689d_140.jpg" alt=""/></div><div class="son_right fr"><h4>大理</h4><p>秋天的大理，沿洱海骑行，放眼望去，一路上都是开满了盛开着的格桑花，烂漫无比。</p></div></div><div class="son son1 clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/1115/2016111517305071107_140.jpg" alt=""/></div><div class="son_right fr"><h4>丙中洛</h4><p>山峦游走的雾变幻无常，造型别致的雾景任你想象，木屋散落田野，青烟袅袅，奔腾的江水。印象丙中洛，人神共居之地。</p></div></div><div class="son clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/1115/20161115173050808e5_140.jpg" alt=""/></div><div class="son_right fr"><h4>然乌湖</h4><p>然乌湖狭长，风起，湖水绿中泛灰，薄雾轻走，风静，湖水蔚蓝如镜，薄雾拢聚，远远望去像是与雪山连在一起。</p></div></div></div><div class="left1 fr"><div class="line"><h2>丙察察自驾攻略</h2><p></p></div><h3>西南地区&nbsp;西藏线路</h3><span>丙察察公路是第八条也是最后一条进藏公路，指从云南丙中洛经西藏察瓦龙到西藏察隅县城的低等级道路，这条路是进藏越野路的终极代表，和传统的进藏大通道318比起来，丙察察的风景更美，道路更加险峻。</span></div></div><b><img src="http://img1.lotour.net/my_zijia/pd.png" alt=""/></b></div></a><a href="http://www.lotour.com/zijiayou/xl/xinjiang/5.shtml" target="_blank" ><div class="inner"><div class="bg-img" style="background-image: url(http://img1.lotour.net/mudidiplay/2016/1009/2016100914404961cbf.jpg);"></div><div class="contain  clearfix"><div class="left1 fl"><div class="line"><h2>独库公路自驾攻略</h2><p></p></div><h3>西北地区&nbsp;新疆线路</h3><span>独库公路宛如盘卧天山的一条巨龙，横亘崇山峻岭，穿越深山峡谷。解沿着独库公路，你可以在短短的几天内看尽典型的新疆地形地貌，饱览维吾尔、蒙古、哈萨克民族风情。</span></div><div class="right1 fr"><img src="http://img1.lotour.net/my_zijia/juxing.png" alt=""/><div class="son clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/0927/2016092718045836bf7_140.jpg" alt=""/></div><div class="son_right fr"><h4>独山子</h4><p>独山子位于新疆克拉玛依市，地名来源于区境内的独山，独山呈东西走向“一”字形，因不与其它山体相连，独立于戈壁中而得名。</p></div></div><div class="son son1 clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/0927/2016092718045937963_140.jpg" alt=""/></div><div class="son_right fr"><h4>乔尔玛</h4><p>乔尔玛位于横贯天山的独库公路与伊乔公路的交汇处，这里地形险要，一桥架通南北。这里风景优美，眼睛所及之处皆是冰川美景。</p></div></div><div class="son clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/0923/2016092318475188533_140.jpg" alt=""/></div><div class="son_right fr"><h4>巴音布鲁克</h4><p>巴音布鲁克位于位于巴音郭楞蒙古自治州和静县西北，天山山脉中部的山间盆地中，四周为雪山环抱，是新疆最重要的畜牧业基地之一。</p></div></div></div></div><b><img src="http://img1.lotour.net/my_zijia/pd.png" alt=""/></b></div></a><a href="http://www.lotour.com/zijiayou/xl/ningxia/7.shtml" target="_blank" ><div class="inner"><div class="bg-img" style="background-image: url(http://img1.lotour.net/mudidiplay/2016/1009/20161009144027170ee.jpg);"></div><div class="contain  clearfix"><div class="right1 fl"><img src="http://img1.lotour.net/my_zijia/juxing.png" alt=""/><div class="son clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/0927/20160927190941678b6_140.jpg" alt=""/></div><div class="son_right fr"><h4>银川</h4><p>明末清初一些官吏、文人在咏唱宁夏平原沟渠交织如网、湖泊珠连其间的秀美景色时，用“银川”形容水光潋滟、水映晴光的水乡风光。</p></div></div><div class="son son1 clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/0927/20160927190941814ce_140.jpg" alt=""/></div><div class="son_right fr"><h4>昭化寺</h4><p>仓央嘉措法体停放的地方，因为人迹罕至，昭化寺一直保持着传统、纯正的格鲁派宗教风格和习俗，每年定期进行着各种祈愿法会。</p></div></div><div class="son clearfix"><div class="son_left fl"><img src="http://img1.lotour.net/mudidiplay/2016/0927/2016092719094189668_140.jpg" alt=""/></div><div class="son_right fr"><h4>三道湖</h4><p>腾格里200多个湖泊中最漂亮的湖，湖水洁净，可以游泳，每年吸引各地的越野爱好者到这里撒欢疯狂。</p></div></div></div><div class="left1 fr"><div class="line"><h2>腾格里沙漠自驾攻略</h2><p></p></div><h3>西北地区&nbsp;宁夏线路</h3><span>在这里你的车技需要面对各种地形的突发考验，“抵达之前，每一分钟都是在赶路”赴一场狂野的沙漠盛宴，探访每一处不为人所知的秘境，深入腹地看遍令人血脉贲张的绝世美景，在速度与激情中，嗨翻腾格里沙漠之夜。</span></div></div><b><img src="http://img1.lotour.net/my_zijia/pd.png" alt=""/></b></div></a></div><div class="more-txt"><p><a onclick="nextPage(this);" style="cursor:pointer;">更多路线</a></p></div>
+     <!--自驾路线end-->
+</div>
+
+
+<div class="foot-img">
+    <script type="text/javascript" src="http://js.lotour.net/bcef/566.js?v=2"></script>
+</div>
+<div class="idx-footer-bg">
+  <div class="idx-footer clearfix">
+    <div class="fl">
+      <dl>
+        <dt>关于我们</dt>
+        <dd><a href="http://corp.lotour.com/index.shtml" target="_blank" onclick="return FocusCount('tail','101');" title="乐途介绍">乐途介绍</a></dd>
+        <dd><a href="http://corp.lotour.com/job_2.shtml" target="_blank" onclick="return FocusCount('tail','102');" title="招贤纳士">招贤纳士</a></dd>
+        <dd><a href="http://corp.lotour.com/lotour_honour.shtml" target="_blank" onclick="return FocusCount('tail','103');" title="网站荣誉">网站荣誉</a></dd>
+        <dd><a href="http://corp.lotour.com/contact.shtml" target="_blank" onclick="return FocusCount('tail','104');" title="联系我们">联系我们</a></dd>
+      </dl>
+      <dl>
+        <dt>商家服务</dt>
+        <dd><a href="http://www.lotour.com/zhuanti/yingxiao/" target="_blank" title="乐途营销" onclick="return FocusCount('tail','201');">乐途营销</a></dd>
+        <dd><a href="http://member.lotour.com/" target="_blank" title="商家登录" onclick="return FocusCount('tail','202');">商家登录</a></dd>
+      </dl>
+      <dl>
+        <dt>新手上路</dt>
+        <dd><a href="http://d.lotour.com/yudingbangzhu/" target="_blank" title="预订帮助" onclick="return FocusCount('tail','301');">预订帮助</a></dd>
+        <dd><a href="http://corp.lotour.com/term.shtml" target="_blank" title="服务条款" onclick="return FocusCount('tail','302');">服务条款</a></dd>
+        <dd><a href="http://corp.lotour.com/copyright.shtml" target="_blank" title="版权声明" onclick="return FocusCount('tail','303');">版权声明</a></dd>
+      </dl>
+      <div class="hb">
+        <section>合作伙伴</section>
+        <p> <a href="http://www.cnta.com/" target="_blank" title="国家旅游局" onclick="return FocusCount('tail','401');">国家旅游局</a> <a href="http://travel.people.com.cn/" target="_blank" title="人民网旅游" onclick="return FocusCount('tail','402');">人民网旅游</a><br/>
+          <a href="http://travel.gmw.cn/index.htm" target="_blank" title="光明网旅游" onclick="return FocusCount('tail','403');">光明网旅游</a> <a href="http://travel.cntv.cn/" target="_blank" title="央视网旅游" onclick="return FocusCount('tail','404');">央视网旅游</a> <a href="http://travel.chinadaily.com.cn/" target="_blank" title="中国日报网" onclick="return FocusCount('tail','405');">中国日报网</a><br/>
+          <a href="http://corp.lotour.com/parter.shtml" target="_blank" class="all" onclick="return FocusCount('tail','406');">[全部]</a> </p>
+      </div>
+    </div>
+    <div class="fr">
+      <div class="wechat">
+        <section>用微信收藏灵感</section>
+        <img src="http://img1.lotour.net/index/wechat.png" width="95" /></div>
+      <div class="follow">
+        <section>关注我们</section>
+        <ul>
+          <li class="sina"><a href="http://weibo.com/lotour2005" title="进入新浪微博" target="_blank" onclick="return FocusCount('attention','01');"></a></li>
+          <li class="qzone"><a title="进入QQ空间" target="_blank" href="http://user.qzone.qq.com/1726116704" onclick="return FocusCount('attention','02');"></a></li>
+          <li class="renren"><a title="进入人人网" target="_blank" href="http://www.renren.com/600754913" onclick="return FocusCount('attention','03');"></a></li>
+          <li class="qqweibo"><a title="进入腾讯微博" target="_blank" href="http://t.qq.com/lotourly" onclick="return FocusCount('attention','04');"></a></li>
+          <li class="wechat"><a href="javascript:void(0)"></a><img src="http://img1.lotour.net/home/vcode1-1.jpg"></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<footer>
+  <div class="footer clearfix"> <a href="http://www.lotour.com/" target="_blank" onclick="return FocusCount('logo','02');"><img src="http://img1.lotour.net/index/logo_ft.png" class="logo-ft" /></a>
+    <p><a href="http://www.miibeian.gov.cn" target="_blank" title="" onclick="return FocusCount('beian','');">京ICP备12008860号-1</a>  <a href="http://corp.lotour.com/licence_gd.shtml" target="_blank" title="" onclick="return FocusCount('beian','');">广电节目制作许可证：1313号</a>  <a style="display:inline-block;text-decoration:none;height:20px;line-height:20px;" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502001653" target="_blank"><img style="float:left;margin-right:2px" src="http://img1.lotour.net/ghs.png">京公网安备 11010502001653号</a><br/>
+      Copyright &copy; 2005 - 2016 <a href="http://www.lotour.com/" target="_blank" onclick="return FocusCount('beian','');">Lotour.com</a> All Rights Reserved. <a href="http://www.lotour.com/" target="_blank" title="乐途旅游网" onclick="return FocusCount('beian','');">乐途旅游网</a> 版权所有</p>
+<p class="wap"><img src="http://img1.lotour.net/index/bt.jpg"><img src="http://img1.lotour.net/home/vcode1-1.jpg" class="wap-wechat"></p>
+    <a target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202008020400006" class="pls" onclick="return FocusCount('beian','');"></a>
+    <a target="_blank" class="plc" href="http://about.58.com/fqz/index.html?utm_source=market&amp;spm=b-31580022738699-pe-f-829.hao360_101&amp;qq-pf-to=pcqq.group"><img src="http://img1.lotour.com/home/plc.png"></a>
+ </div>
+</footer>
+<!--home-->
+<script type="text/javascript" src="http://js.lotour.net/analytics/statsv2.js"  charset="UTF-8"></script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-39387460-1']);
+    _gaq.push(['_setDomainName', 'lotour.com']);
+    _gaq.push(['_addOrganic', 'baidu', 'word']);
+    _gaq.push(['_addOrganic', 'soso', 'w']);
+    _gaq.push(['_addOrganic', '3721', 'name']);
+    _gaq.push(['_addOrganic', 'yodao', 'q']);
+    _gaq.push(['_addOrganic', 'vnet', 'kw']);
+    _gaq.push(['_addOrganic', 'sogou', 'query']);
+    _gaq.push(['_addOrganic', '360', 'q']);
+    _gaq.push(['_addOrganic', 'so', 'q']);
+    var full_url = location.pathname + location.search + location.hash;
+    _gaq.push(['_trackPageview', full_url]);
+    _gaq.push(['_trackPageLoadTime']);
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F317768ad40e6ddbe20f10e89b4712c35' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+
+
+<script type="text/javascript">
+    jQuery("nav ul li").eq(0).find("a").removeClass("aon");
+    jQuery("nav ul li").eq(6).find("a").addClass("aon");
+</script>
+<script src="http://js.lotour.net/my_zijia/huandeng.js"></script>
+    <script>
+        function nextPage(dom) {
+            var count = $(".list-line").length;
+            var div = $(".list-line:visible:last").next();
+            $(div).css("display", "block");
+            if (count == parseInt($(div).data("index")))
+            {
+                $(dom).hide();
+            }
+        }
+
+
+    </script>
+</body>
+</html>

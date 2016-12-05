@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>【福州分类信息】福州免费发布信息网 - 福州58同城</title>
+    <meta name="Keywords" content="免费发布信息,分类信息,生活信息" />
+    <meta name="Description" content="58同城生活分类信息网为您提供免费发布囊括房屋出租、二手房二手车交易、跳蚤市场、招聘求职、交友征婚等与生活息息相关的信息，满足您在生活的方方面面，欢迎免费发布查看地区生活分类信息。" /> 
+     <!--<script>try{var ____json4fe = {catentry:{dispid:'',name:'',listname:'city'},locallist:{dispid:'',name:'',listname:'fz'},modules:'404'};____json4fe.version = 'A';____json4fe.start = (new Date()).getTime();}catch(e){};</script>
+    <script>try{var ____json4fe = {catentry:{dispid:'',name:'',listname:'city'},locallist:{dispid:'0',name:'',listname:''},modules:'404'};____json4fe.version = 'A';____json4fe.start = (new Date()).getTime();}catch(e){};</script>-->
+    <link rel="stylesheet" type="text/css" href="//c.58cdn.com.cn/ui6/list/404news.css">
+</head>
+<body> 
+<div class="wrap">
+			<div class="content clearfix">
+				<div class="head"><p class="et">ERROR</p><p class="ct">没有找到相关信息~</p></div>							
+ 				<div class="normalnews">
+					<h2 class="mewstit">更多福州精彩信息</h2>
+					<div class="nmewslist">					    
+					    						<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvIlsWN3shPfUiqWmyOOpyOJpyDfnWn1rHbYPjTzn1DkP173sMPCIAd_TywhrjRbPWcdsHnzP1mVPjPbraYOrH9ksyDzP1u-mv76m1RhuEDzrHmLPj0dPHmYrj0LrEDQP9Dzn1nOrHEYnjc1nHTLnEDznWTKnHNvTH9vnjNKn1TYTHDYrjTOnWEvn1T1nHEKnE760ZK1ugFvPjTYTHDKnE7wTiYQTEDkTHTKTyu6UZP-TH0vPAc3nyE3sH7-PHcVPj0Qmzd6PWFWsynQnjK-njI-nhwBnkDQPH0LrH9YrEDQPH9vnjT3nHc1nWmOP1mKTH9vnjNKn1TYTHT8PEDKTEDKpZwY0jCfs1EkPa3draOWUvYfPjTYsh6YUykKUMR_UTDQnHT8rj08PWT8rH0KsHcKPycvmHFhrjbzPhndPHTvuT'">
+							<dt><img src="http://t4.58cdn.com.cn/bidding/tiny/n_v1bl2lwwnp5z6fmtqeongq.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="teastory皇茶，2016年茶饮新商机">teastory皇茶，2016年茶饮新商机</p>
+									<p class="health" title="广州佰圣餐饮管理有限公司">广州佰圣餐饮管理有限公司</p>
+									<p class="sp">teastory皇茶 | 加盟咨询热线</p>
+									<p class="price" title="投资金额：2万元">投资金额：2万元</p>
+								</dd>
+						</dl>				
+												<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvIlsWN3shPfUiqWmyOOpyOJpyDfnW01rHDznjNdnH9vPj-3sMPCIAd_TywhrjRbPWcdsHnzP1mVPjPbraYOrH9ksyDzP1u-mv76m1RhuED1PWDdPj9QrHEdPWTQP9DQP9DzP1nOnHckPHNQrjmYrEDQn1NKnHndTH9vnjNKn1TYTHDYrjTOnWEvn1T1nHEKn9760ZK1ugFvPjTYTHDKnE7wTiYQTEDkTHTKTyu6UZP-TyFBPWnknj9dsycOnH9VPA7WmBY3rjm3sH03mHTQnAN3nj-bnTDzrH9QnHTkPkDQrHDvP10zn1mvPW0vPWEKTH9vnjNKn1TYTHT8PEDKTEDKpZwY0jCfs1EkPa3draOWUvYfPjTYsh6YUykKUMR_UTDQnHT8rj08PWT8rH0KsHcKnhPBrj9zujEzPH0OmHEkm9'">
+							<dt><img src="http://t2.58cdn.com.cn/bidding/tiny/n_v1bl2lwto5r3wfolq5mbta.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="韩式牛排杯加盟,5平方起开店,全程扶持指导开店">韩式牛排杯加盟,5平方起开店,全程扶持指导开店</p>
+									<p class="health" title="广州贪吃熊餐饮管理有限公司">广州贪吃熊餐饮管理有限公司</p>
+									<p class="sp">牛排杯 | 王经理</p>
+									<p class="price" title="投资金额：1万元">投资金额：1万元</p>
+								</dd>
+						</dl>				
+												<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvIlsWN3shPfUiqWmyOOpyOJpyDfnWNQPH03P1b3njD3rHF3sMPCIAd_TywhrjRbPWcdsHnzP1mVPjPbraYOrH9ksyDzP1u-mv76m1RhuED1P1N1njnOP1TYnjmdPEDQP9DzPHDdP19LrH9knH9On9DQn1nKnHn1TH9vnjNKn1TYTHDYrjTOnWEvn1T1nHEKnk760ZK1ugFvPjTYTHDKnE7wTiYQTEDkTHTKTyu6UZP-TyNkmWmdPhEksywbnhmVPj6WmBd6m17bsHRhnWw-nHNYnHn1rTD1njT1njD1PEDQrHnzPWEvrH03nW9vn1cKTH9vnjNKn1TYTHT8PEDKTEDKpZwY0jCfs1EkPa3draOWUvYfPjTYsh6YUykKUMR_UTDQnHT8rj08PWT8rH0KsHcKn16-PWKhrywbPjEOnyNzPT'">
+							<dt><img src="http://t1.58cdn.com.cn/bidding/tiny/n_v1bl2lwkdyg4cfrv4kvbeq.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="央视推荐正宗皇茶-贡茶奶茶加盟,手把手教你成功开店">央视推荐正宗皇茶-贡茶奶茶加盟,手把手教你成功开店</p>
+									<p class="health" title="深圳哈克餐饮管理有限公司">深圳哈克餐饮管理有限公司</p>
+									<p class="sp">芬享贡茶总部 | 奶茶加盟热线</p>
+									<p class="price" title="投资金额：1万元">投资金额：1万元</p>
+								</dd>
+						</dl>				
+												<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvIlsWN3shPfUiqWmyOOpyOJpyDfnWNQnW0dPH9LPHc1njP3sMPCIAd_TywhrjRbPWcdsHnzP1mVPjPbraYOrH9ksyDzP1u-mv76m1RhuEDznWNdPjcLnjNdnHTYP9DQP9DzPHDzP1Ndrj0dnWnknkDQnHbKnHDOTH9vnjNKn1TYTHDYrjTOnWEvn1T1nHEKPT760ZK1ugFvPjTYTHDKnE7wTiYQTEDkTHTKTyu6UZP-TyRbn10Qn1DYsy76Pj9VPAEYnzYOPjNvsy7Wn1c1PjEdnh7-mkDzP19zPWNYPkDQrjnvPj9LnHbOPjnOn1mKTH9vnjNKn1TYTHT8PEDKTEDKpZwY0jCfs1EkPa3draOWUvYfPjTYsh6YUykKUMR_UTDQnHT8rj08PWT8rH0KsHcKrH0YrAuhPvDvPjcknH9OuT'">
+							<dt><img src="http://t4.58cdn.com.cn/bidding/tiny/n_v1bkuyfvneeehvrh2htnfq.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="香香宫煮麻辣烫加盟 10㎡开店免费培训 1万元以下">香香宫煮麻辣烫加盟 10㎡开店免费培训 1万元以下</p>
+									<p class="health" title="广州壹家人餐饮管理服务有限公司">广州壹家人餐饮管理服务有限公司</p>
+									<p class="sp">香香宫煮麻辣烫 | 招商热线</p>
+									<p class="price" title="投资金额：1万元">投资金额：1万元</p>
+								</dd>
+						</dl>				
+												<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvG8sWN3shPfUiqWmyOOpyOJpyDfnWmOP1TvPj9vnWTLn1K3sMPCIAd_TywhrjRbPWcdsHnzP1mVPjPbraYOrH9ksyDzP1u-mv76m1RhuED1rHm3rHD1PjcdnWTYrEDQP9DzPWbLnjmYrjmznj01nTDQnHTKnHDkTH9vnjNKn1TYTHDYrjTOnWEvn1T1nHEKPE760ZK1ugFvPjTYTHDKnE7wTiYQTEDkTHTKTyu6UZP-Ty76nhDdnAEdsHcQPhEVPANzPaYOmvEOsyuBrHDznAEduAEvrEDzrjb1PHbzPEDQrj0Qrj0vn19Yn1TOPWTKTH9vnjNKn1TYTHT8PEDKTEDKpZwY0jCfs1EkPa3draOWUvYfPjTYsh6YUykKUMR_UTDQnHT8rj08PWT8rH0KsHcKPj0QPWNQnWDduhELPyD1rT'">
+							<dt><img src="http://t3.58cdn.com.cn/bidding/tiny/n_v1bj3gzshpvguvowqa6uxq.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="kiumi韩国美食屋-啤酒炸鸡-石锅拌饭-大酱汤">kiumi韩国美食屋-啤酒炸鸡-石锅拌饭-大酱汤</p>
+									<p class="health" title="济南源动力餐饮管理咨询有限公司">济南源动力餐饮管理咨询有限公司</p>
+									<p class="sp">KIUMI韩味美食屋 | 在线客服</p>
+									<p class="price" title="投资金额：2万元">投资金额：2万元</p>
+								</dd>
+						</dl>				
+												<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvIlsWN3shPfUiqWmyOOpyOJpyDfnWmznHbdnWb3njDknHI3sMPCIAd_TywhrjRbPWcdsHnzP1mVPjPbraYOrH9ksyDzP1u-mv76m1RhuED1rH0Yn1m3rjNdnjmLPTDQP9DzPWcQrHNzrH9knHTQPkDQnHTKnHDkTH9vnjNKn1TYTHDYrjTOnWEvn1T1nHEKP9760ZK1ugFvPjTYTHDKnE7wTiYQTEDkTHTKTyu6UZP-THwhmhmkmywWsyFWPyNVPj0OnaYOPy7hsHn1nWPhPWcLnjP6mkDzPWEznWELPkDQrjDQPWDdPH9knWEYrj9KTH9vnjNKn1TYTHT8PEDKTEDKpZwY0jCfs1EkPa3draOWUvYfPjTYsh6YUykKUMR_UTDQnHT8rj08PWT8rH0KsHcKmHEYn176P1mLmhPBnWRbPT'">
+							<dt><img src="http://t2.58cdn.com.cn/bidding/tiny/n_v1bl2lwxtutjzvohax7qaq.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="台湾正宗贡茶奶茶免费加盟!全程扶持!7天开店!">台湾正宗贡茶奶茶免费加盟!全程扶持!7天开店!</p>
+									<p class="health" title="深圳哈克餐饮管理有限公司">深圳哈克餐饮管理有限公司</p>
+									<p class="sp">台湾贡茶总部 | 奶茶加盟热线</p>
+									<p class="price" title="投资金额：1万元">投资金额：1万元</p>
+								</dd>
+						</dl>				
+												<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvIlsWN3shPfUiqWmyOOpyOJpyDfnW0zPWEdrHbQn19znWR3sMPCIAd_TywhrjRbPWcdsHnzP1mVPjPbraYOrH9ksyDzP1u-mv76m1RhuED1PWckn1bkPjELnH9zn9DQP9DzP1cvPjNOrHD1rjczPEDQnHTKnHDkTH9vnjNKn1TYTHDYrjTOnWEvn1T1nHEKPk760ZK1ugFvPjTYTHDKnE7wTiYQTEDkTHTKTyu6UZP-TycLPj7Wn1T3synznvDVPAnYniY3uWbYsHn3nyDznAEOPWIWuTDzrHEznjTLrTDQrjbdnHDvnW03njbkn1cKTH9vnjNKn1TYTHT8PEDKTEDKpZwY0jCfs1EkPa3draOWUvYfPjTYsh6YUykKUMR_UTDQnHT8rj08PWT8rH0KsHcKm1I-njNLnyn3rj9zuHmzrE'">
+							<dt><img src="http://t2.58cdn.com.cn/bidding/tiny/n_v1bkuymc5zjhgfpfoq6ayq.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="汉堡新语加盟-炸鸡-咖啡-奶茶-简餐小吃-款款火爆">汉堡新语加盟-炸鸡-咖啡-奶茶-简餐小吃-款款火爆</p>
+									<p class="health" title="广州德赞投资管理有限公司">广州德赞投资管理有限公司</p>
+									<p class="sp">汉堡新语 | 财富热线</p>
+									<p class="price" title="投资金额：2万元">投资金额：2万元</p>
+								</dd>
+						</dl>				
+												<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvG8sWN3shPfUiqWmyOOpyOJpyDfnWmYPWmLPHmOnHDOnWw3sMPCIAd_TywhrjRbPWcdsHnzP1mVPjPbraYOrH9ksyDzP1u-mv76m1RhuED1rHm3rHD1PjcdnWTYrEDQP9DzPWEvPW0dPWbQnHbzPTDQnHTKnHDkTH9vnjNKn1TYTHDYrjTOnWEvn1T1nHEKrT760ZK1ugFvPjTYTHDKnE7wTiYQTEDkTHTKTyu6UZP-THw6mhDvuj66sHbzPW9VPAwBuad6uyPBsHIhP1N1PAcOnHbLrTDzrj03rj9krTDQrjmYP1DvrHD1PjDkPHmKTH9vnjNKn1TYTHT8PEDKTEDKpZwY0jCfs1EkPa3draOWUvYfPjTYsh6YUykKUMR_UTDQnHT8rj08PWT8rH0KsHcKrADvnAPWnW9knAuhuycznE'">
+							<dt><img src="http://t1.58cdn.com.cn/bidding/tiny/n_v1bl2lwkgh7wpfpqgvzuzq.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="乔东家排骨大包加盟 面食 投资金额 1-5万元">乔东家排骨大包加盟 面食 投资金额 1-5万元</p>
+									<p class="health" title="济南源动力餐饮管理咨询有限公司">济南源动力餐饮管理咨询有限公司</p>
+									<p class="sp">乔东家排骨大包 | 乔东家</p>
+									<p class="price" title="投资金额：2万元">投资金额：2万元</p>
+								</dd>
+						</dl>				
+												<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvG8sWN3shPfUiqWmyOOpyOJpyDfnWmYrHbdPj0kPWnvnHw3sMPCIAd_TywhrjRbPWcdsHnzP1mVPjPbraYOrH9ksyDzP1u-mv76m1RhuED1rHm3rHD1PjcdnWTYrEDQP9DzPWEOrHNYP1Tvn1mQPTDQnHTKnHDkTH9vnjNKn1TYTHDYrjTOnWEvn1T1nHEKrE760ZK1ugFvPjTYTHDKnE7wTiYQTEDkTHTKTyu6UZP-THm1PW9zn1RBsyn3rAEVPAD3nzY3nvNYsHR-myNOrywBmW0kmkDzrj03rjcQnEDQrjmYPWbOP1mznHTLnjEKTH9vnjNKn1TYTHT8PEDKTEDKpZwY0jCfs1EkPa3draOWUvYfPjTYsh6YUykKUMR_UTDQnHT8rj08PWT8rH0KsHcKPWcOuhNkmWb1PvDkPAFbrE'">
+							<dt><img src="http://t3.58cdn.com.cn/bidding/tiny/n_v1bkujjd2y66pfoyxwqe2a.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="勾馋冒菜 麻辣烫加盟万元投资一站式服务!">勾馋冒菜 麻辣烫加盟万元投资一站式服务!</p>
+									<p class="health" title="济南源动力餐饮管理咨询有限公司">济南源动力餐饮管理咨询有限公司</p>
+									<p class="sp">勾馋麻辣烫 | 勾馋客服</p>
+									<p class="price" title="投资金额：2万元">投资金额：2万元</p>
+								</dd>
+						</dl>				
+												<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvG8sWN3shPfUiqWmyOOpyOJpyDfnWmYPHNkPWcOn1NznHP3sMPCIAd_TywhrjRbPWcdsHnzP1mVPjPbraYOrH9ksyDzP1u-mv76m1RhuED1rHm3rHD1PjcdnWTYrEDQP9DzPWEdPHTvnWb1PHcQnkDQnHTKnHDkTH9vnjNKn1TYTHDYrjTOnWEvn1T1nHEKnHTKmgKk0vRzIWEkPTDQTHDKNEDVnEDKnTDkTE7hmyQ1uEDduyE1PymvriYYn1I-sHE3PycVrAnkraYdPvPbnhE1P1nzmyNKnW9Lrj9LPjNKnH9vPj0QPHDQrHczrH9YTED3PWTdTHnkPTDksWNKTEDKTy6YIZTlsztYnjE8PH98mvqVs1EkPaOCIAd_TyOdUAkKnHDksW9LsWmksWbLTiYzTyEOnHDLPHPWPWcdnHPBPj0'">
+							<dt><img src="http://t2.58cdn.com.cn/bidding/tiny/n_v1bj3gzsbc72pfoo52musq.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="致爱丽丝加盟 冷饮热饮 投资金额 1-5万元">致爱丽丝加盟 冷饮热饮 投资金额 1-5万元</p>
+									<p class="health" title="济南源动力餐饮管理咨询有限公司">济南源动力餐饮管理咨询有限公司</p>
+									<p class="sp">致爱丽丝饮品加盟 | 致爱丽丝</p>
+									<p class="price" title="投资金额：2万元">投资金额：2万元</p>
+								</dd>
+						</dl>				
+											</div>
+				</div>				
+				<div class="footer">
+					<div class="item">
+					<h2 class=footertit>您可以逛逛：</h2>
+					<p class="footerlist"><a href="http://fz.58.com/job.shtml?from=58_404" class="f">招聘</a><a href="http://fz.58.com/chuzu?from=58_404">租房</a><a href="http://fz.58.com/ershoufang?from=58_404">二手房</a><a href="http://fz.58.com/ershouche?from=58_404">二手车</a><a href="http://fz.58.com/sale.shtml?from=58_404">二手市场</a><a href="http://fz.58.com/pets.shtml?from=58_404">宠物狗</a><a href="http://fz.58.com/piaowu.shtml?from=58_404">票务</a><a href="http://fz.58.com/shenghuo.shtml?from=58_404">家政服务</a><a href="http://fz.58.com/lvyouxiuxian.shtml?from=58_404">旅游酒店</a><a href="http://fz.58.com/xiuxianyl.shtml?from=58_404">休闲娱乐</a></p>
+					<div class="QRcode">
+						<p class="app">
+							<span class="info">
+								<i>把58装进口袋</i>
+								<i>随时随地享受生活</i>
+							</span>
+						</p>
+						<p class="WeChat">
+							<span class="info">
+								<i>加58微信公众账号</i>
+								<i>神奇哥竭诚为您服务</i>
+							</span>
+						</p>
+					</div>
+					</div>
+				</div>
+				<div class="separator"></div>
+			</div>
+		</div>
+</body>
+</html>

@@ -1,0 +1,2232 @@
+
+
+<!DOCTYPE html>
+
+<html>
+    
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    
+    <meta name="description" content="乐途旅游网_湖南旅游，提供湖南，湖南旅游景点推荐，湖南旅游攻略，湖南旅游玩法，最适合去湖南旅游的季节，湖南旅游注意事项，湖南旅游线路，湖南酒店预定，湖南旅游地图等出行指南及旅行服务" />
+    <meta name="keywords" content="湖南旅游_湖南旅游攻略_湖南旅游景点" />
+    <title>湖南旅游_湖南旅游攻略_湖南旅游景点_乐途旅游网</title>
+    <link rel="shortcut icon" href="http://www.lotour.com/favicon2.ico" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/base.css" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/lt_top.css" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/common.css" media="all" /><link rel="stylesheet" type="text/css" href="http://css.lotour.net/brandhomeV3_3.css" />
+    <script type="text/javascript" src="http://js.lotour.net/jquery-1.8.3.min.js"></script>
+    <!--[if lt IE 9]><script type="text/javascript" src="http://js.lotour.net/PIE_IE678.js"></script><![endif]--><!--[if IE 9]><script type="text/javascript" src="http://js.lotour.net/PIE_IE9.js"></script><![endif]--><script type="text/javascript">$(function () {	if (window.PIE) { $('.flowItem,.flowPic img,.flowPingL img,.flowPing,.bd-video-con,.jq-list-l-up img,.u-head img').each(function () { PIE.attach(this); });} });</script><!--[if IE 6]><script type="text/javascript" src="http://js.lotour.net/DD_belatedPNG.js"></script><script type="text/javascript">DD_belatedPNG.fix('.logo img,.bdName,.bd-news,.bd-video-con,.bdWeather,.bd-msg,.bd-msg-xall,.lt-nav-new-bg,.bdNavWraper,.bdNav-sub dl,.map-btn,.mddNavWrap');</script><![endif]--><script type="text/javascript" src="http://js.lotour.net/zjy.js"></script>
+</head>
+
+<body class="">
+    
+<script type="text/javascript" src="http://js.lotour.net/login/searchhotellogin_v5.js"></script>
+<script src="http://js.lotour.net/mylotour/v1/mylotour_v2.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://js.lotour.net/lotour_v1.js"></script>
+<div class="lt-nav-new">
+	<a href="http://www.lotour.com/" target="_blank"><img class="logo" src="http://img1.lotour.com/bdhomeV2/new_logo.png" /></a>
+	<div class="nav-new-btn">
+    	<a href="#" class="btn"></a>
+    	<div class="nav-new-layer">
+        	<ul>
+            <li>
+            	<h5><a href="http://www.lotour.com/mudidi/" target="_blank">目的地</a></h5>
+                <div class="links">
+                    <a href="http://shangqiu.lotour.com/" target="_blank">商丘</a><a href="http://xian.lotour.com/" target="_blank">西安</a><a href="http://shannan.lotour.com/" target="_blank">西藏山南</a><a href="http://kunming.lotour.com/yunnanshilin/" target="_blank">石林</a>     <a href="http://shangrao.lotour.com/guifeng/" target="_blank">龟峰</a> <a href="http://xuchang.lotour.com/" target="_blank">许昌</a>                                                                         
+
+                </div>
+            </li>
+            <li class="sg">
+            	<h5>发&nbsp;&nbsp;&nbsp;现</h5>
+                <div class="links">
+                	<a href="http://www.lotour.com/zhoubianyou" target="_blank">周边游</a>
+                	<a href="http://www.lotour.com/guoneiyou" target="_blank">国内游</a>
+                	<a href="http://www.lotour.com/chujingyou" target="_blank">出境游</a>
+                </div>
+            </li>
+            <li class="sg">
+            	<h5>社&nbsp;&nbsp;&nbsp;区</h5>
+                <div class="links">
+                    <a href="http://www.lotour.com/daren/" target="_blank">大咖</a>
+                	<a href="http://www.lotour.com/zijiayou/" target="_blank">自驾</a>
+                    <a href="http://sc.lotour.com/" target="_blank">福利</a>
+                </div>
+            </li>
+            <li>
+            	<h5>预&nbsp;&nbsp;&nbsp;订</h5>
+                <div class="links">
+                    <a href="http://d.lotour.com/hotel/" target="_blank">酒店</a>
+                    <a href="http://d.lotour.com/jipiao/" target="_blank">机票</a>
+                	<a href="http://d.lotour.com/dangdigentuan/" target="_blank">地接</a>
+                	<a id="dujiaxianlu" href="http://d.lotour.com/dujiaxianlu/shanghai/" target="_blank">度假</a>
+                </div>
+            </li>
+            </ul>
+        </div>
+    </div>
+  <div class="ltCrumb clear"> <a href="http://www.lotour.com/" target="_blank" title="">首页</a>&nbsp;&gt;&nbsp;<a href="http://www.lotour.com/mudidi" target="_blank" title="">目的地</a>&nbsp;&gt; 
+      
+      <h1><a  href="http://hunan.lotour.com/" title="">湖南旅游</a>
+              
+      </h1>
+  </div>
+  <div class="lt-nav-r">
+  	<div class="lt-nav-item lt-nav-item-srh">
+    	<b></b>
+        <div class="lt-srh-new">
+            <form action="http://ip.lotour.com/home/mudidi" method="get" target="_blank" name="zonghe">
+        	    <div class="lt-srh-l">
+                    <div class="lt-srh-new-clk">
+                        <a href="#" class="l1"><i></i><em></em></a>
+                    </div>
+                    <input type="text" value="点此搜索" name="keyword" id="keyword" class="ipt" />
+                    <input type="hidden" value="0" name="htype" id="htype" />
+                    <input type="hidden" value="" name="keys" id="keys" />
+                    <input type="submit" class="btn" id="btnzonghe" name="btnzonghe" value="" />
+                </div>               
+            </form>
+            <div class="lt-srh-new-layer">
+                <ul>
+                    <li class="l1"><a href="#"><i></i>搜目的地</a></li>
+                    <li class="l2"><a href="#"><i></i>搜达人</a></li>
+                    <li class="l3"><a href="#"><i></i>搜客栈酒店</a></li>
+                    <li class="l4"><a href="#"><i></i>搜当地跟团</a></li>
+                    <li class="l5"><a href="#"><i></i>搜度假线路</a></li>
+                </ul>
+            </div>
+            <div id="hotcityhintDiv" style="z-index: 300001;" class="inputExtendBox sphl">
+                <ul id="scity" class="suggestBox"></ul>
+            </div>
+            <div class="city_divtc" id="Search_Synthesize_Div" style="z-index: 3000006;"><div class="city_divtc_t"><a class="closex"></a><span>国内</span></div><div class="city_divtc_m"><ul><li><a href="http://shangqiu.lotour.com/" target="_blank" title=" 商丘"> 商丘</a></li><li><a href="http://xian.lotour.com/" target="_blank" title=" 西安"> 西安</a></li><li><a href="http://dandong.lotour.com/fengcheng/" target="_blank" title="凤城"> 凤城</a></li><li><a href="http://shannan.lotour.com/" target="_blank" title=" 山南"> 山南</a></li><li><a href="http://kunming.lotour.com/yunnanshilin/" target="_blank" title="石林"> 石林</a></li><li><a href="http://shangrao.lotour.com/guifeng/" target="_blank" title=" 龟峰"> 龟峰</a></li><li><a href="http://lijiang.lotour.com/" target="_blank" title="丽江">丽江</a></li><li><a href="http://zhoushan.lotour.com/" target="_blank" title="舟山">舟山</a></li><li><a href="http://huangshan.lotour.com/" target="_blank" title="黄山">黄山</a></li><li><a href="http://shaoxing.lotour.com/" target="_blank" title="绍兴">绍兴</a></li><li><a href="http://hangzhou.lotour.com/" target="_blank" title=" 杭州"> 杭州</a></li><li><a href="http://xiamen.lotour.com/" target="_blank" title=" 厦门"> 厦门</a></li><li><a href="http://jiaxing.lotour.com/wuzhenguzhen/" target="_blank" title=" 乌镇"> 乌镇</a></li><li><a href="http://qingdao.lotour.com/" target="_blank" title=" 青岛"> 青岛</a></li><li><a href="http://shanghai.lotour.com" target="_blank" title="上海">上海</a></li></ul></div><div class="city_divtc_t"><span>境外</span></div><div class="city_divtc_m"><ul><li><a href="http://tha.lotour.com/" target="_blank" title="泰国">泰国</a></li><li><a href="http://cam.lotour.com/" target="_blank" title="柬埔寨">柬埔寨</a></li><li><a href="http://tha.lotour.com/qingmai/" target="_blank" title="清迈">清迈</a></li><li><a href="http://aus.lotour.com/" target="_blank" title=" 澳大利亚"> 澳大利亚</a></li><li><a href="http://tha.lotour.com/pujifu/" target="_blank" title="普吉岛">普吉岛</a></li><li><a href="http://mas.lotour.com/shaba/" target="_blank" title="沙巴">沙巴</a></li><li><a href="http://pf.lotour.com/" target="_blank" title="大溪地">大溪地</a></li><li><a href="http://nep.lotour.com/" target="_blank" title="尼泊尔">尼泊尔</a></li><li><a href="http://fra.lotour.com/baliqu/" target="_blank" title="巴黎">巴黎</a></li><li><a href="http://taiwan.lotour.com/" target="_blank" title=" 台湾"> 台湾</a></li><li><a href="http://sri.lotour.com/" target="_blank" title=" 斯里兰卡"> 斯里兰卡</a></li><li><a href="http://gbr.lotour.com/lundun1/" target="_blank" title="伦敦">伦敦</a></li><li><a href="http://ina.lotour.com/balidao1/" target="_blank" title="巴厘岛">巴厘岛</a></li><li><a href="http://macao.lotour.com/" target="_blank" title="澳门">澳门</a></li><li><a href="http://fij.lotour.com/" target="_blank" title="斐济">斐济</a></li></ul></div></div>
+
+        </div>
+    </div>
+  	
+  	<div class="lt-login"></div>
+  </div>
+</div>
+
+<!-- 想去浮层 -->
+<div id="dream_place">
+</div>
+<!-- 求助浮层 -->
+<div id="ask_topic" class="msgLayer msgMod" style="display:none;">
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $s.loadCss("http://css.lotour.net/mylotour/v1/wantgo_new");
+        $("#dream_place").DPPanel({
+            className: "msgLayer",
+            close: function () {
+                //关闭时候执行
+                $(".layerBg").hide();
+            },
+            init: function () {
+                //初始化时候执行
+            },
+            publish: function (arr) {
+                //发布时候执行
+                try { dplaceweiboTui($("#dream_place_reseaon").val()) } catch (e) { }
+                location.reload();
+            }
+        }).hide();
+
+        $("#ask_topic").AskPanel({
+            className: "msgLayer",
+            close: function () {
+                //关闭时候执行
+                $(".layerBg").hide();
+            },
+            init: function () {
+                //初始化时候执行
+            },
+            publish: function (arr) {
+                //发布时候执行
+                $a("添加成功");
+            }
+        }).hide();
+
+        var askweibo = new PWeibo({
+            container: 'ask-weiboshare'
+        });
+        askweibo.create();
+        askweiboTui = function (txtcon) {
+            var content = "我在乐途旅游网发布了一条求助，求大家回复啊！";
+            content += "“" + txtcon + "”";
+            askweibo.send(content, function () {
+            });
+        };
+    });
+
+    
+
+    function AskHelp() {
+        $('#ask_topic').fadeIn(500).loadAskPanel(0); $('.layerBg').css('height', $(document).height()).show();
+    }
+    function WantGo() {
+        $('#dream_place').fadeIn(500).loadDPPanel('', 0, true); $('.layerBg').css('height', $(document).height()).show();
+    }
+
+    var SEARCHLEFT = -44, box;
+    if ($.cookie("CityID") == null || $.cookie("ChName") == null || $.cookie("IndexAreaName") == null) {
+        $.getScript("http://ip.lotour.com", function () {
+            $.cookie("CityID", result.regionid, { expires: 30, path: '/', domain: 'lotour.com' });
+            $.cookie("ChName", result.Chname, { expires: 30, path: '/', domain: 'lotour.com' });
+            $.cookie("IndexAreaName", result.regionname, { expires: 30, path: '/', domain: 'lotour.com' });
+            $("#dujiaxianlu").attr("href", "http://d.lotour.com/dujiaxianlu/" + $.cookie("ChName") + "/");
+        });
+    }
+    else
+        $("#dujiaxianlu").attr("href", "http://d.lotour.com/dujiaxianlu/" + $.cookie("ChName") + "/");
+
+    $('.lt-srh-new-layer li').click(function () {
+        var index = $(this).index();
+        $('.lt-srh-new-clk a').attr('class', 'l' + (index + 1));
+        if (index > 1) {
+            $("#htype").attr("value", index - 1);
+        }
+        else if (index == 1) {
+            $("#htype").attr("value", 5);
+        }
+        else {
+            $("#htype").attr("value", index);
+        }
+        $("keys").attr("value", "");
+        switch (index) {
+            case 0:
+                box = $("#keyword").searchbox({ "Left": SEARCHLEFT, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 1:
+                box = $("#keyword").searchbox({ "Flay": "xue_Daren", "Js": "", "Url": "http://my.lotour.com/DarenSearch/handler/AssociateDaren.ashx", "i": 1, "j": 5, "Top": 40, "Left": SEARCHLEFT, "tips": "" });
+                break;
+            case 2:
+                box = $("#keyword").searchbox({ "Flay": "xue_Hotel", "Js": "http://js.lotour.net/searchlayer/djmdd.js", "Url": "http://d.lotour.com/hotel/api/AssociateRegion", "i": 1, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 3:
+                box = $("#keyword").searchbox({ "Flay": "xue_Djxl_Mdd", "Js": "http://js.lotour.net/searchlayer/djmdd.js", "Url": "http://d.lotour.com/dangdigentuan/api-AssociateRegion", "i": 1, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 4:
+                box = $("#keyword").searchbox({ "Flay": "xue_OrderLine_Dest", "Js": "http://d.lotour.com/dujiaxianlu/api-AssociateCommonOsite?sSite=" + $.cookie("CityID") + "&randID=" + escape(new Date()) + "&callback=?", "Url": "http://beijing.lotour.com/dujiaxianlu/api-AssociateOSiteRegion", "i": 0, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+        }
+        $('.lt-srh-new-layer').hide()
+        return false;
+    }).eq(0).trigger("click");
+
+    var loginState = new lotourLoginState({});
+    //loginState.init();
+
+    //导航
+    $('.lt-nav-item').hover(function () {
+        $(this).find('.menu,.lt-srh-new').toggle()
+    })
+
+    $('.lt-srh-new-clk a').click(function () {
+        $('.lt-srh-new-layer').toggle();
+        return false
+    })
+    $('.lt-nav-item-srh').unbind('hover').click(function () {
+        $('.lt-srh-new').toggle();
+        //return false
+    });
+
+    $('.nav-new-btn').hover(function () {
+        $(this).find('.btn').toggleClass('btn-on');
+        $(this).find('.nav-new-layer').toggle();
+    });
+    $('.nav-new-layer li,.ltCommentList li').hover(function () {
+        $(this).toggleClass('hover');
+    });
+</script>
+<!--=S 头图 -->
+
+<div class="bdBannerWrap bdBannerChl mddBannerCh2">
+    
+    <div class="bd-main clearfix">
+		<div class="mdd-adv">
+			<script src="http://js.lotour.net/bcef/409.js" type="text/javascript"></script>
+		</div>
+		<div class="mddName clearfix">				
+			<h2><a title="湖南旅游" class="bdName-tit" href="http://hunan.lotour.com/">湖南</a><a title="" href="javascript:void(0)" class="map-btn"></a>
+            
+			</h2>
+        
+			<div class="bdLikeNum"><span></span>人感兴趣</div>
+            
+			<div class="mdd-weather"></div>
+            									
+		</div>        
+	</div>    
+</div>
+<script type="text/javascript">
+    function SelectScour(){
+        $.getJSON("http://api.lotour.net/brandhome/Region/SelectRegionScore?regionId=178&callback=?", function (data) {
+            var star1 = parseInt(data.Score / 2);
+            var scor = parseInt(data.Score);
+            var scor1 = parseInt((data.Score - scor) * 10);
+            $("#rscore").find("em").html(scor+"."+scor1);
+            for (var i = 0; i < star1; i++) {
+                $("#rscore>b:eq("+i+")").html("<i></i>");
+            }
+            $("#rscore>b:eq("+star1+")").html("<i style=\"width:"+parseInt((data.Score/2-star1)*100)+"%\"></i>");
+        });
+    }
+    
+    $(function () {
+        
+        var winw = $(window).width();	
+        $('.map-box').css({"margin-left":(winw-980)/2,"top":"233px","border":"1px solid #f5f5f5"});
+    });
+</script>
+
+
+<!--=S 地图弹层-->
+<div class="map-box ">
+	<a class="map-x" href="#" title="关闭"></a>		
+	<div class="map-con" id="J_miniMap">
+	</div>
+	
+</div>
+<!--=E 地图弹层-->
+<style type="text/css">
+.map-mark {
+    width: 24px;
+    height: 28px;
+    background: url(http://img1.lotour.net/lotour/biaodian-d.png) no-repeat -35px 0;
+    overflow: hidden;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 22px;
+    cursor: pointer;
+    position: relative;
+    z-index: 1008;
+}
+.map-mark.on {
+    background-position: -35px -35px;
+    z-index: 1009;
+}
+</style>
+<script type="text/javascript" src="http://js.lotour.net/map.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://js.lotour.net/jquery.tmpl.min.js"></script>
+<script type="text/javascript">
+    var mapInfo = {
+        lat: parseFloat('28.23'),
+        lng: parseFloat('112.93')
+    };
+    var miniMapBox = $('#J_miniMap'), miniMap, MiniMarker;
+
+    function initMiniMap() {
+        var latLng = new google.maps.LatLng(mapInfo.lat, mapInfo.lng);
+        var mapOptions = {
+            center: latLng,
+            zoom: 5,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+        miniMap = new google.maps.Map(miniMapBox.get(0), mapOptions);
+        var markerHtml = '<div class="map-mark"></div>';
+        new MiniMarker(miniMap, markerHtml, latLng);
+        
+
+        var marker = new google.maps.Marker({
+            position: latLng
+        });
+
+    }
+    function MarkerOverlay() {
+        var Overlay = function (map, text, latLng, ready) {
+            this.map = map;
+            this.text = text;
+            this.latLng = latLng;
+            this.ready = ready;
+            this.div = null;
+            this.setMap(this.map);
+        }
+
+        Overlay.prototype = new google.maps.OverlayView();
+
+        $.extend(Overlay.prototype, {
+            onAdd: function () {
+                var div = $('<div/>').html(this.text).css('position', 'absolute');
+                $(this.getPanes().overlayImage).append(div);
+                this.div = div;
+                if (typeof this.ready === 'function') {
+                    this.ready.call(this);
+                }
+            },
+            draw: function () {
+                var latLng = this.getProjection().fromLatLngToDivPixel(this.latLng);
+                this.div.css({
+                    'left': latLng.x - this.div.width() / 2,
+                    'bottom': -latLng.y
+                });
+            },
+            onRemove: function () {
+                this.div.remove();
+                this.div = null;
+            }
+        });
+
+        return Overlay;
+    }
+
+    function updateBrowse() {
+        var regionObj = new RegionBrowse(178);
+        regionObj.updateBrowse()
+        $.getJSON("http://api.lotour.net/rss/dmspageview.ashx?id=178&callback=?", function (data) {
+            var span = $("div.bdLikeNum").find("span");
+            span.html(data.pageview);
+        });
+    }
+    
+    $(function () {
+        updateBrowse();
+        //地图加载
+        var mapload = new MfwMapLoad(function () {
+            if (mapInfo == undefined || !$.isPlainObject(mapInfo) || $.isEmptyObject(mapInfo)) {
+                return;
+            }
+            MiniMarker = MarkerOverlay();
+            $(".map-btn").click(function () {
+                if($(".map-box").is(":hidden")){
+                    if($(".tkt-btn").length>0&&!$(".tkt-layer").is(":hidden")){
+                        $(".tkt-btn").trigger("click");
+                    }
+                    $(".map-box").show();
+                    initMiniMap();
+                }
+                else{
+                    $(".map-box").hide();
+                }
+            });
+            $(".bd-r-mapbtn,#abigmap").click(function(){
+                initMaxMap();
+            });
+        }, 5000, false);
+        mapload.autoLoadMap();
+        //地图弹层
+        
+        $(".map-x").click(function () {
+            $(".map-box").hide();
+        });
+    });
+</script>
+
+    
+<div class="mddNavWrap">
+    <div class="mddNavbg">
+	    <div class="mddNav">            
+		    <ul class="clearfix">         
+			    <li class="on"><a title="湖南旅游必知" href="http://hunan.lotour.com/"><span>必知</span></a></li>
+                
+                 <li class=""><a title="湖南旅游景区" href="http://hunan.lotour.com/jingqu/"><span>景区</span></a></li>                
+			         
+                <li class=""><a title="湖南旅游游记" href="http://hunan.lotour.com/lvyouyouji/"><span>游记</span></a></li>  
+                              
+			    <li class=""><a title="湖南旅游口碑" href="http://hunan.lotour.com/pingce/"><span>口碑</span></a></li>                
+			    <li class=""><a title="湖南旅游文章" href="http://hunan.lotour.com/news/"><span>文章</span></a></li>                
+			    
+                <li class=""><a title="湖南旅游预订" href="http://hunan.lotour.com/yuding/"><span>预订</span></a></li>
+                               	
+		    </ul>
+            <div class="bz-nav sphl">
+				    <dl class="clearfix">				
+					    <dd><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					    <dd><a href="javascript:void(0)" title="">玩法</a></dd>
+					    <dd><a href="javascript:void(0)" title="">资讯</a></dd>
+					    <dd><a href="javascript:void(0)" title="">住哪儿</a></dd>
+					    <dd><a href="javascript:void(0)" title="">包打听</a></dd>
+					    <dd><a href="javascript:void(0)" title="">如何到达</a></dd>					
+					    <dd><a href="javascript:void(0)" title="">附近城市</a></dd>
+					    <dt><a href="javascript:void(0)" title=""><span>手绘攻略</span></a></dt>
+				    </dl>
+			    </div>
+            <div class="bz-nav sphl">
+				<dl class="clearfix">
+					<dd class="nav1"><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					<dd class="nav2"><a href="javascript:void(0)" title="">旅行<br />月历</a></dd>
+					<dd class="nav3"><a href="javascript:void(0)" title="">必体验</a></dd>
+					<dd class="nav4"><a href="javascript:void(0)" title="">玩法</a></dd>
+					<dd class="nav5"><a href="javascript:void(0)" title="">抵达<br />住哪</a></dd>
+					<dd class="nav6"><a href="javascript:void(0)" title="">包打听</a></dd>
+					<dd class="nav7"><a href="javascript:void(0)" title="">周边<br />线路</a></dd>					
+				</dl>
+			</div>
+            <div class="bz-nav sphl">
+				<dl class="clearfix">
+					<dd class="nav1"><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					<dd class="nav3"><a href="javascript:void(0)" title="">必体验</a></dd>
+					<dd class="nav4"><a href="javascript:void(0)" title="">玩法</a></dd>
+					<dd class="nav5"><a href="javascript:void(0)" title="">重要<br />提示</a></dd>
+					<dd class="nav6"><a href="javascript:void(0)" title="">附近<br />景区</a></dd>
+					<dd class="nav7"><a href="javascript:void(0)" title="">城市<br />相关</a></dd>
+				</dl>
+			</div>
+	    </div>
+    </div>
+</div>
+
+    <div class="bd-main clearfix bd-main-yj">
+	<div class="bd-main-l">
+		
+<div class="mdd-jq-hot clearfix">
+	<div class="focusbox">
+		<a href="javascript:void(0);" class="btn btnPre" id="banner_index_pre1"><em></em><i></i></a>
+		<a href="javascript:void(0);" class="btn btnNext" id="banner_index_next1"><em></em><i></i></a>
+		<div class="banner_index">				
+			<div class="banner_con clearfix">
+				<ul class="banner_wrap" id="banner_index1">
+                    
+					<li>
+						<div class="mdd-jq-focus">
+							<a href="http://zhangjiajie.lotour.com/zj/1670804" target="_blank" title=""><img src="http://img1.lotour.net/mudidi/201611/23898504_472.jpg" alt="" width="472" height="252" /></a>
+							<p>
+								<span class="from">
+                                    
+                                    由<b>太过安于现状</b>荣誉出品"
+                                    </span>
+							</p>
+						</div>	
+					</li>
+                    
+					<li>
+						<div class="mdd-jq-focus">
+							<a href="http://zhangjiajie.lotour.com/zj/1670720" target="_blank" title=""><img src="http://img1.lotour.net/mudidi/201611/23891345_472.jpg" alt="" width="472" height="252" /></a>
+							<p>
+								<span class="from">
+                                    
+                                    由<b>太过安于现状</b>荣誉出品"
+                                    </span>
+							</p>
+						</div>	
+					</li>
+                    
+					<li>
+						<div class="mdd-jq-focus">
+							<a href="http://zhangjiajie.lotour.com/zj/1670946" target="_blank" title=""><img src="http://img1.lotour.net/mudidi/201611/23923001_472.jpg" alt="" width="472" height="252" /></a>
+							<p>
+								<span class="from">
+                                    
+                                    由<b>瑶池仙境</b>荣誉出品"
+                                    </span>
+							</p>
+						</div>	
+					</li>
+                    
+					<li>
+						<div class="mdd-jq-focus">
+							<a href="http://zhangjiajie.lotour.com/zj/1670721" target="_blank" title=""><img src="http://img1.lotour.net/mudidi/201608/23891414_472.jpg" alt="" width="472" height="252" /></a>
+							<p>
+								<span class="from">
+                                    
+                                    由<b>WK</b>荣誉出品"
+                                    </span>
+							</p>
+						</div>	
+					</li>
+                    
+					<li>
+						<div class="mdd-jq-focus">
+							<a href="http://zhangjiajie.lotour.com/zj/1670898" target="_blank" title=""><img src="http://img1.lotour.net/mudidi/201611/23908955_472.jpg" alt="" width="472" height="252" /></a>
+							<p>
+								<span class="from">
+                                    
+                                    由<b>幸运-1</b>荣誉出品"
+                                    </span>
+							</p>
+						</div>	
+					</li>
+                    
+					<li>
+						<div class="mdd-jq-focus">
+							<a href="http://zhangjiajie.lotour.com/zj/1670931" target="_blank" title=""><img src="http://img1.lotour.net/mudidi/201611/23918436_472.jpg" alt="" width="472" height="252" /></a>
+							<p>
+								<span class="from">
+                                    
+                                    由<b>瑶池仙境</b>荣誉出品"
+                                    </span>
+							</p>
+						</div>	
+					</li>
+                    
+					<li>
+						<div class="mdd-jq-focus">
+							<a href="http://yueyang.lotour.com/zj/1670928" target="_blank" title=""><img src="http://img1.lotour.net/mudidi/201611/23918227_472.jpg" alt="" width="472" height="252" /></a>
+							<p>
+								<span class="from">
+                                    
+                                    由<b>陌上花开_winter</b>荣誉出品"
+                                    </span>
+							</p>
+						</div>	
+					</li>
+                    
+					<li>
+						<div class="mdd-jq-focus">
+							<a href="http://chenzhou.lotour.com/zj/1253545" target="_blank" title=""><img src="http://img1.lotour.net/mudidi/201512/20362763_472.jpg" alt="" width="472" height="252" /></a>
+							<p>
+								<span class="from">
+                                    
+                                    由<b>橘话丶</b>荣誉出品"
+                                    </span>
+							</p>
+						</div>	
+					</li>
+                    
+					<li>
+						<div class="mdd-jq-focus">
+							<a href="http://hunan.lotour.com/zj/1102412" target="_blank" title=""><img src="http://img1.lotour.net/mudidi/201507/10419804_472.jpg" alt="" width="472" height="252" /></a>
+							<p>
+								<span class="from">
+                                    
+                                    由<b>gf-1</b>荣誉出品"
+                                    </span>
+							</p>
+						</div>	
+					</li>
+                    
+					<li>
+						<div class="mdd-jq-focus">
+							<a href="http://chenzhou.lotour.com/zj/1251725" target="_blank" title=""><img src="http://img1.lotour.net/mudidi/201511/19885897_472.jpg" alt="" width="472" height="252" /></a>
+							<p>
+								<span class="from">
+                                    
+                                    由<b>橘话丶</b>荣誉出品"
+                                    </span>
+							</p>
+						</div>	
+					</li>
+                    
+					<li>
+						<div class="mdd-jq-focus">
+							<a href="http://hunan.lotour.com/zj/1103945" target="_blank" title=""><img src="http://img1.lotour.net/mudidi/201501/10624647_472.jpg" alt="" width="472" height="252" /></a>
+							<p>
+								<span class="from">
+                                    
+                                    由<b>jingmu1</b>荣誉出品"
+                                    </span>
+							</p>
+						</div>	
+					</li>
+                    
+					<li>
+						<div class="mdd-jq-focus">
+							<a href="http://hunan.lotour.com/zj/1103944" target="_blank" title=""><img src="http://img1.lotour.net/mudidi/201501/10624371_472.jpg" alt="" width="472" height="252" /></a>
+							<p>
+								<span class="from">
+                                    
+                                    由<b>jingmu1</b>荣誉出品"
+                                    </span>
+							</p>
+						</div>	
+					</li>
+                    
+					<li>
+						<div class="mdd-jq-focus">
+							<a href="http://hunan.lotour.com/zj/1103942" target="_blank" title=""><img src="http://img1.lotour.net/mudidi/201501/10623323_472.jpg" alt="" width="472" height="252" /></a>
+							<p>
+								<span class="from">
+                                    
+                                    由<b>jingmu1</b>荣誉出品"
+                                    </span>
+							</p>
+						</div>	
+					</li>
+                    
+					<li>
+						<div class="mdd-jq-focus">
+							<a href="http://hunan.lotour.com/zj/1253348" target="_blank" title=""><img src="http://img1.lotour.net/mudidi/201511/20315879_472.jpg" alt="" width="472" height="252" /></a>
+							<p>
+								<span class="from">
+                                    
+                                    由<b>jghtygt</b>荣誉出品"
+                                    </span>
+							</p>
+						</div>	
+					</li>
+                    
+					<li>
+						<div class="mdd-jq-focus">
+							<a href="http://hunan.lotour.com/zj/1103967" target="_blank" title=""><img src="http://img1.lotour.net/mudidi/201502/10630289_472.jpg" alt="" width="472" height="252" /></a>
+							<p>
+								<span class="from">
+                                    
+                                    由<b>夏夏妈妈11</b>荣誉出品"
+                                    </span>
+							</p>
+						</div>	
+					</li>
+                    
+					<li>
+						<div class="mdd-jq-focus">
+							<a href="http://xiangxi.lotour.com/zhengwen/2015/01/1258481.shtml" target="_blank" title=""><img src="http://img1.lotour.com/news/201501/472_2015010415503609538985.jpg" alt="" width="472" height="252" /></a>
+							<p>
+								<span class="from">
+                                    </span>
+							</p>
+						</div>	
+					</li>
+                    
+					<li>
+						<div class="mdd-jq-focus">
+							<a href="http://zhangjiajie.lotour.com/zj/1252054" target="_blank" title=""><img src="http://img1.lotour.net/mudidi/201511/19935529_472.jpg" alt="" width="472" height="252" /></a>
+							<p>
+								<span class="from">
+                                    
+                                    由<b>逗逗去旅行</b>荣誉出品"
+                                    </span>
+							</p>
+						</div>	
+					</li>
+                    
+					<li>
+						<div class="mdd-jq-focus">
+							<a href="http://xiangxi.lotour.com/zj/1252472" target="_blank" title=""><img src="http://img1.lotour.net/mudidi/201511/20059902_472.jpg" alt="" width="472" height="252" /></a>
+							<p>
+								<span class="from">
+                                    
+                                    由<b>春末夏出</b>荣誉出品"
+                                    </span>
+							</p>
+						</div>	
+					</li>
+                    
+					<li>
+						<div class="mdd-jq-focus">
+							<a href="http://chenzhou.lotour.com/zj/1252865" target="_blank" title=""><img src="http://img1.lotour.net/mudidi/201512/20171788_472.jpg" alt="" width="472" height="252" /></a>
+							<p>
+								<span class="from">
+                                    
+                                    由<b>橘话丶</b>荣誉出品"
+                                    </span>
+							</p>
+						</div>	
+					</li>
+                    
+					<li>
+						<div class="mdd-jq-focus">
+							<a href="http://hunan.lotour.com/zj/1251678" target="_blank" title=""><img src="http://img1.lotour.net/mudidi/201511/19883792_472.jpg" alt="" width="472" height="252" /></a>
+							<p>
+								<span class="from">
+                                    
+                                    由<b>爱在西前</b>荣誉出品"
+                                    </span>
+							</p>
+						</div>	
+					</li>
+                    									
+				</ul>
+			</div>
+		</div>
+		<div class="indexBanner_num" id="index_numIco1"></div>				
+	</div>
+	<script type="text/javascript">
+		var ShowPre1 = new ShowPre({ box: "banner_index1", Pre: "banner_index_pre1", Next: "banner_index_next1", numIco: "index_numIco1", loop: 1, auto: 1 });
+		$(".focusbox").live("hover", function () { $(this).toggleClass("hover") });
+	</script>
+	<div class="mdd-jq-zongshu">
+		<h3 class="clearfix"><strong><a href="http://hunan.lotour.com/jianjie/" target="_blank" title="">综述</a></strong></h3>
+		<p>湖南省湖南省地处中国中南部,长江中游,地理上属于华中地区,省会长沙；因地处洞庭湖以南得名"湖南",又因湘江贯穿全境而简称"湘"。湖南历史悠久,旧石器时代有人类活动,古为苗人、越人和楚人的生活地区。西周时期为楚国南部。唐广德二年(764年)首置湖南观察使,至此中…<a href="http://hunan.lotour.com/jianjie/" target="_blank" title="">[详情]</a></p>
+	</div>
+</div>
+
+<div class="mdd-yj-tit clearfix">
+    
+	<h2><i class="i-c5"></i><strong>热门城市</strong></h2>
+    
+</div>
+<div class="mdd-jq-pic">
+	<ul class="clearfix">
+        
+		<li>
+			<a title="张家界旅游" target="_blank" href="http://zhangjiajie.lotour.com/"><img width="224" height="144" alt="" src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201611/23986772_224.jpg"></a>
+			<h2><a title="张家界旅游" target="_blank" href="http://zhangjiajie.lotour.com/">张家界</a></h2>
+			<div class="mdd-jq-fen clearfix mdd-jq-fen2">						
+				<span class="like-num"><i>15558776</i>人感兴趣</span>
+			</div>
+		</li>
+        
+		<li>
+			<a title="湘西旅游" target="_blank" href="http://xiangxi.lotour.com/"><img width="224" height="144" alt="" src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201611/23968995_224.jpg"></a>
+			<h2><a title="湘西旅游" target="_blank" href="http://xiangxi.lotour.com/">湘西</a></h2>
+			<div class="mdd-jq-fen clearfix mdd-jq-fen2">						
+				<span class="like-num"><i>12187882</i>人感兴趣</span>
+			</div>
+		</li>
+        
+		<li>
+			<a title="益阳旅游" target="_blank" href="http://yiyang.lotour.com/"><img width="224" height="144" alt="" src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img2.lotour.com/news/201610/224_2016100815542233275819.jpg"></a>
+			<h2><a title="益阳旅游" target="_blank" href="http://yiyang.lotour.com/">益阳</a></h2>
+			<div class="mdd-jq-fen clearfix mdd-jq-fen2">						
+				<span class="like-num"><i>6882347</i>人感兴趣</span>
+			</div>
+		</li>
+        
+		<li>
+			<a title="凤凰旅游" target="_blank" href="http://xiangxi.lotour.com/fenghuang/"><img width="224" height="144" alt="" src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201611/23968995_224.jpg"></a>
+			<h2><a title="凤凰旅游" target="_blank" href="http://xiangxi.lotour.com/fenghuang/">凤凰</a></h2>
+			<div class="mdd-jq-fen clearfix mdd-jq-fen2">						
+				<span class="like-num"><i>5420133</i>人感兴趣</span>
+			</div>
+		</li>
+        
+		<li>
+			<a title="长沙旅游" target="_blank" href="http://changsha.lotour.com/"><img width="224" height="144" alt="" src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201611/23984653_224.jpg"></a>
+			<h2><a title="长沙旅游" target="_blank" href="http://changsha.lotour.com/">长沙</a></h2>
+			<div class="mdd-jq-fen clearfix mdd-jq-fen2">						
+				<span class="like-num"><i>5375533</i>人感兴趣</span>
+			</div>
+		</li>
+        
+		<li>
+			<a title="吉首旅游" target="_blank" href="http://xiangxi.lotour.com/jishou/"><img width="224" height="144" alt="" src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201602/20778179_224.jpg"></a>
+			<h2><a title="吉首旅游" target="_blank" href="http://xiangxi.lotour.com/jishou/">吉首</a></h2>
+			<div class="mdd-jq-fen clearfix mdd-jq-fen2">						
+				<span class="like-num"><i>4218012</i>人感兴趣</span>
+			</div>
+		</li>
+        										
+	</ul>
+</div>
+
+<div class="mdd-yj-tit clearfix">
+    
+    <h2><i class="i-c1"></i><strong>全部景区</strong></h2>
+	<a title="" target="_blank" href="http://hunan.lotour.com/jingqu/" class="more">更多&gt;&gt;</a>
+    
+</div>
+
+<div class="mdd-jq-pic">
+	<ul class="clearfix">
+        
+		<li>
+			<a title="" target="_blank" href="http://zhangjiajie.lotour.com/tianmenshan/"><img width="224" height="144" alt="" src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img2.lotour.com/news/201410/224_2014101317532880972934.jpg"></a>
+			<h2><a title="" target="_blank" href="http://zhangjiajie.lotour.com/tianmenshan/">天门山</a></h2>
+			<div class="mdd-jq-fen clearfix">
+				<span class="span-nA">
+                    <i>5A</i>景区
+				</span>
+				<span class="span-fen"><i>0</i>分</span>						
+				<span class="like-num"><i>657144</i>人感兴趣</span>
+			</div>
+		</li>
+		
+		<li>
+			<a title="" target="_blank" href="http://zhangjiajie.lotour.com/zhangjiajiegongyuan/"><img width="224" height="144" alt="" src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img2.lotour.com/news/201505/224_201505291435019815888.jpg"></a>
+			<h2><a title="" target="_blank" href="http://zhangjiajie.lotour.com/zhangjiajiegongyuan/">张家界森林公园</a></h2>
+			<div class="mdd-jq-fen clearfix">
+				<span class="span-nA">
+                    <i>非A</i>景区
+				</span>
+				<span class="span-fen"><i>8.5</i>分</span>						
+				<span class="like-num"><i>567546</i>人感兴趣</span>
+			</div>
+		</li>
+		
+		<li>
+			<a title="" target="_blank" href="http://chenzhou.lotour.com/feitianshan/"><img width="224" height="144" alt="" src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201410/3636212_224.jpg"></a>
+			<h2><a title="" target="_blank" href="http://chenzhou.lotour.com/feitianshan/">飞天山</a></h2>
+			<div class="mdd-jq-fen clearfix">
+				<span class="span-nA">
+                    <i>非A</i>景区
+				</span>
+				<span class="span-fen"><i>0</i>分</span>						
+				<span class="like-num"><i>562521</i>人感兴趣</span>
+			</div>
+		</li>
+		
+		<li>
+			<a title="" target="_blank" href="http://xiangtan.lotour.com/xianghanxns/"><img width="224" height="144" alt="" src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.com/news/201407/224_201407291030398270989.jpg"></a>
+			<h2><a title="" target="_blank" href="http://xiangtan.lotour.com/xianghanxns/">仙女山</a></h2>
+			<div class="mdd-jq-fen clearfix">
+				<span class="span-nA">
+                    <i>非A</i>景区
+				</span>
+				<span class="span-fen"><i>0</i>分</span>						
+				<span class="like-num"><i>28947</i>人感兴趣</span>
+			</div>
+		</li>
+		
+		<li>
+			<a title="" target="_blank" href="http://zhangjiajie.lotour.com/longwangdong1/"><img width="224" height="144" alt="" src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/News/201207/738975_224.jpg"></a>
+			<h2><a title="" target="_blank" href="http://zhangjiajie.lotour.com/longwangdong1/">龙王洞</a></h2>
+			<div class="mdd-jq-fen clearfix">
+				<span class="span-nA">
+                    <i>4A</i>景区
+				</span>
+				<span class="span-fen"><i>0</i>分</span>						
+				<span class="like-num"><i>28425</i>人感兴趣</span>
+			</div>
+		</li>
+		
+		<li>
+			<a title="" target="_blank" href="http://yueyang.lotour.com/yueyanglou/"><img width="224" height="144" alt="" src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.com/news/201502/224_2015021011542295907399.jpg"></a>
+			<h2><a title="" target="_blank" href="http://yueyang.lotour.com/yueyanglou/">岳阳楼</a></h2>
+			<div class="mdd-jq-fen clearfix">
+				<span class="span-nA">
+                    <i>5A</i>景区
+				</span>
+				<span class="span-fen"><i>8</i>分</span>						
+				<span class="like-num"><i>233548</i>人感兴趣</span>
+			</div>
+		</li>
+											
+	</ul>
+</div>
+
+		<div class="mdd-yj-tit clearfix">
+			<h2><i class="i-c2"></i><strong>秘笈</strong></h2>
+		</div>  
+             	
+        <div class="bd-jq-list bd-wz-list">
+		    <ul class="clearfix">
+				 
+			    <li>
+                    <div class="jq-list-con clearfix">
+                        <div class="jq-list-l" deffer="5495643" footid="1098732">
+                      	    <div class="jq-list-l-up">
+                                <a href="http://my.lotour.com/i/5495643" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" width="75" height="75" /></a>
+                            </div>
+                            <div class="jq-list-l-down">
+                                <a href="http://my.lotour.com/i/5495643" target="_blank" title=""></a><span class="ano" style="display:none;"></span>
+                            </div>
+                        </div>
+                        <div class="jq-list-r">
+                            <div class="jq-hd" footid="1098732">								
+								<h2 class="jq-name jq-name2">
+                                    
+                                    <a class="miji" href="http://www.lotour.com/news/2014/11/1255020.shtml" target="_blank" title="什么是秘笈游记"></a>
+                                    
+                                    <a title="尘封的记忆 那一年的张家界" target="_blank" href="http://zhangjiajie.lotour.com/zj/1098732">尘封的记忆 那一年的张家界</a>
+                                    
+                                    <em></em>
+                                    
+								</h2>
+                                <span class="wz-zan" ></span>	
+								<span class="wz-collect sphl"></span>							
+							</div>
+                            
+                            <p class="wz-info">
+                                
+                            </p>
+                            
+                            <p class="jq-txt">整理书房，翻出了好多年前好一些背着背囊南征北讨留下的老照片。“十年人事几番新”，当年那个血气方刚的热血青年，早已变成一个了无菱角“高级顾问”（本公司对资深员工的<a title="" target="_blank" href="http://zhangjiajie.lotour.com/zj/1098732">[详细]</a></p>
+                            
+                                <div class="gone-where clearfix"><em>2008年12月游览过</em><span></span>
+                             	<div class="gone-where-r">
+                                
+                                  <a title="" target="_blank" href="http://zhangjiajie.lotour.com/">张家界</a>
+                                     	
+                                </div>
+                                </div>
+        
+                        </div>
+                        <div class="jq-list-bottom clearfix">
+                            
+                            <a href="http://zhangjiajie.lotour.com/zj/1098732" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201412/9213870_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://zhangjiajie.lotour.com/zj/1098732" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201412/9213905_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://zhangjiajie.lotour.com/zj/1098732" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201412/9213898_232.jpg" width="232" height="170" /></a>      
+                            
+                        </div>
+                    </div>
+			    </li>
+			    	    
+			</ul>
+        </div>
+        
+		<div class="mdd-yj-tit clearfix">
+			<h2><i class="i-c3"></i><strong>游记</strong></h2>
+			<a class="more" href="http://hunan.lotour.com/lvyouyouji/" target="_blank" title="">更多&gt;&gt;</a>
+		</div>  
+             	
+        <div class="bd-jq-list bd-wz-list">
+		    <ul class="clearfix">
+				 
+			    <li>
+                    <div class="jq-list-con clearfix">
+                        <div class="jq-list-l" deffer="5531697" footid="1656246">
+                      	    <div class="jq-list-l-up">
+                                <a href="http://my.lotour.com/i/5531697" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" width="75" height="75" /></a>
+                            </div>
+                            <div class="jq-list-l-down">
+                                <a href="http://my.lotour.com/i/5531697" target="_blank" title=""></a><span class="ano" style="display:none;"></span>
+                            </div>
+                        </div>
+                        <div class="jq-list-r">
+                            <div class="jq-hd" footid="1656246">								
+								<h2 class="jq-name jq-name2">
+                                    
+                                    <a title="张家界暑假学生有没有优惠?张家界免费导游" target="_blank" href="http://zhangjiajie.lotour.com/zj/1656246">张家界暑假学生有没有优惠?张家界免费导游</a>
+                                    
+								</h2>
+                                <span class="wz-zan" ></span>	
+								<span class="wz-collect sphl"></span>							
+							</div>
+                            
+                            <p class="wz-info">
+                                
+                                <em class="em1"></em>天数：<b>3</b>天
+                                
+                                <em class="em2"></em>人均：<b>1000</b>元
+                                
+                                <em class="em3"></em>和谁：<b>朋友</b>
+                                
+                            </p>
+                            
+                            <p class="jq-txt">Hi！大家好！我是张家界清风自由行的行程规划师-小文，毕业于长沙旅游学校，可别看我还是一个年轻土家阿哥哦，我的成长可是一直见证着家乡的巨变——从一个藏在深闺的秘境到<a title="" target="_blank" href="http://zhangjiajie.lotour.com/zj/1656246">[详细]</a></p>
+                            
+                                <div class="gone-where clearfix"><em>2026年1月游览过</em><span></span>
+                             	<div class="gone-where-r">
+                                
+                                  <a title="" target="_blank" href="http://zhangjiajie.lotour.com/wuingyuan/">武陵源</a>
+                                     
+                                     <strong>&gt;</strong>  
+                                     
+                                  <a title="" target="_blank" href="http://xiangxi.lotour.com/fenghuang/">凤凰</a>
+                                     
+                                     <strong>&gt;</strong>  
+                                     
+                                  <a title="" target="_blank" href="http://zhangjiajie.lotour.com/">张家界</a>
+                                     	
+                                </div>
+                                </div>
+        
+                        </div>
+                        <div class="jq-list-bottom clearfix">
+                            
+                            <a href="http://zhangjiajie.lotour.com/zj/1656246" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201601/22334538_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://zhangjiajie.lotour.com/zj/1656246" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201601/22334605_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://zhangjiajie.lotour.com/zj/1656246" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201601/22334551_232.jpg" width="232" height="170" /></a>      
+                            
+                        </div>
+                    </div>
+			    </li>
+			    
+			    <li>
+                    <div class="jq-list-con clearfix">
+                        <div class="jq-list-l" deffer="5354051" footid="1648983">
+                      	    <div class="jq-list-l-up">
+                                <a href="http://my.lotour.com/i/5354051" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" width="75" height="75" /></a>
+                            </div>
+                            <div class="jq-list-l-down">
+                                <a href="http://my.lotour.com/i/5354051" target="_blank" title=""></a><span class="ano" style="display:none;"></span>
+                            </div>
+                        </div>
+                        <div class="jq-list-r">
+                            <div class="jq-hd" footid="1648983">								
+								<h2 class="jq-name jq-name2">
+                                    
+                                    <a title="张家界自助游全新攻略，防骗注意事项大全" target="_blank" href="http://zhangjiajie.lotour.com/zj/1648983">张家界自助游全新攻略，防骗注意事项大全</a>
+                                    
+								</h2>
+                                <span class="wz-zan" ></span>	
+								<span class="wz-collect sphl"></span>							
+							</div>
+                            
+                            <p class="wz-info">
+                                
+                                <em class="em2"></em>人均：<b>1000</b>元
+                                
+                                <em class="em3"></em>和谁：<b>朋友</b>
+                                
+                            </p>
+                            
+                            <p class="jq-txt">张家界最新自助游全攻略大纲：第一章：何谓“自助游”，介绍并了解张家界自助游模式第二章：张家界旅游景点大全介绍（自然景观和人文景观、晚会表演）第三章：到张家界市后<a title="" target="_blank" href="http://zhangjiajie.lotour.com/zj/1648983">[详细]</a></p>
+                            
+                                <div class="gone-where clearfix"><em>2017年1月游览过</em><span></span>
+                             	<div class="gone-where-r">
+                                
+                                  <a title="" target="_blank" href="http://zhangjiajie.lotour.com/wuingyuan/">武陵源</a>
+                                     
+                                     <strong>&gt;</strong>  
+                                     
+                                  <a title="" target="_blank" href="http://zhangjiajie.lotour.com/zhangjiajiegongyuan/">张家界森林公园</a>
+                                     
+                                     <strong>&gt;</strong>  
+                                     
+                                  <a title="" target="_blank" href="http://zhangjiajie.lotour.com/zhangjiajiedaxiagu/">张家界大峡谷</a>
+                                     
+                                     <strong>&gt;</strong>  
+                                     
+                                  <a title="" target="_blank" href="http://zhangjiajie.lotour.com/baofenghu/">宝峰湖</a>
+                                     
+                                     <strong>&gt;</strong>  
+                                     
+                                  <a title="" target="_blank" href="http://zhangjiajie.lotour.com/tujiafengqingyuan/">土家风情园</a>
+                                     
+                                     <strong>&gt;</strong>  
+                                     
+                                  <a title="" target="_blank" href="http://zhangjiajie.lotour.com/huanglongdong1/">黄龙洞</a>
+                                     
+                                     <strong>&gt;</strong>  
+                                     
+                                  <a title="" target="_blank" href="http://zhangjiajie.lotour.com/maoyanhejiutiandong/">茅岩河九天洞</a>
+                                     
+                                     <strong>&gt;</strong>  
+                                     
+                                  <a title="" target="_blank" href="http://zhangjiajie.lotour.com/tianmenshan/">天门山</a>
+                                     	
+                                </div>
+                                </div>
+        
+                        </div>
+                        <div class="jq-list-bottom clearfix">
+                            
+                            <a href="http://zhangjiajie.lotour.com/zj/1648983" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201612/22330147_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://zhangjiajie.lotour.com/zj/1648983" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201612/22330169_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://zhangjiajie.lotour.com/zj/1648983" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201612/22330127_232.jpg" width="232" height="170" /></a>      
+                            
+                        </div>
+                    </div>
+			    </li>
+			    
+			    <li>
+                    <div class="jq-list-con clearfix">
+                        <div class="jq-list-l" deffer="5531697" footid="1656819">
+                      	    <div class="jq-list-l-up">
+                                <a href="http://my.lotour.com/i/5531697" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" width="75" height="75" /></a>
+                            </div>
+                            <div class="jq-list-l-down">
+                                <a href="http://my.lotour.com/i/5531697" target="_blank" title=""></a><span class="ano" style="display:none;"></span>
+                            </div>
+                        </div>
+                        <div class="jq-list-r">
+                            <div class="jq-hd" footid="1656819">								
+								<h2 class="jq-name jq-name2">
+                                    
+                                    <a title="张家界导游服务，一对一纯玩VIP服务。" target="_blank" href="http://zhangjiajie.lotour.com/zj/1656819">张家界导游服务，一对一纯玩VIP服务。</a>
+                                    
+								</h2>
+                                <span class="wz-zan" ></span>	
+								<span class="wz-collect sphl"></span>							
+							</div>
+                            
+                            <p class="wz-info">
+                                
+                                <em class="em1"></em>天数：<b>3</b>天
+                                
+                                <em class="em2"></em>人均：<b>3000</b>元
+                                
+                                <em class="em3"></em>和谁：<b>朋友</b>
+                                
+                            </p>
+                            
+                            <p class="jq-txt">Hi！大家好！我是张家界清风自由行的行程规划师-小文，毕业于长沙旅游学校，可别看我还是一个年轻土家阿哥哦，我的成长可是一直见证着家乡的巨变——从一个藏在深闺的秘境到<a title="" target="_blank" href="http://zhangjiajie.lotour.com/zj/1656819">[详细]</a></p>
+                            
+                                <div class="gone-where clearfix"><em>2016年12月游览过</em><span></span>
+                             	<div class="gone-where-r">
+                                
+                                  <a title="" target="_blank" href="http://zhangjiajie.lotour.com/">张家界</a>
+                                     
+                                     <strong>&gt;</strong>  
+                                     
+                                  <a title="" target="_blank" href="http://zhangjiajie.lotour.com/wuingyuan/">武陵源</a>
+                                     	
+                                </div>
+                                </div>
+        
+                        </div>
+                        <div class="jq-list-bottom clearfix">
+                            
+                            <a href="http://zhangjiajie.lotour.com/zj/1656819" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201612/22434787_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://zhangjiajie.lotour.com/zj/1656819" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201612/22434839_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://zhangjiajie.lotour.com/zj/1656819" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201612/22434801_232.jpg" width="232" height="170" /></a>      
+                            
+                        </div>
+                    </div>
+			    </li>
+			    
+			    <li>
+                    <div class="jq-list-con clearfix">
+                        <div class="jq-list-l" deffer="5635033" footid="1656212">
+                      	    <div class="jq-list-l-up">
+                                <a href="http://my.lotour.com/i/5635033" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" width="75" height="75" /></a>
+                            </div>
+                            <div class="jq-list-l-down">
+                                <a href="http://my.lotour.com/i/5635033" target="_blank" title=""></a><span class="ano" style="display:none;"></span>
+                            </div>
+                        </div>
+                        <div class="jq-list-r">
+                            <div class="jq-hd" footid="1656212">								
+								<h2 class="jq-name jq-name2">
+                                    
+                                    <a title="亲爱的我们一起走过这些地方可好" target="_blank" href="http://zhangjiajie.lotour.com/zj/1656212">亲爱的我们一起走过这些地方可好</a>
+                                    
+								</h2>
+                                <span class="wz-zan" ></span>	
+								<span class="wz-collect sphl"></span>							
+							</div>
+                            
+                            <p class="wz-info">
+                                
+                                <em class="em1"></em>天数：<b>3</b>天
+                                
+                            </p>
+                            
+                            <p class="jq-txt">16年转眼就要过半了，年初想要到达的地方，你兑现了么？上半年没有实现的愿望，下半年无论如何也要好好计划了吧？！16年下半年最值得期待的旅行地，看到第几个你心动了？1.<a title="" target="_blank" href="http://zhangjiajie.lotour.com/zj/1656212">[详细]</a></p>
+                            
+                                <div class="gone-where clearfix"><em>2016年12月游览过</em><span></span>
+                             	<div class="gone-where-r">
+                                
+                                  <a title="" target="_blank" href="http://zhangjiajie.lotour.com/">张家界</a>
+                                     
+                                     <strong>&gt;</strong>  
+                                     
+                                  <a title="" target="_blank" href="http://zhangjiajie.lotour.com/wulingyuanqu/">武陵源区</a>
+                                     
+                                     <strong>&gt;</strong>  
+                                     
+                                  <a title="" target="_blank" href="http://aba.lotour.com/jiuzhaigouxian/">九寨沟</a>
+                                     	
+                                </div>
+                                </div>
+        
+                        </div>
+                        <div class="jq-list-bottom clearfix">
+                            
+                            <a href="http://zhangjiajie.lotour.com/zj/1656212" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201612/22329997_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://zhangjiajie.lotour.com/zj/1656212" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201612/22329882_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://zhangjiajie.lotour.com/zj/1656212" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201612/22329932_232.jpg" width="232" height="170" /></a>      
+                            
+                        </div>
+                    </div>
+			    </li>
+			    
+			    <li>
+                    <div class="jq-list-con clearfix">
+                        <div class="jq-list-l" deffer="5635033" footid="1652813">
+                      	    <div class="jq-list-l-up">
+                                <a href="http://my.lotour.com/i/5635033" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" width="75" height="75" /></a>
+                            </div>
+                            <div class="jq-list-l-down">
+                                <a href="http://my.lotour.com/i/5635033" target="_blank" title=""></a><span class="ano" style="display:none;"></span>
+                            </div>
+                        </div>
+                        <div class="jq-list-r">
+                            <div class="jq-hd" footid="1652813">								
+								<h2 class="jq-name jq-name2">
+                                    
+                                    <a title="如何省心自助游玩张家界" target="_blank" href="http://zhangjiajie.lotour.com/zj/1652813">如何省心自助游玩张家界</a>
+                                    
+								</h2>
+                                <span class="wz-zan" ></span>	
+								<span class="wz-collect sphl"></span>							
+							</div>
+                            
+                            <p class="wz-info">
+                                
+                                <em class="em1"></em>天数：<b>3</b>天
+                                
+                            </p>
+                            
+                            <p class="jq-txt">提起张家界武陵源，景色之美我想不用多说了，独特地貌形成的绝美景观，别说是中国，在全世界都是独一无二的。在国内，没有人文历史，光凭景色就可以独步江湖的大景区，好像<a title="" target="_blank" href="http://zhangjiajie.lotour.com/zj/1652813">[详细]</a></p>
+                            
+                                <div class="gone-where clearfix"><em>2016年12月游览过</em><span></span>
+                             	<div class="gone-where-r">
+                                
+                                  <a title="" target="_blank" href="http://zhangjiajie.lotour.com/tianmenshan/">天门山</a>
+                                     
+                                     <strong>&gt;</strong>  
+                                     
+                                  <a title="" target="_blank" href="http://zhangjiajie.lotour.com/zhangjiajiedaxiagu/">张家界大峡谷</a>
+                                     
+                                     <strong>&gt;</strong>  
+                                     
+                                  <a title="" target="_blank" href="http://zhangjiajie.lotour.com/xifengjingqu/">金鞭溪</a>
+                                     
+                                     <strong>&gt;</strong>  
+                                     
+                                  <a title="" target="_blank" href="http://zhangjiajie.lotour.com/zhangjiajiegongyuan/">张家界森林公园</a>
+                                     
+                                     <strong>&gt;</strong>  
+                                     
+                                  <a title="" target="_blank" href="http://zhangjiajie.lotour.com/zhangjiajietianzishan/">天子山</a>
+                                     
+                                     <strong>&gt;</strong>  
+                                     
+                                  <a title="" target="_blank" href="http://zhangjiajie.lotour.com/hnyuanjiajie/">袁家界</a>
+                                     	
+                                </div>
+                                </div>
+        
+                        </div>
+                        <div class="jq-list-bottom clearfix">
+                            
+                            <a href="http://zhangjiajie.lotour.com/zj/1652813" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201604/21880610_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://zhangjiajie.lotour.com/zj/1652813" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201604/21880619_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://zhangjiajie.lotour.com/zj/1652813" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201604/21880577_232.jpg" width="232" height="170" /></a>      
+                            
+                        </div>
+                    </div>
+			    </li>
+			    
+			    <li>
+                    <div class="jq-list-con clearfix">
+                        <div class="jq-list-l" deffer="5647516" footid="1671664">
+                      	    <div class="jq-list-l-up">
+                                <a href="http://my.lotour.com/i/5647516" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" width="75" height="75" /></a>
+                            </div>
+                            <div class="jq-list-l-down">
+                                <a href="http://my.lotour.com/i/5647516" target="_blank" title=""></a><span class="ano" style="display:none;"></span>
+                            </div>
+                        </div>
+                        <div class="jq-list-r">
+                            <div class="jq-hd" footid="1671664">								
+								<h2 class="jq-name jq-name2">
+                                    
+                                    <a title="首席技师开评 那个人也许就是你" target="_blank" href="http://shaoyang.lotour.com/zj/1671664">首席技师开评 那个人也许就是你</a>
+                                    
+								</h2>
+                                <span class="wz-zan" ></span>	
+								<span class="wz-collect sphl"></span>							
+							</div>
+                            
+                            <p class="wz-info">
+                                
+                            </p>
+                            
+                            <p class="jq-txt">永康向来都是匠人辈出的地方，也是非常注重匠人培养的地方。为弘扬“劳动光荣、技能宝贵、创造伟大”的时代风尚，促进高技能人才队伍建设，表彰激励高技能人才在经济社会发<a title="" target="_blank" href="http://shaoyang.lotour.com/zj/1671664">[详细]</a></p>
+                            
+                                <div class="gone-where clearfix"><em>2016年12月游览过</em><span></span>
+                             	<div class="gone-where-r">
+                                
+                                  <a title="" target="_blank" href="http://shaoyang.lotour.com/">邵阳</a>
+                                     	
+                                </div>
+                                </div>
+        
+                        </div>
+                        <div class="jq-list-bottom clearfix">
+                            
+                        </div>
+                    </div>
+			    </li>
+			    
+			    <li>
+                    <div class="jq-list-con clearfix">
+                        <div class="jq-list-l" deffer="5491038" footid="1671493">
+                      	    <div class="jq-list-l-up">
+                                <a href="http://my.lotour.com/i/5491038" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" width="75" height="75" /></a>
+                            </div>
+                            <div class="jq-list-l-down">
+                                <a href="http://my.lotour.com/i/5491038" target="_blank" title=""></a><span class="ano" style="display:none;"></span>
+                            </div>
+                        </div>
+                        <div class="jq-list-r">
+                            <div class="jq-hd" footid="1671493">								
+								<h2 class="jq-name jq-name2">
+                                    
+                                    <a title="张家界私人美女导游别有一番滋味在心头！" target="_blank" href="http://zhangjiajie.lotour.com/zj/1671493">张家界私人美女导游别有一番滋味在心头！</a>
+                                    
+								</h2>
+                                <span class="wz-zan" ></span>	
+								<span class="wz-collect sphl"></span>							
+							</div>
+                            
+                            <p class="wz-info">
+                                
+                            </p>
+                            
+                            <p class="jq-txt">人生中第二篇游记自己都觉得好笑啦，我是语言文字不好并且又不会表达叙述的人，虽然如此，但现在的我更想把去过的走过的那些美景用图片一张张记录下来，因为会比光看照片来<a title="" target="_blank" href="http://zhangjiajie.lotour.com/zj/1671493">[详细]</a></p>
+                            
+                                <div class="gone-where clearfix"><em>2016年12月游览过</em><span></span>
+                             	<div class="gone-where-r">
+                                
+                                  <a title="" target="_blank" href="http://zhangjiajie.lotour.com/">张家界</a>
+                                     	
+                                </div>
+                                </div>
+        
+                        </div>
+                        <div class="jq-list-bottom clearfix">
+                            
+                        </div>
+                    </div>
+			    </li>
+			    
+			    <li>
+                    <div class="jq-list-con clearfix">
+                        <div class="jq-list-l" deffer="5505669" footid="1671396">
+                      	    <div class="jq-list-l-up">
+                                <a href="http://my.lotour.com/i/5505669" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" width="75" height="75" /></a>
+                            </div>
+                            <div class="jq-list-l-down">
+                                <a href="http://my.lotour.com/i/5505669" target="_blank" title=""></a><span class="ano" style="display:none;"></span>
+                            </div>
+                        </div>
+                        <div class="jq-list-r">
+                            <div class="jq-hd" footid="1671396">								
+								<h2 class="jq-name jq-name2">
+                                    
+                                    <a title="分享张家界游记，强烈推荐这位真诚导游" target="_blank" href="http://zhangjiajie.lotour.com/zj/1671396">分享张家界游记，强烈推荐这位真诚导游</a>
+                                    
+								</h2>
+                                <span class="wz-zan" ></span>	
+								<span class="wz-collect sphl"></span>							
+							</div>
+                            
+                            <p class="wz-info">
+                                
+                            </p>
+                            
+                            <p class="jq-txt">前言：出行前的准备。一-出行前要注意的事项俗话说：“张家界的山，九寨沟的水”是中国自然景观中最美的，我慕名而来，甩掉城市的喧嚣，背上自己的自由，独自踏上了张家界自<a title="" target="_blank" href="http://zhangjiajie.lotour.com/zj/1671396">[详细]</a></p>
+                            
+                                <div class="gone-where clearfix"><em>2016年11月游览过</em><span></span>
+                             	<div class="gone-where-r">
+                                
+                                  <a title="" target="_blank" href="http://zhangjiajie.lotour.com/wuingyuan/">武陵源</a>
+                                     	
+                                </div>
+                                </div>
+        
+                        </div>
+                        <div class="jq-list-bottom clearfix">
+                            
+                            <a href="http://zhangjiajie.lotour.com/zj/1671396" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201611/23987028_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://zhangjiajie.lotour.com/zj/1671396" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201611/23986773_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://zhangjiajie.lotour.com/zj/1671396" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201611/23987119_232.jpg" width="232" height="170" /></a>      
+                            
+                        </div>
+                    </div>
+			    </li>
+			    
+			    <li>
+                    <div class="jq-list-con clearfix">
+                        <div class="jq-list-l" deffer="5647423" footid="1671347">
+                      	    <div class="jq-list-l-up">
+                                <a href="http://my.lotour.com/i/5647423" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" width="75" height="75" /></a>
+                            </div>
+                            <div class="jq-list-l-down">
+                                <a href="http://my.lotour.com/i/5647423" target="_blank" title=""></a><span class="ano" style="display:none;"></span>
+                            </div>
+                        </div>
+                        <div class="jq-list-r">
+                            <div class="jq-hd" footid="1671347">								
+								<h2 class="jq-name jq-name2">
+                                    
+                                    <a title="长沙橘子洲一日游" target="_blank" href="http://changsha.lotour.com/zj/1671347">长沙橘子洲一日游</a>
+                                    
+								</h2>
+                                <span class="wz-zan" ></span>	
+								<span class="wz-collect sphl"></span>							
+							</div>
+                            
+                            <p class="wz-info">
+                                
+                            </p>
+                            
+                            <p class="jq-txt"><a title="" target="_blank" href="http://changsha.lotour.com/zj/1671347">[详细]</a></p>
+                            
+                                <div class="gone-where clearfix"><em>2016年11月游览过</em><span></span>
+                             	<div class="gone-where-r">
+                                
+                                  <a title="" target="_blank" href="http://changsha.lotour.com/">长沙</a>
+                                     	
+                                </div>
+                                </div>
+        
+                        </div>
+                        <div class="jq-list-bottom clearfix">
+                            
+                            <a href="http://changsha.lotour.com/zj/1671347" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201611/23984654_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://changsha.lotour.com/zj/1671347" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201611/23984664_232.jpg" width="232" height="170" /></a>      
+                            
+                            <a href="http://changsha.lotour.com/zj/1671347" target="_blank" title=""><img src="http://img.lotour.net/zip/20110411/index_mrtu.jpg" original="http://img1.lotour.net/mudidi/201611/23984673_232.jpg" width="232" height="170" /></a>      
+                            
+                        </div>
+                    </div>
+			    </li>
+			    	    
+			</ul>
+        </div>
+        
+	</div>
+	
+    <div class="bd-main-r">
+		  
+<h2 class="bd-r-tit"><a title="" target="_blank" href="http://hunan.lotour.com/news/">鲜闻</a></h2>		
+<ul class="bd-r-hot clearfix">
+    
+        <li><em class="on">1</em><a href="http://www.lotour.com/zhengwen/1/lg-jc-15911.shtml" target="_blank" title="沈从文笔下真正的边城">沈从文笔下真正的边城</a></li>     
+    
+        <li><em class="">2</em><a href="http://www.lotour.com/zhengwen/2/lg-jc-26577.shtml" target="_blank" title="你没有见过的乡村美食大赛，观众随便吃">你没有见过的乡村美食大赛，观众随便吃</a></li>     
+    
+        <li><em class="">3</em><a href="http://www.lotour.com/zhengwen/2/lg-jc-21319.shtml" target="_blank" title="我不是巫师，却不堪文溪桥上风雨声">我不是巫师，却不堪文溪桥上风雨声</a></li>     
+    
+        <li><em class="">4</em><a href="http://www.lotour.com/zhengwen/2/lg-jc-26491.shtml" target="_blank" title="因图咖啡馆的加菲猫“圆圆”">因图咖啡馆的加菲猫“圆圆”</a></li>     
+    
+        <li><em class="">5</em><a href="http://www.lotour.com/zhengwen/2/lg-jc-25757.shtml" target="_blank" title="三线城市时尚得让人受不了">三线城市时尚得让人受不了</a></li>     
+    
+        <li><em class="">6</em><a href="http://www.lotour.com/zhengwen/2/lg-jc-26464.shtml" target="_blank" title="峒河桥下悠扬的二胡先生">峒河桥下悠扬的二胡先生</a></li>     
+    
+        <li><em class="">7</em><a href="http://www.lotour.com/zhengwen/2/lg-jc-24221.shtml" target="_blank" title="天下鼓乡，九黎诸多部落中鼓手的故乡">天下鼓乡，九黎诸多部落中鼓手的故乡</a></li>     
+    
+        <li><em class="">8</em><a href="http://www.lotour.com/zhengwen/2/lg-jc-23691.shtml" target="_blank" title="在湘西，每个人都是独一无二的鼓手">在湘西，每个人都是独一无二的鼓手</a></li>     
+    
+        <li><em class="">9</em><a href="http://www.lotour.com/zhengwen/2/lg-jc-26429.shtml" target="_blank" title="三省侗胞聚通道，不唱大歌跳芦笙">三省侗胞聚通道，不唱大歌跳芦笙</a></li>     
+    
+        <li><em class="">10</em><a href="http://www.lotour.com/zhengwen/2/lg-jc-26341.shtml" target="_blank" title="洪江古商城，宛如楚楚动人的明清女子">洪江古商城，宛如楚楚动人的明清女子</a></li>     
+    
+</ul>
+
+<h2 class="bd-r-tit"><a title="" target="_blank" href="http://hunan.lotour.com/news/">热门景区</a></h2>
+<ul class="bd-r-where clear">
+    
+        <li><a class="" href="http://chenzhou.lotour.com/mangshan/" title="莽山旅游">莽山</a></li>     
+    
+        <li><a class="" href="http://chenzhou.lotour.com/feitianshan/" title="飞天山旅游">飞天山</a></li>     
+    
+        <li><a class="on" href="http://zhangjiajie.lotour.com/wuingyuan/" title="武陵源旅游">武陵源</a></li>     
+    
+        <li><a class="on" href="http://zhangjiajie.lotour.com/tianmenshan/" title="天门山旅游">天门山</a></li>     
+    
+        <li><a class="" href="http://zhangjiajie.lotour.com/zhangjiajiegongyuan/" title="张家界森林公园旅游">张家界森林公园</a></li>     
+    
+        <li><a class="on" href="http://xiangxi.lotour.com/qianzhougucheng/" title="乾州古城旅游">乾州古城</a></li>     
+    
+        <li><a class="" href="http://shaoyang.lotour.com/shan/" title="崀山旅游">崀山</a></li>     
+    
+        <li><a class="" href="http://chenzhou.lotour.com/yangtianhucy/" title="仰天湖草原旅游">仰天湖草原</a></li>     
+    
+        <li><a class="" href="http://yiyang.lotour.com/chamagudao1/" title="茶马古道旅游">茶马古道</a></li>     
+    
+        <li><a class="" href="http://changsha.lotour.com/changshayuelushan/" title="岳麓山旅游">岳麓山</a></li>     
+    
+        <li><a class="" href="http://yueyang.lotour.com/yueyanglou/" title="岳阳楼旅游">岳阳楼</a></li>     
+    
+        <li><a class="" href="http://zhangjiajie.lotour.com/huanglongdong1/" title="黄龙洞旅游">黄龙洞</a></li>     
+    
+        <li><a class="" href="http://zhangjiajie.lotour.com/baofenghu/" title="宝峰湖旅游">宝峰湖</a></li>     
+    
+        <li><a class="on" href="http://changsha.lotour.com/changshahaidishijie/" title="长沙海底世界旅游">长沙海底世界</a></li>     
+    
+        <li><a class="" href="http://chenzhou.lotour.com/wanhuayan1/" title="万华岩旅游">万华岩</a></li>     
+    
+        <li><a class="" href="http://zhangjiajie.lotour.com/zhangjiajiedaxiagu/" title="张家界大峡谷旅游">张家界大峡谷</a></li>     
+    
+        <li><a class="on" href="http://xiangxi.lotour.com/fenghuanggucheng/" title="凤凰古城旅游">凤凰古城</a></li>     
+    
+        <li><a class="" href="http://zhangjiajie.lotour.com/zhangjiajietianzishan/" title="天子山旅游">天子山</a></li>     
+    
+        <li><a class="" href="http://huaihua.lotour.com/yutoudongzhaijzhq/" title="芋头侗寨古建筑群旅游">芋头侗寨古建筑群</a></li>     
+    
+        <li><a class="" href="http://yiyang.lotour.com/zhaizilun/" title="寨子仑旅游">寨子仑</a></li>     
+    
+</ul>
+
+<h2 class="bd-r-tit sphl">TA们也想去</h2>		
+<ul class="bd-r-xq clearfix sphl">						
+</ul>
+<script type="text/javascript">
+    function WantList() {
+        var authors="";
+        $.getJSON("http://api.lotour.net/brandhome/MudidiTag/GetWantUser?callback=?&regionId=178&depth=2&number=12", function (data) {
+            $.each(data,function(i,value){
+                $("<li userid=\""+value+"\"><a href=\"http://my.lotour.com/i/"+value+"/\" target=\"_blank\" title=\"\" class=\"u-head\"><img src=\"http://img.lotour.net/zip/20110411/index_mrtu.jpg\" width=\"54\" height=\"54\" alt=\"\" /></a></li>").prependTo("ul.bd-r-xq");
+                authors+=value+(i<data.length-1 ? "," : "");
+            });
+            if (authors != "") {
+                $.getJSON("http://api.lotour.net/i/Common/GetMembersMessage?memberIds=" + authors + "&callback=?", function (data) {
+                    if (data.Success) {
+                        var result = data.Result.Data;
+                        $.each(result, function (i) {
+                            var res = result[i];
+                            var _this = $("li[userid=" + res.MemberId + "]")
+                            _this.find("img").attr("src", "http://img.lotour.net/UserPhoto/" + res.Photo);
+                            _this.find("a").attr("title", res.NickName);
+                        });
+                    }
+                });
+                $("ul.bd-r-xq").removeClass("sphl").prev().removeClass("sphl");
+            }
+        });
+    }
+    $(function () {
+        WantList();
+    });
+</script>
+<h2 class="bd-r-tit sphl"><a title="" target="_blank" href="http://hunan.lotour.com/yuding/">预订</a></h2>		
+<ul class="serTxtList clearfix sphl">
+	<li class="sphl"></li>
+	<li class="sphl"></li>
+	<li class="sphl"></li>
+</ul>
+<script type="text/javascript">
+    var newsData = {"RegionId":178,"RegionType":0,"chName":"hunan","RegionName":"湖南"};
+    function GetDateStr(AddDayCount) {
+        var dd = new Date();
+        dd.setDate(dd.getDate() + AddDayCount); //获取AddDayCount天后的日期
+        var y = dd.getFullYear();
+        var m = dd.getMonth() + 1; //获取当前月份的日期
+        var d = dd.getDate();
+        return y + "-" + m + "-" + d;
+    }
+    function Tuijian() {
+        var stat = document.domain.split('.')[0];
+        if (newsData.RegionType != 0) {
+            $.ajax({
+                cache: false,
+                type: "GET",
+                url: "http://d.lotour.com/hotel/api/GethotelCountAndLowestPricenew",
+                dataType: "jsonp",
+                data: { "regionid": newsData.RegionId, "regiontype": newsData.RegionType, "sdate": GetDateStr(1), "edate": GetDateStr(2) },
+                success: function (data) {
+                    if (data.Count > 0) {
+                        $(".serTxtList>li:eq(0)").append("<span class=\"ser-hotel\" title=\"客栈酒店\"></span><a href=\"http://d.lotour.com/hotel/"+data.RetunUrl+"/\" target=\"_blank\">"+(newsData.RegionType==3?"周边":"")+"共" + data.Count + "家客栈酒店，<b>￥"+ data.LowestPrice + "</b>元起</a>").removeClass("sphl");
+                        $(".serTxtList").removeClass("sphl").prev().removeClass("sphl");
+                    }
+                }
+            });
+        }
+        
+        $.ajax({
+            cache: false,
+            type: "GET",
+            url: "/dujiaxianlu/api-GetLineCountAndLowestPrice_" + jQuery.cookie("ChName") + "-" + newsData.chName,
+            dataType: "jsonp",
+            success: function (data) {
+                if (data.Count > 0) {
+                    $(".serTxtList>li:eq(2)").append("<span class=\"ser-line\" title=\"度假线路\"></span><a href=\"http://d.lotour.com/dujiaxianlu/"+jQuery.cookie("ChName")+"-"+newsData.chName+"\" target=\"_blank\">"+jQuery.cookie("IndexAreaName") + "到" + newsData.RegionName + "，共" + data.Count + "条度假线路，<b>￥" + data.LowestPrice + "</b>元起</a>").removeClass("sphl");
+                    $(".serTxtList").removeClass("sphl").prev().removeClass("sphl");
+                }
+            }
+        });
+    }
+    $(function () {
+        Tuijian();
+    });
+</script>
+
+    </div>
+</div>
+<script type="text/javascript">
+    $(function () {
+        $(".jq-list-l").each(function (i) {
+            var _this = $(this), author = _this.attr("deffer"), footid = _this.attr("footid");
+            var div = $(".jq-hd[footid=" + footid + "]");
+            $.getJSON("http://my.lotour.com/i/Common/GetMemberMessage?memberId=" + author + "&callback=?", function (data) {
+                if (data.Success) {
+                    var result = data.Result.Data;
+                    _this.find("img").attr("src", "http://img.lotour.net/UserPhoto/" + result.Photo);
+                    _this.find("a").attr("title", result.NickName).eq(1).html(result.NickName);
+                    if (result.VStatus > 0) {
+                        var span = _this.find("span");
+                        span.show();
+                        if (result.VStatus == 2) {
+                            span.removeClass("ano");
+                        }
+                    }
+                }
+            });
+            $.getJSON("http://api.lotour.net/i/Services/ServerForFoot?id=" + footid + "&callback=?", function (data) {
+                div.find("span.wz-zan").html("<b></b>" + data.Result.Data.PraiseCount);
+                div.find("span.wz-collect").html("<b></b>" + data.Result.Data.TransCount);
+            });
+        });
+        $('img[original]').lazyload({
+            effect: "fadeIn"
+        });
+    });
+</script>
+
+<!--=S 灵感推荐 -->
+<a class="lg-tuijian-btn" href="javascript:void(0)"></a>
+<div class="lg-tuijian">
+	<div class="lg-tuijian-con">
+    	<a class="lg-tuijian-x" href="javascript:void(0)"></a>
+        <h2 class="lg-tuijian-tit">湖南旅游灵感推荐
+             
+            <a href="http://www.lotour.com/zhengwen/r178" target="_blank" title="">更多&gt;&gt;</a>
+        
+        </h2>
+        <ul class="lg-tuijian-list clearfix">
+        
+        	<li>
+            	<div class="img"><a href="http://www.lotour.com/zhengwen/2/lg-jc-26577.shtml" target="_blank" title=""><img src="http://img1.lotour.net/Inspiration/2016/1201/20161201235127536720769_1920_590.jpg" width="130" height="84" alt=""></a></div>
+                <div class="txt">
+                	<h3><a href="http://www.lotour.com/zhengwen/2/lg-jc-26577.shtml" target="_blank" title="你没有见过的乡村美食大赛，观众随便吃">你没有见过的乡村美食大赛，观众随便吃</a></h3>
+                    <p>作者：<a href="http://zhuanlan.lotour.com/1034" target="_blank" title="">书影</a></p>
+                    <div class="tags">
+                    	<a href="http://www.lotour.com/zhengwen/x3775" target="_blank" title="赛事竞技">赛事竞技</a><a href="http://www.lotour.com/zhengwen/x3784" target="_blank" title="美食">美食</a>
+                    </div>
+                </div>
+            </li>
+        
+        	<li>
+            	<div class="img"><a href="http://www.lotour.com/zhengwen/2/lg-jc-26491.shtml" target="_blank" title=""><img src="http://img1.lotour.net/Inspiration/2016/1130/2016113021050073914361_1920_590.jpg" width="130" height="84" alt=""></a></div>
+                <div class="txt">
+                	<h3><a href="http://www.lotour.com/zhengwen/2/lg-jc-26491.shtml" target="_blank" title="因图咖啡馆的加菲猫“圆圆”">因图咖啡馆的加菲猫“圆圆”</a></h3>
+                    <p>作者：<a href="http://zhuanlan.lotour.com/1034" target="_blank" title="">书影</a></p>
+                    <div class="tags">
+                    	<a href="http://www.lotour.com/zhengwen/x4275" target="_blank" title="泡咖啡厅">泡咖啡厅</a>
+                    </div>
+                </div>
+            </li>
+        
+        	<li>
+            	<div class="img"><a href="http://www.lotour.com/zhengwen/2/lg-jc-26464.shtml" target="_blank" title=""><img src="http://img1.lotour.net/Inspiration/2016/1130/20161130160141614418268_1920_590.jpg" width="130" height="84" alt=""></a></div>
+                <div class="txt">
+                	<h3><a href="http://www.lotour.com/zhengwen/2/lg-jc-26464.shtml" target="_blank" title="峒河桥下悠扬的二胡先生">峒河桥下悠扬的二胡先生</a></h3>
+                    <p>作者：<a href="http://zhuanlan.lotour.com/2072" target="_blank" title="">黄石松</a></p>
+                    <div class="tags">
+                    	<a href="http://www.lotour.com/zhengwen/x3717" target="_blank" title="古城古镇">古城古镇</a>
+                    </div>
+                </div>
+            </li>
+            
+        </ul>
+    </div>	
+</div>
+<script type="text/javascript">
+    $(function () {
+        $(".lg-tuijian-list li:last").css("margin-right", "0px");
+        if ($(window).width() < 1200) {
+            $(".lg-tuijian").addClass("lg-tuijian-s");
+        } else {
+            $(".lg-tuijian").removeClass("lg-tuijian-s");
+        }
+        $(".lg-tuijian-btn").mouseover(function () {
+            $(this).css("left", "-75px");
+            $(".lg-tuijian").stop().animate({ 'left': '0' }, 800, 'linear');
+        }).trigger("mouseover");
+        $(".lg-tuijian-x").click(function () {
+            $(".lg-tuijian").stop().animate({ 'left': '-100%' }, 500, 'linear');
+            $(".lg-tuijian-btn").stop().animate({ 'left': '0' }, 600, 'linear');
+        });
+
+    });
+</script>
+<!--=E 灵感推荐 -->
+
+    
+    <div class="main bdMain">
+        
+
+<div class="content">
+    <h2 class="conlist-tit">— 湖南旅游行政区划 —</h2>
+    <div class="conlist-con">
+    
+        <dl>
+            <dt><a href="http://xiangxi.lotour.com/" title="湘西">湘西</a></dt>
+            <dd>
+            
+                <a href="http://xiangxi.lotour.com/xiangxiyjct/" title="杨家祠堂">杨家祠堂</a>
+          
+                <a href="http://xiangxi.lotour.com/xiaolongdong/" title="小龙洞">小龙洞</a>
+          
+                <a href="http://xiangxi.lotour.com/fenghuangbmcl/" title="东北门城楼">东北门城楼</a>
+          
+                <a href="http://xiangxi.lotour.com/xizhoutongzhu/" title="溪州铜柱">溪州铜柱</a>
+          
+                <a href="http://xiangxi.lotour.com/laoweichengyz/" title="老卫城">老卫城</a>
+          
+                <a href="http://xiangxi.lotour.com/tianwangmiao/" title="天王庙">天王庙</a>
+          
+                <a href="http://xiangxi.lotour.com/wugongqiao/" title="五拱桥">五拱桥</a>
+          
+                <a href="http://xiangxi.lotour.com/tianjiacitang/" title="田家祠堂">田家祠堂</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://huaihua.lotour.com/" title="怀化">怀化</a></dt>
+            <dd>
+            
+                <a href="http://huaihua.lotour.com/yangxiyunshu/" title="云树">云树</a>
+          
+                <a href="http://huaihua.lotour.com/zhugeqiao/" title="诸葛桥">诸葛桥</a>
+          
+                <a href="http://huaihua.lotour.com/huaihuaxianrenq/" title="仙人桥">仙人桥</a>
+          
+                <a href="http://huaihua.lotour.com/hongjiangjianzhu/" title="洪江古建筑群">洪江古建筑群</a>
+          
+                <a href="http://huaihua.lotour.com/diluhuilongguan/" title="地卢回龙观">地卢回龙观</a>
+          
+                <a href="http://huaihua.lotour.com/longyinta/" title="龙吟塔">龙吟塔</a>
+          
+                <a href="http://huaihua.lotour.com/chongshishuyyz/" title="崇实书院遗址">崇实书院遗址</a>
+          
+                <a href="http://huaihua.lotour.com/matiangulou/" title="马田鼓楼">马田鼓楼</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://changde.lotour.com/" title="常德">常德</a></dt>
+            <dd>
+            
+                <a href="http://changde.lotour.com/taohuayuanbf/" title="桃花源牌坊">桃花源牌坊</a>
+          
+                <a href="http://changde.lotour.com/feiyunta/" title="蜚云塔">蜚云塔</a>
+          
+                <a href="http://changde.lotour.com/mengquanhu/" title="蒙泉湖">蒙泉湖</a>
+          
+                <a href="http://changde.lotour.com/changdistyg/" title="常德市体育馆">常德市体育馆</a>
+          
+                <a href="http://changde.lotour.com/huanghugangdq/" title="黄虎岗大桥">黄虎岗大桥</a>
+          
+                <a href="http://changde.lotour.com/bashidangyizhi/" title="八十垱">八十垱</a>
+          
+                <a href="http://changde.lotour.com/datongsi/" title="大同寺">大同寺</a>
+          
+                <a href="http://changde.lotour.com/shimenwm/" title="石门文庙">石门文庙</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://chenzhou.lotour.com/" title="郴州">郴州</a></dt>
+            <dd>
+            
+                <a href="http://chenzhou.lotour.com/xianchitang/" title="陷池塘">陷池塘</a>
+          
+                <a href="http://chenzhou.lotour.com/jiaopenliao/" title="脚盆寮">脚盆寮</a>
+          
+                <a href="http://chenzhou.lotour.com/zixingsrenmingc/" title="资兴人民广场">资兴人民广场</a>
+          
+                <a href="http://chenzhou.lotour.com/qiaopanguxiao/" title="桥畔古校">桥畔古校</a>
+          
+                <a href="http://chenzhou.lotour.com/ouyanghaisk/" title="欧阳海水库">欧阳海水库</a>
+          
+                <a href="http://chenzhou.lotour.com/yjpgmjnd/" title="杨家坪革命纪念地">杨家坪革命纪念地</a>
+          
+                <a href="http://chenzhou.lotour.com/yangshangumjl/" title="阳山古民居">阳山古民居</a>
+          
+                <a href="http://chenzhou.lotour.com/ruchengwenta/" title="汝城文塔">汝城文塔</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://zhuzhou.lotour.com/" title="株洲">株洲</a></dt>
+            <dd>
+            
+                <a href="http://zhuzhou.lotour.com/fanggongmu/" title="芳公墓">芳公墓</a>
+          
+                <a href="http://zhuzhou.lotour.com/zhaolingdxxgz/" title="昭陵东西向构造">昭陵东西向构造</a>
+          
+                <a href="http://zhuzhou.lotour.com/shennonggu/" title="神农谷">神农谷</a>
+          
+                <a href="http://zhuzhou.lotour.com/suweiaibgc/" title="苏维埃兵工厂">苏维埃兵工厂</a>
+          
+                <a href="http://zhuzhou.lotour.com/miquanshuyuan/" title="洣泉书院">洣泉书院</a>
+          
+                <a href="http://zhuzhou.lotour.com/zhuzhoujiuxianhu/" title="株洲酒仙湖">株洲酒仙湖</a>
+          
+                <a href="http://zhuzhou.lotour.com/yejiaci/" title="叶家祠">叶家祠</a>
+          
+                <a href="http://zhuzhou.lotour.com/poxianling/" title="婆仙岭">婆仙岭</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://xiangtan.lotour.com/" title="湘潭">湘潭</a></dt>
+            <dd>
+            
+                <a href="http://xiangtan.lotour.com/shaosmaozdjng/" title="毛泽东故居">毛泽东故居</a>
+          
+                <a href="http://xiangtan.lotour.com/yangmeizssgy/" title="杨梅洲水上公园">杨梅洲水上公园</a>
+          
+                <a href="http://xiangtan.lotour.com/zhugongci/" title="褚公祠">褚公祠</a>
+          
+                <a href="http://xiangtan.lotour.com/xiaoxiashan/" title="晓霞山">晓霞山</a>
+          
+                <a href="http://xiangtan.lotour.com/hndongtaishan/" title="东台山">东台山</a>
+          
+                <a href="http://xiangtan.lotour.com/xiangtanjxg/" title="九仙观">九仙观</a>
+          
+                <a href="http://xiangtan.lotour.com/wanghengting/" title="望衡亭">望衡亭</a>
+          
+                <a href="http://xiangtan.lotour.com/xiangtanmaozedongsqm/" title="双亲墓">双亲墓</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://hengyang.lotour.com/" title="衡阳">衡阳</a></dt>
+            <dd>
+            
+                <a href="http://hengyang.lotour.com/ouyanghaijng/" title="耒阳欧阳海纪念馆">耒阳欧阳海纪念馆</a>
+          
+                <a href="http://hengyang.lotour.com/luoronghjny/" title="罗荣桓纪念园">罗荣桓纪念园</a>
+          
+                <a href="http://hengyang.lotour.com/shenzhouzumiao/" title="神州祖庙">神州祖庙</a>
+          
+                <a href="http://hengyang.lotour.com/gumuqun/" title="衡南古墓群">衡南古墓群</a>
+          
+                <a href="http://hengyang.lotour.com/hengyangdztl/" title="东洲桃浪">东洲桃浪</a>
+          
+                <a href="http://hengyang.lotour.com/shigugongyuan/" title="石鼓公园">石鼓公园</a>
+          
+                <a href="http://hengyang.lotour.com/nanyuezhonglieci/" title="南岳忠烈祠">南岳忠烈祠</a>
+          
+                <a href="http://hengyang.lotour.com/hengyangbaiguozhen/" title="白果镇">白果镇</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://yiyang.lotour.com/" title="益阳">益阳</a></dt>
+            <dd>
+            
+                <a href="http://yiyang.lotour.com/majitangwutan/" title="马迹塘武潭河段">马迹塘武潭河段</a>
+          
+                <a href="http://yiyang.lotour.com/xinkaidaqiuyz/" title="新开大丘遗址">新开大丘遗址</a>
+          
+                <a href="http://yiyang.lotour.com/guyulan/" title="古玉兰">古玉兰</a>
+          
+                <a href="http://yiyang.lotour.com/hongjunczjgd/" title="红军长征经过地">红军长征经过地</a>
+          
+                <a href="http://yiyang.lotour.com/yiyangqingyunshan/" title="庆云山">庆云山</a>
+          
+                <a href="http://yiyang.lotour.com/qingxiusnzlc/" title="青秀山林场">青秀山林场</a>
+          
+                <a href="http://yiyang.lotour.com/changyaozhen/" title="厂窑镇">厂窑镇</a>
+          
+                <a href="http://yiyang.lotour.com/beizhouzinc/" title="北洲子农场">北洲子农场</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://shaoyang.lotour.com/" title="邵阳">邵阳</a></dt>
+            <dd>
+            
+                <a href="http://shaoyang.lotour.com/hnyunshan/" title="云山">云山</a>
+          
+                <a href="http://shaoyang.lotour.com/shaoyangshuanglongq/" title="双龙桥">双龙桥</a>
+          
+                <a href="http://shaoyang.lotour.com/muguaqiao/" title="木瓜桥">木瓜桥</a>
+          
+                <a href="http://shaoyang.lotour.com/dongkoutang/" title="洞口塘">洞口塘</a>
+          
+                <a href="http://shaoyang.lotour.com/youdijing/" title="无底井">无底井</a>
+          
+                <a href="http://shaoyang.lotour.com/zhaoyangwugang/" title="武冈文庙大成殿">武冈文庙大成殿</a>
+          
+                <a href="http://shaoyang.lotour.com/wenxianshan/" title="文仙山">文仙山</a>
+          
+                <a href="http://shaoyang.lotour.com/yuepingding/" title="岳平顶">岳平顶</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://loudi.lotour.com/" title="娄底">娄底</a></dt>
+            <dd>
+            
+                <a href="http://loudi.lotour.com/shuifumiaosk/" title="水府庙水库">水府庙水库</a>
+          
+                <a href="http://loudi.lotour.com/guilingqiao/" title="龟龄桥">龟龄桥</a>
+          
+                <a href="http://loudi.lotour.com/huangwlm/" title="黄婉梨墓">黄婉梨墓</a>
+          
+                <a href="http://loudi.lotour.com/hongliujuntslb/" title="红六军司令部旧址">红六军司令部旧址</a>
+          
+                <a href="http://loudi.lotour.com/loudixiquansi/" title="西泉寺">西泉寺</a>
+          
+                <a href="http://loudi.lotour.com/lishizhenjief/" title="李氏贞节坊">李氏贞节坊</a>
+          
+                <a href="http://loudi.lotour.com/suhu/" title="苏湖">苏湖</a>
+          
+                <a href="http://loudi.lotour.com/xinhuagzyl/" title="古州野林">古州野林</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://yongzhou.lotour.com/" title="永州">永州</a></dt>
+            <dd>
+            
+                <a href="http://yongzhou.lotour.com/qiyanglongshan/" title="祁阳烈士纪念碑">祁阳烈士纪念碑</a>
+          
+                <a href="http://yongzhou.lotour.com/zuoxibeilin/" title="浯溪碑林">浯溪碑林</a>
+          
+                <a href="http://yongzhou.lotour.com/zaoshuihanpb/" title="皂水函瀑布">皂水函瀑布</a>
+          
+                <a href="http://yongzhou.lotour.com/nyjiangshijnb/" title="抗日将士纪念碑">抗日将士纪念碑</a>
+          
+                <a href="http://yongzhou.lotour.com/yongzhoushiyangwuds/" title="石羊五当山">石羊五当山</a>
+          
+                <a href="http://yongzhou.lotour.com/nvshuyuan/" title="女书园">女书园</a>
+          
+                <a href="http://yongzhou.lotour.com/taohuayan/" title="桃花岩">桃花岩</a>
+          
+                <a href="http://yongzhou.lotour.com/xiaoxianggy/" title="潇湘公园">潇湘公园</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://zhangjiajie.lotour.com/" title="张家界">张家界</a></dt>
+            <dd>
+            
+                <a href="http://zhangjiajie.lotour.com/wentanggudu/" title="温塘古渡">温塘古渡</a>
+          
+                <a href="http://zhangjiajie.lotour.com/zhangjiajiedaxiagu/" title="张家界大峡谷">张家界大峡谷</a>
+          
+                <a href="http://zhangjiajie.lotour.com/zhoujimu/" title="周级墓">周级墓</a>
+          
+                <a href="http://zhangjiajie.lotour.com/xianrenxi/" title="仙人溪">仙人溪</a>
+          
+                <a href="http://zhangjiajie.lotour.com/maoyanhejiutiandong/" title="茅岩河九天洞">茅岩河九天洞</a>
+          
+                <a href="http://zhangjiajie.lotour.com/baofenghu/" title="宝峰湖">宝峰湖</a>
+          
+                <a href="http://zhangjiajie.lotour.com/helonggjhjng/" title="贺龙故居和纪念馆">贺龙故居和纪念馆</a>
+          
+                <a href="http://zhangjiajie.lotour.com/shayanfenglin/" title="砂岩峰林地质公园">砂岩峰林地质公园</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://yueyang.lotour.com/" title="岳阳">岳阳</a></dt>
+            <dd>
+            
+                <a href="http://yueyang.lotour.com/6501shandong/" title="岳阳6501山洞">岳阳6501山洞</a>
+          
+                <a href="http://yueyang.lotour.com/baishulin/" title="百树林">百树林</a>
+          
+                <a href="http://yueyang.lotour.com/xiangfeici/" title="湘妃祠">湘妃祠</a>
+          
+                <a href="http://yueyang.lotour.com/sanzuiting/" title="三醉亭">三醉亭</a>
+          
+                <a href="http://yueyang.lotour.com/xiaoqiaomu/" title="小乔墓">小乔墓</a>
+          
+                <a href="http://yueyang.lotour.com/miluoquyuanci/" title="汨罗屈原祠">汨罗屈原祠</a>
+          
+                <a href="http://yueyang.lotour.com/hndongdongtinghu/" title="东洞庭湖">东洞庭湖</a>
+          
+                <a href="http://yueyang.lotour.com/zhangguyingcun/" title="张谷英村古建筑群">张谷英村古建筑群</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://changsha.lotour.com/" title="长沙">长沙</a></dt>
+            <dd>
+            
+                <a href="http://changsha.lotour.com/liuyanghe/" title="浏阳河">浏阳河</a>
+          
+                <a href="http://changsha.lotour.com/xjnandaqiao/" title="湘江南大桥">湘江南大桥</a>
+          
+                <a href="http://changsha.lotour.com/xjbeidaqiao/" title="湘江北大桥">湘江北大桥</a>
+          
+                <a href="http://changsha.lotour.com/damingxxsz/" title="大明休闲山庄">大明休闲山庄</a>
+          
+                <a href="http://changsha.lotour.com/haitiansz/" title="海天山庄">海天山庄</a>
+          
+                <a href="http://changsha.lotour.com/xianjiahutm/" title="咸嘉湖唐墓">咸嘉湖唐墓</a>
+          
+                <a href="http://changsha.lotour.com/xuteligj/" title="徐特立故居">徐特立故居</a>
+          
+                <a href="http://changsha.lotour.com/guzhangwang/" title="古樟王">古樟王</a>
+          
+          </dd>
+        </dl>
+      
+    </div>
+</div>
+
+        <div class="content">
+            <div class="travel-recom">    	<h2 class="travel-t">国内游目的地推荐</h2>        <ul class="traver-c clear">        	<li><a title="" target="_blank" href="http://beijing.lotour.com/">北京</a></li><li><a title="" target="_blank" href="http://haerbin.lotour.com/">哈尔滨</a></li><li><a title="" target="_blank" href="http://dalian.lotour.com">大连</a></li><li><a title="" target="_blank" href="http://sanya.lotour.com/">三亚</a></li><li><a title="" target="_blank" href="http://lijiang.lotour.com/">丽江</a></li><li><a title="" target="_blank" href="http://nanjing.lotour.com/">南京</a></li><li><a title="" target="_blank" href="http://hangzhou.lotour.com/">杭州</a></li><li><a title="" target="_blank" href="http://chongqing.lotour.com/">重庆</a></li><li><a title="" target="_blank" href="http://chengdu.lotour.com/">成都</a></li><li><a title="" target="_blank" href="http://yangzhou.lotour.com/">扬州</a></li><li><a title="" target="_blank" href="http://shanghai.lotour.com/">上海</a></li><li><a title="" target="_blank" href="http://xiamen.lotour.com/">厦门</a></li><li><a title="" target="_blank" href="http://qinhuangdao.lotour.com/">秦皇岛</a></li><li><a title="" target="_blank" href="http://jssuzhou.lotour.com/">苏州</a></li><li><a title="" target="_blank" href="http://shangrao.lotour.com/">上饶</a></li><li><a title="" target="_blank" href="http://leshan.lotour.com/">乐山</a></li><li><a title="" target="_blank" href="http://tianjin.lotour.com/">天津</a></li><li><a title="" target="_blank" href="http://huangshan.lotour.com/">黄山</a></li><li><a title="" target="_blank" href="http://guangzhou.lotour.com/">广州</a></li><li><a title="" target="_blank" href="http://wenzhou.lotour.com/">温州</a></li><li><a title="" target="_blank" href="http://hangzhou.lotour.com/">杭州</a></li><li><a title="" target="_blank" href="http://xian.lotour.com/">西安</a></li><li><a title="" target="_blank" href="http://luoyang.lotour.com/">洛阳</a></li><li><a title="" target="_blank" href="http://chengde.lotour.com/">承德</a></li><li><a title="" target="_blank" href="http://qingdao.lotour.com/">青岛</a></li><li><a title="" target="_blank" href="http://weihai.lotour.com/">威海</a></li><li><a title="" target="_blank" href="http://jinan.lotour.com/">济南</a></li></li><li><a title="" target="_blank" href="http://taian.lotour.com/">泰安</a></li><li><a title="" target="_blank" href="http://beihai.lotour.com/">北海</a></li><li><a title="" target="_blank" href="http://changsha.lotour.com/">长沙</a></li><li><a title="" target="_blank" href="http://dalibaizu.lotour.com/">大理</a></li><li><a title="" target="_blank" href="http://guiyang.lotour.com/">贵阳</a></li><li><a title="" target="_blank" href="http://guilin.lotour.com/">桂林</a></li><li><a title="" target="_blank" href="http://haikou.lotour.com/">海口</a></li><li><a title="" target="_blank" href="http://hulunbeier.lotour.com/">呼伦贝尔</a></li><li><a title="" target="_blank" href="http://kaifeng.lotour.com/">开封</a></li><li><a title="" target="_blank" href="http://kunming.lotour.com/">昆明</a></li><li><a title="" target="_blank" href="http://lasa.lotour.com/">拉萨</a></li><li><a title="" target="_blank" href="http://mudanjiang.lotour.com/">牡丹江</a></li><li><a title="" target="_blank" href="http://ningbo.lotour.com/">宁波</a></li><li><a title="" target="_blank" href="http://qiqihaer.lotour.com/">齐齐哈尔</a></li><li><a title="" target="_blank" href="http://shaoxing.lotour.com/">绍兴</a></li><li><a title="" target="_blank" href="http://shenzhen.lotour.com/">深圳</a></li><li><a title="" target="_blank" href="http://shenyang.lotour.com/">沈阳</a></li><li><a title="" target="_blank" href="http://shijiazhuang.lotour.com/">石家庄</a></li><li><a title="" target="_blank" href="http://wulumuqi.lotour.com/">乌鲁木齐</a></li><li><a title="" target="_blank" href="http://wuxi.lotour.com/">无锡</a></li><li><a title="" target="_blank" href="http://wuhan.lotour.com/">武汉</a></li><li><a title="" target="_blank" href="http://yinchuan.lotour.com/">银川</a></li><li><a title="" target="_blank" href="http://zhuhai.lotour.com/">珠海</a></li>                   </ul>        <h2 class="travel-t">出境游目的地推荐</h2>        <ul class="traver-c clear">  <li><a title="" target="_blank" href="http://jpn.lotour.com/">日本</a></li><li><a title="" target="_blank" href="http://kor.lotour.com/">韩国</a></li><li><a title="" target="_blank" href="http://ind.lotour.com/">印度 </a></li><li><a title="" target="_blank" href="http://nep.lotour.com/">尼泊尔</a></li><li><a title="" target="_blank" href="http://tha.lotour.com/">泰国 </a></li><li><a title="" target="_blank" href="http://cam.lotour.com/">柬埔寨</a></li><li><a title="" target="_blank" href="http://gbr.lotour.com/">英国 </a></li><li><a title="" target="_blank" href="http://fra.lotour.com/">法国</a></li><li><a title="" target="_blank" href="http://tur.lotour.com/">土耳其</a></li><li><a title="" target="_blank" href="http://aus.lotour.com/">澳大利亚</a></li><li><a title="" target="_blank" href="http://nzl.lotour.com/">新西兰</a></li><li><a title="" target="_blank" href="http://ken.lotour.com/">肯尼亚</a></li><li><a title="" target="_blank" href="http://egy.lotour.com/">埃及</a></li><li><a title="" target="_blank" href="http://usa.lotour.com/">美国 </a></li> <li><a title="" target="_blank" href="http://mya.lotour.com/">缅甸</a></li><li><a title="" target="_blank" href="http://fin.lotour.com/">芬兰</a></li><li><a title="" target="_blank" href="http://swe.lotour.com/">瑞典</a></li><li><a title="" target="_blank" href="http://mri.lotour.com/">毛里求斯</a></li> </ul>    </div>
+
+        </div>
+        <div class="content">
+        <!--#include virtual="/share/commonfrag/frag_651.inc" --><div class="zs_yqlj">	<strong>友情链接</strong> <p><a href="http://sanming.lotour.com/taining/" target="_blank">泰宁旅游</a><a href="http://quanzhou.lotour.com/" target="_blank">泉州旅游</a><a href="http://fuzhou.lotour.com/" target="_blank">福州旅游</a><a href="http://quanzhou.lotour.com/dehua/" target="_blank">德化旅游</a><a href="http://wuxi.lotour.com/lingshandafo/" target="_blank">无锡灵山旅游</a><a href="http://yanbian.lotour.com/dunhua/" target="_blank">敦化旅游</a><a href="http://kunming.lotour.com/yunnanshilin/" target="_blank">石林旅游</a><a href="http://liuzhou.lotour.com/rongshui/" target="_blank">融水旅游</a><a href="http://qiannan.lotour.com/libo/" target="_blank">荔波旅游</a><a href="http://shangqiu.lotour.com/" target="_blank">商丘旅游</a><a href="http://www.jia.com/xianning/" target="_blank">咸宁装修</a>
+        </div>
+           
+    </div>
+    
+<!--=S 公共底 -->  
+<div class="ltFooter">
+	<div class="ltfoot clear">
+		<div class="ltfootA">
+			<a href="http://corp.lotour.com/index.shtml" target="_blank" title="乐途介绍">乐途介绍</a><i>|</i><a href="http://corp.lotour.com/job_2.shtml" target="_blank" title="招贤纳士">招贤纳士</a><i>|</i><a href="http://corp.lotour.com/lotour_honour.shtml" target="_blank" title="网站荣誉">网站荣誉</a><i>|</i><a href="http://corp.lotour.com/contact.shtml" target="_blank" title="联系我们">联系我们</a><i>|</i><a href="http://corp.lotour.com/parter.shtml" target="_blank" title="合作伙伴">合作伙伴</a><i>|</i><a href="http://corp.lotour.com/adv_sev.shtml" target="_blank" title="营销形式">营销形式</a><i>|</i><a href="http://corp.lotour.com/adv_case.shtml" target="_blank" title="成功案例">成功案例</a><i>|</i><a href="http://member.lotour.com/" target="_blank" title="商家入驻">商家入驻</a><i>|</i><a href="http://member.lotour.com/" target="_blank" title="商家登录">商家登录</a><i>|</i><a href="http://d.lotour.com/yudingbangzhu/" target="_blank" title="预订帮助">预订帮助</a><i>|</i><a href="http://corp.lotour.com/term.shtml" target="_blank" title="服务条款">服务条款</a>
+		</div>
+		<div class="ltfootB">
+			<a class="btmLogo" target="_blank" href="http://www.lotour.com/" title="乐途旅游网"></a>
+			<p><a href="http://www.miibeian.gov.cn" target="_blank" title="">京ICP备12008860号-1</a>&nbsp;&nbsp;<a href="http://corp.lotour.com/licence_gd.shtml" target="_blank" title="">广电节目制作许可证：1313号</a>&nbsp;&nbsp;京公网安备：11010502001653<br />
+			<span class="Arial">Copyright &copy; 2005 - 2016&nbsp;&nbsp;<a href="http://www.lotour.com/" target="_blank">Lotour.com</a>&nbsp;&nbsp;All Rights Reserved.</span>&nbsp;<a href="http://www.lotour.com/" target="_blank" title="乐途旅游网">乐途旅游网</a>&nbsp;版权所有</p>
+			<a class="btmIco" target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202008020400006"></a>
+		</div>		
+	</div>
+</div>
+<!--=E 公共底 -->
+<script type="text/javascript" src="http://js.lotour.net/feedback_v1.js"></script><script type="text/javascript" src="http://js.lotour.net/analytics/statsv2.js" defer charset="UTF-8"></script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-39387460-1']);
+    _gaq.push(['_setDomainName', 'lotour.com']);
+    _gaq.push(['_addOrganic', 'baidu', 'word']);
+    _gaq.push(['_addOrganic', 'soso', 'w']);
+    _gaq.push(['_addOrganic', '3721', 'name']);
+    _gaq.push(['_addOrganic', 'yodao', 'q']);
+    _gaq.push(['_addOrganic', 'vnet', 'kw']);
+    _gaq.push(['_addOrganic', 'sogou', 'query']);
+    _gaq.push(['_addOrganic', '360', 'q']);
+    _gaq.push(['_addOrganic', 'so', 'q']);
+    var full_url = location.pathname + location.search + location.hash;
+    _gaq.push(['_trackPageview', full_url]);
+    _gaq.push(['_trackPageLoadTime']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F317768ad40e6ddbe20f10e89b4712c35' type='text/javascript'%3E%3C/script%3E"));
+
+
+</script>
+
+    <!--=S 右底工具条 -->
+<div class="toolbarNew">
+	<div class="tbarNewBtnS"></div>
+	<ul>
+		<li><a hidefocus="true" href="javascript:void(0);" method="been" deffer="178" class="footmark" title=""><i></i><span>我去过</span></a></li>
+		<li><a hidefocus="true" href="javascript:void(0);" method="want" deffer="178" class="addWantTo" title=""><i></i><span>我想去</span></a></li>
+		<li><a hidefocus="true" href="javascript:void(0);" method="help" deffer="178" deffername="湖南" class="help" title=""><i></i><span>发求助</span></a> </li>
+		<li class="tbarShare"> <a href="javascript:void(0);" class="tbarShareIco"> <i></i> <span>分享</span> </a>
+			<div class="sharecon"> 
+				<!-- Baidu Button BEGIN -->
+				<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare"> <span class="bds_more"></span> </div>
+				<script type="text/javascript" id="bdshare_js" data="type=tools&amp;mini=1&amp;uid=0" ></script> 
+				<script type="text/javascript" id="bdshell_js"></script> 
+				<script type="text/javascript">
+				    document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                </script> 
+				<!-- Baidu Button END --> 
+			</div>
+		</li>
+	</ul>
+	<script type="text/javascript">
+	    $(function () {
+	        $(window).scroll(function () {
+	            var st = $(document).scrollTop(), winh = $(window).height();
+	            if (st > 0) {
+	                if ($('.tbarS').length > 0) { return false }
+	                $('.tbarNewBtnS').click()
+	                $('.toolbarNew').addClass('tbarS')
+	            } else if (st <= 0) {
+	                $('.tbarNewBtn').click()
+	                $('.toolbarNew').removeClass('tbarS')
+	            }
+	        });
+	        $('.tbarNewGtop').live('click', function () { $("html, body").animate({ scrollTop: 0 }, 120); })
+	        $('.tbarNewBtnS').live('click', function () {
+	            $('.toolbarNew ul').stop().animate({ 'height': '312px' })
+	            $('.tbarNewGtop').stop().animate({ 'height': '45px' })
+	            $(this).addClass('tbarNewBtn').removeClass('tbarNewBtnS');
+	            return false
+	        })
+	        $('.tbarNewBtn').live('click', function () {
+	            $('.toolbarNew ul').stop().animate({ 'height': '0px' })
+	            $('.tbarNewGtop').stop().animate({ 'height': '3px' })
+	            $(this).addClass('tbarNewBtnS').removeClass('tbarNewBtn');
+	            return false
+	        })
+
+	        $("a[method=been]").click(function () {
+	            var regionid = $(this).attr("deffer");
+	            var a = $("a[method=been][deffer=" + regionid + "]");
+	            $.getJSON("http://my.lotour.com/login/login/islogin?callback=?&" + (new Date()), function (data) {
+	                if (data.uid > 0)
+	                    a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.uid + "/?rid=" + regionid, "target": "_blank" });
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.memberId + "/?rid=" + regionid, "target": "_blank" });
+	                    }, function (data) {
+	                        SetTopState();
+	                        a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.memberId + "/?rid=" + regionid, "target": "_blank" });
+	                    }, 1, "http://my.lotour.com/i/NotesPublish/replaceUid?rid=" + regionid);
+	                }
+	            });
+	        });
+	        $("a[method=want]").click(function () {
+	            var regionid = $(this).attr("deffer"), month = new Date().getMonth() + 1;
+	            var a = $("a[method=want][deffer=" + regionid + "]");
+	            $.getJSON("http://my.lotour.com/login/login/islogin?callback=?&" + (new Date()), function (data) {
+	                if (data.uid > 0) {
+	                    $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    $('.layerBg').css('height', $(document).height()).show();
+	                }
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    }, function (data) {
+	                        SetTopState();
+	                        $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    }, 1, location.href.toString().replace("#", "") + "?rid=" + regionid + "&ReturnAction=dplace");
+	                }
+	            });
+	        });
+	        $("a[method=help]").click(function () {
+	            var regionid = $(this).attr("deffer"), rname = $(this).attr("deffername");
+	            $.getJSON('http://my.lotour.com/login/login/islogin?callback=?&' + (new Date()), function (data) {
+	                if (data.uid > 0) {
+	                    showHelp(regionid, rname);
+	                }
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        showHelp(regionid, rname);
+	                    }, function (data) {
+	                        SetTopState();
+	                        showHelp(regionid, rname);
+	                    }, 1, location.href.toString().replace("#", "") + "?rid=" + regionid + "&ReturnAction=ask");
+	                }
+	            });
+	        });
+	    });
+	    function showHelp(regionid, rname) {
+	        $('#ask_topic').fadeIn(500).loadAskPanel(0);
+	        $('.layerBg').css('height', $(document).height()).show();
+	        $('#txtAskRegionSelect1').val(rname).attr('disabled', 'disabled');
+	        $('#hidAskTopicRegionId1').val(regionid);
+	        $.ajax({
+	            cache: false,
+	            type: "GET",
+	            dataType: 'jsonp',
+	            jsonp: 'callback',
+	            url: "http://my.lotour.com/i/DPlace/AskTopic/GetBeenCount/",
+	            data: { regionId: regionid },
+	            success: function (data) {
+	                data = data.Result.Data;
+	                if (data.count > 0) {
+	                    $("#BeenMsg").html(data.count + "专家为您解答");
+	                }
+	            },
+	            error: function (xhr, textStatus, errorThrown) {
+	            }
+	        });
+	    }
+  </script>
+	<div class="tbarNewGtop"></div>
+</div>
+<!--=E 右底工具条 -->
+</body>
+</html>

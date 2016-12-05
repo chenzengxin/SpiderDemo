@@ -1,0 +1,1429 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="all"/>
+  <meta http-equiv="imagetoolbar" content="no"/>
+<title>
+沈阳住宿预订_沈阳旅游住宿_价格_攻略_推荐_游多多客栈2016</title>
+<meta name="keywords" content="沈阳住宿,沈阳旅游住宿,沈阳住宿预订,沈阳订房网"/>
+  <meta name="description" content="沈阳住宿预订,游多多客栈为您提供沈阳旅游住宿攻略,酒店,家庭旅馆,公寓,青年旅舍,客栈,农家乐,度假精品酒店等预订,全网最低价!"/>
+  <meta name="mobile-agent" content="format=html5;url=http://m.yododo.cn/hotels/Shenyang"/>
+<link rel="icon" href="http://img0.yododo.com.cn/favicon.ico" sizes="16x16"/>
+<link rel="icon" href="http://img1.yododo.com.cn/favicon_32x32.ico" sizes="32x32"/>
+<link rel="icon" href="http://img2.yododo.com.cn/favicon_128x128.png" sizes="128x128"/>
+<link rel="icon" href="http://img3.yododo.com.cn/favicon_256x256.png" sizes="256x256"/>
+<!--[if IE]><link rel="shortcut icon" href="http://img0.yododo.com.cn/favicon.ico"/><![endif]-->
+<link rel="apple-touch-icon" href="http://img1.yododo.com.cn/favicon_256x256.png"/>
+<link rel="canonical" href="http://www.yododo.cn/hotels/Shenyang"/>
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.yododo.cn/hotels/Shenyang"/>
+<link rel="stylesheet" type="text/css" href="http://img1.yododo.com.cn/_pack/h793684403.css" media="screen" charset="utf-8"/><!--[if lt IE 7]>
+  <link rel="stylesheet" type="text/css" media="screen" href="http://img1.yododo.com.cn/css/ie.1451034755.css"/>
+  <![endif]-->
+<link href="http://img1.yododo.com.cn/css/cn2014-commons.1479803289.css" type="text/css" rel="stylesheet"><script type="text/javascript">
+var _hmt = _hmt || [];
+var _gaq = _gaq || [];
+
+_gaq.push(['_setAccount', 'UA-145162-9']);
+
+_gaq.push(['_setDomainName', 'yododo.cn']);
+
+_gaq.push(['_addOrganic', 'google.cn', 'q']);
+_gaq.push(['_addOrganic', 'baidu', 'word']);
+_gaq.push(['_addOrganic', 'baidu', 'wd']);
+_gaq.push(['_addOrganic', 'soso', 'w']);
+_gaq.push(['_addOrganic', 'sogou', 'query']);
+_gaq.push(['_addOrganic', 'youdao', 'q']);
+_gaq.push(['_addOrganic', 'so.360.cn', 'q']);
+_gaq.push(['_addOrganic', 'so.cn', 'q']);
+_gaq.push(['_addOrganic', 'so.com', 'q']);
+_gaq.push(['_addOrganic', '360sou.com', 'q']);
+_gaq.push(['_addOrganic', 'vnet', 'kw']);
+_gaq.push(['_addOrganic', '3721', 'name']);
+_gaq.push(['_addOrganic', 'gougou', 'search']);
+_gaq.push(['_addOrganic', 'sm.cn', 'q']);
+_gaq.push(['_addIgnoredOrganic', '游多多']);
+_gaq.push(['_addIgnoredOrganic', '游多多旅行网']);
+_gaq.push(['_addIgnoredOrganic', '游多多旅游网']);
+_gaq.push(['_addIgnoredOrganic', '游多多网']);
+_gaq.push(['_addIgnoredOrganic', '多多驿站']);
+_gaq.push(['_addIgnoredOrganic', '游多多客栈']);
+_gaq.push(['_addIgnoredOrganic', 'yododo']);
+_gaq.push(['_addIgnoredOrganic', 'youduoduo']);
+_gaq.push(['_addIgnoredOrganic', 'youdodo']);
+_gaq.push(['_addIgnoredOrganic', 'www.yododo.com']);
+_gaq.push(['_addIgnoredOrganic', 'www.yododo.cn']);
+_gaq.push(['_trackPageview']);
+
+_gaq.push(['_setCustomVar', 1, 'VisitorType', 'Visit', 2]);
+
+try {
+var ga_cat = location.pathname.match(/^\/([a-z/])+/)[0];
+if (ga_cat) {
+_gaq.push(['_setCustomVar', 4, 'Category', ga_cat, 3]);
+}
+} catch (ga_e) {}
+
+function addTrackEvent(action, opt_label, opt_value){
+  try {
+    if(opt_value) {
+      _gaq.push(['_trackEvent', action, opt_label, opt_value]);
+      _hmt.push(['_trackEvent', action, opt_value, opt_value]);
+    } else {
+      _gaq.push(['_trackEvent', action, opt_label]);
+      _hmt.push(['_trackEvent', action, opt_label]);
+    }
+  } catch(e) {
+  }
+} 
+
+</script>
+<script type="text/javascript" src="http://img2.yododo.com.cn/_pack/h791692617.js" charset="utf-8"></script><script type="text/javascript"> var $j = jQuery.noConflict(); </script>
+</head>
+<body>
+
+  <div class="head-cn-t clearfix">
+            <div class="w984">
+              <a class="fleft" title="游多多客栈致力于为全球自助游爱好者提供旅游目的地客栈、旅舍、家庭旅馆的住宿预订平台" href="http://www.yododo.cn/">
+                <img alt="游多多客栈-自助游住宿订房首选品牌" src="http://img2.yododo.com/images/logo/logo-3.png">
+              </a>
+              <div class="head-menu-t clearfix">
+                <a  href="http://www.yododo.cn/" title="游多多客栈首页">首页</a>
+<a href="http://www.yododo.cn/hotelinn"  title="游多多品牌客栈">品牌客栈</a>
+<a class="current" href="http://www.yododo.cn/hotel/hotelmap" title="旅游住宿大全" target="_blank">旅游住宿</a>
+<a href="/hotel/map"  target="_blank" title="地图搜索">地图搜索</a>
+<a class="dn " href="http://www.yododo.cn/hotel/hotelexp" onclick="try{_gaq.push(['_trackEvent', 'cnheadermenu', 'hotelexp']);}catch(e){}" target="_blank" title="免费体验">免费体验</a>
+<a href="/hotel/dujia"  target="_blank" onclick="addTrackEvent('hotel_dujia','cn_head','menu');" title="度假">度假</a>
+<a href="http://www.yododo.cn/hotel/events/parIndex.html" target="_blank" title="客栈趴">客栈趴</a>
+<div class="h-m-ts" onclick="window.location.href='http://www.yododo.cn/hotel/events/cellphone.html'">APP下载
+  <div class="hiddendiv" style="width:180px;">
+    <img alt="游多多客栈手机客户端" src="http://img0.yododo.com/images/hotel/events/20140508/2d-1.gif">
+  </div>
+</div>
+<div class="h-m-ts">优惠活动
+  <div class="hiddendiv">
+    <a href="http://www.yododo.cn/hotel/events/summer-2016.html" target="_blank">暑促·特惠海景房</a>
+    <a href="http://www.yododo.cn/hotel/events/hotel-guide.html?cityName=Hangzhou" target="_blank">畅游杭州 </a>
+    <a href="http://www.yododo.cn/hotel/events/hotel-guide.html?cityName=Lijiang" target="_blank">玩转丽江</a>
+    <a href="http://www.yododo.cn/hotel/events/hotel-guide.html?cityName=Fenghuang" target="_blank">游凤凰</a>
+  </div>
+  <div class="hot-1"><div class="hot-rect"></div>hot</div>
+</div></div>
+              <div class="head-loginbox">
+                    <span class="w40">
+                      <a href="http://www.yododo.cn/my/register.ydd" rel="nofollow"><i title="注册" class="ft22 iconfont fcwhite">&#xF010;</i><br/>注册</a>
+                    </span>
+                    <span class="w40">
+                      <a href="/user/login.ydd" onclick="showPopupLogin(true);return false;" rel="nofollow"><i title="登录" class="ft22 iconfont fcwhite">&#xF011;</i><br/>登录</a>
+                    </span>
+                  </div>
+                <div class="ydd400" title="客服电话：400-021-1100，服务时间：9点-21点"><i class="iconfont">&#xF023;</i>400-021-1100</div>
+            </div>
+          </div>
+          <div class="h70"> </div>
+        <div class="tipdiv clearfix" id="popupLogin" style="display: none;">
+  <div class="tipinner">
+    <a class="close" href="javascript:$j.unblockUI();">关闭</a>
+    <div class="fleft">
+      <form action="/user/login.ydd" method="post" id="popupLoginForm" onsubmit="return checkPopupLoginForm(this)">
+        <table width="100%" cellspacing="0" cellpadding="0" border="0">
+          <tbody>
+          <tr>
+            <td colspan="2"><strong class="ft16">登录游多多</strong></td>
+          </tr>
+          <tr>
+            <td align="right">用户名：</td>
+            <td><input type="text" class="t01 w150" name="user.email" id="popupUseremail" placeholder="用户名/手机/邮箱"></td>
+          </tr>
+          <tr>
+            <td align="right">密 码：</td>
+            <td><input type="password" class="t01 w150" name="user.password" id="popupUserpassword" value="" placeholder="密码"> <a href="/user/forgetPassword.ydd">忘记密码？</a></td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td><input id="popupRememberMe" name="ajaxRememberMe" type="checkbox" value="true" tabindex="3"/>&nbsp;下次自动登录</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>
+              <div class="fcred" id="popupUseremail-errMsg"></div>
+              <div class="fcred" id="popupUserpassword-errMsg"></div>
+              <div class="fcred" id="popupLogin-errMsg"></div>
+            </td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td><input type="submit" value="登录" name="submit" class="btn-f"></td>
+          </tr>
+          </tbody>
+        </table>
+
+      </form>
+    </div>
+    <div class="fright">
+      <div style="margin-bottom:15px;">没有帐号？<a href="javascript:window.location.href='/my/register.ydd?rd='+getRdHref()" class="fcorange">立即注册</a></div>
+      <div style="margin-bottom:25px;" class="ft14">合作网站直接登录</div>
+      <div>
+        <button title="用QQ帐号登录" class="qqlogin" onclick="javascript:window.location.href='http://www.yododo.com/user/connect/qq/login.ydd?rd='+getRdHref()" type="button">用QQ帐号登录</button>
+        <button title="用微博帐号登录" class="weibologin" onclick="javascript:window.location.href='http://www.yododo.com/user/connect/weibo/login.ydd?rd='+getRdHref()" type="button">用微博帐号登录</button>
+        <button title="用豆瓣帐号登录" class="doubanlogin" onclick="javascript:window.location.href='http://www.yododo.com/user/connect/douban/login.ydd?rd='+getRdHref()" type="button">用豆瓣帐号登录</button>
+        <button title="用微信帐号登录" class="weixinlogin" onclick="javascript:window.location.href='http://www.yododo.com/user/connect/weixin/login.ydd?rd='+getRdHref()" type="button">用微信帐号登录</button>
+      </div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" src="http://img1.yododo.com.cn/js/jquery.blockUI-2.60.min.1451034766.js"></script>
+<script type="text/javascript">
+  //<![CDATA[
+  var loginSuccessCallback = null;
+  var loginSuccessReload = false;
+  function popupSyncLogin(loginname, loginpassword, remeber){
+    $j.ajax({url: '/user/ajaxHotelLogin.ydd',
+              type: 'POST',
+              data: 'ajaxloginemail='+loginname+"&ajaxloginpassword="+loginpassword+"&rememberMe="+remeber,
+              dataType: 'json',
+              timeout: 10000,
+              success: function(msg) {
+                var status = msg.sta;
+                if(status == 'field') {
+                  $j("#popupLogin-errMsg").text(msg.message);
+                  if(msg.verifycode && msg.verifycode != '') {
+                    window.location.href="/user/login.ydd?rd=" + getRdHref();
+                  }
+                } else {
+                  $j("#top_land_show").html(msg.message);
+                  if(loginSuccessCallback) {
+                    loginSuccessCallback();
+                  }
+                  if(loginSuccessReload){
+                    window.location.reload(true);
+                  }
+                }
+                return false;
+              }
+            });
+  }
+
+  function checkPopupLoginForm(form) {
+    var loginname = $j("#popupUseremail").attr("value").trim();
+    var loginpassword = $j("#popupUserpassword").attr("value").trim();
+    var loginpassword64 = BASE64.encode(loginpassword);
+    var verifycode="";
+    var rememberMe = false;
+    $j("#popupUseremail-errMsg").html("");
+    $j("#popupUserpassword-errMsg").html("");
+    $j("#popupLogin-errMsg").html("");
+    if(loginname.length < 1) {
+      $j("#popupUseremail-errMsg").html("请输入用户名！");
+      return false;
+    }
+    if(loginpassword.length < 1) {
+      $j("#popupUserpassword-errMsg").html("请输入密码！");
+      return false;
+    }
+    if($j("#popupRememberMe").attr("checked") == 'checked') {
+      rememberMe = true;
+    }
+    $j.getJSON("http://www.yododo.com/go/app/cn/hotelUserAutoLogin.ydd?callback=?",
+               {"ajaxloginemail" : loginname,
+                 "ajaxloginpassword64" : loginpassword64,
+                 "ajaxverifycode" : verifycode,
+                 "ajaxRememberMe" : rememberMe
+               }, function(json){
+          if(json.loginstatus == 'loginsuccess') {
+            popupSyncLogin(json.loginname, json.loginpwd,rememberMe);
+          } else {
+            $j("#popupLogin-errMsg").text(json.errorMsg);
+            if(json.verifycode == 'true' || json.loginstatus == 'verifyfailed'){
+              window.location.href="/user/login.ydd?rd=" + getRdHref();
+            }
+          }
+        }
+    );
+    return false;
+  }
+
+  function showPopupLogin(reloadAftersuccess,successCallback) {
+    loginSuccessReload = reloadAftersuccess;
+    loginSuccessCallback = successCallback;
+    $j.blockUI({message:$j("#popupLogin"),css:{top: '50%','margin-top': -150, left: '50%', 'margin-left': -275, border:'none', 'background-color': 'transparent', cursor: 'default', width:570, height:'auto', 'text-align':'left'},overlayCSS:{cursor: 'default'}});
+  }
+  //]]>
+</script>
+<link type="text/css" href="http://img2.yododo.com.cn/css/jquery-ui-1.9.custom.1451034755.css"  rel="stylesheet">
+<link rel="stylesheet" href="http://img0.yododo.com.cn/css/jquery-ui-cnAutoComplete.1451034755.css"/>
+<link type="text/css" href="http://img0.yododo.com.cn/js/poshytip/tip-yellowsimple/tip-yellowsimple.1451034767.css" rel="stylesheet">
+<style type="text/css">
+  @font-face {font-family: "ydd";src: url("/css/ydd.v002.eot"); src: url("/css/ydd.v002.eot#iefix") format("embedded-opentype"), url("/css/ydd.v002.ttf")  format("truetype"); }
+  .iconfont {font-family:"ydd";font-style: normal;font-weight: normal; -webkit-font-smoothing: antialiased;}
+</style>
+<script type="text/javascript" src="http://img2.yododo.com.cn/_pack/h-1711347750.js" charset="utf-8"></script><script type="text/javascript" src="http://img3.yododo.com.cn/js/jquery-ui-1.9.2.min.1451034767.js"></script>
+
+<div class="cn-crumb w984 clearfix" >
+    <div class="fleft">
+    当前位置：&nbsp;
+    <a href="/">旅游住宿</a> <span>&gt;</span>
+        <a href="/hotels/Shenyang">沈阳住宿</a>
+              <script type="text/javascript">
+    //<![CDATA[
+      $j('#mainmenus, #areaHotelMenu, #adHotelMenu').mouseleave(function(){
+        $j(this).hide();
+      });
+    //]]>
+    </script>
+
+    </div>
+    
+    </div>
+<div class="n13-gotop">
+  <a class="gt1" id="headerRightTop" rel="nofollow" style="display: none;" href="javascript:window.scrollTo(0,0);" title="返回页面顶部"><p>回顶部</p></a>
+  <a class="gt3" href="javascript:;" rel="nofollow">手机预订更优惠<span title="游多多微信二维码"><img src="http://img0.yododo.com/images/hotel/events/20140508/2d-1.gif" alt="游多多微信二维码"/><div style="margin-top:7px;">下载APP,预订更优惠</div></span></a>
+</div>
+
+<div class="cn-l-sbox w984 prel">
+  <div class="safety" id="safety_top_div" style="cursor: pointer;display: none;" onclick="window.open('/hotel/events/safetyws.html','_blank')">
+                    中国最大、最安全的驿站住宿预订平台,入住保障，无房双倍赔偿,游多多获得两千五百万投资！游多多客栈天猫专营店铺开张
+    </div>
+  <form class="normalForm" id="searchTable" action="/hotels/Shenyang" method="post" onsubmit="return checkForm(this);">
+    <div class="head">
+      城市/景区 <span><input id="from" class="city" type="text" value="沈阳" onclick="if(this.value == ''){$j('#quicklinkdiv_from_content').show();}" onblur="if (value=='') {value='选择城市/景区'}" onkeydown="$j('#quicklinkdiv_from_content').hide();" onfocus="if(value=='选择城市/景区') {value=''}" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true"></span>
+    <input type="hidden" name="pid" id="pid" value="1-01-17-36-01"/>
+    <input type="hidden" name="placeName" id="placeName" value="Shenyang"/>
+    <input type="hidden" name="spotName" id="spotName" value=""/>
+    <input type="hidden" name="targetUrl" id="targetUrl" value="/hotels/Shenyang">
+    <div class="nodate" style="display: none; left:87px"></div>
+        入住 <span><input class="date" type="text" autocomplete="off" title="入住日期" name="starttime" id="starttime" value="2016-12-06"></span>
+        离店 <span><input class="date" type="text" autocomplete="off" title="离店日期" name="endtime" id="endtime" value="2016-12-07"></span>
+        名称 <span><input id="hostel-name" style="width:220px" name="name" type="text" value="" onblur="if (value=='') {value='输入驿站名称或地址'}" onfocus="if(value=='输入驿站名称或地址') {value=''}"></span>
+        <input type="submit" title="搜索" value="搜 索" name="submit">
+        <div id="from-errMsg" class="fcred" style="display:none; padding-left: 80px;"></div>
+        <div id="starttime-errMsg" class="fcred" style="display:none; padding-left: 80px;"></div>
+        <div id="endtime-errMsg" class="fcred" style="display:none; padding-left: 80px;"></div>
+        <div id="hostel-name-errMsg" class="fcred errMsg" style="display:none; padding-left: 80px;"></div>
+    </div>
+    <div id="citySearchTableAjax">
+    </div>
+    <div class="safety-seven" id="safetySeven" style="z-index: 10;display: none;">
+        <a href="/hotel/events/safetyws.html" target="_blank"><img src="http://img0.yododo.com.cn/images/newhotel/sevenyear/seven.jpg" width="200" height="40" alt="服务7年，入住有保障" /> </a>
+    </div>
+  </form>
+    
+  <div class="opt clearfix">
+    <input type="hidden" name="from" value=""/>
+    <input type="hidden" name="starttime" value="2016-12-06"/>
+    <input type="hidden" name="endtime" value="2016-12-07"/>
+    <input type="hidden" id="sort" name="sort" value=""/>
+    <input type="hidden" id="price" name="price" value=""/>
+    <input type="hidden" id="nearbySid" name="nearbySid" value=""/>
+    <input type="hidden" id="zoneid" name="zoneid" value=""/>
+    <input type="hidden" id="distid" name="distid" value=""/>
+    <input type="hidden" id="star" name="star" value=""/>
+    <input type="hidden" name="fromUrl" id="fromUrl" value="hotels"/>
+    <input type="hidden" name="type" id="type" value=""/>
+    <div class="slei-b clearfix">
+      <strong class="fleft"><i title="价格" class="iconfont">&#xF018;</i>价格</strong>
+      <ul class="fleft clearfix">
+        <li class="current"><input type="radio" name="price" value="0"  checked="checked"><span class="priceLink">全部</span></li>
+        <li ><input name="price" type="radio" value="100" ><span class="priceLink">100元以下</span></li>
+        <li ><input name="price" type="radio" value="100-200" ><span class="priceLink">100-200元</span></li>
+        <li ><input name="price" type="radio" value="200-300" ><span class="priceLink">200-300元</span></li>
+        <li ><input name="price" type="radio" value="300" ><span class="priceLink">300元以上</span></li>
+        <li class="sp"> 自定义
+          <input id="spprice" type="radio" value="-" name="price"  style="display: none;">
+          <input class="spinput" type="text" id="spstart" value="">到<input class="spinput" type="text" id="spend" value="">
+          <a class="spsubmit" id="spsubmit" href="#">确定</a>
+          <span id="sp-errMsg" class="fcred">
+        </li>
+      </ul>
+    </div>
+    <div class="slei-b clearfix">
+        <strong class="fleft"><i title="位置" class="iconfont">&#xF055;</i>位置</strong>
+        <ul class="fleft clearfix">
+          <li class="current"><input name="zoneid" type="radio" value=""  checked="checked"><span class="zoneLink">全部</span></li>
+          <li ><input type="radio" name="zoneid" value="697" /><span class="zoneLink" title="和平区">和平区</span></li>
+              <li ><input type="radio" name="zoneid" value="696" /><span class="zoneLink" title="沈河区">沈河区</span></li>
+              <li ><input type="radio" name="zoneid" value="693" /><span class="zoneLink" title="老工业区">老工业区</span></li>
+              <li ><input type="radio" name="zoneid" value="695" /><span class="zoneLink" title="沈北新区">沈北新区</span></li>
+              <li ><input type="radio" name="zoneid" value="694" /><span class="zoneLink" title="大东区">大东区</span></li>
+              </ul>
+      </div>
+      <div class="more">
+        <a id="zone-trigger" href="javaScript:void(0);" class="fcorange2">更多<i class="iconfont">&#xF056;</i></a><div id="zone" class="sub clearfix" style="display:none">
+            <ul class="fleft of-y clearfix">
+              <li ><input name="zoneid" type="radio" value="691" /><span class="zoneLink" title="商业金融中心区">商业金融中心区</span></li>
+                  <li ><input name="zoneid" type="radio" value="Shenyanggugong" /><span class="zoneLink" title="沈阳故宫">沈阳故宫</span></li>
+                  <li ><input name="zoneid" type="radio" value="Zhangshishuaifu" /><span class="zoneLink" title="张氏帅府">张氏帅府</span></li>
+                  <li ><input name="zoneid" type="radio" value="Taiqinggong" /><span class="zoneLink" title="太清宫">太清宫</span></li>
+                  <li ><input name="zoneid" type="radio" value="Shenyangshiboyuan" /><span class="zoneLink" title="沈阳世博园">沈阳世博园</span></li>
+                  <li ><input name="zoneid" type="radio" value="Nanhugongyuan" /><span class="zoneLink" title="南湖公园">南湖公园</span></li>
+                  <li ><input name="zoneid" type="radio" value="Shenyangbeiling" /><span class="zoneLink" title="沈阳北陵">沈阳北陵</span></li>
+                  <li ><input name="zoneid" type="radio" value="Qingniangongyuan" /><span class="zoneLink" title="青年公园">青年公园</span></li>
+                  <li ><input name="zoneid" type="radio" value="Shenyanglaodonggongyuan" /><span class="zoneLink" title="沈阳劳动公园">沈阳劳动公园</span></li>
+                  <li ><input name="zoneid" type="radio" value="Liaoninshenbowuguan" /><span class="zoneLink" title="辽宁省博物馆">辽宁省博物馆</span></li>
+                  <li ><input name="zoneid" type="radio" value="Zhaoling" /><span class="zoneLink" title="昭陵">昭陵</span></li>
+                  <li ><input name="zoneid" type="radio" value="Jiuyaobashibianbowuguan" /><span class="zoneLink" title="九·一八事变博物馆">九·一八事变博物</span></li>
+                  <li ><input name="zoneid" type="radio" value="Shenyangzhiwuyuan" /><span class="zoneLink" title="沈阳植物园">沈阳植物园</span></li>
+                  <li ><input name="zoneid" type="radio" value="Zhouenlaishaoniandushujiuzhi" /><span class="zoneLink" title="周恩来少年读书旧址">周恩来少年读书旧</span></li>
+                  <li ><input name="zoneid" type="radio" value="Qingzhensi" /><span class="zoneLink" title="清真寺">清真寺</span></li>
+                  <li ><input name="zoneid" type="radio" value="Ciensi" /><span class="zoneLink" title="慈恩寺">慈恩寺</span></li>
+                  <li ><input name="zoneid" type="radio" value="Nanyunhedaizhuanggongyuan" /><span class="zoneLink" title="南运河带状公园">南运河带状公园</span></li>
+                  <li ><input name="zoneid" type="radio" value="Banruosi" /><span class="zoneLink" title="般若寺">般若寺</span></li>
+                  <li ><input name="zoneid" type="radio" value="Shenyangtieluzhengqijichechenlieguan" /><span class="zoneLink" title="沈阳铁路蒸汽机车陈列馆">沈阳铁路蒸汽机车</span></li>
+                  <li ><input name="zoneid" type="radio" value="Shenyangbingchuandongwuyuan" /><span class="zoneLink" title="沈阳冰川动物园">沈阳冰川动物园</span></li>
+                  <li ><input name="zoneid" type="radio" value="shenyangniaodao" /><span class="zoneLink" title="沈阳鸟岛">沈阳鸟岛</span></li>
+                  <li ><input name="zoneid" type="radio" value="Dafasi" /><span class="zoneLink" title="大法寺">大法寺</span></li>
+                  <li ><input name="zoneid" type="radio" value="Qingchusisita" /><span class="zoneLink" title="清初四寺塔">清初四寺塔</span></li>
+                  <li ><input name="zoneid" type="radio" value="Shenyangfangtehuanleshijie" /><span class="zoneLink" title="沈阳方特欢乐世界">沈阳方特欢乐世界</span></li>
+                  <li ><input name="zoneid" type="radio" value="Donglinggongyuan" /><span class="zoneLink" title="东陵公园(福陵)">东陵公园(福陵)</span></li>
+                  <li ><input name="zoneid" type="radio" value="Shenyangtaoxianjichang" /><span class="zoneLink" title="沈阳桃仙国际">沈阳桃仙国际</span></li>
+                  <li ><input name="zoneid" type="radio" value="Huishanfengjingqu" /><span class="zoneLink" title="辉山风景区">辉山风景区</span></li>
+                  <li ><input name="zoneid" type="radio" value="Qipanshanbingxuedashijie" /><span class="zoneLink" title="棋盘山冰雪大世界">棋盘山冰雪大世界</span></li>
+                  </ul>
+            <a rel="nofollow" title="关闭" class="close" href="javascript:void(0);" id="zone-close"><i class="iconfont" title="关闭">&#xF054;</i></a>
+          </div>
+        </div>
+    <div class="slei-b clearfix">
+      <strong class="fleft"><i title="类型" class="iconfont" style="font-size: 34px">&#xF064;</i>类型</strong>
+      <ul class="fleft clearfix">
+        <li class="current"><input type="radio" checked="checked" value="" name="type" typeurl="hotels"><span class="typeLink" rel="nofollow">全部</span></li>
+        <li ><input  name="type"  type="radio" value="1" typeurl="lvshe"/><span class="typeLink">青年旅社</span></li>  
+        <li ><input  name="type"  type="radio" value="2" typeurl="kezhan"/><span class="typeLink">客栈</span></li>  
+        <li ><input  name="type"  type="radio" value="3" typeurl="lvguan"/><span class="typeLink">家庭旅馆</span></li>  
+        <li ><input  name="type"  type="radio" value="5" typeurl="gongyu"/><span class="typeLink">酒店式公寓</span></li>  
+        <li ><input  name="type"  type="radio" value="6" typeurl="jingji"/><span class="typeLink">经济型酒店</span></li>  
+        <li ><input  name="type"  type="radio" value="7" typeurl="dujia"/><span class="typeLink">度假酒店</span></li>  
+        <li ><input  name="type"  type="radio" value="8" typeurl="jingpin"/><span class="typeLink">精品酒店</span></li>  
+        <li ><input  name="type"  type="radio" value="9" typeurl="duanzu"/><span class="typeLink">短租公寓</span></li>  
+        <li ><input  name="type"  type="radio" value="10" typeurl="nongjiale"/><span class="typeLink">农家乐</span></li>  
+        </ul>
+      
+    </div>
+
+  </div>
+  
+  <div class="result clearfix">
+    <h1>沈阳住宿</h1>
+    <strong><span>10</span>家客栈满足条件</strong>
+    <ul>
+      </ul>
+  </div>
+</div>
+<form id="goMapForm" action="/hotel/map/Shenyang" target="_blank" method="get">
+  <input type="hidden" name="checkin" id="goMapCheckin"/>
+  <input type="hidden" name="checkout" id="goMapCheckout"/>
+</form>
+<div class="w984 mb15 mauto clearfix">
+  <div class="cn-hfilter clearfix" id="orderDiv">
+            <a title="推荐排序" class="on-down" href="/hotels/Shenyang">多多推荐</a>
+            <a title="按促销排序" class="down" href="/hotels/Shenyang/0_promotionDesc">促销优惠</a>
+              <a title="按用户点评数量排序" class="down" href="/hotels/Shenyang/0_scorenum">点评数量</a>
+              <a href="/hotels/Shenyang/0_pricefrom" class="up" title="房间价格按照从低到高排序">房间价格</a>
+              </div>
+        <textarea name="hotelIds" id="hotelIds" style="display: none">0136A03C75C01A3BFF808081369D79FC_1__01512887FC3C0093FF8080815126668B_2__013E0796234E0215FF8080813E05E412_3__01369B00CC710EF8FF8080813698A166_4__014DC1B820400053FF8080814DC019D0_5__012FAFFA8C3D2958FF8080812FAD2934_6__014CC112C1870131FF8080814CBF027A_7__013F275AD2580238FF8080813F2556C2_8__0137026B752D0E5EFF80808136FFA74F_9__012CE3874E791EFBFF8080812CE1552C_10__</textarea>
+      <input type="hidden" name="posNums" id="posNums" value="h1_h2_h3_h4_h5_h6_h7_h8_h9_h10_" />
+      <div class="cn-hlist">
+        <ul id="hostel-list">
+          <li class="yddHotel" style="z-index:50;position: relative;">
+  <div style="display: none;">
+    <div class="mpt" id="info-0136A03C75C01A3BFF808081369D79FC" data-geo-lng="123.40105955293" data-geo-lat="41.78958771591">
+      <div class="mpt1 ">
+      <span seq="">1</span>
+      <p>&yen;520</p>
+      </div><div class="sjdot">&nbsp;</div>
+    </div>
+  </div>
+  <div class="hintro">
+    <div class="himg">
+      <a class="himga" href="/hotel/0136A03C75C01A3BFF808081369D79FC" target="_blank">
+        <img class="lazy" src="http://img0.yododo.com/white.gif" data-href="http://img0.yododo.com.cn/files/review/0136/0136A0570A531DF3FF808081369D79FC_ml.jpg" alt="沈阳住宿沈阳万达夜归人日租短租公寓图片" title="沈阳万达夜归人日租短租公寓"><span class="cu" id="cuTip-0136A03C75C01A3BFF808081369D79FC" style="display: none;">促</span>
+        <div id="cuInfo-0136A03C75C01A3BFF808081369D79FC" style="display: none;"></div>
+        </a>
+      <p class="level">
+        <span class="fright2">
+          </span>
+        <a rel="nofollow" class="lv2" target="_blank" title="驿站等级2级" href="/hotel/events/xypj.html"><i title="驿站等级2级" class="iconfont">&#xF049;&#xF049;&#xF049;&#xF049;&#xF049;</i></a></p>
+    </div>
+
+    <strong class="htitle">
+      <a class="ft16" href="/hotel/0136A03C75C01A3BFF808081369D79FC" target="_blank">沈阳万达夜归人日租短租公寓</a>
+      <a class="ft12" href="/gongyu/Shenyang">酒店式公寓</a><span>
+        </span>
+    </strong>
+    <div class="sub">
+      <div><strong>4.8</strong>/5分</div>
+      <a href="/hotel/0136A03C75C01A3BFF808081369D79FC?starttime=2016-12-06&endtime=2016-12-07&inittab=reviews" class="fcorange2" target="_blank">0位住客点评</a>
+    </div>
+    <p class="prel"><strong>地址:</strong>沈阳市和平区万达新天地天河座
+          &nbsp;&nbsp;<a class="fcorange2" rel="nofollow" href="javascript:void(0)" onclick="hotelMapShow(123.40105955293, 41.78958771591);">地图</a>
+        </p>
+      <div class="rlist" id="h1" >
+        <span style="text-align: center;display: block;">
+          <img src="http://img3.yododo.com/images/newhotel/cnBigLoading.gif" alt="读取中...">
+        </span>
+      </div>
+  </div>
+</li>
+<li class="yddHotel" style="z-index:49;position: relative;">
+  <div style="display: none;">
+    <div class="mpt" id="info-01512887FC3C0093FF8080815126668B" data-geo-lng="123.093586" data-geo-lat="41.921238">
+      <div class="mpt1 ">
+      <span seq="">2</span>
+      <p>&yen;308</p>
+      </div><div class="sjdot">&nbsp;</div>
+    </div>
+  </div>
+  <div class="hintro">
+    <div class="himg">
+      <a class="himga" href="/hotel/01512887FC3C0093FF8080815126668B" target="_blank">
+        <img class="lazy" src="http://img0.yododo.com/white.gif" data-href="http://img1.yododo.com.cn/files/review/0151/0151378469B30010FF80808151377677_ml.jpg" alt="沈阳住宿沈阳美国郡Boss波士汇度假别墅酒店图片" title="沈阳美国郡Boss波士汇度假别墅酒店"><span class="cu" id="cuTip-01512887FC3C0093FF8080815126668B" style="display: none;">促</span>
+        <div id="cuInfo-01512887FC3C0093FF8080815126668B" style="display: none;"></div>
+        </a>
+      <p class="level">
+        <span class="fright2">
+          </span>
+        <a rel="nofollow" class="lv1" target="_blank" title="驿站等级1级" href="/hotel/events/xypj.html"><i title="驿站等级1级" class="iconfont">&#xF049;&#xF049;&#xF049;&#xF049;&#xF049;</i></a></p>
+    </div>
+
+    <strong class="htitle">
+      <a class="ft16" href="/hotel/01512887FC3C0093FF8080815126668B" target="_blank">沈阳美国郡Boss波士汇度假别墅酒店</a>
+      <a class="ft12" href="/dujia/Shenyang">度假酒店</a><span>
+        </span>
+    </strong>
+    <p class="prel"><strong>地址:</strong>新民市兴隆堡镇中兴路10-2-10
+          &nbsp;&nbsp;<a class="fcorange2" rel="nofollow" href="javascript:void(0)" onclick="hotelMapShow(123.093586, 41.921238);">地图</a>
+        </p>
+      <div class="rlist" id="h2" >
+        <span style="text-align: center;display: block;">
+          <img src="http://img3.yododo.com/images/newhotel/cnBigLoading.gif" alt="读取中...">
+        </span>
+      </div>
+  </div>
+</li>
+<li class="yddHotel" style="z-index:48;position: relative;">
+  <div style="display: none;">
+    <div class="mpt" id="info-013E0796234E0215FF8080813E05E412" data-geo-lng="123.477616" data-geo-lat="41.808998">
+      <div class="mpt1 ">
+      <span seq="">3</span>
+      <p>&yen;148</p>
+      </div><div class="sjdot">&nbsp;</div>
+    </div>
+  </div>
+  <div class="hintro">
+    <div class="himg">
+      <a class="himga" href="/hotel/013E0796234E0215FF8080813E05E412" target="_blank">
+        <img class="lazy" src="http://img0.yododo.com/white.gif" data-href="http://img2.yododo.com.cn/files/review/013E/013E10EBAD8C0140FF8080813E0FDB3A_ml.jpg" alt="沈阳住宿沈阳海天快捷短租公寓中街店图片" title="沈阳海天快捷短租公寓中街店"><span class="cu" id="cuTip-013E0796234E0215FF8080813E05E412" style="display: none;">促</span>
+        <div id="cuInfo-013E0796234E0215FF8080813E05E412" style="display: none;"></div>
+        </a>
+      <p class="level">
+        <span class="fright2">
+          </span>
+        <a rel="nofollow" class="lv1" target="_blank" title="驿站等级6级" href="/hotel/events/xypj.html"><i title="驿站等级6级" class="iconfont">&#xF050;&#xF050;&#xF050;&#xF050;&#xF050;</i></a></p>
+    </div>
+
+    <strong class="htitle">
+      <a class="ft16" href="/hotel/013E0796234E0215FF8080813E05E412" target="_blank">沈阳海天快捷短租公寓中街店</a>
+      <a class="ft12" href="/duanzu/Shenyang">短租公寓</a><span>
+        </span>
+    </strong>
+    <div class="sub">
+      <div><strong>5.0</strong>/5分</div>
+      <a href="/hotel/013E0796234E0215FF8080813E05E412?starttime=2016-12-06&endtime=2016-12-07&inittab=reviews" class="fcorange2" target="_blank">1位住客点评</a>
+    </div>
+    <p class="prel"><strong>地址:</strong>大悦城D2座26层
+          &nbsp;&nbsp;<a class="fcorange2" rel="nofollow" href="javascript:void(0)" onclick="hotelMapShow(123.477616, 41.808998);">地图</a>
+        </p>
+      <p class="fcgary"><i class="iconfont">&#xF046;</i><span class="partialDisplay">公寓不错，下次去沈阳还会去住，交通也方便就在地铁口右边北邻十几步远</span><i class="iconfont">&#xF047;</i></p>
+      <div class="rlist" id="h3" >
+        <span style="text-align: center;display: block;">
+          <img src="http://img3.yododo.com/images/newhotel/cnBigLoading.gif" alt="读取中...">
+        </span>
+      </div>
+  </div>
+</li>
+<li class="yddHotel" style="z-index:47;position: relative;">
+  <div style="display: none;">
+    <div class="mpt" id="info-01369B00CC710EF8FF8080813698A166" data-geo-lng="123.39695637764" data-geo-lat="41.805145731325">
+      <div class="mpt1 ">
+      <span seq="">4</span>
+      <p>&yen;125</p>
+      </div><div class="sjdot">&nbsp;</div>
+    </div>
+  </div>
+  <div class="hintro">
+    <div class="himg">
+      <a class="himga" href="/hotel/01369B00CC710EF8FF8080813698A166" target="_blank">
+        <img class="lazy" src="http://img0.yododo.com/white.gif" data-href="http://img1.yododo.com.cn/files/review/013F/013F0DB2A8410294FF8080813F0C2D44_ml.jpg" alt="沈阳住宿沈阳海天公寓铁西店图片" title="沈阳海天公寓铁西店"><span class="cu" id="cuTip-01369B00CC710EF8FF8080813698A166" style="display: none;">促</span>
+        <div id="cuInfo-01369B00CC710EF8FF8080813698A166" style="display: none;"></div>
+        </a>
+      <p class="level">
+        <span class="fright2">
+          </span>
+        <a rel="nofollow" class="lv4" target="_blank" title="驿站等级4级" href="/hotel/events/xypj.html"><i title="驿站等级4级" class="iconfont">&#xF049;&#xF049;&#xF049;&#xF049;&#xF049;</i></a></p>
+    </div>
+
+    <strong class="htitle">
+      <a class="ft16" href="/hotel/01369B00CC710EF8FF8080813698A166" target="_blank">沈阳海天公寓铁西店</a>
+      <a class="ft12" href="/duanzu/Shenyang">短租公寓</a><span>
+        </span>
+    </strong>
+    <div class="sub">
+      <div><strong>5.0</strong>/5分</div>
+      <a href="/hotel/01369B00CC710EF8FF8080813698A166?starttime=2016-12-06&endtime=2016-12-07&inittab=reviews" class="fcorange2" target="_blank">0位住客点评</a>
+    </div>
+    <p class="prel"><strong>地址:</strong>沈阳市铁西区兴工北街64甲海韵锦江国际大酒店B座公寓
+          &nbsp;&nbsp;<a class="fcorange2" rel="nofollow" href="javascript:void(0)" onclick="hotelMapShow(123.39695637764, 41.805145731325);">地图</a>
+        </p>
+      <div class="rlist" id="h4" >
+        <span style="text-align: center;display: block;">
+          <img src="http://img3.yododo.com/images/newhotel/cnBigLoading.gif" alt="读取中...">
+        </span>
+      </div>
+  </div>
+</li>
+<li class="yddHotel" style="z-index:46;position: relative;">
+  <div style="display: none;">
+    <div class="mpt" id="info-014DC1B820400053FF8080814DC019D0" data-geo-lng="123.477782" data-geo-lat="41.808761">
+      <div class="mpt1 ">
+      <span seq="">5</span>
+      <p>&yen;118</p>
+      </div><div class="sjdot">&nbsp;</div>
+    </div>
+  </div>
+  <div class="hintro">
+    <div class="himg">
+      <a class="himga" href="/hotel/014DC1B820400053FF8080814DC019D0" target="_blank">
+        <img class="lazy" src="http://img0.yododo.com/white.gif" data-href="http://img1.yododo.com.cn/files/review/014E/014EDCCDFDBE000FFF8080814EDBEC08_ml.jpg" alt="沈阳住宿沈阳美宿时尚公寓-中街大悦城店图片" title="沈阳美宿时尚公寓-中街大悦城店"><span class="cu" id="cuTip-014DC1B820400053FF8080814DC019D0" style="display: none;">促</span>
+        <div id="cuInfo-014DC1B820400053FF8080814DC019D0" style="display: none;"></div>
+        </a>
+      <p class="level">
+        <span class="fright2">
+          </span>
+        <a rel="nofollow" class="lv5" target="_blank" title="驿站等级5级" href="/hotel/events/xypj.html"><i title="驿站等级5级" class="iconfont">&#xF049;&#xF049;&#xF049;&#xF049;&#xF049;</i></a></p>
+    </div>
+
+    <strong class="htitle">
+      <a class="ft16" href="/hotel/014DC1B820400053FF8080814DC019D0" target="_blank">沈阳美宿时尚公寓-中街大悦城店</a>
+      <a class="ft12" href="/gongyu/Shenyang">酒店式公寓</a><span>
+        </span>
+    </strong>
+    <p class="prel"><strong>地址:</strong>东中街大悦城D2公寓
+          &nbsp;&nbsp;<a class="fcorange2" rel="nofollow" href="javascript:void(0)" onclick="hotelMapShow(123.477782, 41.808761);">地图</a>
+        </p>
+      <div class="rlist" id="h5" >
+        <span style="text-align: center;display: block;">
+          <img src="http://img3.yododo.com/images/newhotel/cnBigLoading.gif" alt="读取中...">
+        </span>
+      </div>
+  </div>
+</li>
+<li class="yddHotel" style="z-index:45;position: relative;">
+  <div style="display: none;">
+    <div class="mpt" id="info-012FAFFA8C3D2958FF8080812FAD2934" data-geo-lng="123.406093" data-geo-lat="41.796114">
+      <div class="mpt1 ">
+      <span seq="">6</span>
+      <p>&yen;118</p>
+      </div><div class="sjdot">&nbsp;</div>
+    </div>
+  </div>
+  <div class="hintro">
+    <div class="himg">
+      <a class="himga" href="/hotel/012FAFFA8C3D2958FF8080812FAD2934" target="_blank">
+        <img class="lazy" src="http://img0.yododo.com/white.gif" data-href="http://img1.yododo.com.cn/files/review/013E/013E6442B133027BFF8080813E61B800_ml.jpg" alt="沈阳住宿丽致公寓酒店太原街店图片" title="丽致公寓酒店太原街店"><span class="cu" id="cuTip-012FAFFA8C3D2958FF8080812FAD2934" style="display: none;">促</span>
+        <div id="cuInfo-012FAFFA8C3D2958FF8080812FAD2934" style="display: none;"></div>
+        </a>
+      <p class="level">
+        <span class="fright2">
+          </span>
+        <a rel="nofollow" class="lv5" target="_blank" title="驿站等级5级" href="/hotel/events/xypj.html"><i title="驿站等级5级" class="iconfont">&#xF049;&#xF049;&#xF049;&#xF049;&#xF049;</i></a></p>
+    </div>
+
+    <strong class="htitle">
+      <a class="ft16" href="/hotel/012FAFFA8C3D2958FF8080812FAD2934" target="_blank">丽致公寓酒店太原街店</a>
+      <a class="ft12" href="/gongyu/Shenyang">酒店式公寓</a><span>
+        </span>
+    </strong>
+    <div class="sub">
+      <div><strong>4.3</strong>/5分</div>
+      <a href="/hotel/012FAFFA8C3D2958FF8080812FAD2934?starttime=2016-12-06&endtime=2016-12-07&inittab=reviews" class="fcorange2" target="_blank">0位住客点评</a>
+    </div>
+    <p class="prel"><strong>地址:</strong>和平区太原南街16号万达广场天籁座22层
+          &nbsp;&nbsp;<a class="fcorange2" rel="nofollow" href="javascript:void(0)" onclick="hotelMapShow(123.406093, 41.796114);">地图</a>
+        </p>
+      <div class="rlist" id="h6" >
+        <span style="text-align: center;display: block;">
+          <img src="http://img3.yododo.com/images/newhotel/cnBigLoading.gif" alt="读取中...">
+        </span>
+      </div>
+  </div>
+</li>
+<li class="yddHotel" style="z-index:44;position: relative;">
+  <div style="display: none;">
+    <div class="mpt" id="info-014CC112C1870131FF8080814CBF027A" data-geo-lng="123.396105" data-geo-lat="41.803407">
+      <div class="mpt1 ">
+      <span seq="">7</span>
+      <p>&yen;118</p>
+      </div><div class="sjdot">&nbsp;</div>
+    </div>
+  </div>
+  <div class="hintro">
+    <div class="himg">
+      <a class="himga" href="/hotel/014CC112C1870131FF8080814CBF027A" target="_blank">
+        <img class="lazy" src="http://img0.yododo.com/white.gif" data-href="http://img1.yododo.com.cn/files/review/014C/014CC11E60E00140FF8080814CBF027A_ml.jpg" alt="沈阳住宿姐妹酒店中星店图片" title="姐妹酒店中星店"><span class="cu" id="cuTip-014CC112C1870131FF8080814CBF027A" style="display: none;">促</span>
+        <div id="cuInfo-014CC112C1870131FF8080814CBF027A" style="display: none;"></div>
+        </a>
+      <p class="level">
+        <span class="fright2">
+          </span>
+        <a rel="nofollow" class="lv1" target="_blank" title="驿站等级1级" href="/hotel/events/xypj.html"><i title="驿站等级1级" class="iconfont">&#xF049;&#xF049;&#xF049;&#xF049;&#xF049;</i></a></p>
+    </div>
+
+    <strong class="htitle">
+      <a class="ft16" href="/hotel/014CC112C1870131FF8080814CBF027A" target="_blank">姐妹酒店中星店</a>
+      <a class="ft12" href="/gongyu/Shenyang">酒店式公寓</a><span>
+        </span>
+    </strong>
+    <p class="prel"><strong>地址:</strong>铁西区兴工北街73号
+          &nbsp;&nbsp;<a class="fcorange2" rel="nofollow" href="javascript:void(0)" onclick="hotelMapShow(123.396105, 41.803407);">地图</a>
+        </p>
+      <div class="rlist" id="h7" >
+        <span style="text-align: center;display: block;">
+          <img src="http://img3.yododo.com/images/newhotel/cnBigLoading.gif" alt="读取中...">
+        </span>
+      </div>
+  </div>
+</li>
+<li class="yddHotel" style="z-index:43;position: relative;">
+  <div style="display: none;">
+    <div class="mpt" id="info-013F275AD2580238FF8080813F2556C2" data-geo-lng="123.398651" data-geo-lat="41.811281">
+      <div class="mpt1 ">
+      <span seq="">8</span>
+      <p>&yen;48</p>
+      </div><div class="sjdot">&nbsp;</div>
+    </div>
+  </div>
+  <div class="hintro">
+    <div class="himg">
+      <a class="himga" href="/hotel/013F275AD2580238FF8080813F2556C2" target="_blank">
+        <img class="lazy" src="http://img0.yododo.com/white.gif" data-href="http://img0.yododo.com.cn/files/review/013F/013F51958DB9042FFF8080813F4E805B_ml.jpg" alt="沈阳住宿沈阳.万阁温馨旅馆图片" title="沈阳.万阁温馨旅馆"><span class="cu" id="cuTip-013F275AD2580238FF8080813F2556C2" style="display: none;">促</span>
+        <div id="cuInfo-013F275AD2580238FF8080813F2556C2" style="display: none;"></div>
+        </a>
+      <p class="level">
+        <span class="fright2">
+          </span>
+        <a rel="nofollow" class="lv1" target="_blank" title="驿站等级6级" href="/hotel/events/xypj.html"><i title="驿站等级6级" class="iconfont">&#xF050;&#xF050;&#xF050;&#xF050;&#xF050;</i></a></p>
+    </div>
+
+    <strong class="htitle">
+      <a class="ft16" href="/hotel/013F275AD2580238FF8080813F2556C2" target="_blank">沈阳.万阁温馨旅馆</a>
+      <a class="ft12" href="/jingji/Shenyang">经济型酒店</a><span>
+        </span>
+    </strong>
+    <div class="sub">
+      <div><strong>4.8</strong>/5分</div>
+      <a href="/hotel/013F275AD2580238FF8080813F2556C2?starttime=2016-12-06&endtime=2016-12-07&inittab=reviews" class="fcorange2" target="_blank">2位住客点评</a>
+    </div>
+    <p class="prel"><strong>地址:</strong>沈阳市铁西区虹桥路28号
+          &nbsp;&nbsp;<a class="fcorange2" rel="nofollow" href="javascript:void(0)" onclick="hotelMapShow(123.398651, 41.811281);">地图</a>
+        </p>
+      <p class="fcgary"><i class="iconfont">&#xF046;</i><span class="partialDisplay">挺满意的吧，交通很方便，离火车站很近，唯一不满意的是定的是标间，到那之后前台说只有大床房，房间也没有窗户。地热开的真的很大的说，热的睡不着</span><i class="iconfont">&#xF047;</i></p>
+      <div class="rlist" id="h8" >
+        <span style="text-align: center;display: block;">
+          <img src="http://img3.yododo.com/images/newhotel/cnBigLoading.gif" alt="读取中...">
+        </span>
+      </div>
+  </div>
+</li>
+<li class="yddHotel" style="z-index:42;position: relative;">
+  <div style="display: none;">
+    <div class="mpt" id="info-0137026B752D0E5EFF80808136FFA74F" data-geo-lng="123.42250192405" data-geo-lat="41.921718690321">
+      <div class="mpt1 ">
+      <span seq="">9</span>
+      <p>&yen;58</p>
+      </div><div class="sjdot">&nbsp;</div>
+    </div>
+  </div>
+  <div class="hintro">
+    <div class="himg">
+      <a class="himga" href="/hotel/0137026B752D0E5EFF80808136FFA74F" target="_blank">
+        <img class="lazy" src="http://img0.yododo.com/white.gif" data-href="http://img0.yododo.com.cn/files/review/0140/0140997FFA6E00AAFF80808140982526_ml.jpg" alt="沈阳住宿淘乐公寓图片" title="淘乐公寓"><span class="cu" id="cuTip-0137026B752D0E5EFF80808136FFA74F" style="display: none;">促</span>
+        <div id="cuInfo-0137026B752D0E5EFF80808136FFA74F" style="display: none;"></div>
+        </a>
+      <p class="level">
+        <span class="fright2">
+          </span>
+        <a rel="nofollow" class="lv1" target="_blank" title="驿站等级6级" href="/hotel/events/xypj.html"><i title="驿站等级6级" class="iconfont">&#xF050;&#xF050;&#xF050;&#xF050;&#xF050;</i></a></p>
+    </div>
+
+    <strong class="htitle">
+      <a class="ft16" href="/hotel/0137026B752D0E5EFF80808136FFA74F" target="_blank">淘乐公寓</a>
+      <a class="ft12" href="/gongyu/Shenyang">酒店式公寓</a><span>
+        </span>
+    </strong>
+    <div class="sub">
+      <div><strong>3.2</strong>/5分</div>
+      <a href="/hotel/0137026B752D0E5EFF80808136FFA74F?starttime=2016-12-06&endtime=2016-12-07&inittab=reviews" class="fcorange2" target="_blank">15位住客点评</a>
+    </div>
+    <p class="prel"><strong>地址:</strong>沈阳市沈北新区蒲昌路22号中央大学城
+          &nbsp;&nbsp;<a class="fcorange2" rel="nofollow" href="javascript:void(0)" onclick="hotelMapShow(123.42250192405, 41.921718690321);">地图</a>
+        </p>
+      <div class="rlist" id="h9" >
+        <span style="text-align: center;display: block;">
+          <img src="http://img3.yododo.com/images/newhotel/cnBigLoading.gif" alt="读取中...">
+        </span>
+      </div>
+  </div>
+</li>
+<li class="yddHotel" style="z-index:41;position: relative;">
+  <div style="display: none;">
+    <div class="mpt" id="info-012CE3874E791EFBFF8080812CE1552C" data-geo-lng="123.47536879525" data-geo-lat="41.798795531407">
+      <div class="mpt1 ">
+      <span seq="">10</span>
+      <p>&yen;46</p>
+      </div><div class="sjdot">&nbsp;</div>
+    </div>
+  </div>
+  <div class="hintro">
+    <div class="himg">
+      <a class="himga" href="/hotel/012CE3874E791EFBFF8080812CE1552C" target="_blank">
+        <img class="lazy" src="http://img0.yododo.com/white.gif" data-href="http://img0.yododo.com.cn/files/review/012C/012CE39829182132FF8080812CE1552C_ml.jpg" alt="沈阳住宿沈阳蓬莱阁旅店图片" title="沈阳蓬莱阁旅店"><span class="cu" id="cuTip-012CE3874E791EFBFF8080812CE1552C" style="display: none;">促</span>
+        <div id="cuInfo-012CE3874E791EFBFF8080812CE1552C" style="display: none;"></div>
+        </a>
+      <p class="level">
+        <span class="fright2">
+          </span>
+        <a rel="nofollow" class="lv2" target="_blank" title="驿站等级2级" href="/hotel/events/xypj.html"><i title="驿站等级2级" class="iconfont">&#xF049;&#xF049;&#xF049;&#xF049;&#xF049;</i></a></p>
+    </div>
+
+    <strong class="htitle">
+      <a class="ft16" href="/hotel/012CE3874E791EFBFF8080812CE1552C" target="_blank">沈阳蓬莱阁旅店</a>
+      <a class="ft12" href="/lvguan/Shenyang">家庭旅馆</a><span>
+        </span>
+    </strong>
+    <div class="sub">
+      <div><strong>2.6</strong>/5分</div>
+      <a href="/hotel/012CE3874E791EFBFF8080812CE1552C?starttime=2016-12-06&endtime=2016-12-07&inittab=reviews" class="fcorange2" target="_blank">5位住客点评</a>
+    </div>
+    <p class="prel"><strong>地址:</strong>沈阳市大东区魁星楼路大什字街11号
+          &nbsp;&nbsp;<a class="fcorange2" rel="nofollow" href="javascript:void(0)" onclick="hotelMapShow(123.47536879525, 41.798795531407);">地图</a>
+        </p>
+      <div class="rlist" id="h10" >
+        <span style="text-align: center;display: block;">
+          <img src="http://img3.yododo.com/images/newhotel/cnBigLoading.gif" alt="读取中...">
+        </span>
+      </div>
+  </div>
+</li>
+</ul>
+      </div>
+      </div>
+
+
+<div class="par_index">
+    <div class="par_title1">
+      <strong><i class="iconfont" style="display:inline-block;vertical-align:middle; line-height:40px; font-size: 60px; color:#A95336;">&#xF073;</i>客栈Party</strong>
+    </div>
+    <ul class="clearfix" id="showPar1">
+      <li>
+          <a href="/hotelpar/" target="_blank">
+            <img src="" />
+            <div class="blacktip">
+              <span class="ft14 color3"></span>
+              <span class="ft12 color4"></span>
+            </div>
+          </a>
+        </li>
+      <li>
+          <a href="/hotelpar/10182" target="_blank">
+            <img src="http://img3.yododo.com.cn/files/review/014F/014FA09F2015085F402881E54F9ECC3A.jpg" />
+            <div class="blacktip">
+              <span class="ft14 color3">草根摄影展 ，民间大师</span>
+              <span class="ft12 color4">平遥郑家游多多客栈</span>
+            </div>
+          </a>
+        </li>
+      <li>
+          <a href="/hotelpar/10181" target="_blank">
+            <img src="http://img2.yododo.com.cn/files/review/014F/014F721BA4DF0621FF8080814F70DF0A.jpg" />
+            <div class="blacktip">
+              <span class="ft14 color3">仅16名学生，但它是最奢侈的学校</span>
+              <span class="ft12 color4">张家界观山悦游多多客栈</span>
+            </div>
+          </a>
+        </li>
+      <li>
+          <a href="/hotelpar/10173" target="_blank">
+            <img src="http://img3.yododo.com.cn/files/review/014E/014E682508DB20E3FF8080814E655D45.jpg" />
+            <div class="blacktip">
+              <span class="ft14 color3">周庄，江南水乡最爱</span>
+              <span class="ft12 color4">今雨轩游多多客栈</span>
+            </div>
+          </a>
+        </li>
+      </ul>
+    <ul class="clearfix" id="showPar2" style="display: none;">
+      <li>
+          <a href="/hotelpar/10174" target="_blank">
+            <img src="http://img2.yododo.com.cn/files/review/014E/014E71B391630836FF8080814E70C9C7.jpg" />
+            <div class="blacktip">
+              <span class="ft14 color3">跟我走，穿街走巷与平遥约个会</span>
+              <span class="ft12 color4">平遥郑家游多多客栈</span>
+            </div>
+          </a>
+        </li>
+      <li>
+          <a href="/hotelpar/10178" target="_blank">
+            <img src="http://img1.yododo.com.cn/files/review/014E/014EBA2EB28F1831402881E54EB70DA0.jpg" />
+            <div class="blacktip">
+              <span class="ft14 color3">住游多多客栈送免费旅行写真</span>
+              <span class="ft12 color4">平遥郑家游多多客栈</span>
+            </div>
+          </a>
+        </li>
+      <li>
+          <a href="/hotelpar/10176" target="_blank">
+            <img src="http://img2.yododo.com.cn/files/review/014F/014F6EE1E1B92566FF8080814F6BB8C7.jpg" />
+            <div class="blacktip">
+              <span class="ft14 color3">轰趴租别墅？潮人都玩自驾旅行HOME PARTY</span>
+              <span class="ft12 color4">杭州桂居游多多客栈</span>
+            </div>
+          </a>
+        </li>
+      <li>
+          <a href="/hotelpar/10179" target="_blank">
+            <img src="http://img1.yododo.com.cn/files/review/014F/014F490BF8830668402881E54F47407D.jpg" />
+            <div class="blacktip">
+              <span class="ft14 color3">情人节#我们#约会吧？【零房费】</span>
+              <span class="ft12 color4">水墨居怡情游多多客栈</span>
+            </div>
+          </a>
+        </li>
+      </ul>
+    <ul class="clearfix" id="showPar3" style="display: none;">
+      <li>
+          <a href="/hotelpar/10152" target="_blank">
+            <img src="http://img3.yododo.com.cn/files/review/014D/014D46B820800CED402881E54D444590.jpg" />
+            <div class="blacktip">
+              <span class="ft14 color3">去杭州，只为寻得一袭水墨香</span>
+              <span class="ft12 color4">@杭州水墨居怡情游多多客栈</span>
+            </div>
+          </a>
+        </li>
+      <li>
+          <a href="/hotelpar/10153" target="_blank">
+            <img src="http://img1.yododo.com.cn/files/review/014B/014B2AA2FE020BBFFF8080814B283DC5.jpg" />
+            <div class="blacktip">
+              <span class="ft14 color3">小雅隐于野，她更懂这里的山水</span>
+              <span class="ft12 color4">@杭州水墨居小雅游多多客栈</span>
+            </div>
+          </a>
+        </li>
+      <li>
+          <a href="/hotelpar/10171" target="_blank">
+            <img src="http://img3.yododo.com.cn/files/review/014E/014E0B6DF6E31A28402881E54E084578.jpg" />
+            <div class="blacktip">
+              <span class="ft14 color3">“你来了”我们在苍山，洱海边等着你</span>
+              <span class="ft12 color4">大理思雅小筑游多多客栈</span>
+            </div>
+          </a>
+        </li>
+      </ul>
+    <div class="botnav clearfix">
+    	<span>
+        <a href="javascript:voif(0);" id="parLead1" class="current"></a>
+        <a href="javascript:voif(0);" id="parLead2"></a>
+        <a href="javascript:voif(0);" id="parLead3"></a>
+      </span>
+    </div>
+  </div>
+<div class="b-map mb15" id="bottomBaiduMap">
+    <a class="maskdiv" href="/hotel/map/Shenyang" title="地图搜索" target="_blank">
+      <p class="w984 mauto"><span>点击地图找驿站</span></p>
+    </a>
+    <div class="cn-box noline-b" id="bottomBaiduMapDiv" style="height:415px;" align="center">
+      <img alt="加载中。。。" src="http://img3.yododo.com.cn/images/newhotel/cnBigLoading.gif">
+    </div>
+  </div>
+<div class="cn-box hiddenbox w984 mauto">
+  <div class="pd10 thead">
+    <a href="javaScript:void(0);" id="hotelInfoToggle" rel="nofollow">相关驿站信息<span id="hotelInfoToggleMark">+</span></a>
+  </div>
+  <div class="pd10">
+    <div class="cn-box noline sub-dplist" id="reviewList" style="display: none;">
+          <strong class="head">驿站点评</strong>
+          <ul>
+            <li class="clearfix">
+                <span class="fright">2015-06-23 09:17</span>
+                <a class="fcorange2" target="_blank" href="/hotel/013E0796234E0215FF8080813E05E412">沈阳海天快捷短租公寓中街店</a>来自<a target="_blank" rel="nofollow" href="http://www.yododo.com/user/014CB554CC68000AFF8080814CB4F088">182****0032</a>的点评：
+                <p>公寓不错，下次去沈阳还会去住，交通也方便就在地铁口右边北邻十几步远&nbsp;</p>
+              </li>
+            <li class="clearfix">
+                <span class="fright">2014-11-19 22:38</span>
+                <a class="fcorange2" target="_blank" href="/hotel/013F275AD2580238FF8080813F2556C2">沈阳.万阁温馨旅馆</a>来自<a target="_blank" rel="nofollow" href="http://www.yododo.com/user/01428DC9E57A0139FF808081428C4197">amu18</a>的点评：
+                <p>挺满意的吧，交通很方便，离火车站很近，唯一不满意的是定的是标间，到那之后前台说只有大床房，房间也没有窗户。地热开的真的很大的说，热的睡不着&nbsp;</p>
+              </li>
+            <li class="clearfix">
+                <span class="fright">2014-05-03 22:48</span>
+                <a class="fcorange2" target="_blank" href="/hotel/013E3FF75A330229FF8080813E3ECBFC">沈阳科隆酒店</a>来自<a target="_blank" rel="nofollow" href="http://www.yododo.com/user/012EEAE93AA111E7FF8080812EE97770">哈站</a>的点评：
+                <p>去哪都方便，环境好，干净。&nbsp;</p>
+              </li>
+            <li class="clearfix">
+                <span class="fright">2013-10-23 16:37</span>
+                <a class="fcorange2" target="_blank" href="/hotel/0137026B752D0E5EFF80808136FFA74F">淘乐公寓</a>来自<a target="_blank" rel="nofollow" href="http://www.yododo.com/user/0141B1B9A9AC05D9FF80808141AE2E98">133****2701</a>的点评：
+                <p>大家千万不要相信这家旅馆，我们学校有大量考生去沈阳师范学院考试，据我和我同学的统计来看（统计了52人）有27人都上过这家旅馆的当，当你在网上定下这家旅馆后，有超过50%的几率会在你入住那天告诉你没房间了，其实不是被高价让出去了，就是你网上预订的时候本身这房间就已被别人预订。此做法是损人利己的，要知道大部分定沈....&nbsp;</p>
+              </li>
+            <li class="clearfix">
+                <span class="fright">2013-10-20 22:24</span>
+                <a class="fcorange2" target="_blank" href="/hotel/0137026B752D0E5EFF80808136FFA74F">淘乐公寓</a>来自<a target="_blank" rel="nofollow" href="http://www.yododo.com/user/01412F4B060A01E4FF808081412D8639">156****7275</a>的点评：
+                <p>卖家家房间给了别人。告诉我没房让我自己去别的地方找。天还下着雨。然后服务相当不好。没来的自己看着办吧&nbsp;</p>
+              </li>
+            <li class="clearfix">
+                <span class="fright">2013-10-07 09:23</span>
+                <a class="fcorange2" target="_blank" href="/hotel/0137026B752D0E5EFF80808136FFA74F">淘乐公寓</a>来自<a target="_blank" rel="nofollow" href="http://www.yododo.com/user/014173F174A106B9FF80808141708D91">姗姗molly</a>的点评：
+                <p>实际条件跟图片上的差别很大，卫生间的水还会漏到房间里，还没有人打扫房间&nbsp;</p>
+              </li>
+            <li class="clearfix">
+                <span class="fright">2013-09-12 21:28</span>
+                <a class="fcorange2" target="_blank" href="/hotel/0137026B752D0E5EFF80808136FFA74F">淘乐公寓</a>来自<a target="_blank" rel="nofollow" href="http://www.yododo.com/user/0140CEDC1C4E03D9FF80808140CC53EA">135****9347</a>的点评：
+                <p>没见过这么垃圾的店家，提前很久定的房间，今天突然给我发短信让我退房，打电话想问问情况也不接，可能是心虚不敢接吧，希望想定这家店的亲们能引以为戒，小心耽误事儿！&nbsp;</p>
+              </li>
+            <li class="clearfix">
+                <span class="fright">2013-09-11 10:24</span>
+                <a class="fcorange2" target="_blank" href="/hotel/0137026B752D0E5EFF80808136FFA74F">淘乐公寓</a>来自<a target="_blank" rel="nofollow" href="http://www.yododo.com/user/0140B85F82C50066FF80808140B7216F">150****0220</a>的点评：
+                <p>店家在我要考试入住的房间，以高价卖给别人，不接电话，害得我在考试前一天大晚上的到处找宾馆！店家真是丧心病狂，没有人性！&nbsp;</p>
+              </li>
+            <li class="clearfix">
+                <span class="fright">2013-08-30 22:00</span>
+                <a class="fcorange2" target="_blank" href="/hotel/012CE3874E791EFBFF8080812CE1552C">沈阳蓬莱阁旅店</a>来自<a target="_blank" rel="nofollow" href="http://www.yododo.com/user/0140B89154FE00BEFF80808140B7216F">155****6990</a>的点评：
+                <p>说句实在的话，出门在外谁也不会太挑剔，但是沈阳之行到今天为止也让我想要说一下。因为列车晚点，凌晨两点多才到沈阳北站，从炎热的石家庄到沈阳一下好似坠入冰窟，又累又冷打车找蓬莱阁无果，又打电话找八仙居旅店，连出租司机都不知咋找，好在折腾一番到了八仙居却告知我方非要100元一晚，本想据理力争，无奈看看疲惫的老婆....&nbsp;</p>
+              </li>
+            <li class="clearfix">
+                <span class="fright">2013-07-07 23:17</span>
+                <a class="fcorange2" target="_blank" href="/hotel/013D48F93D4E011EFF8080813D47434A">丽致公寓酒店（沈阳站店）</a>来自<a target="_blank" rel="nofollow" href="http://www.yododo.com/user/013DC0FEA2355B25FF8080813DBCF3D5">小咖_qq_</a>的点评：
+                <p>这次住的店的感觉可能是我住过的最差的一次体验了，设施很差，楼道里是黑的，夜里走出去有点恐怖，床单和被子看起来很不干净，橱柜也很不干净，里头居然有脏脏的袜子。。。而且只有一双拖鞋。。。给我们造成了极大不便，去前台反映这个问题，前台在玩游戏，爱理不理的，说没有拖鞋了，多的衣架也不给。当时我们在沈阳已经被暴....&nbsp;</p>
+              </li>
+            </ul>
+        </div>
+      <div class="cn-box noline-b bgc1 w984 mauto">
+          <h3 class="head">沈阳住宿推荐</h3>
+          <div class="cn-bottom-link">
+            <a href="/star4/Shenyang/Zhouenlaishaoniandushujiuzhi" title="沈阳周恩来少年读书旧址附近的四星级酒店">沈阳周恩来少年读书旧址附近的四星级酒店</a>
+            <a href="/star3/Shenyang/Zhangshishuaifu" title="沈阳张氏帅府附近的三星级酒店">沈阳张氏帅府附近的三星级酒店</a>
+            <a href="/star3/Shenyang/Shenyanggugong" title="沈阳故宫附近的三星级酒店">沈阳故宫附近的三星级酒店</a>
+            <a href="/hotels/Shenyang/Shenyangtieluzhengqijichechenlieguan" title="沈阳铁路蒸汽机车陈列馆附近住宿">沈阳铁路蒸汽机车陈列馆附近住宿</a>
+            <a href="/jingji/Shenyang/Taiqinggong" title="沈阳太清宫附近的经济酒店">沈阳太清宫附近的经济酒店</a>
+            <a href="/star4/Shenyang/Banruosi" title="沈阳般若寺附近的四星级酒店">沈阳般若寺附近的四星级酒店</a>
+            <a href="/jingji/Shenyang/Shenyangtieluzhengqijichechenlieguan" title="沈阳铁路蒸汽机车陈列馆附近的经济酒店">沈阳铁路蒸汽机车陈列馆附近的经济酒店</a>
+            <a href="/jingji/Shenyang/Nanyunhedaizhuanggongyuan" title="沈阳南运河带状公园附近的经济酒店">沈阳南运河带状公园附近的经济酒店</a>
+            <a href="/star4/Shenyang/Shenyangbeiling" title="沈阳北陵附近的四星级酒店">沈阳北陵附近的四星级酒店</a>
+            <a href="/hotels/Shenyang/Nanhugongyuan" title="沈阳南湖公园附近住宿">沈阳南湖公园附近住宿</a>
+            <a href="/star3/Shenyang/Taiqinggong" title="沈阳太清宫附近的三星级酒店">沈阳太清宫附近的三星级酒店</a>
+            <a href="/hotels/Shenyang/Guaipo" title="沈阳怪坡附近住宿">沈阳怪坡附近住宿</a>
+            <a href="/jingji/Shenyang/Dafasi" title="沈阳大法寺附近的经济酒店">沈阳大法寺附近的经济酒店</a>
+            <a href="/gongyu/Shenyang/Qingniangongyuan" title="沈阳青年公园附近的酒店公寓">沈阳青年公园附近的酒店公寓</a>
+            <a href="/star5/Shenyang/Nanyunhedaizhuanggongyuan" title="沈阳南运河带状公园附近的五星级酒店">沈阳南运河带状公园附近的五星级酒店</a>
+            <a href="/gongyu/Shenyang/Liaoninshenbowuguan" title="沈阳辽宁省博物馆附近的酒店公寓">沈阳辽宁省博物馆附近的酒店公寓</a>
+            <a href="/hotels/Shenyang/Taipingsi" title="沈阳太平寺附近住宿">沈阳太平寺附近住宿</a>
+            <a href="/hotels/Shenyang/Zhangshishuaifu" title="沈阳张氏帅府附近住宿">沈阳张氏帅府附近住宿</a>
+            <a href="/star3/Shenyang/Dafasi" title="沈阳大法寺附近的三星级酒店">沈阳大法寺附近的三星级酒店</a>
+            <a href="/jingji/Shenyang/Nanhugongyuan" title="沈阳南湖公园附近的经济酒店">沈阳南湖公园附近的经济酒店</a>
+            </div>
+        </div>
+        <div class="cn-box noline-b bgc1 w984 mauto">
+          <h3 class="head">住宿推荐</h3>
+          <div class="cn-bottom-link">
+            <a href="/jingji/Ganzhou" title="赣州经济酒店">赣州经济酒店</a>
+            <a href="/star5/Qingdao/Qingdaodianshita" title="青岛电视塔附近的五星级酒店">青岛电视塔附近的五星级酒店</a>
+            <a href="/jingji/Yunfu" title="云浮经济酒店">云浮经济酒店</a>
+            <a href="/star2/Suzhou/Canglangtng" title="苏州沧浪亭附近的二星级酒店">苏州沧浪亭附近的二星级酒店</a>
+            <a href="/hotels/Penglai/Tuojidao" title="蓬莱砣矶岛附近住宿">蓬莱砣矶岛附近住宿</a>
+            <a href="/star5/Guangzhou/Huanghuagangqishierlieshilingyuan" title="广州黄花岗七十二烈士陵园附近的五星级酒店">广州黄花岗七十二烈士陵园附近的五星级酒店</a>
+            <a href="/star3/Wuzhen/Wuzhenxizha" title="乌镇西栅附近的三星级酒店">乌镇西栅附近的三星级酒店</a>
+            <a href="/star2/Changshu" title="常熟二星级酒店">常熟二星级酒店</a>
+            <a href="/hotels/Hulunbeier/Moerdaogazhen" title="呼伦贝尔莫尔道嘎镇附近住宿">呼伦贝尔莫尔道嘎镇附近住宿</a>
+            <a href="/gongyu/Fuzhou" title="福州酒店公寓">福州酒店公寓</a>
+            <a href="/jingji/Yuxi" title="玉溪经济酒店">玉溪经济酒店</a>
+            <a href="/jingji/Chenzhou/Nvpaijidi" title="郴州女排基地附近的经济酒店">郴州女排基地附近的经济酒店</a>
+            <a href="/star4/Hefei/Huboliuguang" title="合肥琥珀流光附近的四星级酒店">合肥琥珀流光附近的四星级酒店</a>
+            <a href="/hotels/Dalian/Aolinpiyaguangchang" title="大连奥林匹克广场附近住宿">大连奥林匹克广场附近住宿</a>
+            <a href="/star5/Tianjin/Jihongchangjiuju" title="天津吉鸿昌旧居附近的五星级酒店">天津吉鸿昌旧居附近的五星级酒店</a>
+            <a href="/lvshe/Luoyang/Baiyuan" title="洛阳白园附近的青年旅社">洛阳白园附近的青年旅社</a>
+            <a href="/star2/Nanchang/Zhudeguju" title="南昌朱德旧居附近的二星级酒店">南昌朱德旧居附近的二星级酒店</a>
+            <a href="/lvguan/Rizhao/Wanpingkou" title="日照万平口附近的家庭旅馆">日照万平口附近的家庭旅馆</a>
+            <a href="/nongjiale/Baoding" title="保定农家乐住宿">保定农家乐住宿</a>
+            <a href="/jingji/Suqian" title="宿迁经济酒店">宿迁经济酒店</a>
+            <a href="/hotels/Penglai/Bifengting" title="蓬莱避风亭附近住宿">蓬莱避风亭附近住宿</a>
+            <a href="/star4/Guangzhou/Huangchengguangchang" title="广州花城广场附近的四星级酒店">广州花城广场附近的四星级酒店</a>
+            <a href="/hotels/Chongqing/0_pricefrom" title="重庆市便宜的住宿">重庆市便宜的住宿</a>
+            <a href="/hotels/Changzhou/Zhonghuakonglongyuan" title="常州中华恐龙园附近住宿">常州中华恐龙园附近住宿</a>
+            <a href="/lvshe/Xining/Huzhubeishanguojiasenlingongyuan" title="西宁互助北山国家森林公园附近的青年旅社">西宁互助北山国家森林公园附近的青年旅社</a>
+            <a href="/jingji/Jiuquan" title="酒泉经济酒店">酒泉经济酒店</a>
+            <a href="/star2/Hangzhou/Xianghu" title="杭州湘湖附近的二星级酒店">杭州湘湖附近的二星级酒店</a>
+            <a href="/kezhan/Fenghuang/Jishou" title="凤凰吉首附近的客栈">凤凰吉首附近的客栈</a>
+            <a href="/star5/Liuan" title="六安五星级酒店">六安五星级酒店</a>
+            <a href="/kezhan/Kunming" title="昆明客栈">昆明客栈</a>
+            <a href="/hotels/Shennongjia/Tianmenya" title="神农架天门垭附近住宿">神农架天门垭附近住宿</a>
+            <a href="/star3/Nanchang/Ershijunzhihuibujiuzhi" title="南昌二十军指挥部旧址附近的三星级酒店">南昌二十军指挥部旧址附近的三星级酒店</a>
+            <a href="/hotels/Linfen/Dingcunminju" title="临汾丁村民居附近住宿">临汾丁村民居附近住宿</a>
+            <a href="/kezhan/Qinhuangdao/Haungjinhaian" title="秦皇岛黄金海岸附近的客栈">秦皇岛黄金海岸附近的客栈</a>
+            <a href="/star3/Yangzhou/yangzhoubaguaijinianguan" title="扬州八怪纪念馆附近的三星级酒店">扬州八怪纪念馆附近的三星级酒店</a>
+            <a href="/hotels/Penglai/Penglaishuicheng" title="蓬莱水城附近住宿">蓬莱水城附近住宿</a>
+            <a href="/star3/Zhaoqing/Liqiaolou" title="肇庆丽谯楼附近的三星级酒店">肇庆丽谯楼附近的三星级酒店</a>
+            <a href="/star5/Chongqing/Tianzhujiaoruosetang" title="重庆市天主教若瑟堂附近的五星级酒店">重庆市天主教若瑟堂附近的五星级酒店</a>
+            <a href="/star3/Nantong" title="南通三星级酒店">南通三星级酒店</a>
+            <a href="/star4/Jinan/Wulongtan" title="济南五龙潭附近的四星级酒店">济南五龙潭附近的四星级酒店</a>
+            <a href="/hotels/Zhangye/Matisi" title="张掖马蹄寺附近住宿">张掖马蹄寺附近住宿</a>
+            <a href="/star2/Xitang/Qilaoyemiao" title="西塘七老爷庙附近的二星级酒店">西塘七老爷庙附近的二星级酒店</a>
+            <a href="/lvguan/Changbaishan/Xiagufushilin" title="长白山峡谷浮石林附近的家庭旅馆">长白山峡谷浮石林附近的家庭旅馆</a>
+            <a href="/hotels/Yingkou/Baishawan" title="营口白沙湾附近住宿">营口白沙湾附近住宿</a>
+            <a href="/hotels/Wuhu/Wuhuguangjisi" title="芜湖广济寺附近住宿">芜湖广济寺附近住宿</a>
+            <a href="/star5/Lijiang/Lijiangheilongtan" title="丽江黑龙潭附近的五星级酒店">丽江黑龙潭附近的五星级酒店</a>
+            <a href="/star2/Wuhan/Lianxisi" title="武汉莲溪寺附近的二星级酒店">武汉莲溪寺附近的二星级酒店</a>
+            <a href="/hotels/Dalian/Changhai" title="大连长海附近住宿">大连长海附近住宿</a>
+            <a href="/star2/Chengdu/Funanhe" title="成都府南河附近的二星级酒店">成都府南河附近的二星级酒店</a>
+            <a href="/lvguan/Qinhuangdao/Qinhuangqiuxianruhaichu" title="秦皇岛秦皇求仙入海处附近的家庭旅馆">秦皇岛秦皇求仙入海处附近的家庭旅馆</a>
+            </div>
+        </div>
+      </div>
+</div>
+
+<div id="pageBaiduMapDiv" class="medium-map" style="width:850px; height:460px; display:none;">
+  <div id="baiduMapClose" class="clearfix" style="cursor: default"><strong>驿站地图</strong><a href="javascript:void(0)" title="关闭地图">&nbsp;</a></div>
+  <div id="pageBaiduMap" style="width:850px;height:440px">
+    <span class="loading">地图数据读取中, 请稍候...</span>
+  </div>
+</div>
+<form id="dateParamFrom" action="/hotels/Shenyang" method="post">
+  <input type="hidden" name="starttime" value="2016-12-06" />
+  <input type="hidden" name="endtime" value="2016-12-07" />
+</form>
+<input type="hidden" id="placeEnName" value="Shenyang" />
+<input type="hidden" id="pricefrom" value="" />
+<input type="hidden" id="priceto" value="" />
+
+<script type="text/javascript" src="http://img2.yododo.com.cn/_pack/h-2140868875.js" charset="utf-8"></script><script type="text/javascript">
+//<![CDATA[
+var pageHotelMarkers = new Array();
+
+    pageHotelMarkers.push({lng:"123.40105955293", lat:"41.78958771591", hotelName:"沈阳万达夜归人日租短租公寓", hotelUrl:"/hotel/0136A03C75C01A3BFF808081369D79FC?starttime=2016-12-06&endtime=2016-12-07", lowPrice:520, imgUrl:"http://img1.yododo.com.cn/files/review/0136/0136A0570A531DF3FF808081369D79FC_m.jpg", hotelType:'酒店式公寓', address:"沈阳市和平区万达新天地天河座", satisficing:"95%", hasRoomIndex:'收集中'});
+  
+    pageHotelMarkers.push({lng:"123.093586", lat:"41.921238", hotelName:"沈阳美国郡Boss波士汇度假别墅酒店", hotelUrl:"/hotel/01512887FC3C0093FF8080815126668B?starttime=2016-12-06&endtime=2016-12-07", lowPrice:308, imgUrl:"http://img0.yododo.com.cn/files/review/0151/0151378469B30010FF80808151377677_m.jpg", hotelType:'度假酒店', address:"新民市兴隆堡镇中兴路10-2-10", satisficing:"0%", hasRoomIndex:'收集中'});
+  
+    pageHotelMarkers.push({lng:"123.477616", lat:"41.808998", hotelName:"沈阳海天快捷短租公寓中街店", hotelUrl:"/hotel/013E0796234E0215FF8080813E05E412?starttime=2016-12-06&endtime=2016-12-07", lowPrice:148, imgUrl:"http://img3.yododo.com.cn/files/review/013E/013E10EBAD8C0140FF8080813E0FDB3A_m.jpg", hotelType:'短租公寓', address:"大悦城D2座26层", satisficing:"100%", hasRoomIndex:'收集中'});
+  
+    pageHotelMarkers.push({lng:"123.39695637764", lat:"41.805145731325", hotelName:"沈阳海天公寓铁西店", hotelUrl:"/hotel/01369B00CC710EF8FF8080813698A166?starttime=2016-12-06&endtime=2016-12-07", lowPrice:125, imgUrl:"http://img3.yododo.com.cn/files/review/013F/013F0DB2A8410294FF8080813F0C2D44_m.jpg", hotelType:'短租公寓', address:"沈阳市铁西区兴工北街64甲海韵锦江国际大酒店B座公寓", satisficing:"100%", hasRoomIndex:'收集中'});
+  
+    pageHotelMarkers.push({lng:"123.477782", lat:"41.808761", hotelName:"沈阳美宿时尚公寓-中街大悦城店", hotelUrl:"/hotel/014DC1B820400053FF8080814DC019D0?starttime=2016-12-06&endtime=2016-12-07", lowPrice:118, imgUrl:"http://img3.yododo.com.cn/files/review/014E/014EDCCDFDBE000FFF8080814EDBEC08_m.jpg", hotelType:'酒店式公寓', address:"东中街大悦城D2公寓", satisficing:"0%", hasRoomIndex:'收集中'});
+  
+    pageHotelMarkers.push({lng:"123.406093", lat:"41.796114", hotelName:"丽致公寓酒店太原街店", hotelUrl:"/hotel/012FAFFA8C3D2958FF8080812FAD2934?starttime=2016-12-06&endtime=2016-12-07", lowPrice:118, imgUrl:"http://img2.yododo.com.cn/files/review/013E/013E6442B133027BFF8080813E61B800_m.jpg", hotelType:'酒店式公寓', address:"和平区太原南街16号万达广场天籁座22层", satisficing:"86%", hasRoomIndex:'收集中'});
+  
+    pageHotelMarkers.push({lng:"123.396105", lat:"41.803407", hotelName:"姐妹酒店中星店", hotelUrl:"/hotel/014CC112C1870131FF8080814CBF027A?starttime=2016-12-06&endtime=2016-12-07", lowPrice:118, imgUrl:"http://img2.yododo.com.cn/files/review/014C/014CC11E60E00140FF8080814CBF027A_m.jpg", hotelType:'酒店式公寓', address:"铁西区兴工北街73号", satisficing:"0%", hasRoomIndex:'收集中'});
+  
+    pageHotelMarkers.push({lng:"123.398651", lat:"41.811281", hotelName:"沈阳.万阁温馨旅馆", hotelUrl:"/hotel/013F275AD2580238FF8080813F2556C2?starttime=2016-12-06&endtime=2016-12-07", lowPrice:48, imgUrl:"http://img1.yododo.com.cn/files/review/013F/013F51958DB9042FFF8080813F4E805B_m.jpg", hotelType:'经济型酒店', address:"沈阳市铁西区虹桥路28号", satisficing:"95%", hasRoomIndex:'收集中'});
+  
+    pageHotelMarkers.push({lng:"123.42250192405", lat:"41.921718690321", hotelName:"淘乐公寓", hotelUrl:"/hotel/0137026B752D0E5EFF80808136FFA74F?starttime=2016-12-06&endtime=2016-12-07", lowPrice:58, imgUrl:"http://img2.yododo.com.cn/files/review/0140/0140997FFA6E00AAFF80808140982526_m.jpg", hotelType:'酒店式公寓', address:"沈阳市沈北新区蒲昌路22号中央大学城", satisficing:"65%", hasRoomIndex:'收集中'});
+  
+    pageHotelMarkers.push({lng:"123.47536879525", lat:"41.798795531407", hotelName:"沈阳蓬莱阁旅店", hotelUrl:"/hotel/012CE3874E791EFBFF8080812CE1552C?starttime=2016-12-06&endtime=2016-12-07", lowPrice:46, imgUrl:"http://img0.yododo.com.cn/files/review/012C/012CE39829182132FF8080812CE1552C_m.jpg", hotelType:'家庭旅馆', address:"沈阳市大东区魁星楼路大什字街11号", satisficing:"52%", hasRoomIndex:'收集中'});
+  
+//]]>
+</script>
+<script type="text/javascript" src="http://api.map.baidu.com/api?v=1.2"></script>  
+<link rel="stylesheet" type="text/css" href="http://img1.yododo.com.cn/_pack/h122789013.css" media="screen" charset="utf-8"/><script type="text/javascript" src="http://img1.yododo.com.cn/_pack/h1453313538.js" charset="utf-8"></script><script type="text/javascript" src="http://img2.yododo.com.cn/js/jquery.yddCnAutocomplete.1451034767.js"></script>
+<script type="text/javascript" src="http://img1.yododo.com.cn/js/pageJs/hotel/hotelSearchs.1468907408.js"></script>
+<!--[if IE 6]>
+<style type="text/css">
+#favoriteDiv{position:absolute}
+</style>
+<script type="text/javascript">
+window.onload=function(){
+var n=100; //top值
+var obj=document.getElementById("favoriteDiv"); //position:fixed对象
+window.onscroll=function(){obj.style.top=(document.body.scrollTop||document.documentElement.scrollTop)+n+'px';};
+window.onresize=function(){obj.style.top=(document.body.scrollTop||document.documentElement.scrollTop)+n+'px';};
+};
+</script>
+<![endif]-->
+<script type="text/javascript">
+//<![CDATA[
+//var favoriCount = $j.cookie('favoriteCount');
+//if (!favoriteCount) {
+//  favoriteCount = 0;
+//}
+$j(document).ready(function(){
+  
+    var hotelIds = $j("#hotelIds").text();
+    if(hotelIds != "" && hotelIds.length > 32){
+      var g_map = new BMap.Map("bottomBaiduMapDiv");
+      var g_points = [];
+      $j("div[id^='info-']").each(function() {
+        
+        var point = new BMap.Point(parseFloat($j(this).attr("data-geo-lng")), parseFloat($j(this).attr("data-geo-lat")));
+        g_points.push(point);
+        var markerId = $j(this).attr("id");
+        g_map.addOverlay(new YElementOverlay(point, markerId, 23));
+        
+      });
+        g_map.centerAndZoom(g_points[0], 15);
+    }else{
+      $j("#bottomBaiduMap").hide();
+    }
+  
+});
+function shrinkDiv(){
+  $j("#safety_top_div").fadeOut(2000,function (){
+    $j("#safetySeven").fadeIn(2000);
+  });  
+}
+
+
+//]]>
+</script>
+
+<div class="cn-box noline-b bgc1 w984 mauto">
+  <div class="cn-helplink pd10 clearfix">
+    <dl>
+      <dt><i class="iconfont">&#xF021;</i>游多多客栈帮助中心</dt>
+      <dd><a href="http://www.yododo.cn/help.ydd#reserve-method" rel="nofollow">预订常见问题</a></dd>
+      <dd><a href="http://www.yododo.cn/help.ydd#reserve-method" rel="nofollow">预订流程说明</a></dd>
+      <dd><a href="http://www.yododo.cn/ask/" target="_blank">驿站咨询</a></dd>
+    </dl>
+    <dl>
+      <dt><i class="iconfont">&#xF022;</i>旅游住宿购物保障</dt>
+      <dd><a href="http://www.yododo.cn/hotel/events/xfbz.html" rel="nofollow">入住保障体系</a></dd>
+      <dd><a href="http://www.yododo.cn/hotel/events/xfbz.html#refund-process" rel="nofollow">无房退款说明</a></dd>
+    </dl>
+    <dl>
+      <dt><i class="iconfont">&#xF023;</i>游多多客栈客服</dt>
+      <dd>客服电话：400-021-1100<br>(服务时间：9点-18点)</dd>
+      <dd><a href="http://www.yododo.cn/hotel/events/yddinn.html" target="_blank">品牌加盟：18502109117</a></dd>
+    </dl>
+    <dl>
+      <dt><i class="iconfont">&#xF024;</i>商家合作与维护</dt>
+        <dd><a href="http://wpa.qq.com/msgrd?v=3&uin=800002415&site=qq&menu=yes" title="商家帮助中心" target="_blank"><span>商家帮助中心<img src="http://wpa.qq.com/pa?p=1:800002415:10" alt="" title="商家客服" align="absmiddle" height="16"/></span></a></dd>
+        <dd><a href="http://www.yododo.cn/hotel/events/register-guide.html" rel="nofollow">免费开店</a></dd>
+        <dd><a href="http://www.yododo.cn/hotel/events/register-guide.html#commonquestion" rel="nofollow">开店常见问题</a></dd>
+    </dl>
+    <dl>
+      <dt><i class="iconfont">&#xF025;</i>专业服务</dt>
+      <dd><a href="http://www.yododo.cn/hotelmgr/home.ydd" target="_blank" rel="nofollow">管理驿站</a></dd>
+      <dd><a href="http://www.yododo.cn/hotel/events/cellphone.html" target="_blank" rel="nofollow">多多微店</a></dd>
+      <dd><a href="http://www.yododo.cn/inndistr/login.ydd" target="_blank" rel="nofollow">登录客栈通</a></dd>
+    </dl>
+  </div>
+</div><div id="yddhotellinks" class="cn-box w984 mauto yqlinks noline-b bgc1">
+  <div class="yqlhead">
+  <a class="fright" href="http://www.yododo.cn/hotel/friendLink/" rel="nofollow">申请友情链接</a>
+    <strong class="ft16">友情链接</strong>
+    <script type="text/javascript" >
+      var tabList=[];        tabList[0]="tab1_subject";              tabList[1]="tab2_subject";          </script>        <a id="tab1_subject_tab" class="current" href="javaScript:void(0);" onmouseover="showTab(tabList, 'tab1_subject');" >旅游类</a>
+                  <a id="tab2_subject_tab" href="javaScript:void(0);" onmouseover="showTab(tabList, 'tab2_subject');" >其他类别</a>
+          
+  </div>      <ul id="tab1_subject" class="cn-bottom-link-li clearfix">
+            <li><a target="_blank" href="http://shenyang.lotour.com/">沈阳旅游</a></li>
+              <li><a target="_blank" href="http://menpiao.tuniu.com/city_1902_1900">沈阳景点门票</a></li>
+              <li><a target="_blank" href="http://sy.58.com/wenquandujiacun/">沈阳温泉度假村</a></li>
+              <li><a target="_blank" href="http://duanzu.zhuna.cn/shenyang/">沈阳短租房</a></li>
+              <li><a target="_blank" href="http://www.sunnychina.com/hotel/city_0801.html">沈阳酒店预订</a></li>
+              <li><a target="_blank" href="http://www.redidai.com/city-detail-id-dd36.html">沈阳旅游</a></li>
+              <li><a target="_blank" href="http://www.51auto.com/shenyang/">沈阳二手车</a></li>
+              <li><a target="_blank" href="http://tianqi.114la.com/air-ShenYang.html">沈阳空气质量指数</a></li>
+              <li><a target="_blank" href="http://qiche.mipang.com/shenyang-qichepiao.html">沈阳汽车票网上订票</a></li>
+              <li><a target="_blank" href="http://you.kuxun.cn/shenwansanguju-zhusu.html">沈阳住宿</a></li>
+              <li><a target="_blank" href="http://www.tianqi.com/air/shenyang.html">沈阳PM2.5</a></li>
+              <li><a target="_blank" href="http://hotel.tuniu.com/list/1902p0s0b0">沈阳酒店预定</a></li>
+              <li><a target="_blank" href="http://www.guolv.com/shenyang/youji/">沈阳旅游游记</a></li>
+              <li><a target="_blank" href="http://you.ctrip.com/place/shenyang155.html">沈阳旅游攻略</a></li>
+              <li><a target="_blank" href="http://www.177dj.net/guide/shenyang/">沈阳旅游</a></li>
+              <li><a target="_blank" href="http://www.zhuna.cn/hotellist/e0802/">沈阳酒店预订</a></li>
+              <li><a target="_blank" href="http://www.springtour.com/shanghai-shenyang">沈阳旅游</a></li>
+              </ul>        <ul id="tab2_subject" class="cn-bottom-link-li clearfix" style="display: none">
+            <li><a target="_blank" href="http://www.tujia.com/duanzu_shenyang/">沈阳短租房</a></li>
+              </ul>  </div>
+
+<div class="cn-bottom">
+            <div class="w984 mauto">
+                <div class="cn-aboutus">
+                    <a href="http://www.yododo.cn/about.ydd" rel="nofollow">关于我们</a>
+                    <a href="http://www.yododo.cn/join.ydd" rel="nofollow">加入我们</a>
+                    <a href="http://www.yododo.cn/law.ydd" rel="nofollow">法律声明</a>
+                    <a href="http://www.yododo.cn/business.ydd">商家合作</a>
+                    <a target="_blank" href="http://weibo.com/yododo" rel="nofollow">多多微博</a>
+                    <a href="http://www.yododo.cn/contact.ydd" rel="nofollow">联系我们</a>
+                </div>
+                <div class="tcenter mb10">
+                    
+                    Copyright &copy; 2006-2016 Yododo.com, All rights reserved.
+                    <a rel="nofollow" target="_blank" href="http://img1.yododo.com.cn/images/yododo_icp.jpg"
+                       class="fcgary">沪ICP证B2-20120026</a>
+                    <a rel="nofollow" target="_blank" href="http://www.miitbeian.gov.cn"
+                       class="fcgary">沪ICP备06029079号</a><br>
+                    游多多网络科技（上海）有限公司 上海浦江镇联航路1188号浦江智谷10号楼3楼H座 电话：021-64511044
+                </div>
+                <div id="bottom_banners" class="tcenter">
+                    <a href='http://www.zx110.org/picp/?sn=310112100042838'><img alt='沪公网备'
+                                                                                 src='http://img0.yododo.com.cn/images/picp_bg.v007.png'
+                                                                                 border='0' width='150' height='52'></a>
+                    <a href='https://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&entyId=xhp65grx9wosfrm47t2j8adygdhzfgfo5mngm8eq'
+                       target='_blank'><img src='http://img0.yododo.com/images/sgs.gif' border="0" width='47'
+                                            height='47'></a>
+                    <a target="_blank" href="http://www.zx110.org/"><img width="65" height="45" border="0" alt=""
+                                                                         src="http://img1.yododo.com.cn/images/zx110.png"></a>
+                    <a kx_type="图标式" target="_blank"
+                       href="https://ss.knet.cn/verifyseal.dll?sn=e11122111010006271308004&amp;ct=df&amp;a=1&amp;pa=604481"
+                       style="display: inline-block;" id="kx_verify"><img
+                            src="http://img3.yododo.com.cn/images/cnnic.png" alt="可信网站" oncontextmenu="return false;"
+                            style="border:currentColor;"></a>
+                    <img height="45" border="0" alt="上海网警-网络110" src="http://img0.yododo.com.cn/images/ydd-110.png"/>
+                </div>
+            </div>
+        </div>
+    <script type="text/javascript" src="http://img1.yododo.com.cn/js/prototype.1451034767.js"></script>
+<script type="text/javascript" src="http://img0.yododo.com.cn/_pack/h444990696.js" charset="utf-8"></script><script type="text/javascript">
+
+(function() {
+  var ga = document.createElement('script');
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
+  'http://www') + '.google-analytics.com/ga.js';
+  ga.setAttribute('async', 'true');
+  document.documentElement.firstChild.appendChild(ga);
+})();
+</script>
+<script type="text/javascript">
+(function() {
+
+  var _bdid = '6d012964209ae261eb52768ce9189563';
+
+
+  var _bdhm = document.createElement('script');
+  var _bdhmProtocol = (("https:" == document.location.protocol) ? "https://" : "http://");
+  _bdhm.src = _bdhmProtocol + 'hm.baidu.com/hm.js?' + _bdid;
+  _bdhm.setAttribute('async', 'true');
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(_bdhm, s);
+  //document.documentElement.firstChild.appendChild(_bdhm);
+})();
+</script>
+<script type="text/javascript">
+    //<![CDATA[
+    //attachButtonStyle();
+    try {
+        ProtoTip.attachTooltipBehavior();
+        initLightbox();
+    }
+    catch (e) {
+    }
+
+    document.onselectstart = null;
+    $j(".appDownBottomBar").click(function () {
+        _gaq.push(['_trackEvent', 'appDownBottomBar', 'hotel']);
+    });
+    //]]>
+</script>
+<script type="text/javascript">
+        if (document.location.protocol == 'http:') {
+            var Tynt = Tynt || [];
+            Tynt.push('dxwyzYsv8r4k_sadbi-bnq');
+            Tynt.i = {"st": true, "ap": "延伸阅读：", "as": "(本文转载自游多多客栈)"};
+            (function () {
+                var s = document.createElement('script');
+                s.async = "async";
+                s.type = "text/javascript";
+                s.src = 'http://tcr.tynt.com/ti.js';
+                var h = document.getElementsByTagName('script')[0];
+                h.parentNode.insertBefore(s, h);
+            })();
+        }
+    </script>
+<script type="text/javascript">
+        //<![CDATA[
+        window.status = '如果您喜欢游多多客栈，请推荐给您身边的朋友！';
+        //]]>
+    </script>
+<script type="text/javascript">
+    //<![CDATA[
+    $j().ready(function () {
+        
+    });
+    //-->
+</script>
+
+<script>
+	window._bd_share_config = {
+		common : {
+			"bdSnsKey": {"tsina": "604114270", "tqq": "215206"},
+			"bdMiniList": ["mshare", "qzone", "weixin", "renren", "tsina", "sqq", "tqq", "bdysc", "tieba", "fbook", "douban", "youdao", "evernotecn", "mail", "copy", "print"],
+			"bdPic": "",
+            "bdStyle": "0",
+            "bdSize": "16",
+			"onAfterClick": function (cmd) {
+                _gaq.push(['_trackEvent', 'bd_share', cmd]);
+            }
+		},"slide": {"type": "slide", "bdImg": "0", "bdPos": "right", "bdTop": "80"}
+	}
+	with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?cdnversion='+~(-new Date()/36e5)];
+</script>
+<!-- Google Code for remarketing -->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1008496340;
+    var google_conversion_label = "BC6yCPyN2AUQ1N3x4AM";
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    (function () {
+
+        asynLoadScriptJs("http://www.googleadservices.com/pagead/conversion.js", true, "text/javascript");
+
+    })();
+    // conversion();
+    /* ]]> */
+</script>
+<script type="text/javascript">
+    var cnt_jkb = parseInt(getCookie("jkb"));
+    if (isNaN(cnt_jkb)) cnt_jkb = 0;
+    var jkbDate = new Date();
+    jkbDate.setHours(jkbDate.getHours() + 24);
+    setCookie("jkb", cnt_jkb + 1, jkbDate, "/");
+</script>
+<!--app 底部广告开始-->
+<div class="bottom-ad" id="bottom_app_ad" style="display: none;">
+  <div class="w984 mauto clearfix">
+    <div class="fleft">
+      <span>游多多客栈APP</span>
+      <p>下载<strong>多多客栈APP</strong></p>
+      <p class="ml50">限时 <strong style="color:#f77f00;">手机专享特惠</strong></p>
+    </div>
+    <div class="fcenter">
+      <a href="http://www.yododo.cn/app/YododoHotelApp.apk" target="_blank" title="Android免费下载"><i class="iconfont">&#xF067;</i><span><strong>Android</strong>免费下载</span></a>
+      <a href="https://itunes.apple.com/cn/app/duo-duo-yi-zhan/id796891231?ls=1&mt=8" target="_blank" title="iPhone免费下载"><i class="iconfont">&#xF068;</i><span><strong>iPhone</strong>免费下载</span></a>
+    </div>
+    <div class="fright">
+      <span title="扫描二维码下载游多多客栈客户端">
+       游多多客栈客户端
+      </span>
+    </div>
+
+    <a class="close" href="#" onclick="closeBottomAppAD();return false;" title="关闭">
+      <i class="iconfont">&#xF054;</i>关闭
+    </a>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+  //<![CDATA[
+  function closeBottomAppAD() {
+    $j("#bottom_app_ad").hide();
+    setCookie('hotelappAD', '1', null, '/');
+  }
+  function closeAppAD() {
+    $j("#bottom_app_ad").hide();
+  }
+  if(!getCookie('hotelappAD')) {
+    $j("#bottom_app_ad").show();
+    setTimeout(closeAppAD, 1000*30);
+  }
+
+
+  //]]>
+</script>
+<!--app 底部广告结束-->
+</body>
+</html>

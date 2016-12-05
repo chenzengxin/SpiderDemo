@@ -1,0 +1,1726 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit">
+<meta name="keywords" content="长沙短租房, 长沙日租房, 长沙酒店式公寓,长沙短租公寓"/>
+<meta name="description" content="【居住自由主义】小猪提供短租房、日租房住宿信息，安全快捷的长沙酒店式公寓、家庭旅馆、民宿等不同类型短租日租房源预订。选择小猪，找您旅途中的家，体验高性价比、多样化、人情味的住宿。" />
+<link rel="shortcut icon" href="http://www.xiaozhu.com/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="icon" href="http://www.xiaozhu.com/favicon.ico" type="image/vnd.microsoft.icon">
+<title>长沙短租房|长沙日租房|长沙酒店式公寓-小猪</title><meta content="no-transform " http-equiv="Cache-Control" />
+<meta content="format=html5; url=http://m.xiaozhu.com/" http-equiv="mobile-agent" />
+<link href="http://jci.xiaozhustatic1.com/e16120102/xzcss?css=jquery-ui,global,page,city,suggest,calendar" rel="stylesheet" />
+<!-- [if ite IE 8]>
+    <script src="../js/respond.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+<!--header-->
+ 
+<!--[if lte IE 7]>
+<div style="background:#f16b80;  width:100%; height:50px; line-height:50px; text-align:center; font-size:14px; color:#fff; font-family:"微软雅黑";>
+    温馨提示：您目前的浏览器版本过低，网站部分功能无法正常使用，建议尽快升级：
+        <a href="http://www.microsoft.com/china/windows/IE/upgrade/index.aspx" name="升级ie浏览器" id="upgrade_ie" target="_blank" style=" display:inline-block;width:154px; height:40px;  vertical-align:middle;  margin:0 18px 0 12px;_margin-top:4px;"><img src="/images/ie.jpg" width="154" height="40"/></a>
+             或安装
+        <a href="http://www.firefox.com.cn" target="_blank" name="升级火狐浏览器" id="upgrade_firefox" style="display:inline-block;width:154px; height:40px;  vertical-align:middle;  margin:0 18px 0 12px;_margin-top:4px;"><img src="/images/firefox.jpg" width="154" height="40"/></a>
+</div>
+<![endif]-->
+
+<div class="head_wrapper">
+    <a href="http://www.xiaozhu.com" class="logo_v2">小猪</a><span class="slogan_v2 slogan_black"></span>
+<!--    <span class="list_city" id="suggest_icon4Search">长沙<i id="showCitySuggestion" class="icon_tri_down tri_down_f"></i><i id="closeCitySuggestion" class="icon_tri_down icon_tri_up"></i></span>-->
+    <ul class="nav_R nav_commen">
+                <li><a rel="nofollow" title="首次预订即可抵用房租" class="show-register-box" href="http://www.xiaozhu.com/register?next=http%3A%2F%2Fcs.xiaozhu.com%2F">注册就送200元</a></li>
+        <li>&middot;</li>
+        <li><a rel="nofollow" href="http://www.xiaozhu.com/login?next=http%3A%2F%2Fcs.xiaozhu.com%2F" class="logindialog">登录</a></li>
+        <li>&middot;</li>
+                <li class="current">
+            <a href="#ongo" class="openTri_R">短租指南</a>
+            <div class="head_pop width_58 top40">
+                <div class="pop_column">
+                    <span><a class="fl" href="http://www.xiaozhu.com/xzweb.php?op=Help_UserGuide&type=tenant">房客指南</a><a class="fr" href="http://www.xiaozhu.com/xzweb.php?op=Help_UserGuide&type=landlord">房东指南</a></span>
+                </div>
+            </div>
+        </li>
+        <li>
+            <a href="#ongo" class="icon_iphone">手机小猪</a>
+              <div class="head_pop w_120 top40">
+                <div><a href="http://www.xiaozhu.com/appdownload/fk" target="_blank"><img src="/images/code_pic.png" alt="小猪" title="小猪"/></a></div>
+               <a href="http://www.xiaozhu.com/appdownload/fk"  target="_blank">了解更多</a>
+          </div>
+        </li>
+                <li><a rel="nofollow" href="http://www.xiaozhu.com/publish" class="btn_free show-register-box">免费发布房源</a></li>
+            </ul>
+</div>
+<div class="w_698 login_register_box"  style="display:none" id="registerDialog">
+    <div class="r_colsed" id="closeRegiserDialog"><span></span></div>
+    <div class="clearfix">
+        <div class="r_main_l">
+            <ul class="r_tab1 clearfix">
+                <li class="fl cur">注册小猪账号</li>
+                <li class="fr col_gray">
+                    <a href="http://www.xiaozhu.com/mailregister?next=http%3A%2F%2Fcs.xiaozhu.com%2F" class="r-no-mobile">无大陆手机号？</a>
+                </li>
+            </ul>
+            <ul class="register_list">
+                <li>
+                    <div class="h_30">&nbsp;</div>
+                    <div class="pr">
+                        <div class=" r_telepho_ico"></div>
+                        <span class="r_sym">/</span>
+                        <input type="text" id="input-mobile" placeholder="手机号" class="r_input_1 col_input">
+                    </div>
+                </li>
+                <li>
+                    <div class="h_30">
+                        <p class="r_error_tip" id="input-mobile-tip">请输入手机号</p>&nbsp;
+                    </div>
+                    <div class="pr">
+                        <div class="r_pho_ico"></div>
+                        <span class="r_sym">/</span>
+                        <input type="text" placeholder="图片验证码" id="reg-image-code" class="r_input_small">
+                        <span class="r_code"><img class="change-verify-image" id="img_imagecode" title="点击更换验证码" width="101" height="33" /></span>
+                    </div>
+                </li>
+                <li>
+                    <div class="h_30">
+                        <p class="r_error_tip" id="reg-image-code-tip">请输入图片验证码</p>&nbsp;
+                    </div>
+                    <div class="pr">
+                        <div class="r_num_ico"></div>
+                        <span class="r_sym">/</span>
+                        <input id="invitecode" type="text" placeholder="邀请码(选填)"  class="r_input_1">
+                    </div>
+                    <div class="h_30" style="display:none;">
+                        <p id="input-invitecode-tip" class="r_error_tip">邀请码输入有误</p>&nbsp;
+                    </div>
+                    <p class="col_fgray r_tip_text">使用朋友给您的邀请码注册后，你们均可再得200元</p>
+                </li>
+            </ul>
+            
+            <a href="#" id="reg-btn" class="r_input">立即注册</a>
+            <p class="tc"><a href="http://www.xiaozhu.com/help/service" class="r-service-protocol" target="_blank">注册视为同意《小猪服务条款》</a></p>
+        </div>
+        <div class="r_main_r">
+            <h5>合作网站账户登录</h5>
+<ul class="r_wedsite col_gray">
+    <li>
+        <a class="hz_qq" href="http://www.xiaozhu.com/xzweb.php?op=GetOpenSnsAuthUrl&snsType=qqzone&state=login&next=http%3A%2F%2Fcs.xiaozhu.com%2F">QQ账号登录</a>
+    </li>
+    <li>
+        <a class="hz_weibo" href="http://www.xiaozhu.com/xzweb.php?op=GetOpenSnsAuthUrl&snsType=sinaweibo&state=login&next=http%3A%2F%2Fcs.xiaozhu.com%2F">微博账号登录</a>
+    </li>
+</ul>            <p class="">已有账号？<a href="http://www.xiaozhu.com/login?next=http%3A%2F%2Fcs.xiaozhu.com%2F" id="loginDialogBtn" class="col_pink logindialog">登录&gt;&gt;</a></p>
+        </div>
+    </div>
+</div>
+<div class="w_400 login_register_box" id='mobileRegisterInfoDialog' style="display:none;"> 
+    <div class="r_colsed" id="closeMobileRegisterInfoDialog"><span></span></div>
+    <div class="r_top_tit">
+        <h6>验证短信已发送至手机号码</h6>
+        <p><span id="codeRecivePhone"></span><span class="col_pink"><a href="#" id="modifyRegisterBtn">(修改)</a></span></p>
+    </div>
+    <ul class="register_list">
+        <li>
+            <div class="h_30">&nbsp;</div>
+            <div class="pr">
+                <div class="r_pho_ico"></div>
+                <span class="r_sym">/</span>
+                <input type="text" id="activate-code" placeholder="手机验证码" class="r_input_small">
+                <a href="#ongo" id="get-code-btn" class="have-nb">重新发送</a>
+            </div>
+        </li>
+        <li>
+            <div class="h_30">
+                <p id="activate-code-tip" class="r_error_tip">请输入手机验证码</p>&nbsp;
+            </div>
+            <div class="pr">
+                <div class=" r_telepho_ico"></div>
+                <span class="r_sym">/</span>
+                <input id="reginput-username" type="text" placeholder="用户名" class="r_input_1">
+            </div>
+        </li>
+        <li>
+            <div class="h_30">
+                <p class="r_error_tip" id="reginput-username-tip">请输入用户名</p>&nbsp;
+            </div>
+            <div class="pr">
+                <div class="r_password_ico"></div>
+                <span class="r_sym">/</span>
+                <input type="password" id="regpassword" placeholder="密码" class="r_input_1">
+            </div>
+            <div class="h_30">
+                <p class="r_error_tip" id="regpassword-tip">请输入密码</p>&nbsp;
+            </div>
+        </li>
+    </ul>
+    <a href="#" id="regConfirmBtn" class="r_input mt_10">确认</a>
+</div>
+<div id="regSuccessDialog" class="reg_success_box login_register_box" style="display:none;">
+    <div class="w_401">
+        <div class="r_colsed_1" id="closeRegSuccDialogBtn"><span></span></div>
+        <div id="regSuccInfo">
+        </div>
+    </div>
+</div><div id="userlogindialog" class="login_register_box" style="display:none">
+    <div class="w_698"> 
+        <div class="r_colsed" id="closeUserLoginDialog"><span></span></div>
+        <div class="clearfix">
+            <div class="r_main_l">
+                <ul class="r_tab clearfix">
+                    <li class="percent_50 tc cur underL1" id="generalLi">普通登录</li>
+                    <li class="percent_50 tc cur" id="mobileLi">短信快捷登录</li>
+                </ul>
+                <div id="generalLogin">
+                    <ul class="register_list">
+                        <li>
+                            <div class="h_30">&nbsp;</div>
+                            <div class="pr">
+                                <div class="r_tel_ico"></div>
+                                <span class="r_sym">/</span>
+                                <input type="text" class="r_input_1" id="input-username" placeholder="手机号、邮箱" disabled="true">
+                            </div>
+                        </li>
+                        <li>
+                            <div class="h_30"><div class="r_error_tip" id="input-username-tip"><span class="icon-wrong" id=""></span>手机号未注册</div></div>
+                            <div class="pr">
+                                <div class="r_password_ico"></div>
+                                <span class="r_sym">/</span>
+                                <input type="password" class="r_input_1" id="password" placeholder="密码" disabled="true">
+                                <div class="h_30">
+                                    <div class="r_error_tip" id="password-tip"><span class="ipt-text-pass"></span></div>
+                                </div>    
+                            </div>
+                        </li>
+                        <span  style="display:none"  id="verify-show">
+                        <li>
+                            <div class="pr">
+                                <div class="r_pho_ico"></div>
+                                <span class="r_sym">/</span>
+                                <input type="text" class="r_input_small" id="image-verify-code" disabled="true" placeholder="图片验证码">
+                                <span><img class="r_code change-verify-image" width="101px" height="33px" id="img_imagecodes" title="点击更换验证码" /></span>
+                                <div class="h_30">
+                                    <div class="r_error_tip" id="image-verify-code-tip"></div>
+                                </div>
+                            </div>
+                        </li>
+                        </span>
+                    </ul>
+                    <a href="###" class="r_input mt_10" id="orgBtn">登录</a>
+                    <div class="r_login_space clearfix"><span class="fl cur "><input class="ipt-checkbox2" type="checkbox" id="setcookie" checked="checked" />自动登录</span>
+                    <span class="fr col_gray"><a href="http://www.xiaozhu.com/findpwdbyphone">忘记密码?</a></span></div>
+                </div>
+                <div id="mobileLogin" style="display:none">
+                    <ul class="register_list">
+                        <li>
+                            <div class="h_30">&nbsp;</div>
+                            <div class="pr">
+                                <div class="r_telepho_ico"></div>
+                                <span class="r_sym">/</span>
+                                <input type="text" class="r_input_1" id="quick-input-mobile" placeholder="手机号" disabled="true" >
+                            </div>
+                        </li>
+                        <li>
+                            <div class="h_30">
+                                <div class="r_error_tip" id="quick-input-mobile-tip"><span class="icon-ok"></span></div>
+                            </div>
+                            <div class="pr">
+                                <div class="r_pho_ico"></div>
+                                <span class="r_sym">/</span>
+                                <input type="text" class="r_input_small" id="quick-image-code" placeholder="图片验证码" disabled="true" >
+                                <span ><img class="r_code change-verify-image" width="104px" height="33px" id="img_imagecodeMobile" title="点击更换验证码" /></span>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="h_30">
+                                <div class="r_error_tip" id="quick-image-code-tip"></div>
+                            </div>
+                            <div class="pr">
+                                <div class="r_vali_ico"></div>
+                                <span class="r_sym">/</span>
+                                <input type="text" class="r_input_small" id="quick-activate-code" placeholder="动态验证码" disabled="true" >
+                                <span class="btn have-nb"  id="quick-get-code-btn">获取动态验证码</span>    
+                                <div class="h_30">
+                                    <div class="r_error_tip"  id="quick-activate-code-tip"><span class="icon-ok"></span></div> 
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                    <a href="###" class="r_input mt_10" id="orgBtnMobile">登录</a>
+                    <p class="mt_10">＊验证即登录，未注册将自动创建小猪账号</p>
+                </div>
+            </div>
+            <div class="r_main_r">
+                <h5>合作网站账户登录</h5>
+<ul class="r_wedsite col_gray">
+    <li>
+        <a class="hz_qq" href="http://www.xiaozhu.com/xzweb.php?op=GetOpenSnsAuthUrl&snsType=qqzone&state=login&next=http%3A%2F%2Fcs.xiaozhu.com%2F">QQ账号登录</a>
+    </li>
+    <li>
+        <a class="hz_weibo" href="http://www.xiaozhu.com/xzweb.php?op=GetOpenSnsAuthUrl&snsType=sinaweibo&state=login&next=http%3A%2F%2Fcs.xiaozhu.com%2F">微博账号登录</a>
+    </li>
+</ul>                <p>还没有注册？<a href="#" class="col_pink show-register-box" >注册账号&gt;&gt;</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="mobilePerfeactInfoDialog" style="display:none;">
+    <div class="w_400" style="height:386px;"> 
+        <div class="perfeact-info-content" style="display:none;">
+            <div class="r_colsed" id="mobilePerfeactInfoBtn"><span></span></div>
+        <div class="r_top_logo">
+            <p>首次登录，请完善资料后，开启小猪住宿之旅！</p>
+        </div>
+        <ul class="register_list">
+            <li>
+                <div class="h_30">
+                    <p class="r_error_tip" style="display:none;"></p>&nbsp;
+                </div>
+                <div class="pr">
+                    <div class="r_tel_ico"></div>
+                    <span class="r_sym">/</span>
+                    <input id="quick-input-username" type="text" placeholder="用户名" class="r_input_1">
+                </div>
+            </li>
+            <li>
+                <div class="h_30">
+                    <p class="r_error_tip" id="quick-input-username-tip">请输入用户名</p>&nbsp;
+                </div>
+                <div class="pr">
+                    <div class="r_password_ico"></div>
+                    <span class="r_sym">/</span>
+                    <input type="password" id="quick-regpassword" placeholder="密码" class="r_input_1">
+                </div>
+            </li>
+            <li>
+                <div class="h_30">
+                    <p class="r_error_tip" id="quick-regpassword-tip">请输入密码</p>&nbsp;
+                </div>
+                <div class="pr">
+                    <div class="r_num_ico"></div>
+                    <span class="r_sym">/</span>
+                    <input id="quick-invitecode" type="text" placeholder="邀请码(选填)" class="r_input_1">
+                </div>
+                <div class="h_30" style="display:none;">
+                    <p id="quick-invitecode-tip" class="r_error_tip">邀请码输入有误</p>&nbsp;
+                </div>
+                <p class="col_fgray r_tip_text">使用朋友给您的邀请码注册后，均可获得200元</p>
+            </li>
+        </ul>
+        <a class="r_input" id="mobileInfoPerfeactBtn" href="#">确定</a>
+        </div>
+    </div>
+</div>
+
+<!--/header-->
+<div class="city_wrap">
+    <!--city top-->
+    <div class="city_top_box clearfix" id="list_filter">
+        <div class="city_l">
+               <div class="clearfix mb_14">
+                  <div class="city_select city_bg">
+                     <input type="text" value="长沙" id="searchcityd" placeholder="请选择或输入城市"> 
+                     <span id="searchcityd_search" class="icon_searchandremove" style="display: none"><span class="ipt_icon icon_search_s"></span></span>
+                     <div id="suggest" class="ac_results2 marginT1" style="display:none;"></div>
+<div class="sug  marginT1 sug4search">    
+    <div class="sug-tit">
+    	<span id="hotcity" value="hotcity" class="sug-hover">热门</span>
+        <span id="a_d" value="a_b_c_d">ABCD</span>
+        <span id="e_j" value="e_f_g_h_j">EFGHJ</span>
+        <span id="k_n" value="k_l_m_n">KLMN</span>
+        <span id="p_w" class="width64" value="p_q_r_s_t_w">PQRSTW</span>
+        <span id="x_z" class="nobor width43" value="x_y_z">XYZ</span>
+    </div>
+    <div id="con_one_1" class="sug-city">
+    </div>   
+</div>                  </div>
+                  <div class="date_box city_bg">
+                                                  <input class="ipt_list1" type="text" readonly="" id="startenddate" name="startenddate"   value="选择入住离开日期" />
+                                                  <input type="hidden" name="startdate" id="startdate" value=""/>  
+                        <input type="hidden" name="enddate" id="enddate" value=""/>
+                        <div id="calendar-box" style="display:none" class="nomargin"> </div>
+                                                <span class="icon_searchandremove" style="display:none"><span class="ipt_icon icon_delete"></span></span>
+                                          
+                  </div>
+               
+               </div>
+        
+                <div class="type_bg clearfix" id="rentType">
+                   <h6 class="type_tit1">出租类型</h6>
+                   <ul class="type_list">
+                                                                        <li class="rentType" type="zhengzu">
+                        <span class="type_ico1">整套出租</span> 
+                                                 
+                      </li>
+                                                                       <li class="rentType" type="danjian">
+                        <span class="type_ico2" >独立单间</span>
+                                                 
+                      </li>
+                                                                       <li class="rentType" type="shafa">
+                        <span class="type_ico3"  >合住房间</span>
+                                              </li>
+                                                           
+                                        <input type="hidden" id="zhengzu" value="http://cs.xiaozhu.com/zhengzu-duanzufang-2/" />
+
+                                        <input type="hidden" id="danjian" value="http://cs.xiaozhu.com/danjian-duanzufang-2/" />
+
+                                        <input type="hidden" id="shafa" value="http://cs.xiaozhu.com/shafa-duanzufang-2/" />
+
+                                                            <input type="hidden" id="danjianshafa" value="http://cs.xiaozhu.com/danjianshafa-duanzufang-2/" />
+
+                                                            <input type="hidden" id="danjianzhengzu" value="http://cs.xiaozhu.com/danjianzhengzu-duanzufang-2/" />
+
+                                                            <input type="hidden" id="shafazhengzu" value="http://cs.xiaozhu.com/shafazhengzu-duanzufang-2/" />
+
+                                                            <input type="hidden" id="danjianshafazhengzu" value="http://cs.xiaozhu.com/danjianshafazhengzu-duanzufang-2/" />
+                    <input type="hidden" id="norenttype" value="http://cs.xiaozhu.com/search-duanzufang-0/">
+                   </ul>
+                </div>
+                <div class="type_bg clearfix">
+                  <h6 class="type_tit1">最多宜居</h6>
+                  <div class="select_box1">
+                    <span class="s_arrow"></span>
+                                          <input class="s_int " type="text" key='未选择' value="未选择" readonly />
+                    <ul class="s_box" id='int_s_box'>
+                       <li value="">未选择</li>
+                                               <li value="1">1</li>
+                                               <li value="2">2</li>
+                                               <li value="3">3</li>
+                                               <li value="4">4</li>
+                                               <li value="5">5</li>
+                                               <li value="6">6</li>
+                                               <li value="7">7</li>
+                                               <li value="8">8</li>
+                                               <li value="9">9</li>
+                                               <li value="10">10</li>
+                                               <li value="11">大于10</li>
+                                           </ul>
+                  </div>
+                     </div>
+                <div class="type_bg clearfix">
+                   <h6 class="type_tit1">关键词</h6>
+                   <div class="select_box">
+                     <!--<div class="search_ico" style="display:none;"></div>
+                     <div class="closed_ico" title="关闭"></div>-->
+                     
+                                        <input class="ipt_list hiddenTxt " type="text" value="" id="keyword" autocomplete="off"      placeholder="位置，房间名，或房东名" />
+                       <span id="search_keyword" class="icon_searchandremove"><span class="ipt_icon icon_search_s"></span></span>
+                        <input type="hidden" name="keywordtype" id="keywordtype" value="landmark" />
+                        <input type="hidden" name="keywordvalue" id="keywordvalue" value="" />
+                   </div>
+                
+                </div>
+
+        
+        </div>
+        <div class="city_r">
+            
+               <div class="type_bg clearfix">
+                  <h6 class="type_tit">价格</h6>
+                 <!--进度条 -->
+                <div class="bar_box">               
+                   <div id="price-slider" class="move_div ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all" aria-disabled="false">
+                   <div class="line_all"></div>
+                    </div>
+                </div>
+                 <!--/进度条-->
+                 
+                 <div class="price_text" id="keyword-price">
+                                             不限
+                                         </div>
+               </div>
+               <input type="hidden" id="no_price" value="http://cs.xiaozhu.com/search-duanzufang-0/" />
+               <div class="type_bg clearfix" id='space_list'>
+                   <div class="type_tit">位置</div>
+                  <ul class="position_tab clearfix">
+    <li class='list_li' id='xingzhengquS'>行政区<i></i></li>
+            <li class='list_li' id="51880900">地铁线路<i></i></li>
+        <li class='list_li' id="51883150">车站机场<i></i></li>
+        <li class='list_li' id="51883504">商圈<i></i></li>
+        <li class='list_li' id="51883301">景点<i></i></li>
+        <li class='list_li' id="51883060">高校<i></i></li>
+        <li class='list_li' id="51883739">医院<i></i></li>
+            <div class="position_box" id='xingzhengquS_box'>
+        <div class="line_box" id='xingzhengquS_first'>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+            <span keywordvalue=yuhua keywordtype="district"><a href="http://cs.xiaozhu.com/yuhua-duanzufang-8/" id="area_2410"  >雨花</a></span><span keywordvalue=yuelu keywordtype="district"><a href="http://cs.xiaozhu.com/yuelu-duanzufang-8/" id="area_2406"  >岳麓</a></span><span keywordvalue=furong keywordtype="district"><a href="http://cs.xiaozhu.com/furong-duanzufang-8/" id="area_2407"  >芙蓉</a></span><span keywordvalue=tianxin keywordtype="district"><a href="http://cs.xiaozhu.com/tianxin-duanzufang-8/" id="area_2408"  >天心</a></span><span keywordvalue=kaifu keywordtype="district"><a href="http://cs.xiaozhu.com/kaifu-duanzufang-8/" id="area_2409"  >开福</a></span><span keywordvalue=changshaxian keywordtype="district"><a href="http://cs.xiaozhu.com/changshaxian-duanzufang-8/" id="area_3278"  >长沙县</a></span><span keywordvalue=wangcheng keywordtype="district"><a href="http://cs.xiaozhu.com/wangcheng-duanzufang-8/" id="area_3279"  >望城</a></span><span keywordvalue=liuyang keywordtype="district"><a href="http://cs.xiaozhu.com/liuyang-duanzufang-8/" id="area_3281"  >浏阳</a></span><span keywordvalue=ningxiang keywordtype="district"><a href="http://cs.xiaozhu.com/ningxiang-duanzufang-8/" id="area_3280"  >宁乡</a></span><span keywordvalue=jingjikaifa keywordtype="district"><a href="http://cs.xiaozhu.com/jingjikaifa-duanzufang-8/" id="area_2411"  >经济开发区</a></span> 
+        </div>
+    </div>
+
+                        <div class="position_box" id="51880900_box">
+                <div class="line_box" id="51880900_first">
+                                                                                    <span key="2" style="cursor:pointer;">2号线</span>
+                                                                            </div>
+                                
+                <div class="sto_box" id="51880900_last">
+                                                                                                                                                                                                                    <span class="line_2" style="display:none" keywordvalue="光达_uw10ow" keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E5%85%89%E8%BE%BE_uw10ow-duanzufang-20/?putkey=%E5%85%89%E8%BE%BE" id="subway_2">光达<i></i></a>
+                            </span>
+                                                                                                                                                                                                    <span class="line_2" style="display:none" keywordvalue="长沙火车南站_uw10pw" keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E9%95%BF%E6%B2%99%E7%81%AB%E8%BD%A6%E5%8D%97%E7%AB%99_uw10pw-duanzufang-20/?putkey=%E9%95%BF%E6%B2%99%E7%81%AB%E8%BD%A6%E5%8D%97%E7%AB%99" id="subway_2">长沙火车南站<i></i></a>
+                            </span>
+                                                                                                                                                                                                    <span class="line_2" style="display:none" keywordvalue="杜花路_uw10qw" keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E6%9D%9C%E8%8A%B1%E8%B7%AF_uw10qw-duanzufang-20/?putkey=%E6%9D%9C%E8%8A%B1%E8%B7%AF" id="subway_2">杜花路<i></i></a>
+                            </span>
+                                                                                                                                                                                                    <span class="line_2" style="display:none" keywordvalue="沙湾公园_uw10rw" keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E6%B2%99%E6%B9%BE%E5%85%AC%E5%9B%AD_uw10rw-duanzufang-20/?putkey=%E6%B2%99%E6%B9%BE%E5%85%AC%E5%9B%AD" id="subway_2">沙湾公园<i></i></a>
+                            </span>
+                                                                                                                                                                                                    <span class="line_2" style="display:none" keywordvalue="长沙大道_uw10sw" keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E9%95%BF%E6%B2%99%E5%A4%A7%E9%81%93_uw10sw-duanzufang-20/?putkey=%E9%95%BF%E6%B2%99%E5%A4%A7%E9%81%93" id="subway_2">长沙大道<i></i></a>
+                            </span>
+                                                                                                                                                                                                    <span class="line_2" style="display:none" keywordvalue="人民东路_uw10tw" keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E4%BA%BA%E6%B0%91%E4%B8%9C%E8%B7%AF_uw10tw-duanzufang-20/?putkey=%E4%BA%BA%E6%B0%91%E4%B8%9C%E8%B7%AF" id="subway_2">人民东路<i></i></a>
+                            </span>
+                                                                                                                                                                                                    <span class="line_2" style="display:none" keywordvalue="万家丽广场_uw10uw" keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E4%B8%87%E5%AE%B6%E4%B8%BD%E5%B9%BF%E5%9C%BA_uw10uw-duanzufang-20/?putkey=%E4%B8%87%E5%AE%B6%E4%B8%BD%E5%B9%BF%E5%9C%BA" id="subway_2">万家丽广场<i></i></a>
+                            </span>
+                                                                                                                                                                                                    <span class="line_2" style="display:none" keywordvalue="锦泰广场_uw10vw" keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E9%94%A6%E6%B3%B0%E5%B9%BF%E5%9C%BA_uw10vw-duanzufang-20/?putkey=%E9%94%A6%E6%B3%B0%E5%B9%BF%E5%9C%BA" id="subway_2">锦泰广场<i></i></a>
+                            </span>
+                                                                                                                                                                                                    <span class="line_2" style="display:none" keywordvalue="长沙火车站_uw10ww" keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E9%95%BF%E6%B2%99%E7%81%AB%E8%BD%A6%E7%AB%99_uw10ww-duanzufang-20/?putkey=%E9%95%BF%E6%B2%99%E7%81%AB%E8%BD%A6%E7%AB%99" id="subway_2">长沙火车站<i></i></a>
+                            </span>
+                                                                                                                                                                                                    <span class="line_2" style="display:none" keywordvalue="袁家岭_uw10xw" keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E8%A2%81%E5%AE%B6%E5%B2%AD_uw10xw-duanzufang-20/?putkey=%E8%A2%81%E5%AE%B6%E5%B2%AD" id="subway_2">袁家岭<i></i></a>
+                            </span>
+                                                                                                                                                                                                    <span class="line_2" style="display:none" keywordvalue="迎宾路口_uw10yw" keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E8%BF%8E%E5%AE%BE%E8%B7%AF%E5%8F%A3_uw10yw-duanzufang-20/?putkey=%E8%BF%8E%E5%AE%BE%E8%B7%AF%E5%8F%A3" id="subway_2">迎宾路口<i></i></a>
+                            </span>
+                                                                                                                                                                                                    <span class="line_2" style="display:none" keywordvalue="芙蓉广场_uw10zw" keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E8%8A%99%E8%93%89%E5%B9%BF%E5%9C%BA_uw10zw-duanzufang-20/?putkey=%E8%8A%99%E8%93%89%E5%B9%BF%E5%9C%BA" id="subway_2">芙蓉广场<i></i></a>
+                            </span>
+                                                                                                                                                                                                    <span class="line_2" style="display:none" keywordvalue="五一广场_uw110w" keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E4%BA%94%E4%B8%80%E5%B9%BF%E5%9C%BA_uw110w-duanzufang-20/?putkey=%E4%BA%94%E4%B8%80%E5%B9%BF%E5%9C%BA" id="subway_2">五一广场<i></i></a>
+                            </span>
+                                                                                                                                                                                                    <span class="line_2" style="display:none" keywordvalue="湘江中路_uw111w" keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E6%B9%98%E6%B1%9F%E4%B8%AD%E8%B7%AF_uw111w-duanzufang-20/?putkey=%E6%B9%98%E6%B1%9F%E4%B8%AD%E8%B7%AF" id="subway_2">湘江中路<i></i></a>
+                            </span>
+                                                                                                                                                                                                    <span class="line_2" style="display:none" keywordvalue="橘子洲_uw112w" keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E6%A9%98%E5%AD%90%E6%B4%B2_uw112w-duanzufang-20/?putkey=%E6%A9%98%E5%AD%90%E6%B4%B2" id="subway_2">橘子洲<i></i></a>
+                            </span>
+                                                                                                                                                                                                    <span class="line_2" style="display:none" keywordvalue="溁湾镇_uw113w" keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E6%BA%81%E6%B9%BE%E9%95%87_uw113w-duanzufang-20/?putkey=%E6%BA%81%E6%B9%BE%E9%95%87" id="subway_2">溁湾镇<i></i></a>
+                            </span>
+                                                                                                                                                                                                    <span class="line_2" style="display:none" keywordvalue="西湖公园_uw114w" keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E8%A5%BF%E6%B9%96%E5%85%AC%E5%9B%AD_uw114w-duanzufang-20/?putkey=%E8%A5%BF%E6%B9%96%E5%85%AC%E5%9B%AD" id="subway_2">西湖公园<i></i></a>
+                            </span>
+                                                                                                                                                                                                    <span class="line_2" style="display:none" keywordvalue="金星路_uw115w" keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E9%87%91%E6%98%9F%E8%B7%AF_uw115w-duanzufang-20/?putkey=%E9%87%91%E6%98%9F%E8%B7%AF" id="subway_2">金星路<i></i></a>
+                            </span>
+                                                                                                                                                                                                    <span class="line_2" style="display:none" keywordvalue="望城坡_uw116w" keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E6%9C%9B%E5%9F%8E%E5%9D%A1_uw116w-duanzufang-20/?putkey=%E6%9C%9B%E5%9F%8E%E5%9D%A1" id="subway_2">望城坡<i></i></a>
+                            </span>
+                                                                                                        </div>
+                            </div>
+        
+                        <div class="position_box" id="51883150_box">
+                <div class="line_box" id="51883150_first">
+                                                                                                                                                                                        <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E9%BB%84%E8%8A%B1%E6%9C%BA%E5%9C%BA_uw1cqd-duanzufang-20/?putkey=%E9%BB%84%E8%8A%B1%E6%9C%BA%E5%9C%BA">黄花机场</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E9%95%BF%E6%B2%99%E7%81%AB%E8%BD%A6%E7%AB%99_uw1crd-duanzufang-20/?putkey=%E9%95%BF%E6%B2%99%E7%81%AB%E8%BD%A6%E7%AB%99">长沙火车站</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E9%95%BF%E6%B2%99%E5%8C%97%E7%AB%99_uw1csd-duanzufang-20/?putkey=%E9%95%BF%E6%B2%99%E5%8C%97%E7%AB%99">长沙北站</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E9%95%BF%E6%B2%99%E9%AB%98%E9%93%81%E5%8D%97%E7%AB%99_uw1ctd-duanzufang-20/?putkey=%E9%95%BF%E6%B2%99%E9%AB%98%E9%93%81%E5%8D%97%E7%AB%99">长沙高铁南站</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E6%B1%BD%E8%BD%A6%E5%8D%97%E7%AB%99_uw1cud-duanzufang-20/?putkey=%E6%B1%BD%E8%BD%A6%E5%8D%97%E7%AB%99">汽车南站</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E6%B1%BD%E8%BD%A6%E4%B8%9C%E7%AB%99_uw1cvd-duanzufang-20/?putkey=%E6%B1%BD%E8%BD%A6%E4%B8%9C%E7%AB%99">汽车东站</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E4%B8%89%E5%8F%89%E7%9F%B6%E7%A0%81%E5%A4%B4_uw1cwd-duanzufang-20/?putkey=%E4%B8%89%E5%8F%89%E7%9F%B6%E7%A0%81%E5%A4%B4">三叉矶码头</a>
+                            </span>
+                        
+                                                    </div>
+                            </div>
+        
+                        <div class="position_box" id="51883504_box">
+                <div class="line_box" id="51883504_first">
+                                                                                                                                                                                        <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E4%BA%94%E4%B8%80%E5%B9%BF%E5%9C%BA_uw1oad-duanzufang-20/?putkey=%E4%BA%94%E4%B8%80%E5%B9%BF%E5%9C%BA">五一广场</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E5%A4%A7%E9%83%BD%E5%B8%82%E5%95%86%E4%B8%9A%E8%A1%97_uw1obd-duanzufang-20/?putkey=%E5%A4%A7%E9%83%BD%E5%B8%82%E5%95%86%E4%B8%9A%E8%A1%97">大都市商业街</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E8%94%A1%E9%94%B7%E8%B7%AF_uw1ocd-duanzufang-20/?putkey=%E8%94%A1%E9%94%B7%E8%B7%AF">蔡锷路</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E9%BB%84%E5%85%B4%E5%8D%97%E8%B7%AF%E6%AD%A5%E8%A1%8C%E8%A1%97_uw1odd-duanzufang-20/?putkey=%E9%BB%84%E5%85%B4%E5%8D%97%E8%B7%AF%E6%AD%A5%E8%A1%8C%E8%A1%97">黄兴南路步行街</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E8%A2%81%E5%AE%B6%E5%B2%AD_uw1oed-duanzufang-20/?putkey=%E8%A2%81%E5%AE%B6%E5%B2%AD">袁家岭</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E4%B8%9C%E5%A1%98_uw1ofd-duanzufang-20/?putkey=%E4%B8%9C%E5%A1%98">东塘</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E4%BE%AF%E5%AE%B6%E5%A1%98_uw243d-duanzufang-20/?putkey=%E4%BE%AF%E5%AE%B6%E5%A1%98">侯家塘</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E8%8A%99%E8%93%89%E5%B9%BF%E5%9C%BA_uw244d-duanzufang-20/?putkey=%E8%8A%99%E8%93%89%E5%B9%BF%E5%9C%BA">芙蓉广场</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E9%9B%A8%E8%8A%B1%E4%BA%AD_uw245d-duanzufang-20/?putkey=%E9%9B%A8%E8%8A%B1%E4%BA%AD">雨花亭</a>
+                            </span>
+                        
+                                                    </div>
+                            </div>
+        
+                        <div class="position_box" id="51883301_box">
+                <div class="line_box" id="51883301_first">
+                                                                                                                                                                                        <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E5%B2%B3%E9%BA%93%E5%B1%B1_uw1hyd-duanzufang-20/?putkey=%E5%B2%B3%E9%BA%93%E5%B1%B1">岳麓山</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E6%B5%B7%E5%BA%95%E4%B8%96%E7%95%8C_uw248d-duanzufang-20/?putkey=%E6%B5%B7%E5%BA%95%E4%B8%96%E7%95%8C">海底世界</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E9%95%BF%E6%B2%99%E5%8A%A8%E7%89%A9%E5%9B%AD_uw247d-duanzufang-20/?putkey=%E9%95%BF%E6%B2%99%E5%8A%A8%E7%89%A9%E5%9B%AD">长沙动物园</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E6%B9%96%E5%8D%97%E7%83%88%E5%A3%AB%E5%85%AC%E5%9B%AD_uw246d-duanzufang-20/?putkey=%E6%B9%96%E5%8D%97%E7%83%88%E5%A3%AB%E5%85%AC%E5%9B%AD">湖南烈士公园</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E9%BA%93%E5%B1%B1%E5%AF%BA_uw1i5d-duanzufang-20/?putkey=%E9%BA%93%E5%B1%B1%E5%AF%BA">麓山寺</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E5%92%B8%E5%98%89%E6%B9%96%E5%94%90%E5%A2%93_uw1i4d-duanzufang-20/?putkey=%E5%92%B8%E5%98%89%E6%B9%96%E5%94%90%E5%A2%93">咸嘉湖唐墓</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E7%88%B1%E6%99%9A%E4%BA%AD_uw1i3d-duanzufang-20/?putkey=%E7%88%B1%E6%99%9A%E4%BA%AD">爱晚亭</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E5%A4%A9%E5%BF%83%E9%98%81_uw1i2d-duanzufang-20/?putkey=%E5%A4%A9%E5%BF%83%E9%98%81">天心阁</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E5%8F%A4%E5%BC%80%E7%A6%8F%E5%AF%BA_uw1i1d-duanzufang-20/?putkey=%E5%8F%A4%E5%BC%80%E7%A6%8F%E5%AF%BA">古开福寺</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E8%88%8D%E5%88%A9%E5%A1%94_uw1i0d-duanzufang-20/?putkey=%E8%88%8D%E5%88%A9%E5%A1%94">舍利塔</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E6%A9%98%E5%AD%90%E6%B4%B2_uw1hzd-duanzufang-20/?putkey=%E6%A9%98%E5%AD%90%E6%B4%B2">橘子洲</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E5%A4%A9%E9%99%85%E5%B2%AD%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD_uw249d-duanzufang-20/?putkey=%E5%A4%A9%E9%99%85%E5%B2%AD%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD">天际岭国家森林公园</a>
+                            </span>
+                        
+                                                    </div>
+                            </div>
+        
+                        <div class="position_box" id="51883060_box">
+                <div class="line_box" id="51883060_first">
+                                                                                                                                                                                        <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E4%B8%AD%E5%8D%97_uw19hd-duanzufang-20/?putkey=%E4%B8%AD%E5%8D%97">中南</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E6%B9%96%E5%A4%A7_uw19id-duanzufang-20/?putkey=%E6%B9%96%E5%A4%A7">湖大</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E6%B9%96%E5%8D%97%E5%B8%88%E5%A4%A7_uw19jd-duanzufang-20/?putkey=%E6%B9%96%E5%8D%97%E5%B8%88%E5%A4%A7">湖南师大</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E9%95%BF%E6%B2%99%E7%90%86%E5%B7%A5_uw19kd-duanzufang-20/?putkey=%E9%95%BF%E6%B2%99%E7%90%86%E5%B7%A5">长沙理工</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E4%B8%AD%E6%9E%97%E7%A7%91%E5%A4%A7_uw19ld-duanzufang-20/?putkey=%E4%B8%AD%E6%9E%97%E7%A7%91%E5%A4%A7">中林科大</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E9%95%BF%E6%B2%99%E5%A4%A7%E5%AD%A6_uw24ad-duanzufang-20/?putkey=%E9%95%BF%E6%B2%99%E5%A4%A7%E5%AD%A6">长沙大学</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E4%B8%AD%E5%8D%97%E9%93%81%E9%81%93%E5%AD%A6%E9%99%A2_uw24bd-duanzufang-20/?putkey=%E4%B8%AD%E5%8D%97%E9%93%81%E9%81%93%E5%AD%A6%E9%99%A2">中南铁道学院</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E6%B9%96%E5%8D%97%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%AD%A6_uw24cd-duanzufang-20/?putkey=%E6%B9%96%E5%8D%97%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%AD%A6">湖南女子大学</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E5%9B%BD%E9%98%B2%E7%A7%91%E5%A4%A7_uw24dd-duanzufang-20/?putkey=%E5%9B%BD%E9%98%B2%E7%A7%91%E5%A4%A7">国防科大</a>
+                            </span>
+                        
+                                                    </div>
+                            </div>
+        
+                        <div class="position_box" id="51883739_box">
+                <div class="line_box" id="51883739_first">
+                                                                                                                                                                                        <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E5%84%BF%E7%AB%A5%E5%8C%BB%E9%99%A2_uw1sid-duanzufang-20/?putkey=%E5%84%BF%E7%AB%A5%E5%8C%BB%E9%99%A2">儿童医院</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E7%9C%81%E4%B8%AD%E5%8C%BB%E9%99%A2_uw1sjd-duanzufang-20/?putkey=%E7%9C%81%E4%B8%AD%E5%8C%BB%E9%99%A2">省中医院</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2_uw1skd-duanzufang-20/?putkey=%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2">人民医院</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2_uw1sld-duanzufang-20/?putkey=%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2">湘雅医院</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E5%B8%82%E4%B8%80%E9%99%A2_uw1smd-duanzufang-20/?putkey=%E5%B8%82%E4%B8%80%E9%99%A2">市一院</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E4%B8%AD%E5%BF%83%E5%8C%BB%E9%99%A2_uw24ed-duanzufang-20/?putkey=%E4%B8%AD%E5%BF%83%E5%8C%BB%E9%99%A2">中心医院</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E8%82%BF%E7%98%A4%E5%8C%BB%E9%99%A2_uw24fd-duanzufang-20/?putkey=%E8%82%BF%E7%98%A4%E5%8C%BB%E9%99%A2">肿瘤医院</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E6%B9%98%E9%9B%85%E4%BA%8C%E9%99%A2_uw24gd-duanzufang-20/?putkey=%E6%B9%98%E9%9B%85%E4%BA%8C%E9%99%A2">湘雅二院</a>
+                            </span>
+                        
+                                                                                                                                                                                                            <span keywordvalue='' keywordtype="landmark">
+                                <a href="http://cs.xiaozhu.com/%E6%B9%98%E9%9B%85%E4%B8%89%E9%99%A2_uw24hd-duanzufang-20/?putkey=%E6%B9%98%E9%9B%85%E4%B8%89%E9%99%A2">湘雅三院</a>
+                            </span>
+                        
+                                                    </div>
+                            </div>
+        
+    </ul>
+              
+      </div>
+               <div class="type_bg clearfix">
+                  <h6 class="type_tit2">户型</h6>
+                  <div class="info_box"  id="housetyperoomcnt">
+                         
+                         
+                         
+                         
+                         
+                       
+                <label >
+                    <input class="checkbox" type="checkbox" id="yiju" value="yiju" onclick="submit_by_attr();"/>一居
+                                       
+                </label>
+                                <label >
+                     <input class="checkbox" type="checkbox"  value="liangju" onclick="submit_by_attr();" />二居
+                   
+                    
+                </label>
+                                    <label >
+                    <input class="checkbox" type="checkbox"  value="sanju"  onclick="submit_by_attr()"/>三居
+                                        
+                </label>
+                                    <label >
+                    <input class="checkbox " type="checkbox"  value="siju" onclick="submit_by_attr()" />四居
+                                        
+                </label>
+                                    <label >
+                    <input class="checkbox" type="checkbox"  value="sijuyishang" onclick="submit_by_attr()"/>其他
+                                        
+                </label>
+                     
+                  </div>
+               
+        </div>
+               <div class="type_bg clearfix">
+                  <h6 class="type_tit2">设施</h6>
+                  <div class="info_box" id="facilities">
+                                                                                                    
+                                                                                                     
+                                                                                                      
+                                                                                                     
+                                                                                                      
+                                                                                                     
+                                                                                                      
+                                                                                                     
+                                                                                                      
+                                                                                                     
+                                                                                                      
+                                                                                                     
+                                                                                                      
+                                                                                                     
+                                                               <label class=""><input type="checkbox" name="amenities"   onclick="submit_by_attr()" value="facility_Shower"/>淋浴</label> <label class=""><input type="checkbox" name="amenities"   onclick="submit_by_attr()" value="facility_AirCondition"/>空调</label> <label class=""><input type="checkbox" name="amenities"   onclick="submit_by_attr()" value="facility_Tv"/>电视</label> <label class=""><input type="checkbox" name="amenities"   onclick="submit_by_attr()" value="facility_Netword"/>网络</label> <label class=""><input type="checkbox" name="amenities"   onclick="submit_by_attr()" value="facility_Kitchen"/>厨房</label> <label class=""><input type="checkbox" name="amenities"   onclick="submit_by_attr()" value="facility_Heater"/>暖气</label> <label class=""><input type="checkbox" name="amenities"   onclick="submit_by_attr()" value="facility_Privatetoilet"/>独立卫生间</label> 
+                  </div>
+               
+               </div>
+             <input type="hidden" class="btn_pink4search" id="filter_confirm" value="确定" />
+  </div>
+</div>    <!--/city top-->
+
+    <div class="top_line" style="display:none;"></div>
+    <div class="tj_box clearfix"  style="display:none;">
+                <div class="select_down" id="select_more">收起筛选条件</div>
+
+
+    </div>
+    <div class="clearfix">
+        <!--map-->
+        <div class="city_map">
+            <div class="list_map">
+    <div class="map-canvas">
+        <div id="XZMap" style="width:100%;height:100%;overflow:hidden;margin:0;"></div>
+    </div>
+</div>        </div>
+        <!--/map-->
+        <!--search list-->
+        <div class="search_box">
+            <div class="result_box clearfix">
+                <div class="fl"> <a href="http://www.xiaozhu.com">小猪</a>&nbsp;&gt;&nbsp;&nbsp;长沙短租<span class="paddingL10">
+                        超过<span id="searchTotal">600</span>个房源
+                </span> </div>
+                <div class="fr" id="checkfra">
+                                                                                                                                                                
+                    
+                                        <span class="col_pink pr20" id="defalut_sort"><a href="javascript:void(0);" onlick="return false;" >推荐排序</a></span>
+                    
+                                                    
+                    <span class="pr20" id="haoping_sort"><a title="好评排序" href="http://cs.xiaozhu.com/zuihaoping-duanzufang-10/">好评排序</a></span>
+                    
+                    
+                                                            <span id="nodefalut_sort"><a title="点击按价格由低到高排序" href="http://cs.xiaozhu.com/zuipianyi-duanzufang-10/">价格<span class="arrow_top"></span><span class="arrow_down"></span></a></span>
+                    
+                </div>
+
+            </div>
+            <!--pic list-->
+            <div id="page_list">
+                
+    <ul class="pic_list clearfix">
+                <li lodgeunitid="lodgeunit_3339206630" latlng="28.18281,112.975212">
+    <a target="_blank" href="http://cs.xiaozhu.com/fangzi/3339206630.html" class="resule_img_a">
+          <img class="lodgeunitpic" title="五一商圈湘江中路江景房" src="../images/lazy_loadimage.png" lazy_src="http://image.xiaozhustatic1.com/12/7,0,23,9639,1800,1200,11703837.jpg" alt="五一商圈湘江中路江景房" />
+    </a>
+
+                <div class="favorite  lodge_3339206630 wsc_ico"  al="3339206630"  title="收藏"></div>
+        <div class="result_btm_con lodgeunitname" detailurl="http://cs.xiaozhu.com/fangzi/3339206630.html" style="cursor:pointer">
+                                        <span class="result_price">&#165;<i>288</i>/晚</span>
+                 
+        <span class="result_img">
+                                    <a class=="search_result_gridsum" href="http://www.xiaozhu.com/fangdong/1139012765/" target="_blank"><img class="landlordimage" width="42" height="42" lazy_src="http://image.xiaozhustatic1.com/23/2,0,0,2755,332,332,ea454ff3.jpg" /></a>
+                                </span>
+        <div class="result_intro">
+            <a><span class="result_title hiddenTxt">五一商圈湘江中路江景房</span></a>
+            <em class="hiddenTxt">
+                                单间出租
+                 - 
+                                <span class="commenthref">
+                    5分/16条点评
+                </span>
+                 -                                 
+                                天心书院路创远景园                            </em>
+            <p>
+                                                                                                <span class="mianyajin_ico" title="免押金：授权芝麻信用且分值大于600，可享受免押入住"></span>
+                                                <span class="suding_ico" title="速订:平均交易时间为15分钟，比普通预订流程缩短80%"></span>
+                                                <span class="shipai_ico" title="实拍：专业摄影师上门拍摄，真实还原房间情况，确保所见与入住一致"></span>
+                                                <span class="yanzhen_ico" title="验真：小猪人员实地考察房间、周边环境、交通等，确保房源的真实性"></span>
+                                                &nbsp;
+            </p>
+        </div>
+    </div>
+</li>                <li lodgeunitid="lodgeunit_4018171629" latlng="28.18281,112.975212">
+    <a target="_blank" href="http://cs.xiaozhu.com/fangzi/4018171629.html" class="resule_img_a">
+          <img class="lodgeunitpic" title="五一商圈内可看湘江的复式楼" src="../images/lazy_loadimage.png" lazy_src="http://image.xiaozhustatic1.com/12/7,0,56,9611,1800,1200,771ca7a4.jpg" alt="五一商圈内可看湘江的复式楼" />
+    </a>
+
+                <div class="favorite  lodge_4018171629 wsc_ico"  al="4018171629"  title="收藏"></div>
+        <div class="result_btm_con lodgeunitname" detailurl="http://cs.xiaozhu.com/fangzi/4018171629.html" style="cursor:pointer">
+                                        <span class="result_price">&#165;<i>968</i>/晚</span>
+                 
+        <span class="result_img">
+                                    <a class=="search_result_gridsum" href="http://www.xiaozhu.com/fangdong/1139012765/" target="_blank"><img class="landlordimage" width="42" height="42" lazy_src="http://image.xiaozhustatic1.com/23/2,0,0,2755,332,332,ea454ff3.jpg" /></a>
+                                </span>
+        <div class="result_intro">
+            <a><span class="result_title hiddenTxt">五一商圈内可看湘江的复式楼</span></a>
+            <em class="hiddenTxt">
+                                整租
+                 - 
+                                <span class="commenthref">
+                    3条点评
+                </span>
+                 -                                 
+                                天心书院路创远景园                            </em>
+            <p>
+                                                                                                <span class="mianyajin_ico" title="免押金：授权芝麻信用且分值大于600，可享受免押入住"></span>
+                                                <span class="suding_ico" title="速订:平均交易时间为15分钟，比普通预订流程缩短80%"></span>
+                                                <span class="shipai_ico" title="实拍：专业摄影师上门拍摄，真实还原房间情况，确保所见与入住一致"></span>
+                                                <span class="yanzhen_ico" title="验真：小猪人员实地考察房间、周边环境、交通等，确保房源的真实性"></span>
+                                                &nbsp;
+            </p>
+        </div>
+    </div>
+</li>                <li lodgeunitid="lodgeunit_1852695435" latlng="28.194691,112.982109">
+    <a target="_blank" href="http://cs.xiaozhu.com/fangzi/1852695435.html" class="resule_img_a">
+          <img class="lodgeunitpic" title="步行街中心广场 三室一厅中一居室温馨套房" src="../images/lazy_loadimage.png" lazy_src="http://image.xiaozhustatic1.com/12/7,0,45,9679,1800,1200,09e72cec.jpg" alt="步行街中心广场 三室一厅中一居室温馨套房" />
+    </a>
+
+                <div class="favorite  lodge_1852695435 wsc_ico"  al="1852695435"  title="收藏"></div>
+        <div class="result_btm_con lodgeunitname" detailurl="http://cs.xiaozhu.com/fangzi/1852695435.html" style="cursor:pointer">
+                                        <span class="result_price">&#165;<i>108</i>起/晚</span>
+                 
+        <span class="result_img">
+                                    <a class=="search_result_gridsum" href="http://www.xiaozhu.com/fangdong/1738095035/" target="_blank"><img class="landlordimage" width="42" height="42" lazy_src="http://image.xiaozhustatic1.com/23/4,0,1,6475,329,329,2f304988.jpg" /></a>
+                                </span>
+        <div class="result_intro">
+            <a><span class="result_title hiddenTxt">步行街中心广场 三室一厅中一居室温馨套房</span></a>
+            <em class="hiddenTxt">
+                                单间出租
+                 - 
+                                <span class="commenthref">
+                    5分/17条点评
+                </span>
+                 -                                 
+                                天心人民西路                            </em>
+            <p>
+                                                                                <span class="changzu_ico" title="长租优惠：预订满7天9.5折，满30天9折">
+                </span>
+                                                <span class="mianyajin_ico" title="免押金：授权芝麻信用且分值大于600，可享受免押入住"></span>
+                                                                <span class="shipai_ico" title="实拍：专业摄影师上门拍摄，真实还原房间情况，确保所见与入住一致"></span>
+                                                <span class="yanzhen_ico" title="验真：小猪人员实地考察房间、周边环境、交通等，确保房源的真实性"></span>
+                                                &nbsp;
+            </p>
+        </div>
+    </div>
+</li>                <li lodgeunitid="lodgeunit_1858613034" latlng="28.194691,112.982109">
+    <a target="_blank" href="http://cs.xiaozhu.com/fangzi/1858613034.html" class="resule_img_a">
+          <img class="lodgeunitpic" title="步行街中心广场 三室一厅中一居室温馨套房" src="../images/lazy_loadimage.png" lazy_src="http://image.xiaozhustatic1.com/12/7,0,84,10079,1800,1200,f6dea4b5.jpg" alt="步行街中心广场 三室一厅中一居室温馨套房" />
+    </a>
+
+                <div class="favorite  lodge_1858613034 wsc_ico"  al="1858613034"  title="收藏"></div>
+        <div class="result_btm_con lodgeunitname" detailurl="http://cs.xiaozhu.com/fangzi/1858613034.html" style="cursor:pointer">
+                                        <span class="result_price">&#165;<i>138</i>起/晚</span>
+                 
+        <span class="result_img">
+                                    <a class=="search_result_gridsum" href="http://www.xiaozhu.com/fangdong/1738095035/" target="_blank"><img class="landlordimage" width="42" height="42" lazy_src="http://image.xiaozhustatic1.com/23/4,0,1,6475,329,329,2f304988.jpg" /></a>
+                                </span>
+        <div class="result_intro">
+            <a><span class="result_title hiddenTxt">步行街中心广场 三室一厅中一居室温馨套房</span></a>
+            <em class="hiddenTxt">
+                                单间出租
+                 - 
+                                <span class="commenthref">
+                    5分/14条点评
+                </span>
+                 -                                 
+                                天心人民西路                            </em>
+            <p>
+                                                                                <span class="changzu_ico" title="长租优惠：预订满7天9.8折，满30天9.5折">
+                </span>
+                                                <span class="mianyajin_ico" title="免押金：授权芝麻信用且分值大于600，可享受免押入住"></span>
+                                                <span class="suding_ico" title="速订:平均交易时间为15分钟，比普通预订流程缩短80%"></span>
+                                                <span class="shipai_ico" title="实拍：专业摄影师上门拍摄，真实还原房间情况，确保所见与入住一致"></span>
+                                                <span class="yanzhen_ico" title="验真：小猪人员实地考察房间、周边环境、交通等，确保房源的真实性"></span>
+                                                &nbsp;
+            </p>
+        </div>
+    </div>
+</li>                <li lodgeunitid="lodgeunit_4016379529" latlng="28.18281,112.975212">
+    <a target="_blank" href="http://cs.xiaozhu.com/fangzi/4016379529.html" class="resule_img_a">
+          <img class="lodgeunitpic" title="五一商圈湘江边上北欧feel～" src="../images/lazy_loadimage.png" lazy_src="http://image.xiaozhustatic1.com/12/7,0,22,9544,1800,1200,7bd9a291.jpg" alt="五一商圈湘江边上北欧feel～" />
+    </a>
+
+                <div class="favorite  lodge_4016379529 wsc_ico"  al="4016379529"  title="收藏"></div>
+        <div class="result_btm_con lodgeunitname" detailurl="http://cs.xiaozhu.com/fangzi/4016379529.html" style="cursor:pointer">
+                                        <span class="result_price">&#165;<i>158</i>/晚</span>
+                 
+        <span class="result_img">
+                                    <a class=="search_result_gridsum" href="http://www.xiaozhu.com/fangdong/1139012765/" target="_blank"><img class="landlordimage" width="42" height="42" lazy_src="http://image.xiaozhustatic1.com/23/2,0,0,2755,332,332,ea454ff3.jpg" /></a>
+                                </span>
+        <div class="result_intro">
+            <a><span class="result_title hiddenTxt">五一商圈湘江边上北欧feel～</span></a>
+            <em class="hiddenTxt">
+                                单间出租
+                 - 
+                                <span class="commenthref">
+                    4.9分/20条点评
+                </span>
+                 -                                 
+                                天心书院路创远景园                            </em>
+            <p>
+                                                                                                <span class="mianyajin_ico" title="免押金：授权芝麻信用且分值大于600，可享受免押入住"></span>
+                                                <span class="suding_ico" title="速订:平均交易时间为15分钟，比普通预订流程缩短80%"></span>
+                                                <span class="shipai_ico" title="实拍：专业摄影师上门拍摄，真实还原房间情况，确保所见与入住一致"></span>
+                                                <span class="yanzhen_ico" title="验真：小猪人员实地考察房间、周边环境、交通等，确保房源的真实性"></span>
+                                                &nbsp;
+            </p>
+        </div>
+    </div>
+</li>                <li lodgeunitid="lodgeunit_4016672729" latlng="28.18281,112.975212">
+    <a target="_blank" href="http://cs.xiaozhu.com/fangzi/4016672729.html" class="resule_img_a">
+          <img class="lodgeunitpic" title="湘江风光带对面带阳台阳光充足大床房" src="../images/lazy_loadimage.png" lazy_src="http://image.xiaozhustatic1.com/12/7,0,75,9568,1800,1200,b263b5e4.jpg" alt="湘江风光带对面带阳台阳光充足大床房" />
+    </a>
+
+                <div class="favorite  lodge_4016672729 wsc_ico"  al="4016672729"  title="收藏"></div>
+        <div class="result_btm_con lodgeunitname" detailurl="http://cs.xiaozhu.com/fangzi/4016672729.html" style="cursor:pointer">
+                                        <span class="result_price">&#165;<i>198</i>/晚</span>
+                 
+        <span class="result_img">
+                                    <a class=="search_result_gridsum" href="http://www.xiaozhu.com/fangdong/1139012765/" target="_blank"><img class="landlordimage" width="42" height="42" lazy_src="http://image.xiaozhustatic1.com/23/2,0,0,2755,332,332,ea454ff3.jpg" /></a>
+                                </span>
+        <div class="result_intro">
+            <a><span class="result_title hiddenTxt">湘江风光带对面带阳台阳光充足大床房</span></a>
+            <em class="hiddenTxt">
+                                单间出租
+                 - 
+                                <span class="commenthref">
+                    4.9分/6条点评
+                </span>
+                 -                                 
+                                天心书院路创远景园                            </em>
+            <p>
+                                                                                                <span class="mianyajin_ico" title="免押金：授权芝麻信用且分值大于600，可享受免押入住"></span>
+                                                <span class="suding_ico" title="速订:平均交易时间为15分钟，比普通预订流程缩短80%"></span>
+                                                <span class="shipai_ico" title="实拍：专业摄影师上门拍摄，真实还原房间情况，确保所见与入住一致"></span>
+                                                <span class="yanzhen_ico" title="验真：小猪人员实地考察房间、周边环境、交通等，确保房源的真实性"></span>
+                                                &nbsp;
+            </p>
+        </div>
+    </div>
+</li>                <li lodgeunitid="lodgeunit_4016801929" latlng="28.18281,112.975212">
+    <a target="_blank" href="http://cs.xiaozhu.com/fangzi/4016801929.html" class="resule_img_a">
+          <img class="lodgeunitpic" title="湘江风光带对面北欧风格大床房" src="../images/lazy_loadimage.png" lazy_src="http://image.xiaozhustatic2.com/12/7,0,42,9846,1800,1200,9c61eda8.jpg" alt="湘江风光带对面北欧风格大床房" />
+    </a>
+
+                <div class="favorite  lodge_4016801929 wsc_ico"  al="4016801929"  title="收藏"></div>
+        <div class="result_btm_con lodgeunitname" detailurl="http://cs.xiaozhu.com/fangzi/4016801929.html" style="cursor:pointer">
+                                        <span class="result_price">&#165;<i>188</i>/晚</span>
+                 
+        <span class="result_img">
+                                    <a class=="search_result_gridsum" href="http://www.xiaozhu.com/fangdong/1139012765/" target="_blank"><img class="landlordimage" width="42" height="42" lazy_src="http://image.xiaozhustatic1.com/23/2,0,0,2755,332,332,ea454ff3.jpg" /></a>
+                                </span>
+        <div class="result_intro">
+            <a><span class="result_title hiddenTxt">湘江风光带对面北欧风格大床房</span></a>
+            <em class="hiddenTxt">
+                                单间出租
+                 - 
+                                <span class="commenthref">
+                    3条点评
+                </span>
+                 -                                 
+                                天心书院路创远景园                            </em>
+            <p>
+                                                                                                <span class="mianyajin_ico" title="免押金：授权芝麻信用且分值大于600，可享受免押入住"></span>
+                                                <span class="suding_ico" title="速订:平均交易时间为15分钟，比普通预订流程缩短80%"></span>
+                                                <span class="shipai_ico" title="实拍：专业摄影师上门拍摄，真实还原房间情况，确保所见与入住一致"></span>
+                                                <span class="yanzhen_ico" title="验真：小猪人员实地考察房间、周边环境、交通等，确保房源的真实性"></span>
+                                                &nbsp;
+            </p>
+        </div>
+    </div>
+</li>                <li lodgeunitid="lodgeunit_3401278829" latlng="28.163311,113.013472">
+    <a target="_blank" href="http://cs.xiaozhu.com/fangzi/3401278829.html" class="resule_img_a">
+          <img class="lodgeunitpic" title="warmhouse芒果天地现代简约小两居" src="../images/lazy_loadimage.png" lazy_src="http://image.xiaozhustatic1.com/12/7,0,39,9933,2996,2000,1adeb639.jpg" alt="warmhouse芒果天地现代简约小两居" />
+    </a>
+
+                <div class="favorite  lodge_3401278829 wsc_ico"  al="3401278829"  title="收藏"></div>
+        <div class="result_btm_con lodgeunitname" detailurl="http://cs.xiaozhu.com/fangzi/3401278829.html" style="cursor:pointer">
+                                        <span class="result_price">&#165;<i>258</i>/晚</span>
+                 
+        <span class="result_img">
+                                    <a class=="search_result_gridsum" href="http://www.xiaozhu.com/fangdong/242515200/" target="_blank"><img class="landlordimage" width="42" height="42" lazy_src="http://image.xiaozhustatic1.com/23/7,0,19,9228,363,364,df0825b4.jpg" /></a>
+                                </span>
+        <div class="result_intro">
+            <a><span class="result_title hiddenTxt">warmhouse芒果天地现代简约小两居</span></a>
+            <em class="hiddenTxt">
+                                整租
+                 - 
+                                <span class="commenthref">
+                    5分/15条点评
+                </span>
+                 -                                 
+                                雨花车站南路171                            </em>
+            <p>
+                                                                                <span class="changzu_ico" title="长租优惠：预订满7天9.19折，满30天7折">
+                </span>
+                                                <span class="mianyajin_ico" title="免押金：授权芝麻信用且分值大于600，可享受免押入住"></span>
+                                                                                <span class="yanzhen_ico" title="验真：小猪人员实地考察房间、周边环境、交通等，确保房源的真实性"></span>
+                                                &nbsp;
+            </p>
+        </div>
+    </div>
+</li>                <li lodgeunitid="lodgeunit_3542285730" latlng="28.201202,112.989364">
+    <a target="_blank" href="http://cs.xiaozhu.com/fangzi/3542285730.html" class="resule_img_a">
+          <img class="lodgeunitpic" title="正地铁口五一广场宜家风时尚两居" src="../images/lazy_loadimage.png" lazy_src="http://image.xiaozhustatic1.com/12/7,0,13,10205,1800,1197,4f509b48.jpg" alt="正地铁口五一广场宜家风时尚两居" />
+    </a>
+
+                <div class="favorite  lodge_3542285730 wsc_ico"  al="3542285730"  title="收藏"></div>
+        <div class="result_btm_con lodgeunitname" detailurl="http://cs.xiaozhu.com/fangzi/3542285730.html" style="cursor:pointer">
+                                        <span class="result_price">&#165;<i>408</i>起/晚</span>
+                 
+        <span class="result_img">
+                                    <a class=="search_result_gridsum" href="http://www.xiaozhu.com/fangdong/3541415629/" target="_blank"><img class="landlordimage" width="42" height="42" lazy_src="http://image.xiaozhustatic1.com/23/6,0,97,5291,280,281,d9e49c57.jpg" /></a>
+                                </span>
+        <div class="result_intro">
+            <a><span class="result_title hiddenTxt">正地铁口五一广场宜家风时尚两居</span></a>
+            <em class="hiddenTxt">
+                                整租
+                 - 
+                                <span class="commenthref">
+                    5分/12条点评
+                </span>
+                 -                                 
+                                芙蓉定王台街道五一大道776号中天广场国际公寓                            </em>
+            <p>
+                                                                                                <span class="mianyajin_ico" title="免押金：授权芝麻信用且分值大于600，可享受免押入住"></span>
+                                                                <span class="shipai_ico" title="实拍：专业摄影师上门拍摄，真实还原房间情况，确保所见与入住一致"></span>
+                                                <span class="yanzhen_ico" title="验真：小猪人员实地考察房间、周边环境、交通等，确保房源的真实性"></span>
+                                                &nbsp;
+            </p>
+        </div>
+    </div>
+</li>                <li lodgeunitid="lodgeunit_2082525282" latlng="28.182797,112.993548">
+    <a target="_blank" href="http://cs.xiaozhu.com/fangzi/2082525282.html" class="resule_img_a">
+          <img class="lodgeunitpic" title="市中心交通便利夜景唯美精装温馨两房" src="../images/lazy_loadimage.png" lazy_src="http://image.xiaozhustatic1.com/12/7,0,78,9680,1800,1200,d2aeb8f6.jpg" alt="市中心交通便利夜景唯美精装温馨两房" />
+    </a>
+
+                <div class="favorite  lodge_2082525282 wsc_ico"  al="2082525282"  title="收藏"></div>
+        <div class="result_btm_con lodgeunitname" detailurl="http://cs.xiaozhu.com/fangzi/2082525282.html" style="cursor:pointer">
+                                        <span class="result_price">&#165;<i>348</i>起/晚</span>
+                 
+        <span class="result_img">
+                                    <a class=="search_result_gridsum" href="http://www.xiaozhu.com/fangdong/2082483182/" target="_blank"><img class="landlordimage" width="42" height="42" lazy_src="http://image.xiaozhustatic1.com/23/4,0,97,7978,260,260,36667c0d.jpg" /></a>
+                                </span>
+        <div class="result_intro">
+            <a><span class="result_title hiddenTxt">市中心交通便利夜景唯美精装温馨两房</span></a>
+            <em class="hiddenTxt">
+                                整租
+                 - 
+                                <span class="commenthref">
+                    4.9分/19条点评
+                </span>
+                 -                                 
+                                雨花芙蓉中路283号芙蓉公馆                            </em>
+            <p>
+                                                                                                <span class="mianyajin_ico" title="免押金：授权芝麻信用且分值大于600，可享受免押入住"></span>
+                                                                <span class="shipai_ico" title="实拍：专业摄影师上门拍摄，真实还原房间情况，确保所见与入住一致"></span>
+                                                <span class="yanzhen_ico" title="验真：小猪人员实地考察房间、周边环境、交通等，确保房源的真实性"></span>
+                                                &nbsp;
+            </p>
+        </div>
+    </div>
+</li>                <li lodgeunitid="lodgeunit_2660574363" latlng="28.182885,112.993548">
+    <a target="_blank" href="http://cs.xiaozhu.com/fangzi/2660574363.html" class="resule_img_a">
+          <img class="lodgeunitpic" title="市中心交通便利视野开阔精装温馨两房" src="../images/lazy_loadimage.png" lazy_src="http://image.xiaozhustatic1.com/12/7,0,2,10399,1800,1198,0d6739ef.jpg" alt="市中心交通便利视野开阔精装温馨两房" />
+    </a>
+
+                <div class="favorite  lodge_2660574363 wsc_ico"  al="2660574363"  title="收藏"></div>
+        <div class="result_btm_con lodgeunitname" detailurl="http://cs.xiaozhu.com/fangzi/2660574363.html" style="cursor:pointer">
+                                        <span class="result_price">&#165;<i>288</i>起/晚</span>
+                 
+        <span class="result_img">
+                                    <a class=="search_result_gridsum" href="http://www.xiaozhu.com/fangdong/2082483182/" target="_blank"><img class="landlordimage" width="42" height="42" lazy_src="http://image.xiaozhustatic1.com/23/4,0,97,7978,260,260,36667c0d.jpg" /></a>
+                                </span>
+        <div class="result_intro">
+            <a><span class="result_title hiddenTxt">市中心交通便利视野开阔精装温馨两房</span></a>
+            <em class="hiddenTxt">
+                                整租
+                 - 
+                                <span class="commenthref">
+                    4.7分/11条点评
+                </span>
+                 -                                 
+                                雨花芙蓉中路283号芙蓉公馆                            </em>
+            <p>
+                                                                                <span class="changzu_ico" title="长租优惠：预订满7天8.5折，满30天6.5折">
+                </span>
+                                                <span class="mianyajin_ico" title="免押金：授权芝麻信用且分值大于600，可享受免押入住"></span>
+                                                <span class="suding_ico" title="速订:平均交易时间为15分钟，比普通预订流程缩短80%"></span>
+                                                <span class="shipai_ico" title="实拍：专业摄影师上门拍摄，真实还原房间情况，确保所见与入住一致"></span>
+                                                <span class="yanzhen_ico" title="验真：小猪人员实地考察房间、周边环境、交通等，确保房源的真实性"></span>
+                                                &nbsp;
+            </p>
+        </div>
+    </div>
+</li>                <li lodgeunitid="lodgeunit_2957840762" latlng="28.194865,112.982084">
+    <a target="_blank" href="http://cs.xiaozhu.com/fangzi/2957840762.html" class="resule_img_a">
+          <img class="lodgeunitpic" title="坡子街看江景焰火 女生四人间 男女混住六人间" src="../images/lazy_loadimage.png" lazy_src="http://image.xiaozhustatic1.com/12/7,0,77,10637,1800,1197,dd9f2eac.jpg" alt="坡子街看江景焰火 女生四人间 男女混住六人间" />
+    </a>
+
+                <div class="favorite  lodge_2957840762 wsc_ico"  al="2957840762"  title="收藏"></div>
+        <div class="result_btm_con lodgeunitname" detailurl="http://cs.xiaozhu.com/fangzi/2957840762.html" style="cursor:pointer">
+                                        <span class="result_price">&#165;<i>65</i>/晚</span>
+                 
+        <span class="result_img">
+                                    <a class=="search_result_gridsum" href="http://www.xiaozhu.com/fangdong/2613844963/" target="_blank"><img class="landlordimage" width="42" height="42" lazy_src="http://image.xiaozhustatic1.com/23/5,0,11,1108,313,313,346dda79.jpg" /></a>
+                                </span>
+        <div class="result_intro">
+            <a><span class="result_title hiddenTxt">坡子街看江景焰火 女生四人间 男女混住六人间</span></a>
+            <em class="hiddenTxt">
+                                床位出租
+                 - 
+                                <span class="commenthref">
+                    4.9分/17条点评
+                </span>
+                 -                                 
+                                天心坡子街悦方id君临国际                            </em>
+            <p>
+                                                                                                <span class="mianyajin_ico" title="免押金：授权芝麻信用且分值大于600，可享受免押入住"></span>
+                                                                <span class="shipai_ico" title="实拍：专业摄影师上门拍摄，真实还原房间情况，确保所见与入住一致"></span>
+                                                <span class="yanzhen_ico" title="验真：小猪人员实地考察房间、周边环境、交通等，确保房源的真实性"></span>
+                                                &nbsp;
+            </p>
+        </div>
+    </div>
+</li>                <li lodgeunitid="lodgeunit_4016900629" latlng="28.18281,112.975212">
+    <a target="_blank" href="http://cs.xiaozhu.com/fangzi/4016900629.html" class="resule_img_a">
+          <img class="lodgeunitpic" title="湘江风光带对面江景家庭房" src="../images/lazy_loadimage.png" lazy_src="http://image.xiaozhustatic3.com/12/7,0,88,9669,1800,1200,e93700f3.jpg" alt="湘江风光带对面江景家庭房" />
+    </a>
+
+                <div class="favorite  lodge_4016900629 wsc_ico"  al="4016900629"  title="收藏"></div>
+        <div class="result_btm_con lodgeunitname" detailurl="http://cs.xiaozhu.com/fangzi/4016900629.html" style="cursor:pointer">
+                                        <span class="result_price">&#165;<i>398</i>/晚</span>
+                 
+        <span class="result_img">
+                                    <a class=="search_result_gridsum" href="http://www.xiaozhu.com/fangdong/1139012765/" target="_blank"><img class="landlordimage" width="42" height="42" lazy_src="http://image.xiaozhustatic1.com/23/2,0,0,2755,332,332,ea454ff3.jpg" /></a>
+                                </span>
+        <div class="result_intro">
+            <a><span class="result_title hiddenTxt">湘江风光带对面江景家庭房</span></a>
+            <em class="hiddenTxt">
+                                单间出租
+                 - 
+                                <span class="commenthref">
+                    5分/5条点评
+                </span>
+                 -                                 
+                                天心书院路创远景园                            </em>
+            <p>
+                                                                                                <span class="mianyajin_ico" title="免押金：授权芝麻信用且分值大于600，可享受免押入住"></span>
+                                                <span class="suding_ico" title="速订:平均交易时间为15分钟，比普通预订流程缩短80%"></span>
+                                                <span class="shipai_ico" title="实拍：专业摄影师上门拍摄，真实还原房间情况，确保所见与入住一致"></span>
+                                                <span class="yanzhen_ico" title="验真：小猪人员实地考察房间、周边环境、交通等，确保房源的真实性"></span>
+                                                &nbsp;
+            </p>
+        </div>
+    </div>
+</li>                <li lodgeunitid="lodgeunit_2407889863" latlng="28.222809,112.981239">
+    <a target="_blank" href="http://cs.xiaozhu.com/fangzi/2407889863.html" class="resule_img_a">
+          <img class="lodgeunitpic" title="近万达   地铁附近烟花江景三室一厅套房" src="../images/lazy_loadimage.png" lazy_src="http://image.xiaozhustatic1.com/12/8,0,20,2641,1800,1200,8868f9ae.jpg" alt="近万达   地铁附近烟花江景三室一厅套房" />
+    </a>
+
+                <div class="favorite  lodge_2407889863 wsc_ico"  al="2407889863"  title="收藏"></div>
+        <div class="result_btm_con lodgeunitname" detailurl="http://cs.xiaozhu.com/fangzi/2407889863.html" style="cursor:pointer">
+                                        <span class="result_price">&#165;<i>428</i>起/晚</span>
+                 
+        <span class="result_img">
+                                    <a class=="search_result_gridsum" href="http://www.xiaozhu.com/fangdong/2407595763/" target="_blank"><img class="landlordimage" width="42" height="42" lazy_src="http://image.xiaozhustatic1.com/23/4,0,69,10426,374,374,e5807bf7.jpg" /></a>
+                                </span>
+        <div class="result_intro">
+            <a><span class="result_title hiddenTxt">近万达   地铁附近烟花江景三室一厅套房</span></a>
+            <em class="hiddenTxt">
+                                整租
+                 - 
+                                <span class="commenthref">
+                    4.8分/6条点评
+                </span>
+                 -                                 
+                                开福湘江中路138号福乐香江锦城                            </em>
+            <p>
+                                                                                <span class="changzu_ico" title="长租优惠：预订满7天9折，满30天8折">
+                </span>
+                                                <span class="mianyajin_ico" title="免押金：授权芝麻信用且分值大于600，可享受免押入住"></span>
+                                                                <span class="shipai_ico" title="实拍：专业摄影师上门拍摄，真实还原房间情况，确保所见与入住一致"></span>
+                                                <span class="yanzhen_ico" title="验真：小猪人员实地考察房间、周边环境、交通等，确保房源的真实性"></span>
+                                                &nbsp;
+            </p>
+        </div>
+    </div>
+</li>                <li lodgeunitid="lodgeunit_1904066171" latlng="28.197038,112.95916">
+    <a target="_blank" href="http://cs.xiaozhu.com/fangzi/1904066171.html" class="resule_img_a">
+          <img class="lodgeunitpic" title="岳麓书院旁老别墅，方寸别野（私人图书馆）" src="../images/lazy_loadimage.png" lazy_src="http://image.xiaozhustatic1.com/12/7,0,55,10490,1800,1197,cfe1e9bc.jpg" alt="岳麓书院旁老别墅，方寸别野（私人图书馆）" />
+    </a>
+
+                <div class="favorite  lodge_1904066171 wsc_ico"  al="1904066171"  title="收藏"></div>
+        <div class="result_btm_con lodgeunitname" detailurl="http://cs.xiaozhu.com/fangzi/1904066171.html" style="cursor:pointer">
+                                        <span class="result_price">&#165;<i>358</i>/晚</span>
+                 
+        <span class="result_img">
+                                    <a class=="search_result_gridsum" href="http://www.xiaozhu.com/fangdong/582735600/" target="_blank"><img class="landlordimage" width="42" height="42" lazy_src="http://image.xiaozhustatic1.com/23/5,0,45,356,280,280,f9799fd6.jpg" /></a>
+                                </span>
+        <div class="result_intro">
+            <a><span class="result_title hiddenTxt">岳麓书院旁老别墅，方寸别野（私人图书馆）</span></a>
+            <em class="hiddenTxt">
+                                单间出租
+                 - 
+                                <span class="commenthref">
+                    4.6分/11条点评
+                </span>
+                 -                                 
+                                岳麓新民路岳麓山庄                            </em>
+            <p>
+                                                                                                <span class="mianyajin_ico" title="免押金：授权芝麻信用且分值大于600，可享受免押入住"></span>
+                                                <span class="suding_ico" title="速订:平均交易时间为15分钟，比普通预订流程缩短80%"></span>
+                                                <span class="shipai_ico" title="实拍：专业摄影师上门拍摄，真实还原房间情况，确保所见与入住一致"></span>
+                                                <span class="yanzhen_ico" title="验真：小猪人员实地考察房间、周边环境、交通等，确保房源的真实性"></span>
+                                                &nbsp;
+            </p>
+        </div>
+    </div>
+</li>                <li lodgeunitid="lodgeunit_13302826" latlng="28.179661,113.002472">
+    <a target="_blank" href="http://cs.xiaozhu.com/fangzi/13302826.html" class="resule_img_a">
+          <img class="lodgeunitpic" title="温馨亲子无线电脑房" src="../images/lazy_loadimage.png" lazy_src="http://image.xiaozhustatic1.com/12/0,0,79,1527,800,532,9d008ced.jpg" alt="温馨亲子无线电脑房" />
+    </a>
+
+                <div class="favorite  lodge_13302826 wsc_ico"  al="13302826"  title="收藏"></div>
+        <div class="result_btm_con lodgeunitname" detailurl="http://cs.xiaozhu.com/fangzi/13302826.html" style="cursor:pointer">
+                                        <span class="result_price">&#165;<i>138</i>/晚</span>
+                 
+        <span class="result_img">
+                                    <a class=="search_result_gridsum" href="http://www.xiaozhu.com/fangdong/23539500/" target="_blank"><img class="landlordimage" width="42" height="42" lazy_src="http://image.xiaozhustatic1.com/23/1,0,34,981,260,260,6d39b4b8.jpg" /></a>
+                                </span>
+        <div class="result_intro">
+            <a><span class="result_title hiddenTxt">温馨亲子无线电脑房</span></a>
+            <em class="hiddenTxt">
+                                整租
+                 - 
+                                <span class="commenthref">
+                    4.8分/6条点评
+                </span>
+                 -                                 
+                                雨花东上一品大厦                            </em>
+            <p>
+                                                                                <span class="changzu_ico" title="长租优惠：预订满7天9.21折，满30天7.03折">
+                </span>
+                                                <span class="mianyajin_ico" title="免押金：授权芝麻信用且分值大于600，可享受免押入住"></span>
+                                                                                <span class="yanzhen_ico" title="验真：小猪人员实地考察房间、周边环境、交通等，确保房源的真实性"></span>
+                                                &nbsp;
+            </p>
+        </div>
+    </div>
+</li>                <li lodgeunitid="lodgeunit_2071608181" latlng="28.197038,112.95916">
+    <a target="_blank" href="http://cs.xiaozhu.com/fangzi/2071608181.html" class="resule_img_a">
+          <img class="lodgeunitpic" title="岳麓山半坡老别墅（私人图书馆）榻榻米景观房" src="../images/lazy_loadimage.png" lazy_src="http://image.xiaozhustatic1.com/12/7,0,7,10648,1800,1197,288726e9.jpg" alt="岳麓山半坡老别墅（私人图书馆）榻榻米景观房" />
+    </a>
+
+                <div class="favorite  lodge_2071608181 wsc_ico"  al="2071608181"  title="收藏"></div>
+        <div class="result_btm_con lodgeunitname" detailurl="http://cs.xiaozhu.com/fangzi/2071608181.html" style="cursor:pointer">
+                                        <span class="result_price">&#165;<i>298</i>/晚</span>
+                 
+        <span class="result_img">
+                                    <a class=="search_result_gridsum" href="http://www.xiaozhu.com/fangdong/582735600/" target="_blank"><img class="landlordimage" width="42" height="42" lazy_src="http://image.xiaozhustatic1.com/23/5,0,45,356,280,280,f9799fd6.jpg" /></a>
+                                </span>
+        <div class="result_intro">
+            <a><span class="result_title hiddenTxt">岳麓山半坡老别墅（私人图书馆）榻榻米景观房</span></a>
+            <em class="hiddenTxt">
+                                单间出租
+                 - 
+                                <span class="commenthref">
+                    5分/5条点评
+                </span>
+                 -                                 
+                                岳麓新民路岳麓山庄                            </em>
+            <p>
+                                                                                                <span class="mianyajin_ico" title="免押金：授权芝麻信用且分值大于600，可享受免押入住"></span>
+                                                <span class="suding_ico" title="速订:平均交易时间为15分钟，比普通预订流程缩短80%"></span>
+                                                <span class="shipai_ico" title="实拍：专业摄影师上门拍摄，真实还原房间情况，确保所见与入住一致"></span>
+                                                <span class="yanzhen_ico" title="验真：小猪人员实地考察房间、周边环境、交通等，确保房源的真实性"></span>
+                                                &nbsp;
+            </p>
+        </div>
+    </div>
+</li>                <li lodgeunitid="lodgeunit_3035821229" latlng="28.217435,112.980985">
+    <a target="_blank" href="http://cs.xiaozhu.com/fangzi/3035821229.html" class="resule_img_a">
+          <img class="lodgeunitpic" title="临万达，五一广场1号地铁口三室两厅江景房" src="../images/lazy_loadimage.png" lazy_src="http://image.xiaozhustatic1.com/12/8,0,63,1718,1800,1200,1834601a.jpg" alt="临万达，五一广场1号地铁口三室两厅江景房" />
+    </a>
+
+                <div class="favorite  lodge_3035821229 wsc_ico"  al="3035821229"  title="收藏"></div>
+        <div class="result_btm_con lodgeunitname" detailurl="http://cs.xiaozhu.com/fangzi/3035821229.html" style="cursor:pointer">
+                                        <span class="result_price">&#165;<i>500</i>起/晚</span>
+                 
+        <span class="result_img">
+                                    <a class=="search_result_gridsum" href="http://www.xiaozhu.com/fangdong/2791454763/" target="_blank"><img class="landlordimage" width="42" height="42" lazy_src="http://image.xiaozhustatic1.com/23/6,0,30,2094,320,321,59959efb.jpg" /></a>
+                                </span>
+        <div class="result_intro">
+            <a><span class="result_title hiddenTxt">临万达，五一广场1号地铁口三室两厅江景房</span></a>
+            <em class="hiddenTxt">
+                                整租
+                 - 
+                                <span class="commenthref">
+                    3条点评
+                </span>
+                 -                                 
+                                开福湘江中路288号华盛新外滩                            </em>
+            <p>
+                                                                                <span class="changzu_ico" title="长租优惠：预订满7天9折，满30天8折">
+                </span>
+                                                <span class="mianyajin_ico" title="免押金：授权芝麻信用且分值大于600，可享受免押入住"></span>
+                                                                <span class="shipai_ico" title="实拍：专业摄影师上门拍摄，真实还原房间情况，确保所见与入住一致"></span>
+                                                <span class="yanzhen_ico" title="验真：小猪人员实地考察房间、周边环境、交通等，确保房源的真实性"></span>
+                                                &nbsp;
+            </p>
+        </div>
+    </div>
+</li>                <li lodgeunitid="lodgeunit_4190182930" latlng="28.238799,112.984923">
+    <a target="_blank" href="http://cs.xiaozhu.com/fangzi/4190182930.html" class="resule_img_a">
+          <img class="lodgeunitpic" title="北辰三角洲地铁1号线LOFT风格卧室出租" src="../images/lazy_loadimage.png" lazy_src="http://image.xiaozhustatic1.com/12/8,0,43,1727,1800,1200,761a0698.jpg" alt="北辰三角洲地铁1号线LOFT风格卧室出租" />
+    </a>
+
+                <div class="favorite  lodge_4190182930 wsc_ico"  al="4190182930"  title="收藏"></div>
+        <div class="result_btm_con lodgeunitname" detailurl="http://cs.xiaozhu.com/fangzi/4190182930.html" style="cursor:pointer">
+                                        <span class="result_price">&#165;<i>180</i>/晚</span>
+                 
+        <span class="result_img">
+                                    <a class=="search_result_gridsum" href="http://www.xiaozhu.com/fangdong/4181281029/" target="_blank"><img class="landlordimage" width="42" height="42" lazy_src="http://image.xiaozhustatic1.com/23/7,0,5,9552,329,329,0db8f278.jpg" /></a>
+                                </span>
+        <div class="result_intro">
+            <a><span class="result_title hiddenTxt">北辰三角洲地铁1号线LOFT风格卧室出租</span></a>
+            <em class="hiddenTxt">
+                                单间出租
+                 - 
+                                <span class="commenthref">
+                    1条点评
+                </span>
+                 -                                 
+                                开福秋月路北辰三角洲奥城D3                            </em>
+            <p>
+                                                                                                <span class="mianyajin_ico" title="免押金：授权芝麻信用且分值大于600，可享受免押入住"></span>
+                                                                <span class="shipai_ico" title="实拍：专业摄影师上门拍摄，真实还原房间情况，确保所见与入住一致"></span>
+                                                <span class="yanzhen_ico" title="验真：小猪人员实地考察房间、周边环境、交通等，确保房源的真实性"></span>
+                                                &nbsp;
+            </p>
+        </div>
+    </div>
+</li>                <li lodgeunitid="lodgeunit_4756803014" latlng="28.212833,112.980569">
+    <a target="_blank" href="http://cs.xiaozhu.com/fangzi/4756803014.html" class="resule_img_a">
+          <img class="lodgeunitpic" title="五一广场江景豪华三房可看橘子洲头烟火（地铁口" src="../images/lazy_loadimage.png" lazy_src="http://image.xiaozhustatic1.com/12/7,0,30,12926,3199,2000,c50fdf7b.jpg" alt="五一广场江景豪华三房可看橘子洲头烟火（地铁口" />
+    </a>
+
+                <div class="favorite  lodge_4756803014 wsc_ico"  al="4756803014"  title="收藏"></div>
+        <div class="result_btm_con lodgeunitname" detailurl="http://cs.xiaozhu.com/fangzi/4756803014.html" style="cursor:pointer">
+                                        <span class="result_price">&#165;<i>500</i>起/晚</span>
+                 
+        <span class="result_img">
+                                    <a class=="search_result_gridsum" href="http://www.xiaozhu.com/fangdong/4756212013/" target="_blank"><img class="landlordimage" width="42" height="42" lazy_src="http://image.xiaozhustatic1.com/23/7,0,46,13205,260,260,08aa90c7.jpg" /></a>
+                                </span>
+        <div class="result_intro">
+            <a><span class="result_title hiddenTxt">五一广场江景豪华三房可看橘子洲头烟火（地铁口</span></a>
+            <em class="hiddenTxt">
+                                整租
+                 - 
+                                <span class="commenthref">
+                    3条点评
+                </span>
+                 -                                 
+                                芙蓉五一广场藩城堤巷89号五一中央领御                            </em>
+            <p>
+                                                                                <span class="changzu_ico" title="长租优惠：预订满7天9折，满30天8折">
+                </span>
+                                                <span class="mianyajin_ico" title="免押金：授权芝麻信用且分值大于600，可享受免押入住"></span>
+                                                                                                &nbsp;
+            </p>
+        </div>
+    </div>
+</li>                <li lodgeunitid="lodgeunit_5088588914" latlng="28.203248,112.980162">
+    <a target="_blank" href="http://cs.xiaozhu.com/fangzi/5088588914.html" class="resule_img_a">
+          <img class="lodgeunitpic" title="五一广场正地铁口 轻奢中式风两居室" src="../images/lazy_loadimage.png" lazy_src="http://image.xiaozhustatic1.com/12/8,0,53,1663,1800,1200,372581c3.jpg" alt="五一广场正地铁口 轻奢中式风两居室" />
+    </a>
+
+                <div class="favorite  lodge_5088588914 wsc_ico"  al="5088588914"  title="收藏"></div>
+        <div class="result_btm_con lodgeunitname" detailurl="http://cs.xiaozhu.com/fangzi/5088588914.html" style="cursor:pointer">
+                                        <span class="result_price">&#165;<i>328</i>/晚</span>
+                 
+        <span class="result_img">
+                                    <a class=="search_result_gridsum" href="http://www.xiaozhu.com/fangdong/4492022513/" target="_blank"><img class="landlordimage" width="42" height="42" lazy_src="http://image.xiaozhustatic1.com/23/8,0,59,16,260,260,8bf218f5.jpg" /></a>
+                                </span>
+        <div class="result_intro">
+            <a><span class="result_title hiddenTxt">五一广场正地铁口 轻奢中式风两居室</span></a>
+            <em class="hiddenTxt">
+                                整租
+                 - 
+                                <span class="commenthref">
+                    2条点评
+                </span>
+                 -                                 
+                                开福五一西路936号五一中央领御                            </em>
+            <p>
+                                                                                                <span class="mianyajin_ico" title="免押金：授权芝麻信用且分值大于600，可享受免押入住"></span>
+                                                                <span class="shipai_ico" title="实拍：专业摄影师上门拍摄，真实还原房间情况，确保所见与入住一致"></span>
+                                                <span class="yanzhen_ico" title="验真：小猪人员实地考察房间、周边环境、交通等，确保房源的真实性"></span>
+                                                &nbsp;
+            </p>
+        </div>
+    </div>
+</li>                <li lodgeunitid="lodgeunit_5415205314" latlng="28.213729,112.978508">
+    <a target="_blank" href="http://cs.xiaozhu.com/fangzi/5415205314.html" class="resule_img_a">
+          <img class="lodgeunitpic" title="五一广场，坡子街，江景房，湘江边，地铁一号线" src="../images/lazy_loadimage.png" lazy_src="http://image.xiaozhustatic1.com/12/8,0,76,1598,1280,960,2f53e05f.jpg" alt="五一广场，坡子街，江景房，湘江边，地铁一号线" />
+    </a>
+
+                <div class="favorite  lodge_5415205314 wsc_ico"  al="5415205314"  title="收藏"></div>
+        <div class="result_btm_con lodgeunitname" detailurl="http://cs.xiaozhu.com/fangzi/5415205314.html" style="cursor:pointer">
+                                        <span class="result_price">&#165;<i>398</i>起/晚</span>
+                 
+        <span class="result_img">
+                                    <a class=="search_result_gridsum" href="http://www.xiaozhu.com/fangdong/4766748613/" target="_blank"><img class="landlordimage" width="42" height="42" lazy_src="http://image.xiaozhustatic1.com/23/8,0,87,4270,375,375,6c96306a.jpg" /></a>
+                                </span>
+        <div class="result_intro">
+            <a><span class="result_title hiddenTxt">五一广场，坡子街，江景房，湘江边，地铁一号线</span></a>
+            <em class="hiddenTxt">
+                                整租
+                 - 
+                                <span class="commenthref">
+                    1条点评
+                </span>
+                 -                                 
+                                开福复地昆玉国际                            </em>
+            <p>
+                                                                                                <span class="mianyajin_ico" title="免押金：授权芝麻信用且分值大于600，可享受免押入住"></span>
+                                                <span class="suding_ico" title="速订:平均交易时间为15分钟，比普通预订流程缩短80%"></span>
+                                                                                &nbsp;
+            </p>
+        </div>
+    </div>
+</li>                <li lodgeunitid="lodgeunit_1178594964" latlng="28.279924,112.983894">
+    <a target="_blank" href="http://cs.xiaozhu.com/fangzi/1178594964.html" class="resule_img_a">
+          <img class="lodgeunitpic" title="来美式大宅睡一晚和志玲妹妹交个朋友" src="../images/lazy_loadimage.png" lazy_src="http://image.xiaozhustatic1.com/12/2,0,16,2884,3019,2000,59345fbc.jpg" alt="来美式大宅睡一晚和志玲妹妹交个朋友" />
+    </a>
+
+                <div class="favorite  lodge_1178594964 wsc_ico"  al="1178594964"  title="收藏"></div>
+        <div class="result_btm_con lodgeunitname" detailurl="http://cs.xiaozhu.com/fangzi/1178594964.html" style="cursor:pointer">
+                                        <span class="result_price">&#165;<i>180</i>/晚</span>
+                 
+        <span class="result_img">
+                                    <a class=="search_result_gridsum" href="http://www.xiaozhu.com/fangdong/1139012765/" target="_blank"><img class="landlordimage" width="42" height="42" lazy_src="http://image.xiaozhustatic1.com/23/2,0,0,2755,332,332,ea454ff3.jpg" /></a>
+                                </span>
+        <div class="result_intro">
+            <a><span class="result_title hiddenTxt">来美式大宅睡一晚和志玲妹妹交个朋友</span></a>
+            <em class="hiddenTxt">
+                                单间出租
+                 - 
+                                <span class="commenthref">
+                    4.9分/6条点评
+                </span>
+                 -                                 
+                                开福双湾国际                            </em>
+            <p>
+                                                                                                <span class="mianyajin_ico" title="免押金：授权芝麻信用且分值大于600，可享受免押入住"></span>
+                                                                                                &nbsp;
+            </p>
+        </div>
+    </div>
+</li>                <li lodgeunitid="lodgeunit_1814533035" latlng="28.188392,113.030325">
+    <a target="_blank" href="http://cs.xiaozhu.com/fangzi/1814533035.html" class="resule_img_a">
+          <img class="lodgeunitpic" title="特色美食七街独卫温馨单间，情怀民宿" src="../images/lazy_loadimage.png" lazy_src="http://image.xiaozhustatic1.com/12/3,0,24,5907,2666,2000,a733f250.jpg" alt="特色美食七街独卫温馨单间，情怀民宿" />
+    </a>
+
+                <div class="favorite  lodge_1814533035 wsc_ico"  al="1814533035"  title="收藏"></div>
+        <div class="result_btm_con lodgeunitname" detailurl="http://cs.xiaozhu.com/fangzi/1814533035.html" style="cursor:pointer">
+                                        <span class="result_price">&#165;<i>45</i>/晚</span>
+                 
+        <span class="result_img">
+                                    <a class=="search_result_gridsum" href="http://www.xiaozhu.com/fangdong/1283667335/" target="_blank"><img class="landlordimage" width="42" height="42" lazy_src="http://image.xiaozhustatic1.com/23/6,0,16,6189,260,260,71fb42e0.jpg" /></a>
+                                </span>
+        <div class="result_intro">
+            <a><span class="result_title hiddenTxt">特色美食七街独卫温馨单间，情怀民宿</span></a>
+            <em class="hiddenTxt">
+                                单间出租
+                 - 
+                                <span class="commenthref">
+                    4.5分/28条点评
+                </span>
+                 -                                 
+                                芙蓉德政园东                            </em>
+            <p>
+                                                                                <span class="changzu_ico" title="长租优惠：预订满30天7.6折">
+                </span>
+                                                <span class="mianyajin_ico" title="免押金：授权芝麻信用且分值大于600，可享受免押入住"></span>
+                                                                                                &nbsp;
+            </p>
+        </div>
+    </div>
+</li>                <div class="mapresult_no" id="noLodgeUnitsAtNYN" style="display:none">
+        <em></em>
+        <p>
+        <span>没有符合条件的房间</span>
+            建议您减少或更改一些查询条件重新搜索
+        </p>
+        </div>
+    </ul>
+ <div class="pagination_v2 pb0_vou"><span class="active_link">1</span><a target="_self" href="http://cs.xiaozhu.com/search-duanzufang-p2-0/">2</a><a target="_self" href="http://cs.xiaozhu.com/search-duanzufang-p3-0/">3</a><a target="_self" href="http://cs.xiaozhu.com/search-duanzufang-p4-0/">4</a><a target="_self" href="http://cs.xiaozhu.com/search-duanzufang-p5-0/">5</a><a class="font_st" target="_self" href="http://cs.xiaozhu.com/search-duanzufang-p2-0/">&gt;</a></div> <div class="list_adpic" >
+    <a href="http://www.xiaozhu.com/appdownload/fk?ca_source=xzliebiaoye&utm_source=lbyrk&utm_medium=lbyrkgg&pk_campaign=APP-xzlbyrk-marketing" target="_blank" style="cursor:auto"><img lazy_src="/images/search_adpic1.png" /></a>
+</div> 
+            </div>
+            <div class="result_foot clearfix">
+        <dl class="link_dl">
+        <dt>城市导航</dt>
+        <dd>
+            <a target="_blank" href="http://bj.xiaozhu.com/">北京短租房</a>
+            <a target="_blank" href="http://sh.xiaozhu.com/">上海短租房</a>
+            <a target="_blank" href="http://nj.xiaozhu.com/">南京短租房</a>
+            <a target="_blank" href="http://cd.xiaozhu.com/">成都短租房</a>
+            <a target="_blank" href="http://gz.xiaozhu.com/">广州短租房</a>
+            <a target="_blank" href="http://cq.xiaozhu.com/">重庆短租房</a>
+            <a target="_blank" href="http://wh.xiaozhu.com/">武汉短租房</a>
+            <a target="_blank" href="http://dl.xiaozhu.com/">大连短租房</a>
+            <a target="_blank" href="http://sanya.xiaozhu.com/">三亚短租房</a>
+            <a target="_blank" href="http://lijiang.xiaozhu.com/">丽江短租房</a>
+            <a target="_blank" href="http://tj.xiaozhu.com/">天津短租房</a>
+            <a target="_blank" href="http://xianggang.xiaozhu.com/">香港短租房</a>
+            <a target="_blank" href="http://cs.xiaozhu.com/">长沙短租房</a>
+            <a target="_blank" href="http://wx.xiaozhu.com/">无锡短租房</a>
+            <a target="_blank" href="http://km.xiaozhu.com/">昆明短租房</a>
+            <a target="_blank" href="http://jn.xiaozhu.com/">济南短租房</a>
+            <a target="_blank" href="http://xm.xiaozhu.com/">厦门短租房</a>
+            <a target="_blank" href="http://qd.xiaozhu.com/">青岛短租房</a>
+            <a target="_blank" href="http://zz.xiaozhu.com/">郑州短租房</a>
+            <a target="_blank" href="http://xa.xiaozhu.com/">西安短租房</a>
+            <a target="_blank" href="http://hz.xiaozhu.com/">杭州短租房</a>
+            <a target="_blank" href="http://sz.xiaozhu.com/">深圳短租房</a>
+            <a target="_blank" href="http://sy.xiaozhu.com/">沈阳短租房</a>
+            <a target="_blank" href="http://su.xiaozhu.com/">苏州短租房</a>
+        </dd>
+    </dl>
+    <dl class="link_dl">
+        <dt>友情链接</dt>
+        <dd>
+            <a target="_blank" href="http://nj.tuniu.com/">南京旅游网</a>
+            <a target="_blank" href="http://jiudian.kuxun.cn/">酷讯酒店预订</a>
+            <a target="_blank" href="http://www.yododo.cn/">多多驿站</a>
+            <a target="_blank" href="http://tianjin.8684.cn/">天津公交</a>
+            <a target="_blank" href="http://hangzhou.fangtoo.com/">杭州房产网</a>
+            <a target="_blank" href="http://lvyou.mangocity.com/">旅游网</a>
+            <a target="_blank" href="http://www.hqcyw.cn/">畅游</a>
+            <a target="_blank" href="http://www.82222919.com/">深圳旅行社</a>
+            <a target="_blank" href="http://www.pintour.com/">驴友</a>
+            <a target="_blank" href="http://www.mengyoo.com/">国内旅游</a>
+            <a target="_blank" href="http://www.sfkkkkkkkkk.com/">沙发客</a>
+            <a target="_blank" href="http://www.57go.com/">四川旅游</a>
+            <a target="_blank" href="http://www.shidu.cn/">十渡旅游</a>
+            <a target="_blank" href="http://bengbu.cncn.com/">蚌埠旅游</a>
+            <a target="_blank" href="http://tt-ly.com/">深圳旅行社</a>
+            <a target="_blank" href="http://www.keyunzhan.com/chuzuche/">出租车电话</a>
+            <a target="_blank" href="http://www.zoutu.com/">云南旅游</a>
+            <a target="_blank" href="http://bj.58.com/duanzu/">北京日租房</a>
+            <a target="_blank" href="http://sh.to8to.com/">上海装修网</a>
+            <a target="_blank" href="http://www.tieyou.com/fuxiagaotie/">福厦高铁</a>
+            <a target="_blank" href="http://www.yidujia.com/">产权式酒店</a>
+            <a target="_blank" href="http://www.eptxw.com/">机票加盟</a>
+            <a target="_blank" href="http://www.4006777711.com/">酒店之星</a>
+            <a target="_blank" href="http://www.ctcnn.com/">劲旅网</a>
+        </dd>
+    </dl>
+        <div class="foot_btm">许可证号：<a target="_blank" href="http://www.miibeian.gov.cn" rel="nofollow">京ICP证140510号</a> &nbsp;&nbsp; <a href="http://www.anquan.org/s/www.xiaozhu.com" |="" name="mt8SMvYyRDI92b06nuDs8dPFapllCJYidqhM1WlOoGRZ9DWpbo" rel="nofollow" target="_blank">安全联盟</a> &nbsp;&nbsp;北京快跑信息科技有限公司 &nbsp;&nbsp;</div>
+    <div style="width:300px;margin:0 auto;">
+        <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802020380" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="/images/record_icon.png" style="float:left;"/><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#bdc3c7;">京公网安备 11010802020380号</p></a>
+    </div>
+
+
+<input type="hidden" name="actionName" id="actionName" value="Front_Search"/>
+<input type="hidden" name="xz_srf_token" id="xz_srf_token" value="5d36b7a3337cdef862096174484e5bf8"/>
+<!-- Piwik --> 
+<noscript><p><img src="http://piwik.xiaozhu.com/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Tracking Code -->
+<input type="hidden" id="piwik_trigger" value="1">
+
+<input type="hidden" id="pagetype" value="Front_Search">
+<script type="text/javascript" src="/js/jquery/jquery.js"></script>
+<link rel="stylesheet" type="text/css" href="http://jci.xiaozhustatic1.com/e16120102/xzcss?css=jquery.mCustomScrollbar,nyroModal,uploadify" />
+<script type="text/javascript" src="http://jci.xiaozhustatic1.com/e16120102/xzjs?k=Footer&httphost=cs.xiaozhu.com"></script>
+<script type="text/javascript" src="http://jci.xiaozhustatic1.com/e16120102/js/jquery/lazyload.js"></script>
+<script type="text/javascript" src="http://www.xiaozhu.com/e16120102/js/webimv4/application/xzim4.js?source=xiaozhu&dm=xiaozhu.com" id="webimSource"></script>            <!--/link-->
+        </div>
+        <!--search list-->
+    </div>
+    <input type="hidden" id="pageNo" value="1"/>
+    <input type="hidden" id="totalPages" value="13"/>
+    <input type="hidden" id="total" value="600"/>
+    <input type="hidden" id="fullTextTNo" value="1"/>
+    <input type="hidden" id="hasFullText" value="0" />
+    <input type="hidden" id="selectcitydomain" value="cs"/>
+    <input type="hidden" id="landmark4map" value=""/>  
+    <input type="hidden" id="putkey" value=""/>  
+    <input type="hidden" id="keywordcache" value=""/>  
+    <input type="hidden" id="subway" value=""/>
+    <input type="hidden" id="cityid" value="204"/>
+    <input type="hidden" id="city" value="长沙"/>
+    <input type="hidden" id="lowprice" value="0"/>
+    <input type="hidden" id="highprice" value="0"/>
+    <input type="hidden" id="landmarklat" value=""/>
+    <input type="hidden" id="landmarklng" value=""/>
+    <input type="hidden" id="tmpstartdate" value=""/>
+    <input type="hidden" id="tmpenddate" value=""/>
+
+    <input type="hidden" id="housetyperoomcnt" value=""/>
+    <input type="hidden" id="leasetype" value=""/>
+    <input type="hidden" id="district" value=""/>
+    <input type="hidden" id="facility" value=""/>
+    <input type="hidden" id="housetype" value=""/>
+    <input type="hidden" id="guestnum" value=""/>
+    <input type="hidden" id="sort" value=""/>
+    <input type="hidden" id="dSelCondtions" value=""/>
+    <input type="hidden" id="actionname" value="Front_Search"/>
+    <input type="hidden" id="searchkey" value=""/>
+    <input type="hidden" id="landmarkid" value=""/>
+    <input type="hidden" id="log_landmark_type" />
+    <input type="hidden" id="searchcity" value="长沙"/>
+    <input type="hidden" id="citydomain" value="cs"/>
+    <strong  defineUrl="http://cs.xiaozhu.com/pricefrom-pricetoyuan-duanzufang-1/" id="userDefinePrice"></strong>
+    <input type="hidden" id="clearKeyWord" value="http://cs.xiaozhu.com/search-duanzufang-0/" />
+    <input type="hidden" id="nowUrl" value="http://cs.xiaozhu.com/search-duanzufang-0/" />
+    <input type="hidden" id="areaPinyin" value="" />
+    <input type="hidden" id="partner" value="" />
+    <input type="hidden" id="mapcheck" value="0" />
+    <input type="hidden" id="mapzoom" value="" />
+    <input type="hidden" id="mapPageNo" value="0"/>
+    <input type="hidden" id="mapAction" value="0"/>
+    <input type="hidden" id="mapScrolTop" value="0"/>
+    <input type="hidden" id="mapHeightFinish" value="0"/>
+    <input type="hidden" id="scrollTopVal" value="0"/>
+    <input type="hidden" id="radius" value="5"/>
+    <input type="hidden" id="mapSelectNone" value="0"/>
+    <input type="hidden" id="hadSelCondtionsCount" value="0">
+    <input type='hidden' id='defaultCityShowStr' value="请选择城市或目的地"/>
+    <input type="hidden" name="suggestion_citydomain" id="suggestion_citydomain" value=""/>    
+    <input type="hidden" name="searchkey" id="searchkey" value=""/>    
+    <input type="hidden" name="landmarkid" id="landmarkid" value=""/>  
+    <input type="hidden" name="landmarktype" id="landmarktype" value=""/>  
+    <input type="hidden" name="defaulturl" id="defaulturl" value=""/>
+    <div class="keywords_pop ldDiv" id="keyWordsDialog" style="display:none;">
+</div>    <div class="dropDiv" style='display:none'>
+</div></div>
+<script type="text/javascript" src="http://jci.xiaozhustatic1.com/e16120102/xzjs?k=Front_Search&httphost=cs.xiaozhu.com"></script>
+</body>
+<!-- Google Tag Manager -->
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W85X4L" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W85X4L');
+</script>
+
+<!-- End Google Tag Manager --></html>

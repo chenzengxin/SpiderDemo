@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>【福州分类信息】福州免费发布信息网 - 福州58同城</title>
+    <meta name="Keywords" content="免费发布信息,分类信息,生活信息" />
+    <meta name="Description" content="58同城生活分类信息网为您提供免费发布囊括房屋出租、二手房二手车交易、跳蚤市场、招聘求职、交友征婚等与生活息息相关的信息，满足您在生活的方方面面，欢迎免费发布查看地区生活分类信息。" /> 
+     <!--<script>try{var ____json4fe = {catentry:{dispid:'',name:'',listname:'city'},locallist:{dispid:'',name:'',listname:'fz'},modules:'404'};____json4fe.version = 'A';____json4fe.start = (new Date()).getTime();}catch(e){};</script>
+    <script>try{var ____json4fe = {catentry:{dispid:'',name:'',listname:'city'},locallist:{dispid:'0',name:'',listname:''},modules:'404'};____json4fe.version = 'A';____json4fe.start = (new Date()).getTime();}catch(e){};</script>-->
+    <link rel="stylesheet" type="text/css" href="//c.58cdn.com.cn/ui6/list/404news.css">
+</head>
+<body> 
+<div class="wrap">
+			<div class="content clearfix">
+				<div class="head"><p class="et">ERROR</p><p class="ct">没有找到相关信息~</p></div>							
+ 				<div class="normalnews">
+					<h2 class="mewstit">更多福州精彩信息</h2>
+					<div class="nmewslist">					    
+					    						<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvulsWN3shPfUiqbUv0fnWmdnjbkrjmkrH0kPW-3sMPCIAd_THKBnAEQrjKbsH0dmH0VPj0QmBYOnANksH7BPhcQuAnvnhD1PTDzrjm3n1DknjbknWDYrTDQP9DzPWNkrHT3PWTOP1TvrEDLnTDvPEDzPHcKn1TYTHDYrjTOnWEdrHE3rjnKnE760ZK1ugFvPjTYTHDKnE7wTiYQTEDkTHTKTyu6UZP-THu6uANduhEzsycOnH0VPj9kmBY3njcLsyEdnHEzujIbnj6BPkDzP101PH0vrTDQrjnYPWmOPj9dP1EYrjTKTHcdn9D1njEKnEDKTEDKpZwY0jCfs1EkPa3draOWUvYfPjTYsh6YUykKUMR_UTDQnHT8rj08PWT8rH0KsHcKnHbvPvuhm1PBP1N3uWbdmk'">
+							<dt><img src="http://t2.58cdn.com.cn/bidding/tiny/n_v1bl2lwwo5gzzfovd3r46q.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="福清黑眼圈宠物,出售世界名犬,诚信第一,健康有保障">福清黑眼圈宠物,出售世界名犬,诚信第一,健康有保障</p>
+									<p class="health" title="年龄：  2月">年龄：  2月</p>
+									<p class="sp">1针疫苗 | 只在售</p>
+									<p class="price" title="1300元">1300元</p>
+								</dd>
+						</dl>				
+												<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvulsWN3shPfUiqbUv0fnW0OrHcOrjEOPjDvn1P3sMPCIAd_THKBnAEQrjKbsH0dmH0VPj0QmBYOnANksH7BPhcQuAnvnhD1PTDYnWbQnjDLrHcQrHcQPEDQP9DzP1bOnWb3PjbYnHm1nkDdP9DdP9DzPHcKn1TYTHDYrjTOnWEdrHE3rjnKn9760ZK1ugFvPjTYTHDKnE7wTiYQTEDkTHTKTyu6UZP-TH0zuWwWPhNzsyN1myDVPj0zuBd6uHNYsHbYPH-6njF-PvRWu9D1njn3PWTdnkDQrHmQn19zP1NQnWEYPWEKTHcdn9D1njEKnEDKTEDKpZwY0jCfs1EkPa3draOWUvYfPjTYsh6YUykKUMR_UTDQnHT8rj08PWT8rH0KsHcKPvcQuHmOm1nLmyDdnAPbmE'">
+							<dt><img src="http://t2.58cdn.com.cn/bidding/tiny/n_v1bl2lwkjebaxvrxp5sn7a.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="如何杜绝七天狗？来福宠宠物平台！精品金毛等你带回家">如何杜绝七天狗？来福宠宠物平台！精品金毛等你带回家</p>
+									<p class="health" title="年龄：  2月">年龄：  2月</p>
+									<p class="sp">2针疫苗 | 只在售</p>
+									<p class="price" title="1600元">1600元</p>
+								</dd>
+						</dl>				
+												<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvulsWN3shPfUiqbUv0fnWNvrj9kPjn3PjEYnWI3sMPCIAd_THKBnAEQrjKbsH0dmH0VPj0QmBYOnANksH7BPhcQuAnvnhD1PTDzPWmvnWmQnWbkP1TQPEDQP9DzPHm3rjTYn19YPjEzPkDdnTDdnTDzPHcKn1TYTHDYrjTOnWEdrHE3rjnKnk760ZK1ugFvPjTYTHDKnE7wTiYQTEDkTHTKTyu6UZP-THPbnjN1uWwbsyDYPymVPjTkniY3ryEzsyNQPH9zuhFhnWI-nTD1njNknWTdrEDQrH0zPj0krHbzPHbQPW9KTHcdn9D1njEKnEDKTEDKpZwY0jCfs1EkPa3draOWUvYfPjTYsh6YUykKUMR_UTDQnHT8rj08PWT8rH0KsHcKnHmkPhcvm1N1nyF-P1NvnE'">
+							<dt><img src="http://t4.58cdn.com.cn/bidding/tiny/n_v1bl2lwtpyru7vqapbfrpq.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="家养一窝大骨架阿拉斯加找新主人了,个个健康先到先得">家养一窝大骨架阿拉斯加找新主人了,个个健康先到先得</p>
+									<p class="health" title="年龄：  3月">年龄：  3月</p>
+									<p class="sp">3针疫苗 | 5只在售</p>
+									<p class="price" title="1300元">1300元</p>
+								</dd>
+						</dl>				
+												<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsL6VsWN3shPfUiqbUv0fnW0OnWmOnWD3nWD3rHI3sMPCIAd_THKBnAEQrjKbsH0dmH0VPj0QmBYOnANksH7BPhcQuAnvnhD1PTDYn1D3rj0vPjD3rHEvnTDQP9DzP1bzPWbznH9znH9OPkDdnTDdnTDzPHcKn1TYTHDYrjTOnWEdrHE3rjEKPT760ZK1ugFvPjTYTHDKnE7wTiYQTEDkTHTKTyu6UZP-TyE1ryFWn193syNYn10VPjP-mBdBP1--sHwbuHDvPAFbn1c1rTD1njc1rjc3rEDQrHE3njbOP1TLPWnkPjTKTHcdn9D1njEKnEDKTEDKpZwY0jCfs1EkPa3draOWUvYfPjTYsh6YUykKUMR_UTDQnHT8rj08PWT8rH0KsHcKnHubmHK6P1cYPWEQnHPWuT'">
+							<dt><img src="http://t2.58cdn.com.cn/bidding/tiny/n_v1bj3gzryqhunvqpgknmbq.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="厦门乌粑粑宠物（退伍军人创业）">厦门乌粑粑宠物（退伍军人创业）</p>
+									<p class="health" title="年龄：  2月">年龄：  2月</p>
+									<p class="sp">1针疫苗 | 只在售</p>
+									<p class="price" title="1000元">1000元</p>
+								</dd>
+						</dl>				
+												<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsL6VsWN3shPfUiqbUv0fnW0OnW0kn1Tdn1mOnHK3sMPCIAd_THKBnAEQrjKbsH0dmH0VPj0QmBYOnANksH7BPhcQuAnvnhD1PTDYn1D3rj0vPjD3rHEvnTDQP9DzP1bzP1T1njN1PWbQnTDdnTDdnTDzPHcKn1TYTHDYrjTOnWEdrHE3rjEKPE760ZK1ugFvPjTYTHDKnE7wTiYQTEDkTHTKTyu6UZP-TyPbn1nzPvc3sHcLuHcVPj0vridBuHuBsH0zPWu-njNQnhELPTD1njc1rjcOn9DQrHE3njbOrjcQP1nYPWEKTHcdn9D1njEKnEDKTEDKpZwY0jCfs1EkPa3draOWUvYfPjTYsh6YUykKUMR_UTDQnHT8rj08PWT8rH0KsHcKnH-hPvDOnjKhrAFWujTdnT'">
+							<dt><img src="http://t3.58cdn.com.cn/bidding/tiny/n_v1bj3gzry3hunvqnx64ixa.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="厦门乌粑粑宠物(退伍军人创业)">厦门乌粑粑宠物(退伍军人创业)</p>
+									<p class="health" title="年龄：  2月">年龄：  2月</p>
+									<p class="sp">2针疫苗 | 只在售</p>
+									<p class="price" title="3500元">3500元</p>
+								</dd>
+						</dl>				
+												<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvQhsWN3shPfUiqbUv0fnWN1PjbznWEYnHEQPj-3sMPCIAd_THKBnAEQrjKbsH0dmH0VPj0QmBYOnANksH7BPhcQuAnvnhD1PTD1PWE3nWTQnWDzn1DdnEDQP9DzPHnYrHczPjEQPjDYrEDYrEDYrEDzPHcKn1TYTHDYrjTOnWEdrHE3rjEKP9760ZK1ugFvPjTYTHDKnE7wTiYQTEDkTHTKTyu6UZP-TyDznvRhnhcvsHEzPj9VPjmLniYOnWmOsH7-mHR-rjEvnWIbPkDzPj9vnH0QrEDQP193PWDOPHnznWcOnWTKTHcdn9D1njEKnEDKTEDKpZwY0jCfs1EkPa3draOWUvYfPjTYsh6YUykKUMR_UTDQnHT8rj08PWT8rH0KsHcKm1F-njRBrHFBrAFBmWPWPE'">
+							<dt><img src="http://t2.58cdn.com.cn/bidding/tiny/n_v1bkujjdzutawvp54il4ga.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="娇子犬业注册CKU十年单一繁育赛级宠物级边境牧羊犬">娇子犬业注册CKU十年单一繁育赛级宠物级边境牧羊犬</p>
+									<p class="health" title="年龄：  3月">年龄：  3月</p>
+									<p class="sp">3针疫苗 | 10只在售</p>
+									<p class="price" title="3500元">3500元</p>
+								</dd>
+						</dl>				
+												<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvulsWN3shPfUiqbUv0fnWNvrj0OrHbkPW91n173sMPCIAd_THKBnAEQrjKbsH0dmH0VPj0QmBYOnANksH7BPhcQuAnvnhD1PTDzPWmvnWmQnWbkP1TQPEDQP9DzPHm3P1bOrHTvrjn1nEDYPEDYnEDzPHcKn1TYTHDYrjTOnWEdrHE3rjEKPk760ZK1ugFvPjTYTHDKnE7wTiYQTEDkTHTKTyu6UZP-TycOnjNLP10vsyndnyEVPAEYnzd6PvNzsym1n1nLnvcOnj0OmED1njNQnWnvPTDQrH01n10YP1nOP1Ndn1mKTHcdn9D1njEKnEDKTEDKpZwY0jCfs1EkPa3draOWUvYfPjTYsh6YUykKUMR_UTDQnHT8rj08PWT8rH0KsHcKPA7WuhEvmhEduHPbrAE3rE'">
+							<dt><img src="http://t4.58cdn.com.cn/bidding/tiny/n_v1bj3gzr5y4zafq22kpesq.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="家养泰迪,健康售后保障,完美品相,可上门挑选">家养泰迪,健康售后保障,完美品相,可上门挑选</p>
+									<p class="health" title="年龄：  3月">年龄：  3月</p>
+									<p class="sp">3针疫苗 | 5只在售</p>
+									<p class="price" title="800元">800元</p>
+								</dd>
+						</dl>				
+												<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvG_sWN3shPfUiqbUv0fnW9QnWnOn1bYP1EvnjP3sMPCIAd_THKBnAEQrjKbsH0dmH0VPj0QmBYOnANksH7BPhcQuAnvnhD1PTDYnHbYPWTLP1NYnWEQPTDQP9DzrjDzn1b1rHELPjmknkD1PED1PEDzPHcKn1TYTHDYrjTOnWEdrHE3rjEKrT760ZK1ugFvPjTYTHDKnE7wTiYQTEDkTHTKTyu6UZP-TH9YnhcknH-hsHEknHTVPj6hmBYOnj91sHmkuHDOPH0kuWwWuED1njNknWNQPTDQrH0zPj9vrj03nWnQnWTKTHcdn9D1njEKnEDKTEDKpZwY0jCfs1EkPa3draOWUvYfPjTYsh6YUykKUMR_UTDQnHT8rj08PWT8rH0KsHcKPWNLryFbrju6nhubmyEzu9'">
+							<dt><img src="http://t4.58cdn.com.cn/bidding/tiny/n_v1bl2lwtiisq7vq7vnyy7a.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="纯种奶白色法国斗牛犬 法斗幼犬 法牛宠物狗包健康">纯种奶白色法国斗牛犬 法斗幼犬 法牛宠物狗包健康</p>
+									<p class="health" title="年龄：  3月">年龄：  3月</p>
+									<p class="sp">齐全 | 3针疫苗 | 15只在售</p>
+									<p class="price" title="3500元">3500元</p>
+								</dd>
+						</dl>				
+												<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvulsWN3shPfUiqbUv0fnWmQPHcLrH93PjnQrjP3sMPCIAd_THKBnAEQrjKbsH0dmH0VPj0QmBYOnANksH7BPhcQuAnvnhD1PTDzPWmvnWmQnWbkP1TQPEDQP9DzPWDdnW0Orj9Yn1D3nkD1PED1PEDzPHcKn1TYTHDYrjTOnWEdrHE3rjEKrE760ZK1ugFvPjTYTHDKnE7wTiYQTEDkTHTKTyu6UZP-Tym3nyN3PHK6symLm1cVPjDOuBY3uHnksHK6nAu-rHE3PWT3u9D1njNknWT1P9DQrH0zPj0kPjTQnWEQPjEKTHcdn9D1njEKnEDKTEDKpZwY0jCfs1EkPa3draOWUvYfPjTYsh6YUykKUMR_UTDQnHT8rj08PWT8rH0KsHcKmHKbmWP6uhnQnAcLujmLm9'">
+							<dt><img src="http://t4.58cdn.com.cn/bidding/tiny/n_v1bkuyfvn6ru7vrg2hqrwa.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="出售纯种大骨量、美系英系大脑袋金毛、终身质保签协议">出售纯种大骨量、美系英系大脑袋金毛、终身质保签协议</p>
+									<p class="health" title="年龄：  3月">年龄：  3月</p>
+									<p class="sp">3针疫苗 | 5只在售</p>
+									<p class="price" title="800元">800元</p>
+								</dd>
+						</dl>				
+												<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvG_sWN3shPfUiqbUv0fnW0dPH01PWcOn1EkrHP3sMPCIAd_THKBnAEQrjKbsH0dmH0VPj0QmBYOnANksH7BPhcQuAnvnhD1PTDYnHbYPWTLP1NYnWEQPTDQP9DzP1NdP1nvnWb1PjTOnkD1PED1PEDzPHcKn1TYTHDYrjTOnWEdrHE3rjEKnHTKmgKk0vRzIWEkPTDQTHDKNEDVnEDKnTDkTE7hmyQ1uED3PjcQn1bYuiY1uAEOsHEzm1DVmHPbmidbm1m1njR-rH76uW0Kn1T1nHb3nWNKnHbdPHmOnW0QPj0zn10vTEDzPHcKn1TYTHDKTEDKTy6YIZTlsztYnjE8PH98mvqVs1EkPaOCIAd_TyOdUAkKnHDksW9LsWmksWbLTiYzTHDkm1TdmhmdmWPWmhR-m1m'">
+							<dt><img src="http://t2.58cdn.com.cn/bidding/tiny/n_v1bl2lwxuqrutfrge6b57a.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="品相极佳的拉布拉多犬火爆热卖中 保证纯种健康">品相极佳的拉布拉多犬火爆热卖中 保证纯种健康</p>
+									<p class="health" title="年龄：  3月">年龄：  3月</p>
+									<p class="sp">齐全 | 3针疫苗 | 3只在售</p>
+									<p class="price" title="1500元">1500元</p>
+								</dd>
+						</dl>				
+											</div>
+				</div>				
+				<div class="footer">
+					<div class="item">
+					<h2 class=footertit>您可以逛逛：</h2>
+					<p class="footerlist"><a href="http://fz.58.com/job.shtml?from=58_404" class="f">招聘</a><a href="http://fz.58.com/chuzu?from=58_404">租房</a><a href="http://fz.58.com/ershoufang?from=58_404">二手房</a><a href="http://fz.58.com/ershouche?from=58_404">二手车</a><a href="http://fz.58.com/sale.shtml?from=58_404">二手市场</a><a href="http://fz.58.com/pets.shtml?from=58_404">宠物狗</a><a href="http://fz.58.com/piaowu.shtml?from=58_404">票务</a><a href="http://fz.58.com/shenghuo.shtml?from=58_404">家政服务</a><a href="http://fz.58.com/lvyouxiuxian.shtml?from=58_404">旅游酒店</a><a href="http://fz.58.com/xiuxianyl.shtml?from=58_404">休闲娱乐</a></p>
+					<div class="QRcode">
+						<p class="app">
+							<span class="info">
+								<i>把58装进口袋</i>
+								<i>随时随地享受生活</i>
+							</span>
+						</p>
+						<p class="WeChat">
+							<span class="info">
+								<i>加58微信公众账号</i>
+								<i>神奇哥竭诚为您服务</i>
+							</span>
+						</p>
+					</div>
+					</div>
+				</div>
+				<div class="separator"></div>
+			</div>
+		</div>
+</body>
+</html>

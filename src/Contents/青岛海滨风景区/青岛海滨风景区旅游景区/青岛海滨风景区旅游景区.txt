@@ -1,0 +1,1489 @@
+
+
+<!DOCTYPE html>
+
+<html>
+    
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    
+    <meta name="description" content="乐途旅游网_青岛海滨风景区旅游，提供青岛海滨风景区，青岛海滨风景区旅游景点推荐，青岛海滨风景区旅游攻略，青岛海滨风景区旅游玩法，最适合去青岛海滨风景区旅游的季节，青岛海滨风景区旅游注意事项，青岛海滨风景区旅游线路，青岛海滨风景区酒店预定，青岛海滨风景区旅游地图等出行指南及旅行服务" />
+    <meta name="keywords" content="青岛海滨风景区旅游_青岛海滨风景区旅游攻略_青岛海滨风景区旅游景点" />
+    <title>青岛海滨风景区旅游_青岛海滨风景区旅游攻略_青岛海滨风景区旅游景点_乐途旅游网</title>
+    <link rel="shortcut icon" href="http://www.lotour.com/favicon2.ico" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/base.css" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/lt_top.css" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/jingdian.css" />
+    <script type="text/javascript" src="http://js.lotour.net/jquery-1.8.3.min.js"></script>
+    <!--[if IE 6]><script type="text/javascript" src="http://js.lotour.net/DD_belatedPNG.js"></script><script type="text/javascript">DD_belatedPNG.fix('.logo img,.lt-nav-new-bg,.bdNavWraper,.map-btn,.mddNavWrap,.jd-img em');</script><![endif]--><!--[if lt IE 9]><script type="text/javascript" src="http://js.lotour.net/PIE_IE678.js"></script><![endif]--><!--[if IE 9]><script type="text/javascript" src="http://js.lotour.net/PIE_IE9.js"></script><![endif]--><script type="text/javascript">$(function () {if(window.PIE){$('.jq-list-l-up img').each(function(){ PIE.attach(this);});}});</script>
+</head>
+
+<body class="">
+    
+<script type="text/javascript" src="http://js.lotour.net/login/searchhotellogin_v5.js"></script>
+<script src="http://js.lotour.net/mylotour/v1/mylotour_v2.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://js.lotour.net/lotour_v1.js"></script>
+<div class="lt-nav-new">
+	<a href="http://www.lotour.com/" target="_blank"><img class="logo" src="http://img1.lotour.com/bdhomeV2/new_logo.png" /></a>
+	<div class="nav-new-btn">
+    	<a href="#" class="btn"></a>
+    	<div class="nav-new-layer">
+        	<ul>
+            <li>
+            	<h5><a href="http://www.lotour.com/mudidi/" target="_blank">目的地</a></h5>
+                <div class="links">
+                    <a href="http://shangqiu.lotour.com/" target="_blank">商丘</a><a href="http://xian.lotour.com/" target="_blank">西安</a><a href="http://shannan.lotour.com/" target="_blank">西藏山南</a><a href="http://kunming.lotour.com/yunnanshilin/" target="_blank">石林</a>     <a href="http://shangrao.lotour.com/guifeng/" target="_blank">龟峰</a> <a href="http://xuchang.lotour.com/" target="_blank">许昌</a>                                                                         
+
+                </div>
+            </li>
+            <li class="sg">
+            	<h5>发&nbsp;&nbsp;&nbsp;现</h5>
+                <div class="links">
+                	<a href="http://www.lotour.com/zhoubianyou" target="_blank">周边游</a>
+                	<a href="http://www.lotour.com/guoneiyou" target="_blank">国内游</a>
+                	<a href="http://www.lotour.com/chujingyou" target="_blank">出境游</a>
+                </div>
+            </li>
+            <li class="sg">
+            	<h5>社&nbsp;&nbsp;&nbsp;区</h5>
+                <div class="links">
+                    <a href="http://www.lotour.com/daren/" target="_blank">大咖</a>
+                	<a href="http://www.lotour.com/zijiayou/" target="_blank">自驾</a>
+                    <a href="http://sc.lotour.com/" target="_blank">福利</a>
+                </div>
+            </li>
+            <li>
+            	<h5>预&nbsp;&nbsp;&nbsp;订</h5>
+                <div class="links">
+                    <a href="http://d.lotour.com/hotel/" target="_blank">酒店</a>
+                    <a href="http://d.lotour.com/jipiao/" target="_blank">机票</a>
+                	<a href="http://d.lotour.com/dangdigentuan/" target="_blank">地接</a>
+                	<a id="dujiaxianlu" href="http://d.lotour.com/dujiaxianlu/shanghai/" target="_blank">度假</a>
+                </div>
+            </li>
+            </ul>
+        </div>
+    </div>
+  <div class="ltCrumb clear"> <a href="http://www.lotour.com/" target="_blank" title="">首页</a>&nbsp;&gt;&nbsp;<a href="http://www.lotour.com/mudidi" target="_blank" title="">目的地</a>&nbsp;&gt; 
+      
+              <a href="http://shandong.lotour.com/" title="" target="_blank">山东旅游</a>
+                  &gt;
+          
+              <a href="http://qingdao.lotour.com/" title="" target="_blank">青岛旅游</a>
+                  
+                    [<a href="http://qingdao.lotour.com/sitemap.shtml" target="_blank" title="城市导航">城市导航</a>]
+               &gt;
+          
+              <a href="http://qingdao.lotour.com/shinan/" title="" target="_blank">市南区旅游</a>
+                  &gt;
+          
+      <h1><a  href="http://qingdao.lotour.com/qingdaohaibin/" title="">青岛海滨风景区旅游景区</a>
+              
+      </h1>
+  </div>
+  <div class="lt-nav-r">
+  	<div class="lt-nav-item lt-nav-item-srh">
+    	<b></b>
+        <div class="lt-srh-new">
+            <form action="http://ip.lotour.com/home/mudidi" method="get" target="_blank" name="zonghe">
+        	    <div class="lt-srh-l">
+                    <div class="lt-srh-new-clk">
+                        <a href="#" class="l1"><i></i><em></em></a>
+                    </div>
+                    <input type="text" value="点此搜索" name="keyword" id="keyword" class="ipt" />
+                    <input type="hidden" value="0" name="htype" id="htype" />
+                    <input type="hidden" value="" name="keys" id="keys" />
+                    <input type="submit" class="btn" id="btnzonghe" name="btnzonghe" value="" />
+                </div>               
+            </form>
+            <div class="lt-srh-new-layer">
+                <ul>
+                    <li class="l1"><a href="#"><i></i>搜目的地</a></li>
+                    <li class="l2"><a href="#"><i></i>搜达人</a></li>
+                    <li class="l3"><a href="#"><i></i>搜客栈酒店</a></li>
+                    <li class="l4"><a href="#"><i></i>搜当地跟团</a></li>
+                    <li class="l5"><a href="#"><i></i>搜度假线路</a></li>
+                </ul>
+            </div>
+            <div id="hotcityhintDiv" style="z-index: 300001;" class="inputExtendBox sphl">
+                <ul id="scity" class="suggestBox"></ul>
+            </div>
+            <div class="city_divtc" id="Search_Synthesize_Div" style="z-index: 3000006;"><div class="city_divtc_t"><a class="closex"></a><span>国内</span></div><div class="city_divtc_m"><ul><li><a href="http://shangqiu.lotour.com/" target="_blank" title=" 商丘"> 商丘</a></li><li><a href="http://xian.lotour.com/" target="_blank" title=" 西安"> 西安</a></li><li><a href="http://dandong.lotour.com/fengcheng/" target="_blank" title="凤城"> 凤城</a></li><li><a href="http://shannan.lotour.com/" target="_blank" title=" 山南"> 山南</a></li><li><a href="http://kunming.lotour.com/yunnanshilin/" target="_blank" title="石林"> 石林</a></li><li><a href="http://shangrao.lotour.com/guifeng/" target="_blank" title=" 龟峰"> 龟峰</a></li><li><a href="http://lijiang.lotour.com/" target="_blank" title="丽江">丽江</a></li><li><a href="http://zhoushan.lotour.com/" target="_blank" title="舟山">舟山</a></li><li><a href="http://huangshan.lotour.com/" target="_blank" title="黄山">黄山</a></li><li><a href="http://shaoxing.lotour.com/" target="_blank" title="绍兴">绍兴</a></li><li><a href="http://hangzhou.lotour.com/" target="_blank" title=" 杭州"> 杭州</a></li><li><a href="http://xiamen.lotour.com/" target="_blank" title=" 厦门"> 厦门</a></li><li><a href="http://jiaxing.lotour.com/wuzhenguzhen/" target="_blank" title=" 乌镇"> 乌镇</a></li><li><a href="http://qingdao.lotour.com/" target="_blank" title=" 青岛"> 青岛</a></li><li><a href="http://shanghai.lotour.com" target="_blank" title="上海">上海</a></li></ul></div><div class="city_divtc_t"><span>境外</span></div><div class="city_divtc_m"><ul><li><a href="http://tha.lotour.com/" target="_blank" title="泰国">泰国</a></li><li><a href="http://cam.lotour.com/" target="_blank" title="柬埔寨">柬埔寨</a></li><li><a href="http://tha.lotour.com/qingmai/" target="_blank" title="清迈">清迈</a></li><li><a href="http://aus.lotour.com/" target="_blank" title=" 澳大利亚"> 澳大利亚</a></li><li><a href="http://tha.lotour.com/pujifu/" target="_blank" title="普吉岛">普吉岛</a></li><li><a href="http://mas.lotour.com/shaba/" target="_blank" title="沙巴">沙巴</a></li><li><a href="http://pf.lotour.com/" target="_blank" title="大溪地">大溪地</a></li><li><a href="http://nep.lotour.com/" target="_blank" title="尼泊尔">尼泊尔</a></li><li><a href="http://fra.lotour.com/baliqu/" target="_blank" title="巴黎">巴黎</a></li><li><a href="http://taiwan.lotour.com/" target="_blank" title=" 台湾"> 台湾</a></li><li><a href="http://sri.lotour.com/" target="_blank" title=" 斯里兰卡"> 斯里兰卡</a></li><li><a href="http://gbr.lotour.com/lundun1/" target="_blank" title="伦敦">伦敦</a></li><li><a href="http://ina.lotour.com/balidao1/" target="_blank" title="巴厘岛">巴厘岛</a></li><li><a href="http://macao.lotour.com/" target="_blank" title="澳门">澳门</a></li><li><a href="http://fij.lotour.com/" target="_blank" title="斐济">斐济</a></li></ul></div></div>
+
+        </div>
+    </div>
+  	
+  	<div class="lt-login"></div>
+  </div>
+</div>
+
+<!-- 想去浮层 -->
+<div id="dream_place">
+</div>
+<!-- 求助浮层 -->
+<div id="ask_topic" class="msgLayer msgMod" style="display:none;">
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $s.loadCss("http://css.lotour.net/mylotour/v1/wantgo_new");
+        $("#dream_place").DPPanel({
+            className: "msgLayer",
+            close: function () {
+                //关闭时候执行
+                $(".layerBg").hide();
+            },
+            init: function () {
+                //初始化时候执行
+            },
+            publish: function (arr) {
+                //发布时候执行
+                try { dplaceweiboTui($("#dream_place_reseaon").val()) } catch (e) { }
+                location.reload();
+            }
+        }).hide();
+
+        $("#ask_topic").AskPanel({
+            className: "msgLayer",
+            close: function () {
+                //关闭时候执行
+                $(".layerBg").hide();
+            },
+            init: function () {
+                //初始化时候执行
+            },
+            publish: function (arr) {
+                //发布时候执行
+                $a("添加成功");
+            }
+        }).hide();
+
+        var askweibo = new PWeibo({
+            container: 'ask-weiboshare'
+        });
+        askweibo.create();
+        askweiboTui = function (txtcon) {
+            var content = "我在乐途旅游网发布了一条求助，求大家回复啊！";
+            content += "“" + txtcon + "”";
+            askweibo.send(content, function () {
+            });
+        };
+    });
+
+    
+
+    function AskHelp() {
+        $('#ask_topic').fadeIn(500).loadAskPanel(0); $('.layerBg').css('height', $(document).height()).show();
+    }
+    function WantGo() {
+        $('#dream_place').fadeIn(500).loadDPPanel('', 0, true); $('.layerBg').css('height', $(document).height()).show();
+    }
+
+    var SEARCHLEFT = -44, box;
+    if ($.cookie("CityID") == null || $.cookie("ChName") == null || $.cookie("IndexAreaName") == null) {
+        $.getScript("http://ip.lotour.com", function () {
+            $.cookie("CityID", result.regionid, { expires: 30, path: '/', domain: 'lotour.com' });
+            $.cookie("ChName", result.Chname, { expires: 30, path: '/', domain: 'lotour.com' });
+            $.cookie("IndexAreaName", result.regionname, { expires: 30, path: '/', domain: 'lotour.com' });
+            $("#dujiaxianlu").attr("href", "http://d.lotour.com/dujiaxianlu/" + $.cookie("ChName") + "/");
+        });
+    }
+    else
+        $("#dujiaxianlu").attr("href", "http://d.lotour.com/dujiaxianlu/" + $.cookie("ChName") + "/");
+
+    $('.lt-srh-new-layer li').click(function () {
+        var index = $(this).index();
+        $('.lt-srh-new-clk a').attr('class', 'l' + (index + 1));
+        if (index > 1) {
+            $("#htype").attr("value", index - 1);
+        }
+        else if (index == 1) {
+            $("#htype").attr("value", 5);
+        }
+        else {
+            $("#htype").attr("value", index);
+        }
+        $("keys").attr("value", "");
+        switch (index) {
+            case 0:
+                box = $("#keyword").searchbox({ "Left": SEARCHLEFT, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 1:
+                box = $("#keyword").searchbox({ "Flay": "xue_Daren", "Js": "", "Url": "http://my.lotour.com/DarenSearch/handler/AssociateDaren.ashx", "i": 1, "j": 5, "Top": 40, "Left": SEARCHLEFT, "tips": "" });
+                break;
+            case 2:
+                box = $("#keyword").searchbox({ "Flay": "xue_Hotel", "Js": "http://js.lotour.net/searchlayer/djmdd.js", "Url": "http://d.lotour.com/hotel/api/AssociateRegion", "i": 1, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 3:
+                box = $("#keyword").searchbox({ "Flay": "xue_Djxl_Mdd", "Js": "http://js.lotour.net/searchlayer/djmdd.js", "Url": "http://d.lotour.com/dangdigentuan/api-AssociateRegion", "i": 1, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 4:
+                box = $("#keyword").searchbox({ "Flay": "xue_OrderLine_Dest", "Js": "http://d.lotour.com/dujiaxianlu/api-AssociateCommonOsite?sSite=" + $.cookie("CityID") + "&randID=" + escape(new Date()) + "&callback=?", "Url": "http://beijing.lotour.com/dujiaxianlu/api-AssociateOSiteRegion", "i": 0, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+        }
+        $('.lt-srh-new-layer').hide()
+        return false;
+    }).eq(0).trigger("click");
+
+    var loginState = new lotourLoginState({});
+    //loginState.init();
+
+    //导航
+    $('.lt-nav-item').hover(function () {
+        $(this).find('.menu,.lt-srh-new').toggle()
+    })
+
+    $('.lt-srh-new-clk a').click(function () {
+        $('.lt-srh-new-layer').toggle();
+        return false
+    })
+    $('.lt-nav-item-srh').unbind('hover').click(function () {
+        $('.lt-srh-new').toggle();
+        //return false
+    });
+
+    $('.nav-new-btn').hover(function () {
+        $(this).find('.btn').toggleClass('btn-on');
+        $(this).find('.nav-new-layer').toggle();
+    });
+    $('.nav-new-layer li,.ltCommentList li').hover(function () {
+        $(this).toggleClass('hover');
+    });
+</script>
+<!--=S 头图 -->
+
+<div class="bdBannerWrap bdBannerChl mddBannerCh2">
+    
+    <div class="bd-main clearfix">
+		<div class="mdd-adv">
+			<script src="http://js.lotour.net/bcef/409.js" type="text/javascript"></script>
+		</div>
+		<div class="mddName clearfix">				
+			<h2><a title="青岛海滨风景区旅游" class="bdName-tit" href="http://qingdao.lotour.com/qingdaohaibin/">青岛海滨风景区</a><a title="" href="javascript:void(0)" class="map-btn"></a>
+            
+                <em class="map-here"><b>亲</b>，可以查看地图哦!~</em>
+            
+			</h2>
+        
+			<div class="bdLikeNum"><span></span>人感兴趣</div>
+            
+			<div class="bdscore" id="rscore">
+				<a title="" href="http://qingdao.lotour.com/qingdaohaibin/pingce/"><em></em><span>分</span></a>
+				<b></b>
+				<b></b>
+				<b></b>
+				<b></b>
+				<b></b>
+			</div>
+            
+            <div class="jd-ticket" deffer="1">
+				<p class="tkt-price clearfix">
+					<span class="t-pri">
+                    
+                          免费
+                        
+					</span>
+					<a class="tkt-btn" href="javascript:void(0)" title=""></a>
+				</p>
+				<p class="tkt-time">
+                
+                    开放时间 全天开放
+                
+				</p>				
+				<div class="tkt-layer">
+					<div class="tkt-layer-con clearfix">						
+						<h3>门票</h3>
+						<p>1月1日—12月31日：0元<br>
+                            
+                           优惠门票：景区无需门票，里面部分景点另收费。小鱼山公园旺季15元、淡季10元；小青岛公园旺季15元、淡季10元；鲁迅公园5元；百花苑5元；八大观、八大峡、汇泉广场、五四广场免费。
+                        
+						</p>
+						<h3>开放时间</h3>
+                        
+                                
+						<p>1月1日—12月31日：全天开放</p>
+                            
+						<p><strong>建议游玩时间</strong>2-3小时 </p>
+						<p><strong>电话</strong>0532-82879737</p>
+						<p><strong>网址</strong><a title="" href="www.qdseaside.cn">www.qdseaside.cn</a></p>						
+					</div>	
+				</div>				
+			</div>
+            									
+		</div>        
+	</div>    
+</div>
+<script type="text/javascript">
+    function SelectScour(){
+        $.getJSON("http://api.lotour.net/brandhome/Region/SelectRegionScore?regionId=1926&callback=?", function (data) {
+            var star1 = parseInt(data.Score / 2);
+            var scor = parseInt(data.Score);
+            var scor1 = parseInt((data.Score - scor) * 10);
+            $("#rscore").find("em").html(scor+"."+scor1);
+            for (var i = 0; i < star1; i++) {
+                $("#rscore>b:eq("+i+")").html("<i></i>");
+            }
+            $("#rscore>b:eq("+star1+")").html("<i style=\"width:"+parseInt((data.Score/2-star1)*100)+"%\"></i>");
+        });
+    }
+    
+    $(function () {
+        
+        SelectScour();
+        
+        var winw = $(window).width();	
+        $('.map-box').css({"margin-left":(winw-980)/2,"top":"233px","border":"1px solid #f5f5f5"});
+    });
+</script>
+
+
+<!--=S 地图弹层-->
+<div class="map-box ">
+	<a class="map-x" href="#" title="关闭"></a>		
+	<div class="map-con" id="J_miniMap">
+	</div>
+
+    <div class="map-con-r">
+		<h3>青岛海滨风景区</h3>
+		<h4><strong>地址</strong>青岛市京山路11号</h4>
+		<h4><strong>交通</strong></h4>
+		<p>乘坐公交220路至二十六中下</p>				
+	</div>
+	
+</div>
+<!--=E 地图弹层-->
+<style type="text/css">
+.map-mark {
+    width: 24px;
+    height: 28px;
+    background: url(http://img1.lotour.net/lotour/biaodian-d.png) no-repeat -35px 0;
+    overflow: hidden;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 22px;
+    cursor: pointer;
+    position: relative;
+    z-index: 1008;
+}
+.map-mark.on {
+    background-position: -35px -35px;
+    z-index: 1009;
+}
+</style>
+<script type="text/javascript" src="http://js.lotour.net/map.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://js.lotour.net/jquery.tmpl.min.js"></script>
+<script type="text/javascript">
+    var mapInfo = {
+        lat: parseFloat('36.0618'),
+        lng: parseFloat('120.384')
+    };
+    var miniMapBox = $('#J_miniMap'), miniMap, MiniMarker;
+
+    function initMiniMap() {
+        var latLng = new google.maps.LatLng(mapInfo.lat, mapInfo.lng);
+        var mapOptions = {
+            center: latLng,
+            zoom: 10,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+        miniMap = new google.maps.Map(miniMapBox.get(0), mapOptions);
+        var markerHtml = '<div class="map-mark"></div>';
+        new MiniMarker(miniMap, markerHtml, latLng);
+        
+
+        var marker = new google.maps.Marker({
+            position: latLng
+        });
+
+    }
+    function MarkerOverlay() {
+        var Overlay = function (map, text, latLng, ready) {
+            this.map = map;
+            this.text = text;
+            this.latLng = latLng;
+            this.ready = ready;
+            this.div = null;
+            this.setMap(this.map);
+        }
+
+        Overlay.prototype = new google.maps.OverlayView();
+
+        $.extend(Overlay.prototype, {
+            onAdd: function () {
+                var div = $('<div/>').html(this.text).css('position', 'absolute');
+                $(this.getPanes().overlayImage).append(div);
+                this.div = div;
+                if (typeof this.ready === 'function') {
+                    this.ready.call(this);
+                }
+            },
+            draw: function () {
+                var latLng = this.getProjection().fromLatLngToDivPixel(this.latLng);
+                this.div.css({
+                    'left': latLng.x - this.div.width() / 2,
+                    'bottom': -latLng.y
+                });
+            },
+            onRemove: function () {
+                this.div.remove();
+                this.div = null;
+            }
+        });
+
+        return Overlay;
+    }
+
+    function updateBrowse() {
+        var regionObj = new RegionBrowse(1926);
+        regionObj.updateBrowse()
+        $.getJSON("http://api.lotour.net/rss/dmspageview.ashx?id=1926&callback=?", function (data) {
+            var span = $("div.bdLikeNum").find("span");
+            span.html(data.pageview);
+        });
+    }
+    
+    $(function () {
+        updateBrowse();
+        //地图加载
+        var mapload = new MfwMapLoad(function () {
+            if (mapInfo == undefined || !$.isPlainObject(mapInfo) || $.isEmptyObject(mapInfo)) {
+                return;
+            }
+            MiniMarker = MarkerOverlay();
+            $(".map-btn").click(function () {
+                if($(".map-box").is(":hidden")){
+                    if($(".tkt-btn").length>0&&!$(".tkt-layer").is(":hidden")){
+                        $(".tkt-btn").trigger("click");
+                    }
+                    $(".map-box").show();
+                    initMiniMap();
+                }
+                else{
+                    $(".map-box").hide();
+                }
+            });
+            $(".bd-r-mapbtn,#abigmap").click(function(){
+                initMaxMap();
+            });
+        }, 5000, false);
+        mapload.autoLoadMap();
+        //地图弹层
+        
+        $(".map-x").click(function () {
+            $(".map-box").hide();
+        });
+    });
+</script>
+
+
+<div class="mddNavWrap">
+    <div class="mddNavbg">
+	    <div class="mddNav">            
+		    <ul class="clearfix">         
+			    <li class="on"><a title="青岛海滨风景区旅游必知" href="http://qingdao.lotour.com/qingdaohaibin/"><span>必知</span></a></li>
+                     
+                <li class=""><a title="青岛海滨风景区旅游游记" href="http://qingdao.lotour.com/qingdaohaibin/lvyouyouji/"><span>游记</span></a></li>  
+                              
+			    <li class=""><a title="青岛海滨风景区旅游口碑" href="http://qingdao.lotour.com/qingdaohaibin/pingce/"><span>口碑</span></a></li>                
+			    <li class=""><a title="青岛海滨风景区旅游文章" href="http://qingdao.lotour.com/qingdaohaibin/news/"><span>文章</span></a></li>                
+			    
+                <li class=""><a title="青岛海滨风景区旅游预订" href="http://qingdao.lotour.com/qingdaohaibin/yuding/"><span>预订</span></a></li>
+                               	
+		    </ul>
+            <div class="bz-nav sphl">
+				    <dl class="clearfix">				
+					    <dd><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					    <dd><a href="javascript:void(0)" title="">玩法</a></dd>
+					    <dd><a href="javascript:void(0)" title="">资讯</a></dd>
+					    <dd><a href="javascript:void(0)" title="">住哪儿</a></dd>
+					    <dd><a href="javascript:void(0)" title="">包打听</a></dd>
+					    <dd><a href="javascript:void(0)" title="">如何到达</a></dd>					
+					    <dd><a href="javascript:void(0)" title="">附近城市</a></dd>
+					    <dt><a href="javascript:void(0)" title=""><span>手绘攻略</span></a></dt>
+				    </dl>
+			    </div>
+            <div class="bz-nav sphl">
+				<dl class="clearfix">
+					<dd class="nav1"><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					<dd class="nav2"><a href="javascript:void(0)" title="">旅行<br />月历</a></dd>
+					<dd class="nav3"><a href="javascript:void(0)" title="">必体验</a></dd>
+					<dd class="nav4"><a href="javascript:void(0)" title="">玩法</a></dd>
+					<dd class="nav5"><a href="javascript:void(0)" title="">抵达<br />住哪</a></dd>
+					<dd class="nav6"><a href="javascript:void(0)" title="">包打听</a></dd>
+					<dd class="nav7"><a href="javascript:void(0)" title="">周边<br />线路</a></dd>					
+				</dl>
+			</div>
+            <div class="bz-nav sphl">
+				<dl class="clearfix">
+					<dd class="nav1"><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					<dd class="nav3"><a href="javascript:void(0)" title="">必体验</a></dd>
+					<dd class="nav4"><a href="javascript:void(0)" title="">玩法</a></dd>
+					<dd class="nav5"><a href="javascript:void(0)" title="">重要<br />提示</a></dd>
+					<dd class="nav6"><a href="javascript:void(0)" title="">附近<br />景区</a></dd>
+					<dd class="nav7"><a href="javascript:void(0)" title="">城市<br />相关</a></dd>
+				</dl>
+			</div>
+	    </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(".bz-nav:eq(2)").removeClass("sphl");
+    $(function () {
+
+        var winw = $(window).width();
+        $('.map-box').css({ "margin-left": (winw - 980) / 2, "top": "233px", "border": "1px solid #f5f5f5" });
+
+        //滚动固定导航
+        $(window).scroll(function () {
+            var st = $(document).scrollTop(), toph = $(".lt-nav-new").height() + $(".bdBannerWrap").height();
+            if (st - toph >= 0) {
+                $(".mddNavWrap").addClass("mddNavWrapFix");
+                $(".bz-con1").addClass("pt-con1");
+                if ($.browser.msie && ($.browser.version == "6.0") && !$.support.style) {
+                    $(".mddNavWrap").css({ "top": st, "margin-top": "0" })
+                }
+            } else if (st - toph < 0) {
+                $(".mddNavWrap").removeClass("mddNavWrapFix");
+                $(".bz-con1").removeClass("pt-con1");
+                if ($.browser.msie && ($.browser.version == "6.0") && !$.support.style) {
+                    $(".mddNavWrap").css({ "top": "0", "margin-top": "0" })
+                }
+            }
+        });
+    });
+</script>
+<div class="bd-main bz-main clearfix">
+    <div class="bz-con bz-con1 jd-con1">
+        <ul class="clearfix">	
+			<li><a href="http://qingdao.lotour.com/zhengwen/2015/05/1279235.shtml" target="_blank" title="青岛海滨风光"><img src="http://img1.lotour.net/cmsMustKnowScenic/2015/05/201505151604340858398.jpg" width="702" height="394" alt="青岛海滨风光" /></a></li>
+			<li><a href="http://qingdao.lotour.com/zhengwen/2015/05/1279235.shtml" target="_blank" title="栈桥 海鸥"><img src="http://img1.lotour.net/cmsMustKnowScenic/2015/05/2015051516050803629280.jpg" width="278" height="197" alt="栈桥 海鸥" /></a></li>
+			<li><a href="http://qingdao.lotour.com/zhengwen/2015/05/1279235.shtml" target="_blank" title="信号山"><img src="http://img1.lotour.net/cmsMustKnowScenic/2015/05/2015051516083500306853.jpg" width="278" height="197" alt="信号山" /></a></li>			
+		</ul>
+        <div class="gx-txt">
+        	<em></em>
+            <div class="gx-txt-h">
+                <p class="gx-p1">青岛海滨风景区位于青岛市区南部沿海一线，东西长约25公里，南北宽约3公里。其风光特色为汇山、海、城于一体，融自然与人工为一炉，是国家级风景名胜区当中少数位于城市中心的风景区。陆地包括青岛山、信号山、观象山、太平山、八关山、小鱼山及南侧区域...<a href="http://qingdao.lotour.com/zhengwen/2015/05/1279235.shtml" target="_blank" title="">[详细]</a></p>
+                <p class="gx-p2">最佳旅游时间：7月-8月，七八月份的青岛酷暑炎热，正是风景区海滨度假的好时节。</p>
+            </div>            	
+        </div>
+    </div>
+
+    <div class="bz-con clearfix">
+        <div class="bz-con-tit clearfix"> 
+            <ul class="bz-tab-tit" id="experiences">
+                <li deffer="0"><strong class="tit2"><a title="" href="javascript:void(0)">游</a></strong></li>
+                <li deffer="1"><strong class="tit2"><a title="" href="javascript:void(0)" class="">吃</a></strong></li>
+                <li deffer="2"><strong class="tit2"><a title="" href="javascript:void(0)" class="">购</a></strong></li>                    
+                <li deffer="3"><strong class="tit2"><a title="" href="javascript:void(0)" class="">娱</a></strong></li>
+            </ul>			
+        </div>
+        
+            <script type="text/javascript">
+                $("#experiences li[deffer=0]").remove();
+            </script>    
+          
+        <script type="text/javascript">
+            $("#experiences li[deffer=1]").remove();
+                        </script>
+          
+        <script type="text/javascript">
+            $("#experiences li[deffer=2]").remove();
+                        </script>
+          
+        <script type="text/javascript">
+            $("#experiences li[deffer=3]").remove();
+                        </script>
+          
+    </div>
+    <script type="text/javascript">
+        if ($("#experiences li").length == 0) {
+            $("#experiences").parents(".bz-con").remove();
+            $("dd.nav3").remove();
+        }
+        else {
+            $("#experiences li").eq(0).find("a").addClass("on");
+        }
+    </script>
+
+    <script type="text/javascript">
+        $("dd.nav4").remove();
+    </script>
+
+    <div class="bz-con clearfix">
+		<div class="bz-con-l">
+			<div class="bz-con-tit clearfix">
+            	<strong class="tit5"><a class="on" href="javascript:void(0)" title="">重要提示</a></strong>
+                
+            	<ul class="dating-tit">
+                
+                    <li><strong><a title="" href="javascript:void(0)" class="on">1</a></strong></li>  
+                
+                    <li><strong><a title="" href="javascript:void(0)" class="">2</a></strong></li>  
+                			
+				</ul>
+            </div>
+            
+            <div class="bz-tab bz-dating" style="  ">			
+				<ul class="bz-tips-list">
+<li class=""><b>游玩方式</b> 在海滨有很多可以组织半日游一日游的旅行社，可以参加它们的驴友，也可以自己随便逛一逛。</li>      
+<li class=""><b>添衣临海</b> 在海边游览时，由于临海海风较大，需要多穿点衣服。</li>  
+<li class=""><b>防晒用品</b> 防晒用品也是不可少的，虽然青岛夏天相对凉爽，但是也要注意紫外线晒伤皮肤。</li>  
+<li class=""><b>吃海鲜市一定要注意</b> 海鲜新鲜食用，以免食物中毒；不用引用大量啤酒，以免引发痛风；生吃海鲜要灭菌彻底，最好是冷冻之后在浇点淡盐水；不要大量补充维C；关节炎患者要少吃海鲜；吃海鲜后，一小时内不要食用冷饮、西瓜等，且不要马上游泳。 </li>  
+<li class=""><b>携带药品</b> 随身携带一些常用的药品，以防过敏和肠胃不适。</li>
+<li class=""><b>衣物</b> 尽量带容易干的换洗衣物。海滨城市空气比较潮湿，衣服洗后不容易干；青岛气候凉爽，即使夏季出游也应准备长袖的衣服。另外，为了方便在海中戏水，泳衣、短裤也是必不可少的。  
+</ul>
+
+			</div>      
+            
+            <div class="bz-tab bz-dating" style="  display:none">			
+				<ul class="bz-tips-list">
+<li class=""><b>打车须知</b> 如果你坐火车来青岛，下火车后别在火车站停车场里面打的，站内的出租车一般都是“议价”（不打表），下车后到火车站广场外公路上打的既便易又安全。</li>      
+<li class=""><b>不要受骗</b> 不要轻信出租车司机介绍的酒店。</li>  
+<li class=""><b>公车车优先</b> 能坐公交车就不要打车，避免不必要的纠纷，空调开放带K字的公交车为两元。</li>  
+<li class=""><b>直达栈桥</b> 为方便游客，在太平路地面下修建了地下通道，游客可以从火车站或中山路通过地道直达栈桥。 </li>  
+
+</ul>
+
+			</div>      
+            
+        </div>
+        <div class="bz-con-r">
+			<div class="bz-con-tit clearfix">
+            	<strong class="tit5"><a href="javascript:void(0)" title="">包打听</a></strong>
+                
+            	<ul class="dating-tit">
+                				
+				</ul>
+            </div>
+        
+            <div class="bz-tab bz-dating" style=" ">
+				<ul class="bz-q-list">
+                
+                    <li class="hover">
+						<h3><em></em><span>沿著海滨木栈道从一沿、步行至八大关，需要多少时间呀？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>大约步行时间在半小时到四十五分钟的样子，看您走的速度。而且，八大关区域也不小，如果您走到武昌路、汇泉路这边，很快就到；如果走到黄海路、太平角一路这边，就耗时长一些。
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>青岛海滨风景区海滨浴场有哪些，都是如何收费的?</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>青岛的海滨浴场都免费游泳免费，不过冲淡水和更衣是收费的（不同的房间分别是5块-10块）。青岛主要的海水浴场有9个：南海路的第一海水浴场，山海关路的第二海水浴场，太平角六路的第三海水浴
+                                
+                                    <a target="_blank" href="http://qingdao.lotour.com/zhengwen/2015/05/1279651.shtml" title="">[详细]</a>
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>青岛海滨风景区内是否有下榻之处？价格如何？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>青岛海滨风景区附近有许多提供住宿的宾馆、酒店，以及家庭旅社等。价格不一，但花个200多，就能住一家相当不错的星级宾馆。
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>在青岛海滨风景区购物可以买到什么</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>景区内重点景点设有旅游购物商亭，主要经营旅游纪念品，可提供青岛风光水粉画、青岛风光贝雕画、青岛风光油画、青岛风光木贴画、贝壳工艺品、贝壳青岛风光、名建筑草编、明信片、邮政纪念封
+                                
+                                    <a target="_blank" href="http://qingdao.lotour.com/zhengwen/2015/05/1279649.shtml" title="">[详细]</a>
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>青岛海滨风景区内什么地方可以吃饭？价格贵吗？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>风景区内外有许多风味小吃餐厅，游客可以尝尝青岛啤酒、青岛的海鲜产品，以及小红楼牛肉灌汤包、美达尔烤肉、青岛大包等风味小吃。
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                
+                    <li class="">
+						<h3><em></em><span>乘坐公交怎么到青岛海滨风景区？</span></h3>
+						<div class="bz-q-a">
+							<div class="bz-q-con"> <i class="bgt"></i>
+								<p>可乘坐公交220路至二十六中下即到。
+                                
+								</p>
+								<i class="bgb"></i>
+							</div>
+						</div>
+					</li> 
+                									
+				</ul>
+			</div>  
+        			
+			
+        </div>
+    </div>
+    
+    <div class="bz-con clearfix">
+		<h2 class="bz-con-tit clearfix"><strong class="tit4"><a href="javascript:void(0)" title="">附近景区</a></strong></h2>
+        
+        <div class="bz-con-l2">
+            <div class="bz-map"> <img width="520" height="508" src="http://ditu.google.cn/maps/api/staticmap?markers=36.0618,120.384&markers=color:0x59C1FF|label:A|36.067082,120.38264&markers=color:0x59C1FF|label:B|36.067082,120.38264&markers=color:0x59C1FF|label:C|36.0515,120.366&markers=color:0x59C1FF|label:D|36.0605,120.362&markers=color:0x59C1FF|label:E|36.0651,120.356&&size=520x508&sensor=false" alt="" /> </div>				
+        </div>
+        <div class="bz-con-r2">
+            <ul class="zb-jq">
+            
+               <li>
+                    <h3 class="clearfix"><a title="" href="http://qingdao.lotour.com/xiaozhushan/" target="_blank"><i class="zb-mdot">A</i><span>小珠山森林公园</span></a><em class="nlike" deffer="3248"></em><em class="nmi">距离601m</em></h3>
+                    <p>青岛珠山国家森林公园位于青岛经济技术开发区（黄岛区）西部，含柳花泊街道办事处全境，并与胶南相接。小珠...<a title="" href="http://qingdao.lotour.com/xiaozhushan/" target="_blank">[详细]</a></p>
+                </li>   
+            
+               <li>
+                    <h3 class="clearfix"><a title="" href="http://qingdao.lotour.com/shengmaliyjt/" target="_blank"><i class="zb-mdot">B</i><span>圣玛丽亚教堂</span></a><em class="nlike" deffer="55837"></em><em class="nmi">距离601m</em></h3>
+                    <p>圣玛丽亚教堂是中国惟一的祝圣教堂,位于浙江路附近。内部采用意大利文艺复兴时期形式装饰,庄严肃穆。<a title="" href="http://qingdao.lotour.com/shengmaliyjt/" target="_blank">[详细]</a></p>
+                </li>   
+            
+               <li>
+                    <h3 class="clearfix"><a title="" href="http://qingdao.lotour.com/disanhaishuiyc/" target="_blank"><i class="zb-mdot">C</i><span>第三海水浴场</span></a><em class="nlike" deffer="55787"></em><em class="nmi">距离1.98km</em></h3>
+                    <p>位于太平角东侧,湛山湾畔,规模虽不大,但海水却异常清澈。沙滩上建有一幢幢风格多样的更衣室,更衣室冲浴的水...<a title="" href="http://qingdao.lotour.com/disanhaishuiyc/" target="_blank">[详细]</a></p>
+                </li>   
+            
+               <li>
+                    <h3 class="clearfix"><a title="" href="http://qingdao.lotour.com/qdzhiwuguan/" target="_blank"><i class="zb-mdot">D</i><span>青岛植物园</span></a><b class="nA">2A景区</b><em class="nlike" deffer="1939"></em><em class="nmi">距离1.98km</em></h3>
+                    <p>青岛植物园始建于一九七六年,面积1500亩,位于市区太平山景区南麓,北纬36.05、东经120.08,海拔在30米-148.5米...<a title="" href="http://qingdao.lotour.com/qdzhiwuguan/" target="_blank">[详细]</a></p>
+                </li>   
+            
+               <li>
+                    <h3 class="clearfix"><a title="" href="http://qingdao.lotour.com/qdzhongshanyuan/" target="_blank"><i class="zb-mdot">E</i><span>青岛中山公园</span></a><em class="nlike" deffer="3255"></em><em class="nmi">距离2.55km</em></h3>
+                    <p>在全国50多座中山公园中，青岛中山公园是建园最早的中山公园，始建于1901年，是青岛最大的综合性公园。公园...<a title="" href="http://qingdao.lotour.com/qdzhongshanyuan/" target="_blank">[详细]</a></p>
+                </li>   
+            
+            </ul>
+        </div>
+    </div>
+    
+    <div class="bz-con clearfix">				
+		<div class="bz-con-l">
+			<h2 class="bz-con-tit clearfix"><strong class="tit7"><a href="javascript:void(0)" title="">青岛玩法</a></strong> 
+            
+			</h2>			
+			<ul class="wf-city">
+            	
+				<li>
+					<h3 class="clearfix"><em class="i-miji"></em><span><a title="花里行间--青岛足记" target="_blank" href="http://qingdao.lotour.com/zj/1117667">花里行间--青岛足记</a></span></h3>
+					<p class="wf-text">写在最前面这是我第二次去青岛。第一次去的时候匆匆路过，只看到海水浴场的人肉饺子和八大关的丛丛新人。而这次意外的预谋之旅，...<a title="" target="_blank" href="http://qingdao.lotour.com/zj/1117667">[详细]</a></p>
+					<p class="wf-place wf-place2" deffer="4611544"><a title="" target="_blank" href="http://my.lotour.com/i/4611544"></a><i class="sphl">V</i><span>2015年5月游览过：</span> 
+                        
+                                  <a title="" target="_blank" href="http://qingdao.lotour.com/">青岛</a>
+                                     	
+					</p>				
+				</li>
+            	
+				<li>
+					<h3 class="clearfix"><em class="i-miji"></em><span><a title="蓝天沙滩海浪----青岛" target="_blank" href="http://qingdao.lotour.com/zj/1116671">蓝天沙滩海浪----青岛</a></span></h3>
+					<p class="wf-text">青岛，一座滨海小城，多年前去过一次，印象很好，再次飞往令人向往的小城，逛逛。。。。。。。。二话不说，坐飞机前往，天气很好...<a title="" target="_blank" href="http://qingdao.lotour.com/zj/1116671">[详细]</a></p>
+					<p class="wf-place wf-place2" deffer="4563270"><a title="" target="_blank" href="http://my.lotour.com/i/4563270"></a><i class="sphl">V</i><span>2015年4月游览过：</span> 
+                        
+                                  <a title="" target="_blank" href="http://qingdao.lotour.com/">青岛</a>
+                                     	
+					</p>				
+				</li>
+            	
+				<li>
+					<h3 class="clearfix"><em class="i-miji"></em><span><a title="青岛那些小时光" target="_blank" href="http://qingdao.lotour.com/zj/1114105">青岛那些小时光</a></span></h3>
+					<p class="wf-text">《———————————————青岛那些小小小时光———————————————》从决定去青岛到出发只用了2周时间～由于...<a title="" target="_blank" href="http://qingdao.lotour.com/zj/1114105">[详细]</a></p>
+					<p class="wf-place wf-place2" deffer="5472315"><a title="" target="_blank" href="http://my.lotour.com/i/5472315"></a><i class="sphl">V</i><span>2015年3月游览过：</span> 
+                        
+                                  <a title="" target="_blank" href="http://qingdao.lotour.com/">青岛</a>
+                                     	
+					</p>				
+				</li>
+            	
+				<li>
+					<h3 class="clearfix"><em class="i-miji"></em><span><a title="三天的青岛能做什么？让你耍得了市井玩得了清新！" target="_blank" href="http://qingdao.lotour.com/zj/1110766">三天的青岛能做什么？让你耍得了市井玩得了清新！</a></span></h3>
+					<p class="wf-text">初中时候的夏令营，因为那恐怖的绿皮硬座火车和火车内满厕所外露的屎粑粑，让我对这个城市好感全无，甚至都是恐惧。这次，很临时...<a title="" target="_blank" href="http://qingdao.lotour.com/zj/1110766">[详细]</a></p>
+					<p class="wf-place wf-place2" deffer="4609479"><a title="" target="_blank" href="http://my.lotour.com/i/4609479"></a><i class="sphl">V</i><span>2015年1月游览过：</span> 
+                        
+                                  <a title="" target="_blank" href="http://qingdao.lotour.com/">青岛</a>
+                                     	
+					</p>				
+				</li>
+            											
+			</ul>
+        </div>
+        <div class="bz-con-r">
+			<h2 class="bz-con-tit clearfix"> <strong class="tit7"><a title="" href="javascript:void(0)">青岛鲜闻</a></strong> <a href="http://qingdao.lotour.com/news/" target="_blank" title="更多" class="more">更多</a> </h2>
+			<ul class="bz-news-list">
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-26425.shtml" target="_blank" title="神仙之宅太清宫，古树参天很清幽">神仙之宅太清宫，古树参天很清幽</a> <span>2016-11-30</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-26419.shtml" target="_blank" title="即墨千年的汤，因你一泡而红">即墨千年的汤，因你一泡而红</a> <span>2016-11-30</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-24606.shtml" target="_blank" title="八大关：都市深处的世外桃源">八大关：都市深处的世外桃源</a> <span>2016-11-18</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-25341.shtml" target="_blank" title="在城市的顶端打打闹闹又如何？">在城市的顶端打打闹闹又如何？</a> <span>2016-11-17</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-25002.shtml" target="_blank" title="小鬼当家如此美丽的酒店你敢入住吗？">小鬼当家如此美丽的酒店你敢入住吗？</a> <span>2016-11-11</span></li>      
+                
+                <li class="newsline"><a href="http://www.lotour.com/zhengwen/2/lg-jc-24626.shtml" target="_blank" title="遇见崂山｜我要向天，再借一百年！">遇见崂山｜我要向天，再借一百年！</a> <span>2016-11-07</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-23780.shtml" target="_blank" title="喝的是历史 享的是狂欢">喝的是历史 享的是狂欢</a> <span>2016-11-02</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-23782.shtml" target="_blank" title="青岛啤酒纯生之旅">青岛啤酒纯生之旅</a> <span>2016-11-02</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-23781.shtml" target="_blank" title="好啤酒 好音乐 好美味">好啤酒 好音乐 好美味</a> <span>2016-11-02</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-22720.shtml" target="_blank" title="人生是一座百年的车站">人生是一座百年的车站</a> <span>2016-10-27</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-23323.shtml" target="_blank" title="崂山多仙人 想撞墙的可以来试">崂山多仙人 想撞墙的可以来试</a> <span>2016-10-27</span></li>      
+                
+                <li class="newsline"><a href="http://www.lotour.com/zhengwen/2/lg-jc-23415.shtml" target="_blank" title="绿树红瓦碧海蓝天——青岛海滨游">绿树红瓦碧海蓝天——青岛海滨游</a> <span>2016-10-25</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-23209.shtml" target="_blank" title="五月的风，漂洋过海来看你">五月的风，漂洋过海来看你</a> <span>2016-10-24</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-22348.shtml" target="_blank" title="睡一睡霍建华、吴亦凡滚过的酒店">睡一睡霍建华、吴亦凡滚过的酒店</a> <span>2016-10-22</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-23284.shtml" target="_blank" title="始料未及，十月的青岛涵碧楼竟然爆满">始料未及，十月的青岛涵碧楼竟然爆满</a> <span>2016-10-22</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-23117.shtml" target="_blank" title="新业态旅游：在半岛来一次航海旅行">新业态旅游：在半岛来一次航海旅行</a> <span>2016-10-21</span></li>      
+                			
+			</ul>
+		</div>
+    </div>
+<script type="text/javascript">
+    $(function () {
+        //左侧导航
+        $('.bz-nav:eq(2) dd').live('click', function () {
+            $(this).find("a").addClass("on");
+            $(this).siblings("dd").find("a").removeClass("on");
+            var index = $(this).parent().find("dd:visible").index($(this)),
+				 h = $('.bz-con').eq(index).offset().top - 90;
+            if (h < 318) {
+                $("html, body").animate({
+                    scrollTop: 233
+                }, 400);
+            } else {
+                $("html, body").animate({
+                    scrollTop: h
+                }, 400);
+            }
+        });
+        $(window).scroll(function () {
+            $('.bz-con').each(function () {
+                if ($(this).offset().top >= $(document).scrollTop() - $(this).outerHeight(true) + 150) {
+                    $('.bz-nav:eq(2) dd').eq($('.bz-con').index($(this))).find("a").addClass("on");
+                    $('.bz-nav:eq(2) dd').eq($('.bz-con').index($(this))).siblings("dd").find("a").removeClass("on");
+                    return false
+                }
+            });
+            var rollh = $(".bz-main").height() + 216 - $(".bz-nav:eq(2)").height();
+            if (rollh < $(document).scrollTop()) {
+                $(".bz-nav:eq(2)").hide();
+            } else {
+                $(".bz-nav:eq(2)").show();
+            };
+        });
+
+        //个性	
+        $(".jd-con1-con li").live("hover", function () {
+            $(this).toggleClass("hover");
+        });
+        $(".gx-txt-h").css("margin-top", ($(".gx-txt").height() - $(".gx-txt-h").height()) / 2);
+
+        //必体验
+        $(".bz-tab-con li").live("hover", function () {
+            $(this).toggleClass("hover");
+        });
+
+        //包打听		
+        $(".bz-q-list li").live("hover", function () {
+            $(this).addClass("hover");
+            $(this).siblings("li").removeClass("hover");
+        });
+        $('.bz-tips-list li').live("hover", function () {
+            $(this).toggleClass("hover");
+        });
+
+        //tab切换
+        $(".bz-con-tit li").hover(function () {
+            var _this = $(this), ul = _this.parent(), li = ul.find('li'), index = li.index(_this);
+            ul.parent().siblings(".bz-tab").hide().eq(index).show();
+            li.find('a').removeClass("on");
+            _this.find('a').addClass("on");
+        });
+        $(".jd-wanfa h3").click(function () {
+            var _this = $(this), ul = _this.parents("ul"), li = ul.find("h3"), index = li.index(_this);
+            //ul.parent().siblings(".bz-con-l2").children(".bz-tab").hide().eq(index).show();
+            li.find('a').removeClass("on");
+            _this.find('a').addClass("on");
+            InitMapx(list_slice(poi_list, index+1));
+        });
+
+        //门票弹层
+        $(".tkt-btn").live('click', function () {
+            if (!$(".map-box").is(":hidden")) {
+                $(".map-box").hide();
+            }
+            $(this).parent().siblings(".tkt-layer").slideToggle();
+            $(this).toggleClass("tkt-btn2");
+        });
+
+        $(".wf-place2").each(function () {
+            var _this = $(this), author = _this.attr("deffer");
+            $.getJSON("http://my.lotour.com/i/Common/GetMemberMessage?memberId=" + author + "&callback=?", function (data) {
+                if (data.Success) {
+                    var result = data.Result.Data;
+                    _this.find("a").eq(0).html(result.NickName);
+                    if (result.VStatus > 0) {
+                        _this.find("i").removeClass("sphl");
+                        if (result.VStatus == 2) {
+                            _this.find("i").addClass("i-red");
+                        }
+                        else {
+                            _this.find("i").addClass("i-blue");
+                        }
+                    }
+                }
+            });
+        });
+
+        $("b[deffer]").each(function () {
+            var _this = $(this), regionid = _this.attr("deffer");
+            $.getJSON("http://api.lotour.net/rss/dmspageview.ashx?id=" + regionid + "&callback=?", function (data) {
+                _this.html(data.pageview);
+            });
+        });
+        $("em.nlike").each(function () {
+            var _this = $(this), regionid = _this.attr("deffer");
+            $.getJSON("http://api.lotour.net/rss/dmspageview.ashx?id=" + regionid + "&callback=?", function (data) {
+                _this.html(data.pageview + "人感兴趣");
+            });
+        });
+
+    });
+</script>
+
+<!--=S 灵感推荐 -->
+<a class="lg-tuijian-btn" href="javascript:void(0)"></a>
+<div class="lg-tuijian">
+	<div class="lg-tuijian-con">
+    	<a class="lg-tuijian-x" href="javascript:void(0)"></a>
+        <h2 class="lg-tuijian-tit">青岛海滨风景区旅游灵感推荐
+        
+            <a href="http://www.lotour.com/zhengwen/r67" target="_blank" title="">更多&gt;&gt;</a>
+        
+        </h2>
+        <ul class="lg-tuijian-list clearfix">
+        
+        	<li>
+            	<div class="img"><a href="http://www.lotour.com/zhengwen/2/lg-jc-20433.shtml" target="_blank" title=""><img src="http://img1.lotour.net/Inspiration/2016/0907/20160907111543924522550_1920_590.jpg" width="130" height="84" alt=""></a></div>
+                <div class="txt">
+                	<h3><a href="http://www.lotour.com/zhengwen/2/lg-jc-20433.shtml" target="_blank" title="青岛：这道菜一尝，你就知天堂">青岛：这道菜一尝，你就知天堂</a></h3>
+                    <p>作者：<a href="http://zhuanlan.lotour.com/644" target="_blank" title="">小雷旅行</a></p>
+                    <div class="tags">
+                    	<a href="http://www.lotour.com/zhengwen/x3784" target="_blank" title="美食">美食</a>
+                    </div>
+                </div>
+            </li>
+         
+        	<li>
+            	<div class="img"><a href="http://www.lotour.com/zhengwen/1/lg-jc-18922.shtml" target="_blank" title=""><img src="http://img1.lotour.net/Inspiration/2016/0818/20160818220331528331066_1920_590.jpg" width="130" height="84" alt=""></a></div>
+                <div class="txt">
+                	<h3><a href="http://www.lotour.com/zhengwen/1/lg-jc-18922.shtml" target="_blank" title="只有去过的人才知道，这里的空气会停止">只有去过的人才知道，这里的空气会停止</a></h3>
+                    <p>作者：<a href="http://zhuanlan.lotour.com/567" target="_blank" title="">摄影武子</a></p>
+                    <div class="tags">
+                    	<a href="http://www.lotour.com/zhengwen/x3724" target="_blank" title="其他人文">其他人文</a>
+                    </div>
+                </div>
+            </li>
+         
+        	<li>
+            	<div class="img"><a href="http://www.lotour.com/zhengwen/1/lg-jc-13478.shtml" target="_blank" title=""><img src="http://img1.lotour.net/Inspiration/2016/0602/20160602210041107382293_1920_590.jpg" width="130" height="84" alt=""></a></div>
+                <div class="txt">
+                	<h3><a href="http://www.lotour.com/zhengwen/1/lg-jc-13478.shtml" target="_blank" title="青岛：天蓝蓝海蓝蓝 你我牵手共浪漫">青岛：天蓝蓝海蓝蓝 你我牵手共浪漫</a></h3>
+                    <p>作者：<a href="http://zhuanlan.lotour.com/947" target="_blank" title="">菱湖夜月</a></p>
+                    <div class="tags">
+                    	<a href="http://www.lotour.com/zhengwen/x3782" target="_blank" title="情侣">情侣</a><a href="http://www.lotour.com/zhengwen/x4135" target="_blank" title="风情街">风情街</a><a href="http://www.lotour.com/zhengwen/x3735" target="_blank" title="海滩海岛">海滩海岛</a>
+                    </div>
+                </div>
+            </li>
+           
+        </ul>
+    </div>	
+</div>
+<script type="text/javascript">
+    $(function () {
+        $(".lg-tuijian-list li:last").css("margin-right", "0px");
+        if ($(window).width() < 1200) {
+            $(".lg-tuijian").addClass("lg-tuijian-s");
+        } else {
+            $(".lg-tuijian").removeClass("lg-tuijian-s");
+        }
+        $(".lg-tuijian-btn").mouseover(function () {
+            $(this).css("left", "-75px");
+            $(".lg-tuijian").stop().animate({ 'left': '0' }, 800, 'linear');
+        }).trigger("mouseover");
+        $(".lg-tuijian-x").click(function () {
+            $(".lg-tuijian").stop().animate({ 'left': '-100%' }, 500, 'linear');
+            $(".lg-tuijian-btn").stop().animate({ 'left': '0' }, 600, 'linear');
+        });
+
+    });
+</script>
+<!--=E 灵感推荐 -->
+
+    
+    <div class="main bdMain">
+        
+
+<div class="content">
+    <h2 class="conlist-tit">— 青岛旅游行政区划 —</h2>
+    <div class="conlist-con">
+    
+        <dl>
+            <dt><a href="http://qingdao.lotour.com/jiaonan/" title="胶南">胶南</a></dt>
+            <dd>
+            
+                <a href="http://qingdao.lotour.com/dafudaoxfudao/" title="大福岛">大福岛</a>
+          
+                <a href="http://qingdao.lotour.com/haiqinglzcyy/" title="绿洲茶叶园">绿洲茶叶园</a>
+          
+                <a href="http://qingdao.lotour.com/langzuotai/" title="琅琊台">琅琊台</a>
+          
+                <a href="http://qingdao.lotour.com/shimensi/" title="石门寺">石门寺</a>
+          
+                <a href="http://qingdao.lotour.com/dazhushan1/" title="大珠山">大珠山</a>
+          
+                <a href="http://qingdao.lotour.com/langyagucheng/" title="琅琊古城">琅琊古城</a>
+          
+                <a href="http://qingdao.lotour.com/jiaonansbwg/" title="胶南市博物馆">胶南市博物馆</a>
+          
+                <a href="http://qingdao.lotour.com/xufudongdu/" title="徐福东渡">徐福东渡</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://qingdao.lotour.com/pingdushi/" title="平度">平度</a></dt>
+            <dd>
+            
+                <a href="http://qingdao.lotour.com/qiaojialwgy/" title="乔家龙湾公园">乔家龙湾公园</a>
+          
+                <a href="http://qingdao.lotour.com/baozhujian/" title="豹竹涧">豹竹涧</a>
+          
+                <a href="http://qingdao.lotour.com/pingdusbwg/" title="平度市博物馆">平度市博物馆</a>
+          
+                <a href="http://qingdao.lotour.com/dazeshan/" title="大泽山">大泽山</a>
+          
+                <a href="http://qingdao.lotour.com/yangmingzhaigj/" title="杨明斋故居">杨明斋故居</a>
+          
+                <a href="http://qingdao.lotour.com/dongyueshiyizhi/" title="东岳石遗址">东岳石遗址</a>
+          
+                <a href="http://qingdao.lotour.com/yueshiwhyz/" title="岳石遗址">岳石遗址</a>
+          
+                <a href="http://qingdao.lotour.com/pingduchashan/" title="茶山">茶山</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://qingdao.lotour.com/jiaozhou/" title="胶州">胶州</a></dt>
+            <dd>
+            
+                <a href="http://qingdao.lotour.com/qingdaoshaohai/" title="青岛少海">青岛少海</a>
+          
+                <a href="http://qingdao.lotour.com/sanlihe/" title="三里河公园">三里河公园</a>
+          
+                <a href="http://qingdao.lotour.com/jiaozhoutyc/" title="胶州体育场">胶州体育场</a>
+          
+                <a href="http://qingdao.lotour.com/yongshengciyz/" title="庸生祠">庸生祠</a>
+          
+                <a href="http://qingdao.lotour.com/daguhehekou/" title="大沽河和胶州湾">大沽河和胶州湾</a>
+          
+                <a href="http://qingdao.lotour.com/mumagucheng/" title="牧马古城">牧马古城</a>
+          
+                <a href="http://qingdao.lotour.com/gaofenghanguan/" title="高凤翰纪念馆">高凤翰纪念馆</a>
+          
+                <a href="http://qingdao.lotour.com/sanliheyizhi/" title="三里河遗址">三里河遗址</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://qingdao.lotour.com/chengyangqu/" title="城阳">城阳</a></dt>
+            <dd>
+            
+                <a href="http://qingdao.lotour.com/shanseyustlyq/" title="山色峪">山色峪</a>
+          
+                <a href="http://qingdao.lotour.com/qingdaotianxiangyuan/" title="天香园">天香园</a>
+          
+                <a href="http://qingdao.lotour.com/hongdaoxxyc/" title="红岛渔村">红岛渔村</a>
+          
+                <a href="http://qingdao.lotour.com/baolongleyuan/" title="宝龙乐园">宝龙乐园</a>
+          
+                <a href="http://qingdao.lotour.com/gaihaiyuan/" title="青岛赶海园">青岛赶海园</a>
+          
+                <a href="http://qingdao.lotour.com/qingdaoguojigongyipincheng/" title="青岛国际工艺品城">青岛国际工艺品城</a>
+          
+                <a href="http://qingdao.lotour.com/zilongshanwhyz/" title="子龙山遗址">子龙山遗址</a>
+          
+                <a href="http://qingdao.lotour.com/qdshijigongyuan/" title="城阳世纪公园">城阳世纪公园</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://qingdao.lotour.com/licang/" title="李沧">李沧</a></dt>
+            <dd>
+            
+                <a href="http://qingdao.lotour.com/laoshanhdybwg/" title="海底玉博物馆">海底玉博物馆</a>
+          
+                <a href="http://qingdao.lotour.com/shimeiangy/" title="十梅庵公园">十梅庵公园</a>
+          
+                <a href="http://qingdao.lotour.com/wangxiantm/" title="王献唐墓">王献唐墓</a>
+          
+                <a href="http://qingdao.lotour.com/kangyouweimu/" title="康有为墓">康有为墓</a>
+          
+                <a href="http://qingdao.lotour.com/qingdaopijiuerchang/" title="青岛啤酒二厂">青岛啤酒二厂</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://qingdao.lotour.com/laoshanqu/" title="崂山区">崂山区</a></dt>
+            <dd>
+            
+                <a href="http://qingdao.lotour.com/qdbowuguan/" title="青岛市博物馆">青岛市博物馆</a>
+          
+                <a href="http://qingdao.lotour.com/yiduolou/" title="一多楼">一多楼</a>
+          
+                <a href="http://qingdao.lotour.com/beijiushuifjyq/" title="北九水景区">北九水景区</a>
+          
+                <a href="http://qingdao.lotour.com/huadongbailijiuzhuang/" title="华东百利酒庄">华东百利酒庄</a>
+          
+                <a href="http://qingdao.lotour.com/yuezikousk/" title="月子口水库">月子口水库</a>
+          
+                <a href="http://qingdao.lotour.com/qdhaierkejiguan/" title="海尔科技馆">海尔科技馆</a>
+          
+                <a href="http://qingdao.lotour.com/yulingdwdjc/" title="雨林谷动物剧场">雨林谷动物剧场</a>
+          
+                <a href="http://qingdao.lotour.com/qilinfeng/" title="麒麟峰">麒麟峰</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://qingdao.lotour.com/huangdao/" title="黄岛">黄岛</a></dt>
+            <dd>
+            
+                <a href="http://qingdao.lotour.com/xushan/" title="徐山">徐山</a>
+          
+                <a href="http://qingdao.lotour.com/cangmashanguojilvyoudujiaqu/" title="藏马山国际旅游度假区">藏马山国际旅游度假区</a>
+          
+                <a href="http://qingdao.lotour.com/tangdaowan/" title="唐岛湾">唐岛湾</a>
+          
+                <a href="http://qingdao.lotour.com/mahaoyunheyz/" title="马壕运河">马壕运河</a>
+          
+                <a href="http://qingdao.lotour.com/jiaozhouwankuahaidaqiao/" title="胶州湾跨海大桥">胶州湾跨海大桥</a>
+          
+                <a href="http://qingdao.lotour.com/chaoqunyingshicheng/" title="超群影视城">超群影视城</a>
+          
+                <a href="http://qingdao.lotour.com/jinshatan1/" title="金沙滩">金沙滩</a>
+          
+                <a href="http://qingdao.lotour.com/xiaozhushan/" title="小珠山森林公园">小珠山森林公园</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://qingdao.lotour.com/sifang/" title="四方">四方</a></dt>
+            <dd>
+            
+                <a href="http://qingdao.lotour.com/haiyunan/" title="海云庵">海云庵</a>
+          
+                <a href="http://qingdao.lotour.com/nanshanzyhds/" title="中医魂雕塑公园">中医魂雕塑公园</a>
+          
+                <a href="http://qingdao.lotour.com/haibohetyg/" title="海泊河体育场">海泊河体育场</a>
+          
+                <a href="http://qingdao.lotour.com/hongchengtyc/" title="弘诚体育场">弘诚体育场</a>
+          
+                <a href="http://qingdao.lotour.com/shenhuadong/" title="神话洞">神话洞</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://qingdao.lotour.com/shinan/" title="市南区">市南区</a></dt>
+            <dd>
+            
+                <a href="http://qingdao.lotour.com/baoyudao/" title="鲍鱼岛">鲍鱼岛</a>
+          
+                <a href="http://qingdao.lotour.com/zhonghuawmdsj/" title="中华文明雕塑街">中华文明雕塑街</a>
+          
+                <a href="http://qingdao.lotour.com/aiqingjiao/" title="爱情角">爱情角</a>
+          
+                <a href="http://qingdao.lotour.com/qingdaolishiwenhua/" title="历史文化博物馆">历史文化博物馆</a>
+          
+                <a href="http://qingdao.lotour.com/xiaoyushangy/" title="小鱼山公园">小鱼山公园</a>
+          
+                <a href="http://qingdao.lotour.com/haibindsy/" title="海滨雕塑园">海滨雕塑园</a>
+          
+                <a href="http://qingdao.lotour.com/qingdaostyg/" title="青岛市体育馆">青岛市体育馆</a>
+          
+                <a href="http://qingdao.lotour.com/shilaoshanlyq/" title="石老山度假区">石老山度假区</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://qingdao.lotour.com/jimoshi/" title="即墨">即墨</a></dt>
+            <dd>
+            
+                <a href="http://qingdao.lotour.com/dqtianhengdao/" title="田横岛">田横岛</a>
+          
+                <a href="http://qingdao.lotour.com/shdmashan/" title="马山保护区">马山保护区</a>
+          
+                <a href="http://qingdao.lotour.com/qdlingshandao/" title="青岛灵山">青岛灵山</a>
+          
+                <a href="http://qingdao.lotour.com/qdhuashanjulebu/" title="华山乡村俱乐部">华山乡村俱乐部</a>
+          
+                <a href="http://qingdao.lotour.com/jimosdxgd/" title="即墨市大、小管岛">即墨市大、小管岛</a>
+          
+                <a href="http://qingdao.lotour.com/fcmdxygs/" title="丰城雄崖古所">丰城雄崖古所</a>
+          
+                <a href="http://qingdao.lotour.com/qingdaowqdjc/" title="青岛温泉度假村">青岛温泉度假村</a>
+          
+                <a href="http://qingdao.lotour.com/damaidao/" title="大麦岛">大麦岛</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://qingdao.lotour.com/shibei/" title="市北区">市北区</a></dt>
+            <dd>
+            
+                <a href="http://qingdao.lotour.com/qingdaopijiubowuguan/" title="青岛啤酒博物馆">青岛啤酒博物馆</a>
+          
+                <a href="http://qingdao.lotour.com/zhushuishan/" title="贮水山">贮水山</a>
+          
+                <a href="http://qingdao.lotour.com/aoyundsggt/" title="奥运电视观光塔">奥运电视观光塔</a>
+          
+                <a href="http://qingdao.lotour.com/yuguan/" title="于姑庵">于姑庵</a>
+          
+                <a href="http://qingdao.lotour.com/tianmucheng/" title="天幕城">天幕城</a>
+          
+                <a href="http://qingdao.lotour.com/qingdaoputaojiubowuguan/" title="青岛葡萄酒博物馆">青岛葡萄酒博物馆</a>
+          
+                <a href="http://qingdao.lotour.com/qingdaoertgy/" title="青岛儿童公园">青岛儿童公园</a>
+          
+                <a href="http://qingdao.lotour.com/qingdaopjj/" title="青岛啤酒街">青岛啤酒街</a>
+          
+          </dd>
+        </dl>
+      
+    </div>
+</div>
+
+        <div class="content">
+            <div class="travel-recom">    	<h2 class="travel-t">国内游目的地推荐</h2>        <ul class="traver-c clear">        	<li><a title="" target="_blank" href="http://beijing.lotour.com/">北京</a></li><li><a title="" target="_blank" href="http://haerbin.lotour.com/">哈尔滨</a></li><li><a title="" target="_blank" href="http://dalian.lotour.com">大连</a></li><li><a title="" target="_blank" href="http://sanya.lotour.com/">三亚</a></li><li><a title="" target="_blank" href="http://lijiang.lotour.com/">丽江</a></li><li><a title="" target="_blank" href="http://nanjing.lotour.com/">南京</a></li><li><a title="" target="_blank" href="http://hangzhou.lotour.com/">杭州</a></li><li><a title="" target="_blank" href="http://chongqing.lotour.com/">重庆</a></li><li><a title="" target="_blank" href="http://chengdu.lotour.com/">成都</a></li><li><a title="" target="_blank" href="http://yangzhou.lotour.com/">扬州</a></li><li><a title="" target="_blank" href="http://shanghai.lotour.com/">上海</a></li><li><a title="" target="_blank" href="http://xiamen.lotour.com/">厦门</a></li><li><a title="" target="_blank" href="http://qinhuangdao.lotour.com/">秦皇岛</a></li><li><a title="" target="_blank" href="http://jssuzhou.lotour.com/">苏州</a></li><li><a title="" target="_blank" href="http://shangrao.lotour.com/">上饶</a></li><li><a title="" target="_blank" href="http://leshan.lotour.com/">乐山</a></li><li><a title="" target="_blank" href="http://tianjin.lotour.com/">天津</a></li><li><a title="" target="_blank" href="http://huangshan.lotour.com/">黄山</a></li><li><a title="" target="_blank" href="http://guangzhou.lotour.com/">广州</a></li><li><a title="" target="_blank" href="http://wenzhou.lotour.com/">温州</a></li><li><a title="" target="_blank" href="http://hangzhou.lotour.com/">杭州</a></li><li><a title="" target="_blank" href="http://xian.lotour.com/">西安</a></li><li><a title="" target="_blank" href="http://luoyang.lotour.com/">洛阳</a></li><li><a title="" target="_blank" href="http://chengde.lotour.com/">承德</a></li><li><a title="" target="_blank" href="http://qingdao.lotour.com/">青岛</a></li><li><a title="" target="_blank" href="http://weihai.lotour.com/">威海</a></li><li><a title="" target="_blank" href="http://jinan.lotour.com/">济南</a></li></li><li><a title="" target="_blank" href="http://taian.lotour.com/">泰安</a></li><li><a title="" target="_blank" href="http://beihai.lotour.com/">北海</a></li><li><a title="" target="_blank" href="http://changsha.lotour.com/">长沙</a></li><li><a title="" target="_blank" href="http://dalibaizu.lotour.com/">大理</a></li><li><a title="" target="_blank" href="http://guiyang.lotour.com/">贵阳</a></li><li><a title="" target="_blank" href="http://guilin.lotour.com/">桂林</a></li><li><a title="" target="_blank" href="http://haikou.lotour.com/">海口</a></li><li><a title="" target="_blank" href="http://hulunbeier.lotour.com/">呼伦贝尔</a></li><li><a title="" target="_blank" href="http://kaifeng.lotour.com/">开封</a></li><li><a title="" target="_blank" href="http://kunming.lotour.com/">昆明</a></li><li><a title="" target="_blank" href="http://lasa.lotour.com/">拉萨</a></li><li><a title="" target="_blank" href="http://mudanjiang.lotour.com/">牡丹江</a></li><li><a title="" target="_blank" href="http://ningbo.lotour.com/">宁波</a></li><li><a title="" target="_blank" href="http://qiqihaer.lotour.com/">齐齐哈尔</a></li><li><a title="" target="_blank" href="http://shaoxing.lotour.com/">绍兴</a></li><li><a title="" target="_blank" href="http://shenzhen.lotour.com/">深圳</a></li><li><a title="" target="_blank" href="http://shenyang.lotour.com/">沈阳</a></li><li><a title="" target="_blank" href="http://shijiazhuang.lotour.com/">石家庄</a></li><li><a title="" target="_blank" href="http://wulumuqi.lotour.com/">乌鲁木齐</a></li><li><a title="" target="_blank" href="http://wuxi.lotour.com/">无锡</a></li><li><a title="" target="_blank" href="http://wuhan.lotour.com/">武汉</a></li><li><a title="" target="_blank" href="http://yinchuan.lotour.com/">银川</a></li><li><a title="" target="_blank" href="http://zhuhai.lotour.com/">珠海</a></li>                   </ul>        <h2 class="travel-t">出境游目的地推荐</h2>        <ul class="traver-c clear">  <li><a title="" target="_blank" href="http://jpn.lotour.com/">日本</a></li><li><a title="" target="_blank" href="http://kor.lotour.com/">韩国</a></li><li><a title="" target="_blank" href="http://ind.lotour.com/">印度 </a></li><li><a title="" target="_blank" href="http://nep.lotour.com/">尼泊尔</a></li><li><a title="" target="_blank" href="http://tha.lotour.com/">泰国 </a></li><li><a title="" target="_blank" href="http://cam.lotour.com/">柬埔寨</a></li><li><a title="" target="_blank" href="http://gbr.lotour.com/">英国 </a></li><li><a title="" target="_blank" href="http://fra.lotour.com/">法国</a></li><li><a title="" target="_blank" href="http://tur.lotour.com/">土耳其</a></li><li><a title="" target="_blank" href="http://aus.lotour.com/">澳大利亚</a></li><li><a title="" target="_blank" href="http://nzl.lotour.com/">新西兰</a></li><li><a title="" target="_blank" href="http://ken.lotour.com/">肯尼亚</a></li><li><a title="" target="_blank" href="http://egy.lotour.com/">埃及</a></li><li><a title="" target="_blank" href="http://usa.lotour.com/">美国 </a></li> <li><a title="" target="_blank" href="http://mya.lotour.com/">缅甸</a></li><li><a title="" target="_blank" href="http://fin.lotour.com/">芬兰</a></li><li><a title="" target="_blank" href="http://swe.lotour.com/">瑞典</a></li><li><a title="" target="_blank" href="http://mri.lotour.com/">毛里求斯</a></li> </ul>    </div>
+
+        </div>
+        <div class="content">
+          
+        </div>
+         <script>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');  ga('create', 'UA-63123574-1', 'auto');  ga('send', 'pageview');</script>
+    </div>
+    
+<!--=S 公共底 -->  
+<div class="ltFooter">
+	<div class="ltfoot clear">
+		<div class="ltfootA">
+			<a href="http://corp.lotour.com/index.shtml" target="_blank" title="乐途介绍">乐途介绍</a><i>|</i><a href="http://corp.lotour.com/job_2.shtml" target="_blank" title="招贤纳士">招贤纳士</a><i>|</i><a href="http://corp.lotour.com/lotour_honour.shtml" target="_blank" title="网站荣誉">网站荣誉</a><i>|</i><a href="http://corp.lotour.com/contact.shtml" target="_blank" title="联系我们">联系我们</a><i>|</i><a href="http://corp.lotour.com/parter.shtml" target="_blank" title="合作伙伴">合作伙伴</a><i>|</i><a href="http://corp.lotour.com/adv_sev.shtml" target="_blank" title="营销形式">营销形式</a><i>|</i><a href="http://corp.lotour.com/adv_case.shtml" target="_blank" title="成功案例">成功案例</a><i>|</i><a href="http://member.lotour.com/" target="_blank" title="商家入驻">商家入驻</a><i>|</i><a href="http://member.lotour.com/" target="_blank" title="商家登录">商家登录</a><i>|</i><a href="http://d.lotour.com/yudingbangzhu/" target="_blank" title="预订帮助">预订帮助</a><i>|</i><a href="http://corp.lotour.com/term.shtml" target="_blank" title="服务条款">服务条款</a>
+		</div>
+		<div class="ltfootB">
+			<a class="btmLogo" target="_blank" href="http://www.lotour.com/" title="乐途旅游网"></a>
+			<p><a href="http://www.miibeian.gov.cn" target="_blank" title="">京ICP备12008860号-1</a>&nbsp;&nbsp;<a href="http://corp.lotour.com/licence_gd.shtml" target="_blank" title="">广电节目制作许可证：1313号</a>&nbsp;&nbsp;京公网安备：11010502001653<br />
+			<span class="Arial">Copyright &copy; 2005 - 2016&nbsp;&nbsp;<a href="http://www.lotour.com/" target="_blank">Lotour.com</a>&nbsp;&nbsp;All Rights Reserved.</span>&nbsp;<a href="http://www.lotour.com/" target="_blank" title="乐途旅游网">乐途旅游网</a>&nbsp;版权所有</p>
+			<a class="btmIco" target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202008020400006"></a>
+		</div>		
+	</div>
+</div>
+<!--=E 公共底 -->
+<script type="text/javascript" src="http://js.lotour.net/feedback_v1.js"></script><script type="text/javascript" src="http://js.lotour.net/analytics/statsv2.js" defer charset="UTF-8"></script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-39387460-1']);
+    _gaq.push(['_setDomainName', 'lotour.com']);
+    _gaq.push(['_addOrganic', 'baidu', 'word']);
+    _gaq.push(['_addOrganic', 'soso', 'w']);
+    _gaq.push(['_addOrganic', '3721', 'name']);
+    _gaq.push(['_addOrganic', 'yodao', 'q']);
+    _gaq.push(['_addOrganic', 'vnet', 'kw']);
+    _gaq.push(['_addOrganic', 'sogou', 'query']);
+    _gaq.push(['_addOrganic', '360', 'q']);
+    _gaq.push(['_addOrganic', 'so', 'q']);
+    var full_url = location.pathname + location.search + location.hash;
+    _gaq.push(['_trackPageview', full_url]);
+    _gaq.push(['_trackPageLoadTime']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F317768ad40e6ddbe20f10e89b4712c35' type='text/javascript'%3E%3C/script%3E"));
+
+
+</script>
+
+    <!--=S 右底工具条 -->
+<div class="toolbarNew">
+	<div class="tbarNewBtnS"></div>
+	<ul>
+		<li><a hidefocus="true" href="javascript:void(0);" method="been" deffer="1926" class="footmark" title=""><i></i><span>我去过</span></a></li>
+		<li><a hidefocus="true" href="javascript:void(0);" method="want" deffer="1926" class="addWantTo" title=""><i></i><span>我想去</span></a></li>
+		<li><a hidefocus="true" href="javascript:void(0);" method="help" deffer="1926" deffername="青岛海滨风景区" class="help" title=""><i></i><span>发求助</span></a> </li>
+		<li class="tbarShare"> <a href="javascript:void(0);" class="tbarShareIco"> <i></i> <span>分享</span> </a>
+			<div class="sharecon"> 
+				<!-- Baidu Button BEGIN -->
+				<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare"> <span class="bds_more"></span> </div>
+				<script type="text/javascript" id="bdshare_js" data="type=tools&amp;mini=1&amp;uid=0" ></script> 
+				<script type="text/javascript" id="bdshell_js"></script> 
+				<script type="text/javascript">
+				    document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                </script> 
+				<!-- Baidu Button END --> 
+			</div>
+		</li>
+	</ul>
+	<script type="text/javascript">
+	    $(function () {
+	        $(window).scroll(function () {
+	            var st = $(document).scrollTop(), winh = $(window).height();
+	            if (st > 0) {
+	                if ($('.tbarS').length > 0) { return false }
+	                $('.tbarNewBtnS').click()
+	                $('.toolbarNew').addClass('tbarS')
+	            } else if (st <= 0) {
+	                $('.tbarNewBtn').click()
+	                $('.toolbarNew').removeClass('tbarS')
+	            }
+	        });
+	        $('.tbarNewGtop').live('click', function () { $("html, body").animate({ scrollTop: 0 }, 120); })
+	        $('.tbarNewBtnS').live('click', function () {
+	            $('.toolbarNew ul').stop().animate({ 'height': '312px' })
+	            $('.tbarNewGtop').stop().animate({ 'height': '45px' })
+	            $(this).addClass('tbarNewBtn').removeClass('tbarNewBtnS');
+	            return false
+	        })
+	        $('.tbarNewBtn').live('click', function () {
+	            $('.toolbarNew ul').stop().animate({ 'height': '0px' })
+	            $('.tbarNewGtop').stop().animate({ 'height': '3px' })
+	            $(this).addClass('tbarNewBtnS').removeClass('tbarNewBtn');
+	            return false
+	        })
+
+	        $("a[method=been]").click(function () {
+	            var regionid = $(this).attr("deffer");
+	            var a = $("a[method=been][deffer=" + regionid + "]");
+	            $.getJSON("http://my.lotour.com/login/login/islogin?callback=?&" + (new Date()), function (data) {
+	                if (data.uid > 0)
+	                    a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.uid + "/?rid=" + regionid, "target": "_blank" });
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.memberId + "/?rid=" + regionid, "target": "_blank" });
+	                    }, function (data) {
+	                        SetTopState();
+	                        a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.memberId + "/?rid=" + regionid, "target": "_blank" });
+	                    }, 1, "http://my.lotour.com/i/NotesPublish/replaceUid?rid=" + regionid);
+	                }
+	            });
+	        });
+	        $("a[method=want]").click(function () {
+	            var regionid = $(this).attr("deffer"), month = new Date().getMonth() + 1;
+	            var a = $("a[method=want][deffer=" + regionid + "]");
+	            $.getJSON("http://my.lotour.com/login/login/islogin?callback=?&" + (new Date()), function (data) {
+	                if (data.uid > 0) {
+	                    $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    $('.layerBg').css('height', $(document).height()).show();
+	                }
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    }, function (data) {
+	                        SetTopState();
+	                        $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    }, 1, location.href.toString().replace("#", "") + "?rid=" + regionid + "&ReturnAction=dplace");
+	                }
+	            });
+	        });
+	        $("a[method=help]").click(function () {
+	            var regionid = $(this).attr("deffer"), rname = $(this).attr("deffername");
+	            $.getJSON('http://my.lotour.com/login/login/islogin?callback=?&' + (new Date()), function (data) {
+	                if (data.uid > 0) {
+	                    showHelp(regionid, rname);
+	                }
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        showHelp(regionid, rname);
+	                    }, function (data) {
+	                        SetTopState();
+	                        showHelp(regionid, rname);
+	                    }, 1, location.href.toString().replace("#", "") + "?rid=" + regionid + "&ReturnAction=ask");
+	                }
+	            });
+	        });
+	    });
+	    function showHelp(regionid, rname) {
+	        $('#ask_topic').fadeIn(500).loadAskPanel(0);
+	        $('.layerBg').css('height', $(document).height()).show();
+	        $('#txtAskRegionSelect1').val(rname).attr('disabled', 'disabled');
+	        $('#hidAskTopicRegionId1').val(regionid);
+	        $.ajax({
+	            cache: false,
+	            type: "GET",
+	            dataType: 'jsonp',
+	            jsonp: 'callback',
+	            url: "http://my.lotour.com/i/DPlace/AskTopic/GetBeenCount/",
+	            data: { regionId: regionid },
+	            success: function (data) {
+	                data = data.Result.Data;
+	                if (data.count > 0) {
+	                    $("#BeenMsg").html(data.count + "专家为您解答");
+	                }
+	            },
+	            error: function (xhr, textStatus, errorThrown) {
+	            }
+	        });
+	    }
+  </script>
+	<div class="tbarNewGtop"></div>
+</div>
+<!--=E 右底工具条 -->
+</body>
+</html>

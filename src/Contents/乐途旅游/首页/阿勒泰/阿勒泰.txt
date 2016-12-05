@@ -1,0 +1,1062 @@
+
+
+<!DOCTYPE html>
+
+<html id="htmlFt">
+<head>
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="description" content="乐途旅游网_阿勒泰旅游，提供阿勒泰，阿勒泰旅游景点推荐，阿勒泰旅游攻略，阿勒泰旅游玩法，最适合去阿勒泰旅游的季节，阿勒泰旅游注意事项，阿勒泰旅游线路，阿勒泰酒店预定，阿勒泰旅游地图等出行指南及旅行服务" />
+    <meta name="keywords" content="阿勒泰旅游_阿勒泰旅游攻略_阿勒泰旅游景点" />
+    <title>阿勒泰旅游_阿勒泰旅游攻略_阿勒泰旅游景点_乐途旅游网</title>
+    <link rel="shortcut icon" href="http://www.lotour.com/favicon2.ico" type="image/x-icon" />
+    <link rel="Bookmark" href="http://www.lotour.com/favicon2.ico" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/base.css" media="all" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/common.css" media="all">
+    
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.com/zhuanti/alt/index.css" media="all">
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.com/zhuanti/alt/alt.css" media="all">
+    
+    <!--[if lt IE 9]>
+    <script src="http://js.lotour.net/html5.js"></script>
+    <![endif]-->
+    <script type="text/javascript" src="http://js.lotour.net/jquery-1.8.3.min.js"></script>
+    <script>
+        document.getElementById('htmlFt').style.fontSize = 100 / 640 * $(window).width() + 'px';
+    </script>
+    
+    <script type="text/javascript" src="http://js.lotour.net/common.js"></script>
+    
+    <script type="text/javascript" src="http://js.lotour.net/bd.js"></script>
+    
+</head>
+<body>
+    <script src="http://js.lotour.net/login/searchtips.js" id="stip" type="text/javascript"></script>
+<script src="http://js.lotour.net/login/top.only_v3.js" type="text/javascript"></script>
+<header>
+  <div class="header">
+    <div class="hl">
+      <h1>
+      	<a class="logo1" href="http://www.lotour.com/" title="乐途旅游"  onclick="return FocusCount('logo','');" target="_blank"><img src="http://img1.lotour.net/index/logo.png" /></a>
+      	<a class="logo2" href="http://www.lotour.com/" title="乐途旅游" onclick="return FocusCount('logo','');" target="_blank"><img src="http://img1.lotour.net/i-article/logo.png" /></a>
+<a class="logo3" href="http://www.lotour.com/" title="乐途旅游" onclick="return FocusCount('logo','');" target="_blank"><img src="http://img1.lotour.net/i-article/logomdd.png"></a>
+      </h1>
+      <nav>
+        <ul>
+          <li><a href="http://www.lotour.com/mudidi" title="目的地" class="a" onclick="return FocusCount('daohang','101');" target="_blank">目的地</a></li>
+          <li class="put"><a href="javascript:void(0);" class="a">发现</a><div class="ly"><em></em><a href="http://www.lotour.com/zhoubianyou/" title="周边游" onclick="return FocusCount('daohang','201');" target="_blank">周边游</a><a href="http://www.lotour.com/guoneiyou/" title="国内游" onclick="return FocusCount('daohang','202');" target="_blank">国内游</a><a href="http://www.lotour.com/chujingyou/" title="出境游" class="edbr" onclick="return FocusCount('daohang','203');" target="_blank">出境游</a></div></li>
+          <li><a href="http://www.lotour.com/daren/" title="大咖" class="a" onclick="return FocusCount('daohang','301');" target="_blank">大咖</a></li>
+          <li><a href="http://www.lotour.com/zijiayou/" title="自驾" class="a" onclick="return FocusCount('daohang','401');" target="_blank">自驾</a></li>
+          <li class="put"><a href="javascript:void(0);" class="a">预订</a><div class="ly"><em></em><a href="http://d.lotour.com/hotel/" title="酒店" onclick="return FocusCount('daohang','501');" target="_blank">酒店</a><a href="http://d.lotour.com/dangdigentuan/" title="地接" onclick="return FocusCount('daohang','503');" target="_blank">地接</a><a id="dujiaxianlu" href="http://d.lotour.com/dujiaxianlu/shanghai/" title="度假" class="edbr" onclick="return FocusCount('daohang','504');" target="_blank">度假</a></div></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="hr" id="rheader">
+      
+      <div class="search">
+        <form name="zonghe" method="get" action="http://ip.lotour.com/home/mudidi">
+        <input class="txt" type="text" id="keyword" name="keyword" autocomplete="off" value="" />
+        <input type="hidden" value="" name="keys" id="keys" />
+        <input class="btn" type="submit" value="" name="btnzonghe" id="btnzonghe" />
+        </form>
+        <div class="len"></div>
+        <div class="src-ly" style="display: none;">        	<a class="cls" href="javascript:void(0);"></a>            <div class="in">        	<h6 class="h1">国内</h6>            <ul class="clearfix"><li><a href="http://shangqiu.lotour.com/"> 商丘</a></li><li><a  href="http://shangrao.lotour.com/guifeng/">龟峰</a></li><li><a  href="http://xuchang.lotour.com/">许昌</a></li><li><a href="http://shannan.lotour.com/"> 山南</a></li><li><a  href="http://kunming.lotour.com/yunnanshilin/">石林</a></li><li><a href="http://changdu.lotour.com/">昌都</a></li><li><a  href="http://haerbin.lotour.com/">哈尔滨</a></li><li><a  href="http://zhoushan.lotour.com/">舟山</a></li><li><a  href="http://huangshan.lotour.com/">黄山</a></li><li><a  href="http://chengdu.lotour.com/">成都</a></li><li><a  href="http://hangzhou.lotour.com/">杭州</a></li><li><a  href="http://xiamen.lotour.com/"> 厦门</a></li><li><a  href="http://qingdao.lotour.com/">青岛</a></li><li><a  href="http://guilin.lotour.com/">桂林</a></li><li><a  href="http://huangshan.lotour.com/huizhouqu/">徽州</a></li></ul>        	<h6 class="h2">出境</h6>            <ul class="clearfix"><li><a href="http://tha.lotour.com/">泰国</a></li><li><a href="http://cam.lotour.com/">柬埔寨</a></li><li><a href="http://tha.lotour.com/qingmai/">清迈</a></li><li><a href="http://aus.lotour.com/"> 澳大利亚</a></li><li><a href="http://tha.lotour.com/pujifu/">普吉岛</a></li><li><a href="http://mas.lotour.com/shaba/">沙巴</a></li><li><a href="http://pf.lotour.com/">大溪地</a></li><li><a  href="http://nep.lotour.com/">尼泊尔</a></li><li><a  href="http://fra.lotour.com/baliqu/">巴黎</a></li><li><a  href="http://taiwan.lotour.com/"> 台湾</a></li><li><a  href="http://sri.lotour.com/"> 斯里兰卡</a></li><li><a  href="http://gbr.lotour.com/lundun1/">伦敦</a></li><li><a  href="http://ina.lotour.com/balidao1/">巴厘岛</a></li><li><a  href="http://macao.lotour.com/">澳门</a></li><li><a  href="http://fij.lotour.com/">斐济</a></li></ul>            </div>        </div>
+
+      </div>
+    </div>
+  </div>
+  <div class="wap-header">
+    <div class="wap-menu-left img-responsive">
+      <img src="http://img1.lotour.net/2016/index_web/top_left.png">
+    </div>
+    <a href="http://www.lotour.com/" onclick="return FocusCount('logo','');" target="_blank">
+      <img src="http://img1.lotour.net/index/wap_logo.png" class="logo">
+    </a>
+    <a href="javascript:void(0);" class="wap-menu-right">
+      <img src="http://img1.lotour.net/2016/index_web/top_right_01.png">
+    </a>
+    <div class="bd">
+      <a href="http://www.lotour.com/" class="sx"></a>
+        <h6>西藏昌都</h6>
+      <a href="" class="sr"></a>
+    </div>
+  </div>
+
+  <div class="wapleft" id="wapleftmenu">
+    <div class="wapmask"></div>
+    <div class="share-to">
+      <img src="http://img1.lotour.net/wap-nav/top-logo.png" alt="" class="top-logo" />
+    </div>
+    <div class="menu-list">
+      <img src="http://img1.lotour.net/wap-nav/nav-bg.jpg" alt="" class="nav-bg" />
+      <ul class="list1">
+        <li>
+          <a href="http://www.lotour.com" onclick="return FocusCount('logo','');" >
+            <img src="http://img1.lotour.net/wap-nav/t01.png" alt="" />首页
+          </a>
+        </li>
+        <li>
+          <a href="http://www.lotour.com/mudidi" onclick="return FocusCount('daohang','101');">
+            <img src="http://img1.lotour.net/wap-nav/t02.png" alt="" />目的地
+          </a>
+        </li>
+        <li>
+          <a href="http://www.lotour.com/zijiayou/" onclick="return FocusCount('daohang','401');">
+            <img src="http://img1.lotour.net/wap-nav/t06.png" alt="" />自驾
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <script type="text/javascript">
+    $(function () {
+    //手机导航
+    jQuery.getJSON('http://my.lotour.com/login/login/islogin?random=' + (new Date()) + '&callback=?', function (data) {
+    loginUserData = data;
+    if (parseInt(data.uid) > 0) {
+    $("a.wap-menu-right img").attr("src", data.photo != "" ? "http://img.lotour.com/UserPhoto/" + data.photo.replace(".jpg", "_50.jpg") : "http://img.lotour.net/UserPhoto/zxp01_20150801_50.jpg");
+    $("a.wap-menu-right").unbind('click').bind('click', function () {
+    window.location.href = "http://passport.lotour.com/user/userInfo.html?memberId=" + data.uid;
+    });
+    }
+    else {
+    $("a.wap-menu-right img").attr("src", "http://img1.lotour.net/wap-nav/top_right_01.png");
+    $("a.wap-menu-right").unbind('click').bind('click', function () {
+    jQuery.getScript("http://js.lotour.net/login/floatlogin_v3.js", function () {
+    var loginReg = new LoginRegV3();
+    loginReg.init();
+    loginReg.showLogin();
+    loginReg.regCallBack = function (data) {
+    window.location.reload();
+    };
+    loginReg.loginCallBack = function (data) {
+    window.location.reload();
+    };
+    });
+    });
+    }
+    });
+
+    $(".have-second").click(function () {
+    $(this).next().slideToggle();
+    });
+    $(".wap-menu-left").on('click', function () {
+    var targe = $('header');
+    if (targe.css('margin-left') == '5.6rem') {
+    $(".allwap-header").animate({ 'margin-left': '0px' });
+    $("#wapleftmenu").animate({ 'left': '-5.6rem' });
+    $(".wapleft").hide();
+    $(".wapmask").hide();
+    $("html,body").css("overflow", "auto");
+    } else {
+    $("header").animate({ 'margin-left': '5.6rem' });
+    $("header").css("position", "static");
+    $("#wapleftmenu").animate({ 'left': '0px' });
+    $(".wapmask").css("left", "auto");
+    $(".wapmask").css("right", "-0.8rem");
+    $(".wapmask").css("height", "99.6%");
+    $(".wapleft").show();
+    $(".wapmask").show();
+    $("html,body").css("overflow", "hidden");
+    }
+
+    })
+    $(".wapmask").on('click', function () {
+    $("html,body").animate({ scrollTop: 0 }, 100); ;
+    $("header").animate({ 'margin-left': '0px' });
+    $("#wapleftmenu").animate({ 'left': '-5.6rem' })
+    $(".wapmask").hide();
+    $("html,body").css("overflow", "auto");
+    })
+    });
+  </script>
+</header>
+
+<div class="bd-banner">
+    <div class="idx-focus">
+    <ul style="left: 0px;">
+        
+             <li big-img="http://img1.lotour.net/mudidiplay/2016/0822/2016082210104462359.jpg" small-img="http://img1.lotour.net/mudidiplay/2016/0822/20160822101044858ed.jpg" style="background-image:url(http://img.lotour.net/zip/20110411/index_mrtu.jpg);"><a href="http://www.lotour.com/zhengwen/1/lg-pp-17855.shtml"  target="_blank"></a>
+                 
+             </li> 
+        
+             <li big-img="http://img1.lotour.net/mudidiplay/2016/0812/2016081216341561479.jpg" small-img="http://img1.lotour.net/mudidiplay/2016/0812/2016081216361158577.jpg" style="background-image:url(http://img.lotour.net/zip/20110411/index_mrtu.jpg);"><a href="http://www.lotour.com/zhengwen/1/lg-pp-18384.shtml"  target="_blank"></a>
+                 
+             </li> 
+        
+             <li big-img="http://img1.lotour.net/mudidiplay/2016/0822/2016082215124993ded.jpg" small-img="http://img1.lotour.net/mudidiplay/2016/0822/2016082215125024289.jpg" style="background-image:url(http://img.lotour.net/zip/20110411/index_mrtu.jpg);"><a href="http://www.lotour.com/zhengwen/1/lg-pp-18443.shtml"  target="_blank"></a>
+                 
+             </li> 
+        
+    </ul>
+    <div class="pgs"> 
+        
+           <i class="on"></i>   
+        
+           <i class=""></i>   
+        
+           <i class=""></i>   
+        
+    </div>
+    <div class="bdBtnL prev"><a href="javascript:void(0)" title="上一个"></a></div>
+    <div class="bdBtnR next"><a href="javascript:void(0)" title="下一个"></a></div>
+  </div>
+  
+  <div class="bdbn-r" style="margin-right: 82.5px;">
+    <div class="bd-news">
+      <ul>
+        
+         <li><span><a href="http://aletai.lotour.com/news-xinwen" title="资讯">[资讯]</a></span> <a href="http://aletai.lotour.com/zhengwen/2016/11/1323404.shtml" target="_blank" title="今年给你一个不一样的福海冬捕节！">今年给你一个不一样的福海冬捕节！</a></li>     
+        
+         <li><span><a href="http://aletai.lotour.com/news-xinwen" title="资讯">[资讯]</a></span> <a href="http://aletai.lotour.com/zhengwen/2016/09/1322526.shtml" target="_blank" title="2016Xtrail阿勒泰世界探险越野赛在喀纳斯拉开赛程">2016Xtrail阿勒泰世界探险越野赛在喀纳斯拉开赛程</a></li>     
+        
+         <li><span><a href="http://aletai.lotour.com/news-xinwen" title="资讯">[资讯]</a></span> <a href="http://aletai.lotour.com/zhengwen/2016/07/1321648.shtml" target="_blank" title="自治区产业援疆与招商引资项目推进活动在阿勒泰开展">自治区产业援疆与招商引资项目推进活动在阿勒泰开展</a></li>     
+        
+         <li><span><a href="http://aletai.lotour.com/news-xinwen" title="资讯">[资讯]</a></span> <a href="http://aletai.lotour.com/zhengwen/2016/04/1320248.shtml" target="_blank" title="出行必看 喀纳斯旅游攻略">出行必看 喀纳斯旅游攻略</a></li>     
+        
+      </ul>
+    </div>
+    <div class="bdbn-l-x"><a class="bd-news-x" href="javascript:void(0)" title="关闭"></a><a class="bd-video-x" href="javascript:void(0)" title="关闭"></a></div>
+  </div>
+    
+</div>
+<div class="bd-nav clearfix">
+    <div class="fl">
+        <h1>阿勒泰</h1>
+        <a href="javascript:void(0)" class="site"></a><div class="pp-nb"><span></span>人感兴趣</div>
+        <div class="share">
+            <a href="javascript:void(0);" class="share-btn"></a>
+            <div class="share-layer">
+                <i></i>
+                <div class="ia-code">
+                    <h3 class="ia-left-tit">微信扫一扫，好私藏，爱分享</h3>
+                    <p><img src="http://api.lotour.net/brandhome/api/ShowPic?url=http://aletai.lotour.com/" width="184" height="184" alt=""></p>
+                </div>
+                <div class="ia-share">
+                    <h3 class="ia-left-tit">分享此页至</h3>
+                    <div class="ia-share-con">
+                        <a title="分享到新浪微博" href="javascript:eval(sns_share_show('wb'));void 0;" class="toSina"></a>
+                        <a title="分享到豆瓣" href="javascript:eval(sns_share_show('db'));void 0;" class="toDouban"></a>
+                        <a title="分享到QQ空间" href="javascript:eval(sns_share_show('qz'));void 0;" class="toQzone"></a> 
+                        <a title="分享到腾讯微博" href="javascript:eval(sns_share_show('qt'));void 0;" class="toTqq"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="fr">
+        <ul class="nav">
+            <li><a href="http://aletai.lotour.com/yuding/" title="阿勒泰旅游预订">预订</a></li>
+			<li><a href="http://aletai.lotour.com/news/" title="阿勒泰旅游文章">文章</a></li>
+            <li><a href="http://aletai.lotour.com/pingce/" title="阿勒泰旅游口碑">口碑</a></li>
+			<li><a href="http://aletai.lotour.com/lvyouyouji/" title="阿勒泰旅游游记">游记</a></li>
+            
+			<li><a href="http://aletai.lotour.com/jingqu/" title="阿勒泰旅游景区">景区</a></li>
+            
+			<li><a href="http://aletai.lotour.com/jianjie/" title="阿勒泰旅游必知">必知</a></li>
+			<li class="on"><a href="http://aletai.lotour.com/" title="阿勒泰旅游主页">主页</a></li>
+        </ul>
+    </div>
+</div>
+<div class="map-box ">
+    <a class="map-x" href="#" title="关闭"></a>
+    <div class="map-con" id="J_miniMap"></div>
+</div>
+<div class="bd-video-m">
+    <script type="text/javascript" src="http://js.lotour.com/zhuanti/bijie/ckplayer/ckplayer.js"></script>
+    <div id="JWPlayer">
+    </div>
+    <script type="text/javascript">
+        var flashvars = {
+            f: 'http://video.lotour.com/20160822/aletai.flv',
+            c: '1',
+            e: '2',
+            v: '80',
+            p: '0',
+            h: '0',
+            q: '',
+            m: '',
+            o: '',
+            w: '',
+            g: '',
+            j: '',
+            i: 'http://img1.lotour.net/zhuanti/alt/alt.jpg',
+            wh: '',
+            my_url: encodeURIComponent(window.location.href)
+
+        };
+        var params = { bgcolor: '#FFF', allowFullScreen: true, allowScriptAccess: 'always' };
+        var video = ['http://video.lotour.com/20160822/aletai.mp4->video/mp4', 'http://video.lotour.com/20160822/aletai.webm', 'http://video.lotour.com/20160822/aletai.ogg->video/ogg'];
+        CKobject.embed('http://js.lotour.com/zhuanti/nmg/ckplayer/ckplayer.swf', 'JWPlayer', 'ckplayer_a1', '100%', '100%', false, flashvars, video, params);
+    </script>
+</div>
+<div class="bd-content-title clearfix"></div>
+<div class="s_drop">
+    <a href="#st" ><img src="http://img1.lotour.net/zhuanti/alt/st1_14.png" alt=""/></a>
+    <a href="#wh" ><img src="http://img1.lotour.net/zhuanti/alt/h_17.png" alt=""/></a>
+    <a href="#bx1" ><img src="http://img1.lotour.net/zhuanti/alt/h_11.png" alt=""/></a>
+    <a href="#kj" ><img src="http://img1.lotour.net/zhuanti/alt/st_20.png" alt=""/></a>
+</div>
+
+<div class="bd-main-s clearfix" id="st" name="st" style="position: relative;margin-top:-18px;height: auto;">
+    <div class="shengt-title">    <img src="http://img1.lotour.net/pz/2016/0808/2016080820254728754903.jpg" alt=""/></div>
+    <div class="sheng-right">
+    
+    <a href="http://www.lotour.com/zhengwen/1/lg-pp-18448.shtml" title="惊艳世界的雅丹地貌，阿勒泰就有四处" target="_blank">
+        <p class="info">
+            <span>惊艳世界的雅丹地貌，阿勒泰就有四处</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="18448"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0811/20160811163430556de.jpg" alt="惊艳世界的雅丹地貌，阿勒泰就有四处"/>
+    </a>      
+    
+    <a href="http://www.lotour.com/zhengwen/1/lg-pp-18308.shtml" title="吉拉大峡谷 用五花肉砌成的万里长城" target="_blank">
+        <p class="info">
+            <span>吉拉大峡谷 用五花肉砌成的万里长城</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="18308"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0809/2016080919315906718.jpg" alt="吉拉大峡谷 用五花肉砌成的万里长城"/>
+    </a>      
+    
+    <a href="http://www.lotour.com/zhengwen/1/lg-pp-17969.shtml" title="好想和你谈一场恋爱 在白哈巴的黄昏下" target="_blank">
+        <p class="info">
+            <span>好想和你谈一场恋爱 在白哈巴的黄昏下</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="17969"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0804/20160804173545540df.jpg" alt="好想和你谈一场恋爱 在白哈巴的黄昏下"/>
+    </a>      
+    
+    <div class="st_b">
+    
+    <a href="http://www.lotour.com/zhengwen/1/lg-pp-19963.shtml" title="去神钟山感受无处不在的爱情氛围" target="_blank">
+        <p class="info">
+            <span>去神钟山感受无处不在的爱情氛围</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="19963"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0831/20160831171330014c4.jpg" alt="去神钟山感受无处不在的爱情氛围"/>
+    </a>      
+    
+    <a href="http://www.lotour.com/zhengwen/1/lg-pp-17417.shtml" title="神奇五彩滩 难忘好风光" target="_blank">
+        <p class="info">
+            <span>神奇五彩滩 难忘好风光</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="17417"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0728/20160728174017188ca.jpg" alt="神奇五彩滩 难忘好风光"/>
+    </a>      
+    
+    <a href="http://www.lotour.com/zhengwen/1/lg-pp-18375.shtml" title="陪你一起去看阿贡盖提大草原" target="_blank">
+        <p class="info">
+            <span>陪你一起去看阿贡盖提大草原</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="18375"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0810/2016081017492823fbb.jpg" alt="陪你一起去看阿贡盖提大草原"/>
+    </a>      
+    
+    <a href="http://www.lotour.com/zhengwen/1/lg-pp-17855.shtml" title="喀纳斯湖 一个把我迷得团团转的地方" target="_blank">
+        <p class="info">
+            <span>喀纳斯湖 一个把我迷得团团转的地方</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="17855"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0803/2016080318054193c96.jpg" alt="喀纳斯湖 一个把我迷得团团转的地方"/>
+    </a>      
+    
+    <a href="http://www.lotour.com/zhengwen/1/lg-pp-17505.shtml" title="那一天，我差点迷失在乌伦古湖" target="_blank">
+        <p class="info">
+            <span>那一天，我差点迷失在乌伦古湖</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="17505"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0729/2016072917191881947.jpg" alt="那一天，我差点迷失在乌伦古湖"/>
+    </a>      
+    
+    <a href="http://www.lotour.com/zhengwen/1/lg-pp-18465.shtml" title="这三道湾——吸引了全世界的眼球" target="_blank">
+        <p class="info">
+            <span>这三道湾——吸引了全世界的眼球</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="18465"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0811/20160811190238169b2.jpg" alt="这三道湾——吸引了全世界的眼球"/>
+    </a>      
+    
+    <a href="http://www.lotour.com/zhengwen/1/lg-pp-17510.shtml" title="从小黑湖到大黑湖，从夏天到冬天" target="_blank">
+        <p class="info">
+            <span>从小黑湖到大黑湖，从夏天到冬天</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="17510"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0729/2016072917574915101.jpg" alt="从小黑湖到大黑湖，从夏天到冬天"/>
+    </a>      
+    
+    <a href="http://www.lotour.com/zhengwen/1/lg-pp-18437.shtml" title="假如我是云海晨雾，我也会缠上禾木" target="_blank">
+        <p class="info">
+            <span>假如我是云海晨雾，我也会缠上禾木</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="18437"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0811/2016081113474284a16.jpg" alt="假如我是云海晨雾，我也会缠上禾木"/>
+    </a>      
+    
+    <a href="http://www.lotour.com/zhengwen/1/lg-pp-18382.shtml" title="海上魔鬼城 一个让你激动掉泪的地方" target="_blank">
+        <p class="info">
+            <span>海上魔鬼城 一个让你激动掉泪的地方</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="18382"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0810/201608101926462060c.jpg" alt="海上魔鬼城 一个让你激动掉泪的地方"/>
+    </a>      
+    
+    <a href="http://www.lotour.com/zhengwen/1/lg-pp-18466.shtml" title="夏天来阿勒泰看向日葵花海" target="_blank">
+        <p class="info">
+            <span>夏天来阿勒泰看向日葵花海</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="18466"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0811/2016081119154509cae.jpg" alt="夏天来阿勒泰看向日葵花海"/>
+    </a>      
+    
+    <a href="http://www.lotour.com/zhengwen/1/lg-pp-18381.shtml" title="带你看尽阿勒泰最美夕阳" target="_blank">
+        <p class="info">
+            <span>带你看尽阿勒泰最美夕阳</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="18381"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0901/2016090110090537f56.jpg" alt="带你看尽阿勒泰最美夕阳"/>
+    </a>      
+    
+    <a href="http://www.lotour.com/zhengwen/1/lg-pp-18443.shtml" title="等一个人 在禾木的余晖中" target="_blank">
+        <p class="info">
+            <span>等一个人 在禾木的余晖中</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="18443"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0811/2016081116014505a88.jpg" alt="等一个人 在禾木的余晖中"/>
+    </a>      
+    
+    <a href="http://www.lotour.com/zhengwen/1/lg-pp-18461.shtml" title="西北最大的天然白桦林" target="_blank">
+        <p class="info">
+            <span>西北最大的天然白桦林</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="18461"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0811/2016081118452286753.jpg" alt="西北最大的天然白桦林"/>
+    </a>      
+    
+    <a href="http://www.lotour.com/zhengwen/1/lg-pp-18384.shtml" title="五彩城 大漠里的梦幻古堡" target="_blank">
+        <p class="info">
+            <span>五彩城 大漠里的梦幻古堡</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="18384"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0810/20160810201636818fc.jpg" alt="五彩城 大漠里的梦幻古堡"/>
+    </a>      
+    
+    <a href="http://www.lotour.com/zhengwen/1/lg-pp-18450.shtml" title="去大小东沟清凉一夏" target="_blank">
+        <p class="info">
+            <span>去大小东沟清凉一夏</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="18450"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0811/2016081117063869341.jpg" alt="去大小东沟清凉一夏"/>
+    </a>      
+    
+    <a href="http://www.lotour.com/zhengwen/1/lg-pp-19954.shtml" title="不去阿勒泰 怎知草原有多美" target="_blank">
+        <p class="info">
+            <span>不去阿勒泰 怎知草原有多美</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="19954"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0831/2016083116053768d28.jpg" alt="不去阿勒泰 怎知草原有多美"/>
+    </a>      
+    
+    <a href="http://www.lotour.com/zhengwen/1/lg-pp-19958.shtml" title="厌倦了浪迹天涯 想和你相伴在喀纳斯湖" target="_blank">
+        <p class="info">
+            <span>厌倦了浪迹天涯 想和你相伴在喀纳斯湖</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="19958"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0831/201608311643532973d.jpg" alt="厌倦了浪迹天涯 想和你相伴在喀纳斯湖"/>
+    </a>      
+    
+    </div>
+    </div>
+</div>
+
+<div class="bd-main-s clearfix" id="wh" name="wh">
+    <div class="culture_t">    <div class="culture_bg">       <img src="http://img1.lotour.net/pz/2016/0810/2016081019295591899616.jpg" alt="文化" title="文化"/>    </div></div>
+    <div class="culture_r">
+        <div class="crt">
+        
+         <a href="http://www.lotour.com/zhengwen/1/lg-pp-18115.shtml" title="转场：流动千年的游牧风景" target="_blank">
+        <p class="info">
+            <span>转场：流动千年的游牧风景</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="18115"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0806/2016080623563541ee2.jpg" alt="转场：流动千年的游牧风景"/>
+    </a>       
+        
+         <a href="http://www.lotour.com/zhengwen/1/lg-pp-18383.shtml" title="草原石城：草原上的奇石博物馆" target="_blank">
+        <p class="info">
+            <span>草原石城：草原上的奇石博物馆</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="18383"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0810/2016081020022273127.jpg" alt="草原石城：草原上的奇石博物馆"/>
+    </a>       
+        
+        </div>
+        <div class="crb">
+         
+         <a href="http://www.lotour.com/zhengwen/1/lg-pp-19617.shtml" title="走进可可托海 忆往昔峥嵘岁月" target="_blank">
+        <p class="info">
+            <span>走进可可托海 忆往昔峥嵘岁月</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="19617"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0826/2016082617121335e42.jpg" alt="走进可可托海 忆往昔峥嵘岁月"/>
+    </a>       
+        
+         <a href="http://www.lotour.com/zhengwen/1/lg-pp-18040.shtml" title="喝了戈宝麻茶 助你好睡眠" target="_blank">
+        <p class="info">
+            <span>喝了戈宝麻茶 助你好睡眠</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="18040"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0805/20160805170515996cd.jpg" alt="喝了戈宝麻茶 助你好睡眠"/>
+    </a>       
+        
+         <a href="http://www.lotour.com/zhengwen/1/lg-pp-18309.shtml" title="三道海子 遥远的神秀之地" target="_blank">
+        <p class="info">
+            <span>三道海子 遥远的神秀之地</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="18309"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0809/20160809200043927b3.jpg" alt="三道海子 遥远的神秀之地"/>
+    </a>       
+        
+         <a href="http://www.lotour.com/zhengwen/1/lg-pp-18046.shtml" title="三问哈萨克族：吃什么？穿什么？住什么" target="_blank">
+        <p class="info">
+            <span>三问哈萨克族：吃什么？穿什么？住什么</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="18046"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0805/20160805174326144b4.jpg" alt="三问哈萨克族：吃什么？穿什么？住什么"/>
+    </a>       
+        
+         <a href="http://www.lotour.com/zhengwen/1/lg-pp-18111.shtml" title="图瓦家访 来自深山密林的洗心之旅" target="_blank">
+        <p class="info">
+            <span>图瓦家访 来自深山密林的洗心之旅</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="18111"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0806/20160806233442496b6.jpg" alt="图瓦家访 来自深山密林的洗心之旅"/>
+    </a>       
+        
+         <a href="http://www.lotour.com/zhengwen/1/lg-pp-19618.shtml" title="在可可托海地质陈列馆触摸苦难与辉煌" target="_blank">
+        <p class="info">
+            <span>在可可托海地质陈列馆触摸苦难与辉煌</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="19618"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0826/2016082617304830810.jpg" alt="在可可托海地质陈列馆触摸苦难与辉煌"/>
+    </a>       
+        
+         <a href="http://www.lotour.com/zhengwen/1/lg-pp-18178.shtml" title="哈萨克族的马背狂欢 怎么狂都不为过" target="_blank">
+        <p class="info">
+            <span>哈萨克族的马背狂欢 怎么狂都不为过</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="18178"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0808/20160808093243918ee.jpg" alt="哈萨克族的马背狂欢 怎么狂都不为过"/>
+    </a>       
+        
+         <a href="http://www.lotour.com/zhengwen/1/lg-pp-18380.shtml" title="阿山鹿王文化苑 周末休闲购物好去处" target="_blank">
+        <p class="info">
+            <span>阿山鹿王文化苑 周末休闲购物好去处</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="18380"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0810/2016081018512975614.jpg" alt="阿山鹿王文化苑 周末休闲购物好去处"/>
+    </a>       
+        
+        </div>
+    </div>
+</div>
+
+<div class="bd-main clearfix" id="bx" name="bx">
+   <div class="ice_r" id="bx1">        <img src="http://img1.lotour.net/pz/2016/0810/2016081019311247348947.jpg" alt="冰雪" title="冰雪"/></div>
+   <div class="ice_l icel">
+       <div class="icel_long">
+       
+         <a href="http://www.lotour.com/zhengwen/1/lg-pp-17411.shtml" title="阿勒泰—人类滑雪最早起源地" target="_blank">
+        <p class="info">
+            <span>阿勒泰—人类滑雪最早起源地</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="17411"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0728/2016072816381288238.jpg" alt="阿勒泰—人类滑雪最早起源地"/>
+    </a>      
+       
+       </div>
+       <div class="icelb">
+       
+         <div class="row1">
+             <div class="longer">
+                    <a href="http://www.lotour.com/zhengwen/1/lg-pp-17202.shtml" title="梦幻童话世界 冬季的禾木" target="_blank">
+        <p class="info">
+            <span>梦幻童话世界 冬季的禾木</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="17202"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0726/2016072611405638e97.jpg" alt="梦幻童话世界 冬季的禾木"/>
+    </a>      
+                </div>
+             
+             <div class="shorter">
+                    <a href="http://www.lotour.com/zhengwen/1/lg-pp-17089.shtml" title="雪地的亲密接触 贴地翱翔" target="_blank">
+        <p class="info">
+            <span>雪地的亲密接触 贴地翱翔</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="17089"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0725/2016072510340247de0.jpg" alt="雪地的亲密接触 贴地翱翔"/>
+    </a>      
+                </div>
+         </div>    
+       
+         <div class="row2">
+             <div class="longer">
+                    <a href="http://www.lotour.com/zhengwen/1/lg-pp-16908.shtml" title="童话世界 人间净土喀纳斯" target="_blank">
+        <p class="info">
+            <span>童话世界 人间净土喀纳斯</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="16908"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0722/2016072216244112401.jpg" alt="童话世界 人间净土喀纳斯"/>
+    </a>      
+                </div>
+             
+             <div class="shorter">
+                    <a href="http://www.lotour.com/zhengwen/1/lg-pp-16815.shtml" title="冰雪世界的奇妙收获" target="_blank">
+        <p class="info">
+            <span>冰雪世界的奇妙收获</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="16815"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0721/2016072117124008173.jpg" alt="冰雪世界的奇妙收获"/>
+    </a>      
+                </div>
+         </div>    
+       
+       </div>
+   </div>
+</div>
+
+<div class="bd-main clearfix" id="kj" name="bx" >
+    <div class="ice_r">        <img src="http://img1.lotour.net/pz/2016/0810/2016081019315034207722.jpg" alt="跨境" title="跨境"/></div>
+    <div class="culture_r">
+       <div class="crt">
+       
+         <a href="http://www.lotour.com/zhengwen/1/lg-pp-19624.shtml" title="俄罗斯8日经典行程 带你重返辉煌岁月" target="_blank">
+        <p class="info">
+            <span>俄罗斯8日经典行程 带你重返辉煌岁月</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="19624"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0826/201608261753488226f.jpg" alt="俄罗斯8日经典行程 带你重返辉煌岁月"/>
+    </a>      
+       
+         <a href="http://www.lotour.com/zhengwen/1/lg-pp-17323.shtml" title="白沙湖——边境上的奇观 沙漠里的眼睛" target="_blank">
+        <p class="info">
+            <span>白沙湖——边境上的奇观 沙漠里的眼睛</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="17323"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0727/2016072717135582886.jpg" alt="白沙湖——边境上的奇观 沙漠里的眼睛"/>
+    </a>      
+       
+       </div>
+       <div class="crb">
+       
+        <a href="http://www.lotour.com/zhengwen/1/lg-pp-18021.shtml" title="中哈边界大峡谷 边境上的风景画" target="_blank">
+        <p class="info">
+            <span>中哈边界大峡谷 边境上的风景画</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="18021"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0805/2016080512473425cd0.jpg" alt="中哈边界大峡谷 边境上的风景画"/>
+    </a>      
+       
+        <a href="http://www.lotour.com/zhengwen/1/lg-pp-17839.shtml" title="给我八天时间 送你真实的哈萨克斯坦" target="_blank">
+        <p class="info">
+            <span>给我八天时间 送你真实的哈萨克斯坦</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="17839"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0803/20160803165209914e4.jpg" alt="给我八天时间 送你真实的哈萨克斯坦"/>
+    </a>      
+       
+        <a href="http://www.lotour.com/zhengwen/1/lg-pp-19956.shtml" title="去塔克什肯口岸把“蒙古”带回家" target="_blank">
+        <p class="info">
+            <span>去塔克什肯口岸把“蒙古”带回家</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="19956"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0831/2016083116214984651.jpg" alt="去塔克什肯口岸把“蒙古”带回家"/>
+    </a>      
+       
+        <a href="http://www.lotour.com/zhengwen/1/lg-pp-17820.shtml" title="环阿尔泰山大旅行--自驾中俄哈蒙四国" target="_blank">
+        <p class="info">
+            <span>环阿尔泰山大旅行--自驾中俄哈蒙四国</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="17820"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0803/2016080312261324e8b.jpg" alt="环阿尔泰山大旅行--自驾中俄哈蒙四国"/>
+    </a>      
+       
+        <a href="http://www.lotour.com/zhengwen/1/lg-pp-19946.shtml" title="一山连四国 带你游遍环阿尔泰山的四国" target="_blank">
+        <p class="info">
+            <span>一山连四国 带你游遍环阿尔泰山的四国</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="19946"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0831/20160831153435062b8.jpg" alt="一山连四国 带你游遍环阿尔泰山的四国"/>
+    </a>      
+       
+        <a href="http://www.lotour.com/zhengwen/1/lg-pp-19615.shtml" title="鸣沙山日出 最喜金光照耀下的细腻柔软" target="_blank">
+        <p class="info">
+            <span>鸣沙山日出 最喜金光照耀下的细腻柔软</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="19615"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0826/2016082616432211f68.jpg" alt="鸣沙山日出 最喜金光照耀下的细腻柔软"/>
+    </a>      
+       
+        <a href="http://www.lotour.com/zhengwen/1/lg-pp-19939.shtml" title="自驾进蒙古 揭秘蒙古不为人知的美" target="_blank">
+        <p class="info">
+            <span>自驾进蒙古 揭秘蒙古不为人知的美</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="19939"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0831/2016083115061657313.jpg" alt="自驾进蒙古 揭秘蒙古不为人知的美"/>
+    </a>      
+       
+        <a href="http://www.lotour.com/zhengwen/1/lg-pp-18457.shtml" title="西北第一村的清晨静悄悄" target="_blank">
+        <p class="info">
+            <span>西北第一村的清晨静悄悄</span>
+        </p>
+        <span class="saw"><img src="http://img1.lotour.net/bdv3/seen.png"><em deffer="18457"></em></span>
+        <img src="http://img1.lotour.net/mudidiplay/2016/0811/2016081118263994859.jpg" alt="西北第一村的清晨静悄悄"/>
+    </a>      
+       
+       </div>
+   </div>
+</div>
+
+<script type="text/javascript" src="http://js.lotour.net/zhuanti/alt/packery.pkgd.min.js"></script>
+<script type="text/javascript" src="http://js.lotour.net/map.js" charset="utf-8"></script> 
+<script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js" type="text/javascript"></script>
+<script type="text/javascript">
+    function RegionBrowse(regionid) {
+        this.regionid = regionid;
+    }
+    RegionBrowse.prototype = {
+        updateBrowse: function () {
+            if (this.regionid > 0) {
+                $.ajax({
+                    cache: false,
+                    type: "GET",
+                    dataType: 'jsonp',
+                    jsonp: 'callback',
+                    url: "http://my.lotour.com/i/common/UpdateRegionBrowse/",
+                    data: {
+                        regionId: this.regionid
+                    },
+                    success: function (data) {
+                        data = data.Result.Data;
+                    },
+                    error: function (xhr, textStatus, errorThrown) { }
+                });
+            }
+        }
+    }
+    function updateBrowse() {
+        var regionObj = new RegionBrowse(986);
+        regionObj.updateBrowse()
+        $.getJSON("http://api.lotour.net/rss/dmspageview.ashx?id=986&callback=?", function (data) {
+            var span = $("div.pp-nb").find("span");
+            span.html(data.pageview);
+        });
+    }
+    $(".wap-header").find("h6").html('阿勒泰');
+    $(".wap-menu-left,.wap-menu-right").hide();
+    var mapInfo = {
+        lat: parseFloat('47.85'),
+        lng: parseFloat('88.13')
+    };
+    var miniMapBox = $('#J_miniMap'), miniMap, MiniMarker;
+
+    function initMiniMap() {
+        var latLng = new google.maps.LatLng(mapInfo.lat, mapInfo.lng);
+        var mapOptions = {
+            center: latLng,
+            zoom: 7,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+        miniMap = new google.maps.Map(miniMapBox.get(0), mapOptions);
+        var markerHtml = '<div class="map-mark"></div>';
+        new MiniMarker(miniMap, markerHtml, latLng);
+        
+
+        var marker = new google.maps.Marker({
+            position: latLng
+        });
+
+    }
+    function MarkerOverlay() {
+        var Overlay = function (map, text, latLng, ready) {
+            this.map = map;
+            this.text = text;
+            this.latLng = latLng;
+            this.ready = ready;
+            this.div = null;
+            this.setMap(this.map);
+        }
+
+        Overlay.prototype = new google.maps.OverlayView();
+
+        $.extend(Overlay.prototype, {
+            onAdd: function () {
+                var div = $('<div/>').html(this.text).css('position', 'absolute');
+                $(this.getPanes().overlayImage).append(div);
+                this.div = div;
+                if (typeof this.ready === 'function') {
+                    this.ready.call(this);
+                }
+            },
+            draw: function () {
+                var latLng = this.getProjection().fromLatLngToDivPixel(this.latLng);
+                this.div.css({
+                    'left': latLng.x - this.div.width() / 2,
+                    'bottom': -latLng.y
+                });
+            },
+            onRemove: function () {
+                this.div.remove();
+                this.div = null;
+            }
+        });
+        return Overlay;
+    }
+    function sns_share_show(from) {
+        var contentpic = "http://img1.lotour.net/mudidiplay/2016/0822/20160822101044858ed.jpg";
+        ShareCount(from);
+        if (from == 'wb') {
+            var pop_url = 'http://service.weibo.com/share/share.php?appkey=2861886718&title=' + encodeURIComponent(title + "@乐途旅游网官方微博") + '&url=' + encodeURIComponent(link) + "&picture_search=false&pic=" + encodeURIComponent(contentpic);
+            return "window.open('" + pop_url + "', '_blank', 'scrollbars=no,width=600,height=480,left=75,top=20,status=no,resizable=yes');";
+        } else if (from == 'qz') {
+            var pop_url = 'http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?title=' + encodeURIComponent(title + "@乐途旅游网") + '&url=' + encodeURIComponent(link) + "&summary="+encodeURIComponent('阿勒泰位于新疆北部，生态优良，有千里画廊之称。是人类滑雪起源地、国家冰雪公园，是丝绸之路经济带上正成长的世界旅游目的地。')+"&pics=" + contentpic;
+                return "window.open('" + pop_url + "', '_blank', 'scrollbars=no,width=600,height=450,left=75,top=20,status=no,resizable=yes');";
+            } else if (from == 'qt') {
+                var pop_url = 'http://share.v.t.qq.com/index.php?c=share&a=index&title=' + encodeURIComponent(title + "@乐途旅游网") + '&url=' + encodeURIComponent(link) + '&appkey=100317561&pic=' + encodeURIComponent(contentpic);
+                return "window.open('" + pop_url + "', '_blank', 'scrollbars=no,width=700,height=680,left=75,top=20,status=no,resizable=no,menubar=no,toolbar=no,scrollbars=no,location=yes');";
+            }
+            else if (from == 'db') {
+                var pop_url = 'http://www.douban.com/share/service?image=' + encodeURIComponent(contentpic.split('|')[0]) + '&amp;href=' + encodeURIComponent(link) + '?aaaa&amp;name=' + encodeURIComponent(title) + '&amp;text=';
+                return "window.open('" + pop_url + "', '_blank', 'scrollbars=no,width=700,height=680,left=75,top=20,status=no,resizable=no,menubar=no,toolbar=no,scrollbars=no,location=yes');";
+            }
+
+    }
+    function ShareCount(shareType) {
+        $.post("http://api.lotour.net/brandhome/Statistics/ShareCount",
+            { articalType: 3, articalId: 986, shareType: shareType },
+             function (data) { }, "jsonp");
+        return true;
+        }
+        var title = '千里画廊  游牧圣地',
+    desc = '阿勒泰位于新疆北部，生态优良，有千里画廊之称。是人类滑雪起源地、国家冰雪公园，是丝绸之路经济带上正成长的世界旅游目的地。',
+    link = 'http://aletai.lotour.com/',
+    imgUrl = 'http://img1.lotour.net/mudidiplay/2016/0721/2016072116204725bd3.jpg';
+    $(function () {
+        updateBrowse();
+        //地图加载
+        var mapload = new MfwMapLoad(function () {
+            if (mapInfo == undefined || !$.isPlainObject(mapInfo) || $.isEmptyObject(mapInfo)) {
+                return;
+            }
+            MiniMarker = MarkerOverlay();
+            $(".bd-nav .site").click(function () {
+                var _o = $(this).offset();
+                if($(".map-box").is(":hidden")){
+                    $(".map-box").css({"top":_o.top+40,"left":_o.left}).show();
+                    initMiniMap();
+                }
+                else{
+                    $(".map-box").hide();
+                }
+            });
+            $(".bd-r-mapbtn,#abigmap").click(function(){
+                initMaxMap();
+            });
+        }, 5000, false);
+        mapload.autoLoadMap();
+        //地图弹层
+        $(".map-x").click(function () {
+            $(".map-box").hide();
+            return false;
+        });
+        var pzids="18448,18308,17969,19963,17417,18375,17855,17505,18465,17510,18437,18382,18466,18381,18443,18461,18384,18450,19954,19958,18115,18383,19617,18040,18309,18046,18111,19618,18178,18380,17411,17202,17089,16908,16815,19624,17323,18021,17839,19956,17820,19946,19615,19939,18457";
+        $.getJSON("http://api.lotour.net/pv/SelectPvs?ids="+pzids+"&callback=?", function (data) {
+            $.each(data,function(i,val){
+                var pv=val.pageview;
+                $("em[deffer="+val.id+"]").html(pv);
+            });
+        });
+        $("span.saw").parent("a").hover(function(){
+            $(this).children('.saw').fadeIn();
+        },function(){
+            $(this).children('.saw').fadeOut();
+        })
+    });
+</script>
+<script src="http://js.lotour.net/zhuanti/alt/h.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://js.lotour.net/zhuanti/alt/feedback_v1.js"></script>
+<div class="bd-link">
+    <div class="bd-con-wrap bd-share">
+        <div class="bd-con">
+            <h2>分享这个页面</h2>
+            <p>
+                <a class="s-sina" title="分享到新浪微博" href="javascript:eval(sns_share_show('wb'));void 0;"></a>
+                <a class="s-dou" title="分享到豆瓣" href="javascript:eval(sns_share_show('db'));void 0;"></a>
+                <a class="s-qzone" title="分享到QQ空间" href="javascript:eval(sns_share_show('qz'));void 0;"></a>
+                <a class="s-tencent" title="分享到腾讯微博" href="javascript:eval(sns_share_show('qt'));void 0;"></a>
+            </p>
+        </div>
+    </div>
+    <div class="in">
+        
+
+<div class="content">
+    <h2 class="conlist-tit">— 阿勒泰旅游行政区划 —</h2>
+    <div class="conlist-con">
+    
+        <dl>
+            <dt><a href="http://aletai.lotour.com/fuhai/" title="福海">福海</a></dt>
+            <dd>
+            
+                <a href="http://aletai.lotour.com/wulunguhu/" title="乌伦古湖">乌伦古湖</a>
+          
+                <a href="http://aletai.lotour.com/buluntuohai/" title="布伦托海">布伦托海</a>
+          
+                <a href="http://aletai.lotour.com/tachenghudieg/" title="蝴蝶沟">蝴蝶沟</a>
+          
+                <a href="http://aletai.lotour.com/fuhaixianalswq/" title="阿拉善温泉">阿拉善温泉</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://aletai.lotour.com/fuyun/" title="富蕴">富蕴</a></dt>
+            <dd>
+            
+                <a href="http://aletai.lotour.com/fykeketuohai/" title="可可托海">可可托海</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://aletai.lotour.com/buerjin/" title="布尔津">布尔津</a></dt>
+            <dd>
+            
+                <a href="http://aletai.lotour.com/xjjiadengyu/" title="贾登峪森林公园">贾登峪森林公园</a>
+          
+                <a href="http://aletai.lotour.com/youyifengbc/" title="友谊峰冰川">友谊峰冰川</a>
+          
+                <a href="http://aletai.lotour.com/hemucy/" title="禾木草原">禾木草原</a>
+          
+                <a href="http://aletai.lotour.com/kenasihptwc/" title="喀纳斯湖畔图瓦村">喀纳斯湖畔图瓦村</a>
+          
+                <a href="http://aletai.lotour.com/qianhu/" title="千湖">千湖</a>
+          
+                <a href="http://aletai.lotour.com/hanasi/" title="哈纳斯">哈纳斯</a>
+          
+                <a href="http://aletai.lotour.com/wucaihean/" title="五彩河岸">五彩河岸</a>
+          
+                <a href="http://aletai.lotour.com/xlhanasihusd/" title="新疆喀纳斯湖湿地">新疆喀纳斯湖湿地</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://aletai.lotour.com/aletaishi/" title="阿勒泰市">阿勒泰市</a></dt>
+            <dd>
+            
+                <a href="http://aletai.lotour.com/baihu/" title="白湖">白湖</a>
+          
+                <a href="http://aletai.lotour.com/tachengaertais/" title="阿尔泰山">阿尔泰山</a>
+          
+                <a href="http://aletai.lotour.com/wuzhiquan/" title="五指泉">五指泉</a>
+          
+                <a href="http://aletai.lotour.com/wulumuqiylw/" title="月亮湾">月亮湾</a>
+          
+                <a href="http://aletai.lotour.com/altdaxiaodonggou/" title="大小东沟">大小东沟</a>
+          
+                <a href="http://aletai.lotour.com/altwenwubwg/" title="阿勒泰文物博物馆">阿勒泰文物博物馆</a>
+          
+                <a href="http://aletai.lotour.com/jinshanputao/" title="金山葡萄">金山葡萄</a>
+          
+                <a href="http://aletai.lotour.com/qiemuerqiekesr/" title="切木尔切克石人">切木尔切克石人</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://aletai.lotour.com/qinghexj/" title="青河">青河</a></dt>
+            <dd>
+            
+                <a href="http://aletai.lotour.com/sanhaizi/" title="三海子墓葬及鹿石">三海子墓葬及鹿石</a>
+          
+                <a href="http://aletai.lotour.com/buergenhelibhq/" title="布尔根河狸">布尔根河狸</a>
+          
+                <a href="http://aletai.lotour.com/qhtianlin/" title="天林度假村">天林度假村</a>
+          
+                <a href="http://aletai.lotour.com/qhbaihuagy/" title="白桦公园">白桦公园</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://aletai.lotour.com/habahe/" title="哈巴河">哈巴河</a></dt>
+            <dd>
+            
+                <a href="http://aletai.lotour.com/tachengbaishah/" title="白沙湖">白沙湖</a>
+          
+                <a href="http://aletai.lotour.com/xjbhbsl/" title="白哈巴森林公园">白哈巴森林公园</a>
+          
+                <a href="http://aletai.lotour.com/narenxiamuc/" title="那仁夏牧场">那仁夏牧场</a>
+          
+                <a href="http://aletai.lotour.com/habahebaizuolin/" title="哈巴河白桦林">哈巴河白桦林</a>
+          
+          </dd>
+        </dl>
+      
+    </div>
+</div>
+
+        <div class="content">
+            <div class="travel-recom">    	<h2 class="travel-t">国内游目的地推荐</h2>        <ul class="traver-c clear">        	<li><a title="" target="_blank" href="http://beijing.lotour.com/">北京</a></li><li><a title="" target="_blank" href="http://haerbin.lotour.com/">哈尔滨</a></li><li><a title="" target="_blank" href="http://dalian.lotour.com">大连</a></li><li><a title="" target="_blank" href="http://sanya.lotour.com/">三亚</a></li><li><a title="" target="_blank" href="http://lijiang.lotour.com/">丽江</a></li><li><a title="" target="_blank" href="http://nanjing.lotour.com/">南京</a></li><li><a title="" target="_blank" href="http://hangzhou.lotour.com/">杭州</a></li><li><a title="" target="_blank" href="http://chongqing.lotour.com/">重庆</a></li><li><a title="" target="_blank" href="http://chengdu.lotour.com/">成都</a></li><li><a title="" target="_blank" href="http://yangzhou.lotour.com/">扬州</a></li><li><a title="" target="_blank" href="http://shanghai.lotour.com/">上海</a></li><li><a title="" target="_blank" href="http://xiamen.lotour.com/">厦门</a></li><li><a title="" target="_blank" href="http://qinhuangdao.lotour.com/">秦皇岛</a></li><li><a title="" target="_blank" href="http://jssuzhou.lotour.com/">苏州</a></li><li><a title="" target="_blank" href="http://shangrao.lotour.com/">上饶</a></li><li><a title="" target="_blank" href="http://leshan.lotour.com/">乐山</a></li><li><a title="" target="_blank" href="http://tianjin.lotour.com/">天津</a></li><li><a title="" target="_blank" href="http://huangshan.lotour.com/">黄山</a></li><li><a title="" target="_blank" href="http://guangzhou.lotour.com/">广州</a></li><li><a title="" target="_blank" href="http://wenzhou.lotour.com/">温州</a></li><li><a title="" target="_blank" href="http://hangzhou.lotour.com/">杭州</a></li><li><a title="" target="_blank" href="http://xian.lotour.com/">西安</a></li><li><a title="" target="_blank" href="http://luoyang.lotour.com/">洛阳</a></li><li><a title="" target="_blank" href="http://chengde.lotour.com/">承德</a></li><li><a title="" target="_blank" href="http://qingdao.lotour.com/">青岛</a></li><li><a title="" target="_blank" href="http://weihai.lotour.com/">威海</a></li><li><a title="" target="_blank" href="http://jinan.lotour.com/">济南</a></li></li><li><a title="" target="_blank" href="http://taian.lotour.com/">泰安</a></li><li><a title="" target="_blank" href="http://beihai.lotour.com/">北海</a></li><li><a title="" target="_blank" href="http://changsha.lotour.com/">长沙</a></li><li><a title="" target="_blank" href="http://dalibaizu.lotour.com/">大理</a></li><li><a title="" target="_blank" href="http://guiyang.lotour.com/">贵阳</a></li><li><a title="" target="_blank" href="http://guilin.lotour.com/">桂林</a></li><li><a title="" target="_blank" href="http://haikou.lotour.com/">海口</a></li><li><a title="" target="_blank" href="http://hulunbeier.lotour.com/">呼伦贝尔</a></li><li><a title="" target="_blank" href="http://kaifeng.lotour.com/">开封</a></li><li><a title="" target="_blank" href="http://kunming.lotour.com/">昆明</a></li><li><a title="" target="_blank" href="http://lasa.lotour.com/">拉萨</a></li><li><a title="" target="_blank" href="http://mudanjiang.lotour.com/">牡丹江</a></li><li><a title="" target="_blank" href="http://ningbo.lotour.com/">宁波</a></li><li><a title="" target="_blank" href="http://qiqihaer.lotour.com/">齐齐哈尔</a></li><li><a title="" target="_blank" href="http://shaoxing.lotour.com/">绍兴</a></li><li><a title="" target="_blank" href="http://shenzhen.lotour.com/">深圳</a></li><li><a title="" target="_blank" href="http://shenyang.lotour.com/">沈阳</a></li><li><a title="" target="_blank" href="http://shijiazhuang.lotour.com/">石家庄</a></li><li><a title="" target="_blank" href="http://wulumuqi.lotour.com/">乌鲁木齐</a></li><li><a title="" target="_blank" href="http://wuxi.lotour.com/">无锡</a></li><li><a title="" target="_blank" href="http://wuhan.lotour.com/">武汉</a></li><li><a title="" target="_blank" href="http://yinchuan.lotour.com/">银川</a></li><li><a title="" target="_blank" href="http://zhuhai.lotour.com/">珠海</a></li>                   </ul>        <h2 class="travel-t">出境游目的地推荐</h2>        <ul class="traver-c clear">  <li><a title="" target="_blank" href="http://jpn.lotour.com/">日本</a></li><li><a title="" target="_blank" href="http://kor.lotour.com/">韩国</a></li><li><a title="" target="_blank" href="http://ind.lotour.com/">印度 </a></li><li><a title="" target="_blank" href="http://nep.lotour.com/">尼泊尔</a></li><li><a title="" target="_blank" href="http://tha.lotour.com/">泰国 </a></li><li><a title="" target="_blank" href="http://cam.lotour.com/">柬埔寨</a></li><li><a title="" target="_blank" href="http://gbr.lotour.com/">英国 </a></li><li><a title="" target="_blank" href="http://fra.lotour.com/">法国</a></li><li><a title="" target="_blank" href="http://tur.lotour.com/">土耳其</a></li><li><a title="" target="_blank" href="http://aus.lotour.com/">澳大利亚</a></li><li><a title="" target="_blank" href="http://nzl.lotour.com/">新西兰</a></li><li><a title="" target="_blank" href="http://ken.lotour.com/">肯尼亚</a></li><li><a title="" target="_blank" href="http://egy.lotour.com/">埃及</a></li><li><a title="" target="_blank" href="http://usa.lotour.com/">美国 </a></li> <li><a title="" target="_blank" href="http://mya.lotour.com/">缅甸</a></li><li><a title="" target="_blank" href="http://fin.lotour.com/">芬兰</a></li><li><a title="" target="_blank" href="http://swe.lotour.com/">瑞典</a></li><li><a title="" target="_blank" href="http://mri.lotour.com/">毛里求斯</a></li> </ul>    </div>
+
+        </div>
+        <div class="content">
+        <!--#include virtual="/share/commonfrag/frag_651.inc" -->
+        </div>
+         
+    </div>
+</div>
+
+    <footer style="height:auto">
+  <div class="footer clearfix"> <a href="http://www.lotour.com/" target="_blank" onclick="return FocusCount('logo','02');"><img src="http://img1.lotour.net/index/logo_ft.png" class="logo-ft" /></a>
+    <p><a href="http://www.miibeian.gov.cn" target="_blank" title="" onclick="return FocusCount('beian','');">京ICP备12008860号-1</a>  <a href="http://corp.lotour.com/licence_gd.shtml" target="_blank" title="" onclick="return FocusCount('beian','');">广电节目制作许可证：1313号</a>  <a style="display:inline-block;text-decoration:none;height:20px;line-height:20px;" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502001653" target="_blank"><img style="float:left;margin-right:2px" src="http://img1.lotour.net/ghs.png">京公网安备 11010502001653号</a><br/>
+      Copyright &copy; 2005 - 2016 <a href="http://www.lotour.com/" target="_blank" onclick="return FocusCount('beian','');">Lotour.com</a> All Rights Reserved. <a href="http://www.lotour.com/" target="_blank" title="乐途旅游网" onclick="return FocusCount('beian','');">乐途旅游网</a> 版权所有</p>
+<p class="wap"><img src="http://img1.lotour.net/index/bt.jpg"><img src="http://img1.lotour.net/home/vcode1-1.jpg" class="wap-wechat"></p>
+    <a target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202008020400006" class="pls" onclick="return FocusCount('beian','');"></a>
+    <a target="_blank" class="plc" href="http://about.58.com/fqz/index.html?utm_source=market&amp;spm=b-31580022738699-pe-f-829.hao360_101&amp;qq-pf-to=pcqq.group"><img src="http://img1.lotour.com/home/plc.png"></a>
+ </div>
+</footer>
+<script type="text/javascript" src="http://js.lotour.net/analytics/statsv2.js" defer charset="UTF-8"></script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-39387460-1']);
+    _gaq.push(['_setDomainName', 'lotour.com']);
+    _gaq.push(['_addOrganic', 'baidu', 'word']);
+    _gaq.push(['_addOrganic', 'soso', 'w']);
+    _gaq.push(['_addOrganic', '3721', 'name']);
+    _gaq.push(['_addOrganic', 'yodao', 'q']);
+    _gaq.push(['_addOrganic', 'vnet', 'kw']);
+    _gaq.push(['_addOrganic', 'sogou', 'query']);
+    _gaq.push(['_addOrganic', '360', 'q']);
+    _gaq.push(['_addOrganic', 'so', 'q']);
+    var full_url = location.pathname + location.search + location.hash;
+    _gaq.push(['_trackPageview', full_url]);
+    _gaq.push(['_trackPageLoadTime']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F317768ad40e6ddbe20f10e89b4712c35' type='text/javascript'%3E%3C/script%3E"));
+
+
+</script>
+
+    <script type="text/javascript" src="http://js.lotour.net/feedback_v1.js"></script>
+</body>
+</html>

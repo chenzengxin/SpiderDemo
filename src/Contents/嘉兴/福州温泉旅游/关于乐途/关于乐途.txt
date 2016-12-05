@@ -1,0 +1,191 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="媒体分析 广告形式 招商合作 诚信会员 友情链接 法律顾问 招贤纳仕 成功案例 乐途历程 乐途地图 联系我们">
+<meta name="description" content="乐途旅游网的乐途简介是对网站的整体性介绍，让网友更详细的了解乐途旅游网的整体框架和信息内容">
+<title>乐途简介_乐途旅游网</title>
+<link rel="shortcut icon" href="http://www.lotour.com/favicon2.ico" />
+<link rel="stylesheet" type="text/css" href="http://css.lotour.net/ltAbout.css" media="all" />
+<script type="text/javascript" src="http://js.lotour.net/jquery-1.8.3.min.js"></script>
+<!--[if IE 6]>
+<script src="http://js.lotour.net/login/DD_belatedPNG.js"></script>
+<script>
+	DD_belatedPNG.fix(".aboutNav li a")
+</script>
+<![endif]-->
+</head>
+
+<body>
+<div class="aboutTop">
+	<!--=S 公共新顶 -->
+	<div class="ltTopFix">
+		<link rel="stylesheet" type="text/css" href="http://css.lotour.net/lt_top.css" />
+		<div class="ltSection ltClear">
+		  <div class="ltLogo"><a target="_blank" href="http://www.lotour.com/"><img src="http://img1.lotour.net/article/ltlogo_fix.png" width="131" height="34" alt="乐途旅游网" /></a></div>
+		  <div class="ltTopNav">
+			<ul class="clear">
+				<li><h2><a href="http://www.lotour.com/" target="_blank" title="">首页</a></h2></li>
+				<li><h2><a href="http://www.lotour.com/mudidi/" target="_blank" title="">目的地</a></h2></li>
+				<li class="topSubNav">
+					<div class="topSubNavTit">
+						<h2><a href="javascript:void(0)">发现</a></h2>
+						<dl>
+							<dd><a href="http://www.lotour.com/zhoubianyou/" target="_blank" title="">周边游</a></dd>
+							<dd><a href="http://www.lotour.com/guoneiyou/" target="_blank" title="">国内游</a></dd>
+							<dd><a href="http://www.lotour.com/chujingyou/" target="_blank" title="">出境游</a></dd>
+						</dl>
+					</div>
+				</li>
+				<li class="topSubNav">
+					<div class="topSubNavTit">
+						<h2><a href="javascript:void(0)">社区</a></h2>
+						<dl>
+							<dd><a href="http://my.lotour.com/" target="_blank" title="">部 落</a></dd>
+							<dd><a href="http://bbs.lotour.com/" target="_blank" title="">论 坛</a></dd>
+							<dd><a href="http://www.lotour.com/zijiayou/" target="_blank" title="">自 驾</a></dd>
+							<dd><a href="http://www.lotour.com/zhuangbei/" target="_blank" title="">装 备</a></dd>
+						</dl>
+					</div>
+				</li>
+				<li class="topSubNav">
+					<div class="topSubNavTit">
+						<h2><a href="javascript:void(0)">预定</a></h2>
+						<dl>
+							<dd><a href="http://www.lotour.com/hotel/" target="_blank" title="">客栈酒店</a></dd>
+							<dd><a href="http://www.lotour.com/dijiexianlu/" target="_blank" title="">当地跟团</a></dd>
+							<dd><a href="http://www.lotour.com/dujiaxianlu/beijing/" target="_blank" title="">度假线路</a></dd>
+							<dd><a href="http://d.lotour.com/jipiao/" target="_blank" title="">机票办理</a></dd>
+							<dd><a href="http://www.lotour.com/qianzheng/" target="_blank" title="">签证办理</a></dd>
+							<dd><a href="http://www.lotour.com/baoxian/" target="_blank" title="">保险办理</a></dd>
+							<dd><a href="http://www.lotour.com/zuche/" target="_blank" title="">租车服务</a></dd>
+							<dd><a href="http://www.lotour.com/huochepiao/" target="_blank" title="">订火车票</a></dd>
+						</dl>
+					</div>
+				</li>            
+			</ul>
+		  </div>
+		</div>
+	</div>
+	
+	<!--=S 搜索弹层 -->
+	<div class="city_divtc" id="Search_Synthesize_Div" style="display:none;">
+	  <div class="city_divtc_t"><a class="closex"></a><span>景观</span></div>
+	  <div class="city_divtc_m">
+		<ul>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-guji" target="_blank" title="古迹">古迹</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-shidi" target="_blank" title="湿地">湿地</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-xiagu" target="_blank" title="峡谷">峡谷</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-shamo" target="_blank" title="沙漠">沙漠</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-tesedimao" target="_blank" title="特色地貌">特色地貌</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-simiao" target="_blank" title="寺庙">寺庙</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-shuixiang" target="_blank" title="水乡">水乡</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-dongxue" target="_blank" title="洞穴">洞穴</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-yuanlin" target="_blank" title="园林">园林</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-shikebihua" target="_blank" title="石刻壁画">石刻壁画</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-gucheng" target="_blank" title="古城">古城</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-guzhen" target="_blank" title="古镇">古镇</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-senlin" target="_blank" title="森林">森林</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-caoyuan" target="_blank" title="草原">草原</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-zhutigongyuan" target="_blank" title="主题公园">主题公园</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-hongye" target="_blank" title="红叶">红叶</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-xuejing" target="_blank" title="雪景">雪景</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-xiushui" target="_blank" title="秀水">秀水</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-mingshan" target="_blank" title="名山">名山</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-haibinhaidao" target="_blank" title="海滨海岛">海滨海岛</a></li>
+		</ul>
+	  </div>
+	  <div class="city_divtc_t"><span>休闲</span></div>
+	  <div class="city_divtc_m">
+		<ul>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-minsu" target="_blank" title="民俗">民俗</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-qifu" target="_blank" title="祈福">祈福</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-gouwu" target="_blank" title="购物">购物</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-gaoerfu" target="_blank" title="高尔夫">高尔夫</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-hongselvyou" target="_blank" title="红色旅游">红色旅游</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-qianshui" target="_blank" title="潜水">潜水</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-dengshan" target="_blank" title="登山">登山</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-huaxue" target="_blank" title="滑雪">滑雪</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-chihaixian" target="_blank" title="吃海鲜">吃海鲜</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-shijingyanchu" target="_blank" title="实景演出">实景演出</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-piaoliu" target="_blank" title="漂流">漂流</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-sheying" target="_blank" title="摄影">摄影</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-wenquan" target="_blank" title="温泉">温泉</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-qinziyou" target="_blank" title="亲子游">亲子游</a></li>
+		  <li><a href="http://www.lotour.com/mudidi/shiyiyue-miyueyou" target="_blank" title="蜜月游">蜜月游</a></li>
+		</ul>
+	  </div>
+	</div>
+	<!--=E 搜索弹层 --> 
+	
+	<script type="text/javascript">
+		$(function(){	
+			$('.ltSeoInp input').click(function() {			
+				var s = $(this).offset();
+				$('.city_divtc').css({
+					top: s.top + 26,
+					left: s.left - 1
+				}).show();
+			});
+			$('.closex').click(function() {
+				$('.city_divtc').hide();
+			});
+			
+			$(".topSubNavTit").mouseenter(function() {
+				$(this).parent().addClass("hover");
+				$(this).find("dl").stop().slideDown("fast");
+				}).mouseleave(function() {
+				$(this).find("dl").stop().slideUp("fast");
+				$(this).parent().removeClass("hover");
+			});
+						
+		})
+	</script> 
+	<!--=E 公共新顶 -->
+</div>
+ 
+
+<div class="aboutCon ltClear">
+	<div class="aboutL">
+		<ul class="aboutNav">
+			<li class="cur"><a class="ab1" href="javascript:void(0)" title="">乐途介绍</a></li>
+			<li><a class="ab2" href="http://corp.lotour.com/job_2.html" title="">招贤纳士</a></li>
+			<li><a class="ab3" href="http://corp.lotour.com/adv_sev.html" title="">广告服务</a></li>
+			<!--<li><a class="ab4" href="#" target="_blank" title="">智慧旅游</a></li>-->
+			<li><a class="ab5" href="http://corp.lotour.com/lotour_honour.html" title="">网站荣誉</a></li>
+			<li><a class="ab6" href="http://corp.lotour.com/contact.html" title="">联系我们</a></li>
+			<li><a class="ab7" href="http://corp.lotour.com/parter.html" title="">合作伙伴</a></li>
+			<li><a class="ab8" href="http://corp.lotour.com/term.html" title="">服务条款</a></li>
+		</ul>
+	</div>
+	<div class="aboutR">
+		<h2 class="titH2">乐途介绍<span>About lotour</span></h2>
+		<div class="abBanner"><img src="http://img1.lotour.net/about/abbn1.jpg" width="805" height="252" alt="" /></div>		
+		<div class="txtCon">
+			<h3 class="titH3">乐途旅游网</h3>
+			<p class="indent">乐途旅游网：始创于2005年，现为中视金桥国际传媒集团旗下公司。总部设在中国北京，员工200余人。 2013年，为顺应世界旅游发展之潮流、中国旅游发展之趋势，乐途旅游网进行了战略调整与战术布局，推出拳头产品——目的地品牌互动营销系统。</p>
+			<p class="indent">作为中国领先的旅游网络媒体，乐途以独有的强大技术力量、专业的人才队伍及媒体人浓厚的人文情怀，向全国乃至世界范围内的上万个旅游目的地提供集媒体宣传、旅游营销、旅游策划、旅游培训、旅游品牌管理及旅游资讯在内的多维度服务，被誉为中国旅游界的黄埔军校！</p>
+			<p class="indent">先天下之忧而忧，后天下之乐而乐，我在乐途，你在哪儿？</p>	
+		</div>
+	</div>
+</div>
+
+<div class="aboutFoot">
+	<!--=S 公共底 -->  
+	<div class="ltFooter">
+		<div class="ltfoot clear">
+			<div class="ltfootA">
+				<a href="http://corp.lotour.com/" title="">乐途介绍</a><i>|</i><a href="http://corp.lotour.com/job_2.html" title="">招贤纳士</a><i>|</i><!--<a href="#" title="">智慧旅游</a><i>|</i>--><a href="http://corp.lotour.com/lotour_honour.html" title="">网站荣誉</a><i>|</i><a href="http://corp.lotour.com/contact.html" title="">联系我们</a><i>|</i><a href="http://corp.lotour.com/parter.html" title="">合作伙伴</a><i>|</i><a href="http://corp.lotour.com/adv_sev.html" title="">广告服务</a><i>|</i><a href="http://corp.lotour.com/adv_sev.html" title="">成功案例</a><i>|</i><a href="http://member.lotour.com/" target="_blank" title="">商家入驻</a><i>|</i><a href="http://member.lotour.com/" target="_blank" title="">商家登陆</a><i>|</i><a href="http://d.lotour.com/yudingbangzhu/" target="_blank" title="">预订帮助</a><i>|</i><a href="http://corp.lotour.com/term.html" title="">服务条款</a>
+			</div>
+			<div class="ltfootB">
+				<a class="btmLogo" href="http://www.lotour.com/" title="乐途旅游网"></a>
+				<p><a href="http://www.miibeian.gov.cn" target="_blank" title="">京ICP备12008860号-1</a>&nbsp;&nbsp;<a href="http://img.lotour.com/share/img509464.jpg" target="_blank" title="">广电节目制作许可证：1313号</a>&nbsp;&nbsp;京公网安备：11010502001653<br />
+				<span class="Arial">Copyright &copy; 2005 - 2014&nbsp;&nbsp;<a href="http://www.lotour.com/" target="_blank">Lotour.com</a>&nbsp;&nbsp;All Rights Reserved.</span>&nbsp;<a href="http://www.lotour.com/" target="_blank" title="乐途旅游网">乐途旅游网</a>&nbsp;版权所有</p>
+				<a class="btmIco" target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202008020400006"></a>
+			</div>		
+		</div>
+	</div>
+	<!--=E 公共底 -->
+</div>
+</body>
+</html>

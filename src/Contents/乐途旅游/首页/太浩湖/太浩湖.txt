@@ -1,0 +1,1266 @@
+
+
+<!DOCTYPE html>
+
+<html>
+    
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    
+    <meta name="description" content="乐途旅游网_太浩湖旅游，提供太浩湖，太浩湖旅游景点推荐，太浩湖旅游攻略，太浩湖旅游玩法，最适合去太浩湖旅游的季节，太浩湖旅游注意事项，太浩湖旅游线路，太浩湖酒店预定，太浩湖旅游地图等出行指南及旅行服务" />
+    <meta name="keywords" content="太浩湖旅游_太浩湖旅游攻略_太浩湖旅游景点" />
+    <title>太浩湖旅游_太浩湖旅游攻略_太浩湖旅游景点_乐途旅游网</title>
+    <link rel="shortcut icon" href="http://www.lotour.com/favicon2.ico" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/base.css" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/lt_top.css" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/common.css" media="all" /><link rel="stylesheet" type="text/css" href="http://css.lotour.net/brandhomeV3_3.css" />
+    <script type="text/javascript" src="http://js.lotour.net/jquery-1.8.3.min.js"></script>
+    <!--[if lt IE 9]><script type="text/javascript" src="http://js.lotour.net/PIE_IE678.js"></script><![endif]--><!--[if IE 9]><script type="text/javascript" src="http://js.lotour.net/PIE_IE9.js"></script><![endif]--><script type="text/javascript">$(function () {	if (window.PIE) { $('.flowItem,.flowPic img,.flowPingL img,.flowPing,.bd-video-con,.jq-list-l-up img,.u-head img').each(function () { PIE.attach(this); });} });</script><!--[if IE 6]><script type="text/javascript" src="http://js.lotour.net/DD_belatedPNG.js"></script><script type="text/javascript">DD_belatedPNG.fix('.logo img,.bdName,.bd-news,.bd-video-con,.bdWeather,.bd-msg,.bd-msg-xall,.lt-nav-new-bg,.bdNavWraper,.bdNav-sub dl,.map-btn,.mddNavWrap');</script><![endif]--><script type="text/javascript" src="http://js.lotour.net/zjy.js"></script>
+</head>
+
+<body class="">
+    
+<script type="text/javascript" src="http://js.lotour.net/login/searchhotellogin_v5.js"></script>
+<script src="http://js.lotour.net/mylotour/v1/mylotour_v2.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://js.lotour.net/lotour_v1.js"></script>
+<div class="lt-nav-new">
+	<a href="http://www.lotour.com/" target="_blank"><img class="logo" src="http://img1.lotour.com/bdhomeV2/new_logo.png" /></a>
+	<div class="nav-new-btn">
+    	<a href="#" class="btn"></a>
+    	<div class="nav-new-layer">
+        	<ul>
+            <li>
+            	<h5><a href="http://www.lotour.com/mudidi/" target="_blank">目的地</a></h5>
+                <div class="links">
+                    <a href="http://shangqiu.lotour.com/" target="_blank">商丘</a><a href="http://xian.lotour.com/" target="_blank">西安</a><a href="http://shannan.lotour.com/" target="_blank">西藏山南</a><a href="http://kunming.lotour.com/yunnanshilin/" target="_blank">石林</a>     <a href="http://shangrao.lotour.com/guifeng/" target="_blank">龟峰</a> <a href="http://xuchang.lotour.com/" target="_blank">许昌</a>                                                                         
+
+                </div>
+            </li>
+            <li class="sg">
+            	<h5>发&nbsp;&nbsp;&nbsp;现</h5>
+                <div class="links">
+                	<a href="http://www.lotour.com/zhoubianyou" target="_blank">周边游</a>
+                	<a href="http://www.lotour.com/guoneiyou" target="_blank">国内游</a>
+                	<a href="http://www.lotour.com/chujingyou" target="_blank">出境游</a>
+                </div>
+            </li>
+            <li class="sg">
+            	<h5>社&nbsp;&nbsp;&nbsp;区</h5>
+                <div class="links">
+                    <a href="http://www.lotour.com/daren/" target="_blank">大咖</a>
+                	<a href="http://www.lotour.com/zijiayou/" target="_blank">自驾</a>
+                    <a href="http://sc.lotour.com/" target="_blank">福利</a>
+                </div>
+            </li>
+            <li>
+            	<h5>预&nbsp;&nbsp;&nbsp;订</h5>
+                <div class="links">
+                    <a href="http://d.lotour.com/hotel/" target="_blank">酒店</a>
+                    <a href="http://d.lotour.com/jipiao/" target="_blank">机票</a>
+                	<a href="http://d.lotour.com/dangdigentuan/" target="_blank">地接</a>
+                	<a id="dujiaxianlu" href="http://d.lotour.com/dujiaxianlu/shanghai/" target="_blank">度假</a>
+                </div>
+            </li>
+            </ul>
+        </div>
+    </div>
+  <div class="ltCrumb clear"> <a href="http://www.lotour.com/" target="_blank" title="">首页</a>&nbsp;&gt;&nbsp;<a href="http://www.lotour.com/mudidi" target="_blank" title="">目的地</a>&nbsp;&gt; 
+      
+              <a href="http://usa.lotour.com/" title="" target="_blank">美国旅游</a>
+                  &gt;
+          
+              <a href="http://usa.lotour.com/neihuadazhou/" title="" target="_blank">内华达旅游</a>
+                  &gt;
+          
+              <a href="http://usa.lotour.com/carsoncity/" title="" target="_blank">卡森城旅游</a>
+                  &gt;
+          
+      <h1><a  href="http://usa.lotour.com/laketahoe/" title="">太浩湖旅游景区</a>
+              
+      </h1>
+  </div>
+  <div class="lt-nav-r">
+  	<div class="lt-nav-item lt-nav-item-srh">
+    	<b></b>
+        <div class="lt-srh-new">
+            <form action="http://ip.lotour.com/home/mudidi" method="get" target="_blank" name="zonghe">
+        	    <div class="lt-srh-l">
+                    <div class="lt-srh-new-clk">
+                        <a href="#" class="l1"><i></i><em></em></a>
+                    </div>
+                    <input type="text" value="点此搜索" name="keyword" id="keyword" class="ipt" />
+                    <input type="hidden" value="0" name="htype" id="htype" />
+                    <input type="hidden" value="" name="keys" id="keys" />
+                    <input type="submit" class="btn" id="btnzonghe" name="btnzonghe" value="" />
+                </div>               
+            </form>
+            <div class="lt-srh-new-layer">
+                <ul>
+                    <li class="l1"><a href="#"><i></i>搜目的地</a></li>
+                    <li class="l2"><a href="#"><i></i>搜达人</a></li>
+                    <li class="l3"><a href="#"><i></i>搜客栈酒店</a></li>
+                    <li class="l4"><a href="#"><i></i>搜当地跟团</a></li>
+                    <li class="l5"><a href="#"><i></i>搜度假线路</a></li>
+                </ul>
+            </div>
+            <div id="hotcityhintDiv" style="z-index: 300001;" class="inputExtendBox sphl">
+                <ul id="scity" class="suggestBox"></ul>
+            </div>
+            <div class="city_divtc" id="Search_Synthesize_Div" style="z-index: 3000006;"><div class="city_divtc_t"><a class="closex"></a><span>国内</span></div><div class="city_divtc_m"><ul><li><a href="http://shangqiu.lotour.com/" target="_blank" title=" 商丘"> 商丘</a></li><li><a href="http://xian.lotour.com/" target="_blank" title=" 西安"> 西安</a></li><li><a href="http://dandong.lotour.com/fengcheng/" target="_blank" title="凤城"> 凤城</a></li><li><a href="http://shannan.lotour.com/" target="_blank" title=" 山南"> 山南</a></li><li><a href="http://kunming.lotour.com/yunnanshilin/" target="_blank" title="石林"> 石林</a></li><li><a href="http://shangrao.lotour.com/guifeng/" target="_blank" title=" 龟峰"> 龟峰</a></li><li><a href="http://lijiang.lotour.com/" target="_blank" title="丽江">丽江</a></li><li><a href="http://zhoushan.lotour.com/" target="_blank" title="舟山">舟山</a></li><li><a href="http://huangshan.lotour.com/" target="_blank" title="黄山">黄山</a></li><li><a href="http://shaoxing.lotour.com/" target="_blank" title="绍兴">绍兴</a></li><li><a href="http://hangzhou.lotour.com/" target="_blank" title=" 杭州"> 杭州</a></li><li><a href="http://xiamen.lotour.com/" target="_blank" title=" 厦门"> 厦门</a></li><li><a href="http://jiaxing.lotour.com/wuzhenguzhen/" target="_blank" title=" 乌镇"> 乌镇</a></li><li><a href="http://qingdao.lotour.com/" target="_blank" title=" 青岛"> 青岛</a></li><li><a href="http://shanghai.lotour.com" target="_blank" title="上海">上海</a></li></ul></div><div class="city_divtc_t"><span>境外</span></div><div class="city_divtc_m"><ul><li><a href="http://tha.lotour.com/" target="_blank" title="泰国">泰国</a></li><li><a href="http://cam.lotour.com/" target="_blank" title="柬埔寨">柬埔寨</a></li><li><a href="http://tha.lotour.com/qingmai/" target="_blank" title="清迈">清迈</a></li><li><a href="http://aus.lotour.com/" target="_blank" title=" 澳大利亚"> 澳大利亚</a></li><li><a href="http://tha.lotour.com/pujifu/" target="_blank" title="普吉岛">普吉岛</a></li><li><a href="http://mas.lotour.com/shaba/" target="_blank" title="沙巴">沙巴</a></li><li><a href="http://pf.lotour.com/" target="_blank" title="大溪地">大溪地</a></li><li><a href="http://nep.lotour.com/" target="_blank" title="尼泊尔">尼泊尔</a></li><li><a href="http://fra.lotour.com/baliqu/" target="_blank" title="巴黎">巴黎</a></li><li><a href="http://taiwan.lotour.com/" target="_blank" title=" 台湾"> 台湾</a></li><li><a href="http://sri.lotour.com/" target="_blank" title=" 斯里兰卡"> 斯里兰卡</a></li><li><a href="http://gbr.lotour.com/lundun1/" target="_blank" title="伦敦">伦敦</a></li><li><a href="http://ina.lotour.com/balidao1/" target="_blank" title="巴厘岛">巴厘岛</a></li><li><a href="http://macao.lotour.com/" target="_blank" title="澳门">澳门</a></li><li><a href="http://fij.lotour.com/" target="_blank" title="斐济">斐济</a></li></ul></div></div>
+
+        </div>
+    </div>
+  	
+  	<div class="lt-login"></div>
+  </div>
+</div>
+
+<!-- 想去浮层 -->
+<div id="dream_place">
+</div>
+<!-- 求助浮层 -->
+<div id="ask_topic" class="msgLayer msgMod" style="display:none;">
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $s.loadCss("http://css.lotour.net/mylotour/v1/wantgo_new");
+        $("#dream_place").DPPanel({
+            className: "msgLayer",
+            close: function () {
+                //关闭时候执行
+                $(".layerBg").hide();
+            },
+            init: function () {
+                //初始化时候执行
+            },
+            publish: function (arr) {
+                //发布时候执行
+                try { dplaceweiboTui($("#dream_place_reseaon").val()) } catch (e) { }
+                location.reload();
+            }
+        }).hide();
+
+        $("#ask_topic").AskPanel({
+            className: "msgLayer",
+            close: function () {
+                //关闭时候执行
+                $(".layerBg").hide();
+            },
+            init: function () {
+                //初始化时候执行
+            },
+            publish: function (arr) {
+                //发布时候执行
+                $a("添加成功");
+            }
+        }).hide();
+
+        var askweibo = new PWeibo({
+            container: 'ask-weiboshare'
+        });
+        askweibo.create();
+        askweiboTui = function (txtcon) {
+            var content = "我在乐途旅游网发布了一条求助，求大家回复啊！";
+            content += "“" + txtcon + "”";
+            askweibo.send(content, function () {
+            });
+        };
+    });
+
+    
+
+    function AskHelp() {
+        $('#ask_topic').fadeIn(500).loadAskPanel(0); $('.layerBg').css('height', $(document).height()).show();
+    }
+    function WantGo() {
+        $('#dream_place').fadeIn(500).loadDPPanel('', 0, true); $('.layerBg').css('height', $(document).height()).show();
+    }
+
+    var SEARCHLEFT = -44, box;
+    if ($.cookie("CityID") == null || $.cookie("ChName") == null || $.cookie("IndexAreaName") == null) {
+        $.getScript("http://ip.lotour.com", function () {
+            $.cookie("CityID", result.regionid, { expires: 30, path: '/', domain: 'lotour.com' });
+            $.cookie("ChName", result.Chname, { expires: 30, path: '/', domain: 'lotour.com' });
+            $.cookie("IndexAreaName", result.regionname, { expires: 30, path: '/', domain: 'lotour.com' });
+            $("#dujiaxianlu").attr("href", "http://d.lotour.com/dujiaxianlu/" + $.cookie("ChName") + "/");
+        });
+    }
+    else
+        $("#dujiaxianlu").attr("href", "http://d.lotour.com/dujiaxianlu/" + $.cookie("ChName") + "/");
+
+    $('.lt-srh-new-layer li').click(function () {
+        var index = $(this).index();
+        $('.lt-srh-new-clk a').attr('class', 'l' + (index + 1));
+        if (index > 1) {
+            $("#htype").attr("value", index - 1);
+        }
+        else if (index == 1) {
+            $("#htype").attr("value", 5);
+        }
+        else {
+            $("#htype").attr("value", index);
+        }
+        $("keys").attr("value", "");
+        switch (index) {
+            case 0:
+                box = $("#keyword").searchbox({ "Left": SEARCHLEFT, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 1:
+                box = $("#keyword").searchbox({ "Flay": "xue_Daren", "Js": "", "Url": "http://my.lotour.com/DarenSearch/handler/AssociateDaren.ashx", "i": 1, "j": 5, "Top": 40, "Left": SEARCHLEFT, "tips": "" });
+                break;
+            case 2:
+                box = $("#keyword").searchbox({ "Flay": "xue_Hotel", "Js": "http://js.lotour.net/searchlayer/djmdd.js", "Url": "http://d.lotour.com/hotel/api/AssociateRegion", "i": 1, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 3:
+                box = $("#keyword").searchbox({ "Flay": "xue_Djxl_Mdd", "Js": "http://js.lotour.net/searchlayer/djmdd.js", "Url": "http://d.lotour.com/dangdigentuan/api-AssociateRegion", "i": 1, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 4:
+                box = $("#keyword").searchbox({ "Flay": "xue_OrderLine_Dest", "Js": "http://d.lotour.com/dujiaxianlu/api-AssociateCommonOsite?sSite=" + $.cookie("CityID") + "&randID=" + escape(new Date()) + "&callback=?", "Url": "http://beijing.lotour.com/dujiaxianlu/api-AssociateOSiteRegion", "i": 0, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+        }
+        $('.lt-srh-new-layer').hide()
+        return false;
+    }).eq(0).trigger("click");
+
+    var loginState = new lotourLoginState({});
+    //loginState.init();
+
+    //导航
+    $('.lt-nav-item').hover(function () {
+        $(this).find('.menu,.lt-srh-new').toggle()
+    })
+
+    $('.lt-srh-new-clk a').click(function () {
+        $('.lt-srh-new-layer').toggle();
+        return false
+    })
+    $('.lt-nav-item-srh').unbind('hover').click(function () {
+        $('.lt-srh-new').toggle();
+        //return false
+    });
+
+    $('.nav-new-btn').hover(function () {
+        $(this).find('.btn').toggleClass('btn-on');
+        $(this).find('.nav-new-layer').toggle();
+    });
+    $('.nav-new-layer li,.ltCommentList li').hover(function () {
+        $(this).toggleClass('hover');
+    });
+</script>
+<!--=S 头图 -->
+
+<div class="bdBannerWrap bdBannerChl mddBannerCh2">
+    
+    <div class="bd-main clearfix">
+		<div class="mdd-adv">
+			<script src="http://js.lotour.net/bcef/410.js" type="text/javascript"></script>
+		</div>
+		<div class="mddName clearfix">				
+			<h2><a title="太浩湖旅游" class="bdName-tit" href="http://usa.lotour.com/laketahoe/">太浩湖</a><a title="" href="javascript:void(0)" class="map-btn"></a>
+            
+			</h2>
+        
+			<div class="bdLikeNum"><span></span>人感兴趣</div>
+            
+			<div class="bdscore" id="rscore">
+				<a title="" href="http://usa.lotour.com/laketahoe/pingce/"><em></em><span>分</span></a>
+				<b></b>
+				<b></b>
+				<b></b>
+				<b></b>
+				<b></b>
+			</div>
+            
+			<div class="mdd-weather"></div>
+            									
+		</div>        
+	</div>    
+</div>
+<script type="text/javascript">
+    function SelectScour(){
+        $.getJSON("http://api.lotour.net/brandhome/Region/SelectRegionScore?regionId=216331&callback=?", function (data) {
+            var star1 = parseInt(data.Score / 2);
+            var scor = parseInt(data.Score);
+            var scor1 = parseInt((data.Score - scor) * 10);
+            $("#rscore").find("em").html(scor+"."+scor1);
+            for (var i = 0; i < star1; i++) {
+                $("#rscore>b:eq("+i+")").html("<i></i>");
+            }
+            $("#rscore>b:eq("+star1+")").html("<i style=\"width:"+parseInt((data.Score/2-star1)*100)+"%\"></i>");
+        });
+    }
+    
+    $(function () {
+        
+        SelectScour();
+        
+        var winw = $(window).width();	
+        $('.map-box').css({"margin-left":(winw-980)/2,"top":"233px","border":"1px solid #f5f5f5"});
+    });
+</script>
+
+
+<!--=S 地图弹层-->
+<div class="map-box ">
+	<a class="map-x" href="#" title="关闭"></a>		
+	<div class="map-con" id="J_miniMap">
+	</div>
+	
+</div>
+<!--=E 地图弹层-->
+<style type="text/css">
+.map-mark {
+    width: 24px;
+    height: 28px;
+    background: url(http://img1.lotour.net/lotour/biaodian-d.png) no-repeat -35px 0;
+    overflow: hidden;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 22px;
+    cursor: pointer;
+    position: relative;
+    z-index: 1008;
+}
+.map-mark.on {
+    background-position: -35px -35px;
+    z-index: 1009;
+}
+</style>
+<script type="text/javascript" src="http://js.lotour.net/map.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://js.lotour.net/jquery.tmpl.min.js"></script>
+<script type="text/javascript">
+    var mapInfo = {
+        lat: parseFloat('39.0929847'),
+        lng: parseFloat('-120.1850554')
+    };
+    var miniMapBox = $('#J_miniMap'), miniMap, MiniMarker;
+
+    function initMiniMap() {
+        var latLng = new google.maps.LatLng(mapInfo.lat, mapInfo.lng);
+        var mapOptions = {
+            center: latLng,
+            zoom: 8,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+        miniMap = new google.maps.Map(miniMapBox.get(0), mapOptions);
+        var markerHtml = '<div class="map-mark"></div>';
+        new MiniMarker(miniMap, markerHtml, latLng);
+        
+
+        var marker = new google.maps.Marker({
+            position: latLng
+        });
+
+    }
+    function MarkerOverlay() {
+        var Overlay = function (map, text, latLng, ready) {
+            this.map = map;
+            this.text = text;
+            this.latLng = latLng;
+            this.ready = ready;
+            this.div = null;
+            this.setMap(this.map);
+        }
+
+        Overlay.prototype = new google.maps.OverlayView();
+
+        $.extend(Overlay.prototype, {
+            onAdd: function () {
+                var div = $('<div/>').html(this.text).css('position', 'absolute');
+                $(this.getPanes().overlayImage).append(div);
+                this.div = div;
+                if (typeof this.ready === 'function') {
+                    this.ready.call(this);
+                }
+            },
+            draw: function () {
+                var latLng = this.getProjection().fromLatLngToDivPixel(this.latLng);
+                this.div.css({
+                    'left': latLng.x - this.div.width() / 2,
+                    'bottom': -latLng.y
+                });
+            },
+            onRemove: function () {
+                this.div.remove();
+                this.div = null;
+            }
+        });
+
+        return Overlay;
+    }
+
+    function updateBrowse() {
+        var regionObj = new RegionBrowse(216331);
+        regionObj.updateBrowse()
+        $.getJSON("http://api.lotour.net/rss/dmspageview.ashx?id=216331&callback=?", function (data) {
+            var span = $("div.bdLikeNum").find("span");
+            span.html(data.pageview);
+        });
+    }
+    
+    $(function () {
+        updateBrowse();
+        //地图加载
+        var mapload = new MfwMapLoad(function () {
+            if (mapInfo == undefined || !$.isPlainObject(mapInfo) || $.isEmptyObject(mapInfo)) {
+                return;
+            }
+            MiniMarker = MarkerOverlay();
+            $(".map-btn").click(function () {
+                if($(".map-box").is(":hidden")){
+                    if($(".tkt-btn").length>0&&!$(".tkt-layer").is(":hidden")){
+                        $(".tkt-btn").trigger("click");
+                    }
+                    $(".map-box").show();
+                    initMiniMap();
+                }
+                else{
+                    $(".map-box").hide();
+                }
+            });
+            $(".bd-r-mapbtn,#abigmap").click(function(){
+                initMaxMap();
+            });
+        }, 5000, false);
+        mapload.autoLoadMap();
+        //地图弹层
+        
+        $(".map-x").click(function () {
+            $(".map-box").hide();
+        });
+    });
+</script>
+
+    
+<div class="mddNavWrap">
+    <div class="mddNavbg">
+	    <div class="mddNav">            
+		    <ul class="clearfix">         
+			    <li class="on"><a title="太浩湖旅游必知" href="http://usa.lotour.com/laketahoe/"><span>必知</span></a></li>
+                     
+                <li class=""><a title="太浩湖旅游游记" href="http://usa.lotour.com/laketahoe/lvyouyouji/"><span>游记</span></a></li>  
+                              
+			    <li class=""><a title="太浩湖旅游口碑" href="http://usa.lotour.com/laketahoe/pingce/"><span>口碑</span></a></li>                
+			    <li class=""><a title="太浩湖旅游文章" href="http://usa.lotour.com/laketahoe/news/"><span>文章</span></a></li>                
+			    
+                <li class=""><a title="太浩湖旅游预订" href="http://usa.lotour.com/laketahoe/yuding/"><span>预订</span></a></li>
+                               	
+		    </ul>
+            <div class="bz-nav sphl">
+				    <dl class="clearfix">				
+					    <dd><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					    <dd><a href="javascript:void(0)" title="">玩法</a></dd>
+					    <dd><a href="javascript:void(0)" title="">资讯</a></dd>
+					    <dd><a href="javascript:void(0)" title="">住哪儿</a></dd>
+					    <dd><a href="javascript:void(0)" title="">包打听</a></dd>
+					    <dd><a href="javascript:void(0)" title="">如何到达</a></dd>					
+					    <dd><a href="javascript:void(0)" title="">附近城市</a></dd>
+					    <dt><a href="javascript:void(0)" title=""><span>手绘攻略</span></a></dt>
+				    </dl>
+			    </div>
+            <div class="bz-nav sphl">
+				<dl class="clearfix">
+					<dd class="nav1"><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					<dd class="nav2"><a href="javascript:void(0)" title="">旅行<br />月历</a></dd>
+					<dd class="nav3"><a href="javascript:void(0)" title="">必体验</a></dd>
+					<dd class="nav4"><a href="javascript:void(0)" title="">玩法</a></dd>
+					<dd class="nav5"><a href="javascript:void(0)" title="">抵达<br />住哪</a></dd>
+					<dd class="nav6"><a href="javascript:void(0)" title="">包打听</a></dd>
+					<dd class="nav7"><a href="javascript:void(0)" title="">周边<br />线路</a></dd>					
+				</dl>
+			</div>
+            <div class="bz-nav sphl">
+				<dl class="clearfix">
+					<dd class="nav1"><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					<dd class="nav3"><a href="javascript:void(0)" title="">必体验</a></dd>
+					<dd class="nav4"><a href="javascript:void(0)" title="">玩法</a></dd>
+					<dd class="nav5"><a href="javascript:void(0)" title="">重要<br />提示</a></dd>
+					<dd class="nav6"><a href="javascript:void(0)" title="">附近<br />景区</a></dd>
+					<dd class="nav7"><a href="javascript:void(0)" title="">城市<br />相关</a></dd>
+				</dl>
+			</div>
+	    </div>
+    </div>
+</div>
+
+    <div class="bd-main clearfix bd-main-yj">
+	<div class="bd-main-l">
+				
+<!--=S 无焦点图 -->
+<div class="mdd-jq-hot-nopic">
+	<div class="mdd-yj-tit clearfix">
+		<h2><i class="i-c6"></i><strong><a href="http://usa.lotour.com/laketahoe/jianjie/" target="_blank" title="">综述</a></strong></h2>
+	</div>
+	<p>太浩湖是位于美国加州与内华达州之间的高山湖泊，四周由山峰环抱，湖水澄净湛蓝，冬天降雪期长达&nbsp;8&nbsp;个月，路面经常积雪盈尺，但湖底异常的深，最深处达1645尺，湖水却不会结冰。它是北美最大的高山湖泊。深501米，是美国第二深的湖泊。湖泊蓄水量为150.68249立方千米，蓄水量…<a href="http://usa.lotour.com/laketahoe/jianjie/" target="_blank" title="">[详情]</a></p>
+</div>		
+<!--=E 无焦点图 -->
+
+	</div>
+	
+    <div class="bd-main-r">
+		  
+<h2 class="bd-r-tit"><a title="" target="_blank" href="http://usa.lotour.com/laketahoe/news/">鲜闻</a></h2>		
+<ul class="bd-r-hot clearfix">
+    
+        <li><em class="on">1</em><a href="http://www.lotour.com/zhengwen/2/lg-jc-26469.shtml" target="_blank" title="翡翠般的太浩湖">翡翠般的太浩湖</a></li>     
+    
+</ul>
+
+<h2 class="bd-r-tit sphl">TA们也想去</h2>		
+<ul class="bd-r-xq clearfix sphl">						
+</ul>
+<script type="text/javascript">
+    function WantList() {
+        var authors="";
+        $.getJSON("http://api.lotour.net/brandhome/MudidiTag/GetWantUser?callback=?&regionId=216331&depth=5&number=12", function (data) {
+            $.each(data,function(i,value){
+                $("<li userid=\""+value+"\"><a href=\"http://my.lotour.com/i/"+value+"/\" target=\"_blank\" title=\"\" class=\"u-head\"><img src=\"http://img.lotour.net/zip/20110411/index_mrtu.jpg\" width=\"54\" height=\"54\" alt=\"\" /></a></li>").prependTo("ul.bd-r-xq");
+                authors+=value+(i<data.length-1 ? "," : "");
+            });
+            if (authors != "") {
+                $.getJSON("http://api.lotour.net/i/Common/GetMembersMessage?memberIds=" + authors + "&callback=?", function (data) {
+                    if (data.Success) {
+                        var result = data.Result.Data;
+                        $.each(result, function (i) {
+                            var res = result[i];
+                            var _this = $("li[userid=" + res.MemberId + "]")
+                            _this.find("img").attr("src", "http://img.lotour.net/UserPhoto/" + res.Photo);
+                            _this.find("a").attr("title", res.NickName);
+                        });
+                    }
+                });
+                $("ul.bd-r-xq").removeClass("sphl").prev().removeClass("sphl");
+            }
+        });
+    }
+    $(function () {
+        WantList();
+    });
+</script>
+<h2 class="bd-r-tit sphl"><a title="" target="_blank" href="http://usa.lotour.com/laketahoe/yuding/">预订</a></h2>		
+<ul class="serTxtList clearfix sphl">
+	<li class="sphl"></li>
+	<li class="sphl"></li>
+	<li class="sphl"></li>
+</ul>
+<script type="text/javascript">
+    var newsData = {"RegionId":216331,"RegionType":0,"chName":"laketahoe","RegionName":"太浩湖"};
+    function GetDateStr(AddDayCount) {
+        var dd = new Date();
+        dd.setDate(dd.getDate() + AddDayCount); //获取AddDayCount天后的日期
+        var y = dd.getFullYear();
+        var m = dd.getMonth() + 1; //获取当前月份的日期
+        var d = dd.getDate();
+        return y + "-" + m + "-" + d;
+    }
+    function Tuijian() {
+        var stat = document.domain.split('.')[0];
+        if (newsData.RegionType != 0) {
+            $.ajax({
+                cache: false,
+                type: "GET",
+                url: "http://d.lotour.com/hotel/api/GethotelCountAndLowestPricenew",
+                dataType: "jsonp",
+                data: { "regionid": newsData.RegionId, "regiontype": newsData.RegionType, "sdate": GetDateStr(1), "edate": GetDateStr(2) },
+                success: function (data) {
+                    if (data.Count > 0) {
+                        $(".serTxtList>li:eq(0)").append("<span class=\"ser-hotel\" title=\"客栈酒店\"></span><a href=\"http://d.lotour.com/hotel/"+data.RetunUrl+"/\" target=\"_blank\">"+(newsData.RegionType==3?"周边":"")+"共" + data.Count + "家客栈酒店，<b>￥"+ data.LowestPrice + "</b>元起</a>").removeClass("sphl");
+                        $(".serTxtList").removeClass("sphl").prev().removeClass("sphl");
+                    }
+                }
+            });
+        }
+        
+        $.ajax({
+            cache: false,
+            type: "GET",
+            url: "/dujiaxianlu/api-GetLineCountAndLowestPrice_" + jQuery.cookie("ChName") + "-" + newsData.chName,
+            dataType: "jsonp",
+            success: function (data) {
+                if (data.Count > 0) {
+                    $(".serTxtList>li:eq(2)").append("<span class=\"ser-line\" title=\"度假线路\"></span><a href=\"http://d.lotour.com/dujiaxianlu/"+jQuery.cookie("ChName")+"-"+newsData.chName+"\" target=\"_blank\">"+jQuery.cookie("IndexAreaName") + "到" + newsData.RegionName + "，共" + data.Count + "条度假线路，<b>￥" + data.LowestPrice + "</b>元起</a>").removeClass("sphl");
+                    $(".serTxtList").removeClass("sphl").prev().removeClass("sphl");
+                }
+            }
+        });
+    }
+    $(function () {
+        Tuijian();
+    });
+</script>
+
+    </div>
+</div>
+<script type="text/javascript">
+    $(function () {
+        $(".jq-list-l").each(function (i) {
+            var _this = $(this), author = _this.attr("deffer"), footid = _this.attr("footid");
+            var div = $(".jq-hd[footid=" + footid + "]");
+            $.getJSON("http://my.lotour.com/i/Common/GetMemberMessage?memberId=" + author + "&callback=?", function (data) {
+                if (data.Success) {
+                    var result = data.Result.Data;
+                    _this.find("img").attr("src", "http://img.lotour.net/UserPhoto/" + result.Photo);
+                    _this.find("a").attr("title", result.NickName).eq(1).html(result.NickName);
+                    if (result.VStatus > 0) {
+                        var span = _this.find("span");
+                        span.show();
+                        if (result.VStatus == 2) {
+                            span.removeClass("ano");
+                        }
+                    }
+                }
+            });
+            $.getJSON("http://api.lotour.net/i/Services/ServerForFoot?id=" + footid + "&callback=?", function (data) {
+                div.find("span.wz-zan").html("<b></b>" + data.Result.Data.PraiseCount);
+                div.find("span.wz-collect").html("<b></b>" + data.Result.Data.TransCount);
+            });
+        });
+        $('img[original]').lazyload({
+            effect: "fadeIn"
+        });
+    });
+</script>
+
+    
+    <div class="main bdMain">
+        
+
+<div class="content">
+    <h2 class="conlist-tit">— 美国旅游行政区划 —</h2>
+    <div class="conlist-con">
+    
+        <dl>
+            <dt><a href="http://usa.lotour.com/yanhucheng/" title="盐湖城">盐湖城</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/youtazhouzhengfudalou/" title="犹他州政府大楼">犹他州政府大楼</a>
+          
+                <a href="http://usa.lotour.com/bulaisixiaguguojiagongyuan/" title="布莱斯峡谷国家公园">布莱斯峡谷国家公园</a>
+          
+                <a href="http://usa.lotour.com/dayanhu/" title="大盐湖">大盐湖</a>
+          
+                <a href="http://usa.lotour.com/momenjiaoshengdian/" title="摩门教圣殿">摩门教圣殿</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/bokeli/" title="伯克利">伯克利</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/jiazhoubokeli/" title="加州伯克利大学">加州伯克利大学</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/ankeleiqi/" title="安克雷奇">安克雷奇</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/maijinlis/" title="麦金利山">麦金利山</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/sakelamentuo/" title="萨克拉门托">萨克拉门托</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/rubicontrail/" title="卢比肯小道">卢比肯小道</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/luoli/" title="罗利">罗利</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/stfstjohnscollege/" title="圣约翰学院">圣约翰学院</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/misuli/" title="密苏里">密苏里</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/mixixibihe/" title="密西西比河">密西西比河</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/maiami/" title="迈阿密">迈阿密</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/maiamizhaozeguojiagongyuan/" title="迈阿密沼泽国家公园">迈阿密沼泽国家公园</a>
+          
+                <a href="http://usa.lotour.com/xisuodao/" title="西锁岛">西锁岛</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/botelan/" title="波特兰">波特兰</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/ptlsenlingongyuan/" title="森林公园">森林公园</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/lasiweijiasi1/" title="拉斯维加斯">拉斯维加斯</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/migaomeilxyly/" title="米高梅历险游乐园">米高梅历险游乐园</a>
+          
+                <a href="http://usa.lotour.com/hufoshuiba/" title="胡佛水坝">胡佛水坝</a>
+          
+                <a href="http://usa.lotour.com/chaoyessly/" title="潮野水上乐园">潮野水上乐园</a>
+          
+                <a href="http://usa.lotour.com/shenmiyyhtg/" title="神秘园与海豚馆">神秘园与海豚馆</a>
+          
+                <a href="http://usa.lotour.com/xianrenzhangzhiwuyuan/" title="仙人掌植物园 ">仙人掌植物园 </a>
+          
+                <a href="http://usa.lotour.com/hongshixiagu/" title="红石峡谷">红石峡谷</a>
+          
+                <a href="http://usa.lotour.com/huozhigu/" title="火焰谷">火焰谷</a>
+          
+                <a href="http://usa.lotour.com/feimengjie/" title="费蒙街">费蒙街</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/jiujinshan1/" title="旧金山">旧金山</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/jiuquhuajie1/" title="九曲花街">九曲花街</a>
+          
+                <a href="http://usa.lotour.com/xuanyawu/" title="悬崖屋">悬崖屋</a>
+          
+                <a href="http://usa.lotour.com/geleisidjt/" title="格雷斯大教堂">格雷斯大教堂</a>
+          
+                <a href="http://usa.lotour.com/funiyajuntuang/" title="加利福尼亚军团宫">加利福尼亚军团宫</a>
+          
+                <a href="http://usa.lotour.com/keyiteta/" title="科伊特塔">科伊特塔</a>
+          
+                <a href="http://usa.lotour.com/tuiyihangkongmujian/" title="退役航空母舰">退役航空母舰</a>
+          
+                <a href="http://usa.lotour.com/shuangzifeng/" title="双子峰">双子峰</a>
+          
+                <a href="http://usa.lotour.com/hongshanshuguojiagongyuan/" title="红杉树国家公园">红杉树国家公园</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/bufaluo1/" title="布法罗">布法罗</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/niyajialadpb/" title="尼亚加拉大瀑布">尼亚加拉大瀑布</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/boshidun1/" title="波士顿">波士顿</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/jsjbwg/" title="计算机博物馆">计算机博物馆</a>
+          
+                <a href="http://usa.lotour.com/boshidundaxue/" title="波士顿大学">波士顿大学</a>
+          
+                <a href="http://usa.lotour.com/hafodaxue/" title="哈佛大学 ">哈佛大学 </a>
+          
+                <a href="http://usa.lotour.com/kennidilsjz/" title="肯尼迪历史旧址">肯尼迪历史旧址</a>
+          
+                <a href="http://usa.lotour.com/boshidungy/" title="波士顿公园">波士顿公园</a>
+          
+                <a href="http://usa.lotour.com/bsdggtsg/" title="波士顿公共图书馆">波士顿公共图书馆</a>
+          
+                <a href="http://usa.lotour.com/mashengligongxueyuan/" title="麻省理工学院">麻省理工学院</a>
+          
+                <a href="http://usa.lotour.com/laobeijiaotang/" title="老北教堂">老北教堂</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/feinikesi/" title="菲尼克斯">菲尼克斯</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/balinjieyunshikeng/" title="巴林杰陨石坑">巴林杰陨石坑</a>
+          
+                <a href="http://usa.lotour.com/meiguodaxiagu/" title="美国大峡谷">美国大峡谷</a>
+          
+                <a href="http://usa.lotour.com/saiduona/" title="塞多纳">塞多纳</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/feicheng1/" title="费城">费城</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/duligong1/" title="独立宫">独立宫</a>
+          
+                <a href="http://usa.lotour.com/changmugongyuan/" title="长木公园">长木公园</a>
+          
+                <a href="http://usa.lotour.com/ziyouzhong1/" title="自由钟">自由钟</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/zhijiage/" title="芝加哥">芝加哥</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/zhijiagebwg/" title="芝加哥艺术博物馆">芝加哥艺术博物馆</a>
+          
+                <a href="http://usa.lotour.com/zjgqianxigongyuan/" title="千禧公园">千禧公园</a>
+          
+                <a href="http://usa.lotour.com/zhjgxesds/" title="西尔斯大厦">西尔斯大厦</a>
+          
+                <a href="http://usa.lotour.com/zhjgmalinacheng/" title="马利纳城">马利纳城</a>
+          
+                <a href="http://usa.lotour.com/hualiyiyingli/" title="华丽一英里">华丽一英里</a>
+          
+                <a href="http://usa.lotour.com/zhijiagedx/" title="芝加哥大学">芝加哥大学</a>
+          
+                <a href="http://usa.lotour.com/haijunmatou/" title="海军码头">海军码头</a>
+          
+                <a href="http://usa.lotour.com/zhjgmixiegenhu/" title="密歇根湖">密歇根湖</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/niuyue1/" title="纽约">纽约</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/niuyueziranlishibowuguan/" title="纽约自然历史博物馆">纽约自然历史博物馆</a>
+          
+                <a href="http://usa.lotour.com/maidixunguangchanghuayuan/" title="麦迪逊广场花园">麦迪逊广场花园</a>
+          
+                <a href="http://usa.lotour.com/niuyueshidaiguangchang/" title="纽约时代广场">纽约时代广场</a>
+          
+                <a href="http://usa.lotour.com/niuyuedushafurenlaxiangguan/" title="纽约杜莎夫人蜡像馆">纽约杜莎夫人蜡像馆</a>
+          
+                <a href="http://usa.lotour.com/huashengdungc/" title="华盛顿广场">华盛顿广场</a>
+          
+                <a href="http://usa.lotour.com/niuyuedwdd/" title="纽约第五大道">纽约第五大道</a>
+          
+                <a href="http://usa.lotour.com/manhattan/" title="曼哈顿">曼哈顿</a>
+          
+                <a href="http://usa.lotour.com/manhadunshangdongqu/" title="曼哈顿上东区">曼哈顿上东区</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/luoshanzuo/" title="洛杉矶">洛杉矶</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/swggjgy/" title="死亡谷国家公园">死亡谷国家公园</a>
+          
+                <a href="http://usa.lotour.com/siwanggu/" title="死亡谷">死亡谷</a>
+          
+                <a href="http://usa.lotour.com/dubijuyuan/" title="杜比剧院 ">杜比剧院 </a>
+          
+                <a href="http://usa.lotour.com/nanjiazhoudx/" title="南加州大学">南加州大学</a>
+          
+                <a href="http://usa.lotour.com/mengteleiwanshuizuguan/" title="蒙特雷湾水族馆">蒙特雷湾水族馆</a>
+          
+                <a href="http://usa.lotour.com/haolaiwuhqyc/" title="好莱坞环球影城">好莱坞环球影城</a>
+          
+                <a href="http://usa.lotour.com/gaidiyishuzhongxin/" title="盖蒂艺术中心">盖蒂艺术中心</a>
+          
+                <a href="http://usa.lotour.com/heshigubao/" title="赫氏古堡">赫氏古堡</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/xiyatu/" title="西雅图">西雅图</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/yuzhouzhenlwt/" title="宇宙针瞭望塔,太空针塔">宇宙针瞭望塔,太空针塔</a>
+          
+                <a href="http://usa.lotour.com/boyingongchang/" title="波音工厂">波音工厂</a>
+          
+                <a href="http://usa.lotour.com/paikeshichang/" title="派克市场">派克市场</a>
+          
+                <a href="http://usa.lotour.com/xiyatufuqiao/" title="西雅图浮桥">西雅图浮桥</a>
+          
+                <a href="http://usa.lotour.com/lianhehucw/" title="联合湖的船屋">联合湖的船屋</a>
+          
+                <a href="http://usa.lotour.com/taipingyangkxzx/" title="太平洋科学中心">太平洋科学中心</a>
+          
+                <a href="http://usa.lotour.com/taikongzhenta/" title="太空针塔">太空针塔</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/shengdiege/" title="圣迭戈">圣迭戈</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/baerbogongyuan/" title="巴尔波公园">巴尔波公园</a>
+          
+                <a href="http://usa.lotour.com/keluoladuodao/" title="克罗拉多岛">克罗拉多岛</a>
+          
+                <a href="http://usa.lotour.com/shengdiyagelaocheng/" title="圣地亚哥老城">圣地亚哥老城</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/huoshandao2/" title="火山岛">火山岛</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/maonakaiahuoshan/" title="冒纳凯阿火山">冒纳凯阿火山</a>
+          
+                <a href="http://usa.lotour.com/xiaweiyixiluo/" title="希洛">希洛</a>
+          
+                <a href="http://usa.lotour.com/jilaweiehuoshan/" title="基拉韦厄火山">基拉韦厄火山</a>
+          
+                <a href="http://usa.lotour.com/liliwukulanihuayuan/" title="莉莉乌库拉妮花园">莉莉乌库拉妮花园</a>
+          
+                <a href="http://usa.lotour.com/xiaweiyiredaizhiwuyuan/" title="夏威夷热带植物园">夏威夷热带植物园</a>
+          
+                <a href="http://usa.lotour.com/kailuyaguzhen/" title="凯路亚古镇">凯路亚古镇</a>
+          
+                <a href="http://usa.lotour.com/kahaluuhaiwan/" title="Kahaluu海湾">Kahaluu海湾</a>
+          
+                <a href="http://usa.lotour.com/xiaweiyihuoshanguojiagongyuan/" title="夏威夷火山国家公园">夏威夷火山国家公园</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/102311/" title="亚特兰大">亚特兰大</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/cnnzongbu/" title="CNN总部">CNN总部</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/tanpa/" title="坦帕">坦帕</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/shuijinghe/" title="水晶河">水晶河</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/aolanduo/" title="奥兰多">奥兰多</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/disneysanimalkingdom/" title="迪士尼动物王国">迪士尼动物王国</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/luyisiweier/" title="路易斯维尔">路易斯维尔</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/rodracketfactory/" title="路易斯维尔棒球拍制造厂">路易斯维尔棒球拍制造厂</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/huashengdun1/" title="华盛顿">华盛顿</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/baigong1/" title="白宫">白宫</a>
+          
+                <a href="http://usa.lotour.com/jiefuxunjiniantang/" title="杰弗逊纪念堂 ">杰弗逊纪念堂 </a>
+          
+                <a href="http://usa.lotour.com/wujiaodalou1/" title="五角大楼">五角大楼</a>
+          
+                <a href="http://usa.lotour.com/linkenjiniantang/" title="林肯纪念堂">林肯纪念堂</a>
+          
+                <a href="http://usa.lotour.com/huashengdunguohuidaxia/" title="华盛顿国会大厦">华盛顿国会大厦</a>
+          
+                <a href="http://usa.lotour.com/guohuitshg/" title="国会图书馆">国会图书馆</a>
+          
+                <a href="http://usa.lotour.com/huashengdunjinianbei/" title="华盛顿纪念碑">华盛顿纪念碑</a>
+          
+                <a href="http://usa.lotour.com/kennidiyishuzhongxin/" title="肯尼迪艺术中心">肯尼迪艺术中心</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/maoyidao1/" title="毛伊岛">毛伊岛</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/haleiakalaguojiagongyuan/" title="哈雷阿卡拉国家公园">哈雷阿卡拉国家公园</a>
+          
+                <a href="http://usa.lotour.com/hanagonglu/" title="哈纳公路">哈纳公路</a>
+          
+                <a href="http://usa.lotour.com/kaanapalihaitan/" title="卡阿纳帕利海滩">卡阿纳帕利海滩</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/coloradoplateau/" title="科罗拉多">科罗拉多</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/keluoladuodaxiagu/" title="科罗拉多大峡谷">科罗拉多大峡谷</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/shengtababala/" title="圣塔芭芭拉">圣塔芭芭拉</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/jiazhoudanmaicun/" title="加州丹麦村">加州丹麦村</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/guandao/" title="关岛">关岛</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/dumengwan/" title="杜梦湾">杜梦湾</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/sipulindaier/" title="斯普林戴尔">斯普林戴尔</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/xianguojiagongyuan/" title="锡安国家公园">锡安国家公园</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/kekeninuoxian/" title="科科尼诺县">科科尼诺县</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/thewave/" title="波浪谷">波浪谷</a>
+          
+                <a href="http://usa.lotour.com/peiji/" title="佩吉">佩吉</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/moabu/" title="莫阿布">莫阿布</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/gongmenguojiagongyuan/" title="拱门国家公园">拱门国家公园</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://usa.lotour.com/carsoncity/" title="卡森城">卡森城</a></dt>
+            <dd>
+            
+                <a href="http://usa.lotour.com/laketahoe/" title="太浩湖">太浩湖</a>
+          
+          </dd>
+        </dl>
+      
+    </div>
+</div>
+
+        <div class="content">
+            <div class="travel-recom">    	<h2 class="travel-t">国内游目的地推荐</h2>        <ul class="traver-c clear">        	<li><a title="" target="_blank" href="http://beijing.lotour.com/">北京</a></li><li><a title="" target="_blank" href="http://haerbin.lotour.com/">哈尔滨</a></li><li><a title="" target="_blank" href="http://dalian.lotour.com">大连</a></li><li><a title="" target="_blank" href="http://sanya.lotour.com/">三亚</a></li><li><a title="" target="_blank" href="http://lijiang.lotour.com/">丽江</a></li><li><a title="" target="_blank" href="http://nanjing.lotour.com/">南京</a></li><li><a title="" target="_blank" href="http://hangzhou.lotour.com/">杭州</a></li><li><a title="" target="_blank" href="http://chongqing.lotour.com/">重庆</a></li><li><a title="" target="_blank" href="http://chengdu.lotour.com/">成都</a></li><li><a title="" target="_blank" href="http://yangzhou.lotour.com/">扬州</a></li><li><a title="" target="_blank" href="http://shanghai.lotour.com/">上海</a></li><li><a title="" target="_blank" href="http://xiamen.lotour.com/">厦门</a></li><li><a title="" target="_blank" href="http://qinhuangdao.lotour.com/">秦皇岛</a></li><li><a title="" target="_blank" href="http://jssuzhou.lotour.com/">苏州</a></li><li><a title="" target="_blank" href="http://shangrao.lotour.com/">上饶</a></li><li><a title="" target="_blank" href="http://leshan.lotour.com/">乐山</a></li><li><a title="" target="_blank" href="http://tianjin.lotour.com/">天津</a></li><li><a title="" target="_blank" href="http://huangshan.lotour.com/">黄山</a></li><li><a title="" target="_blank" href="http://guangzhou.lotour.com/">广州</a></li><li><a title="" target="_blank" href="http://wenzhou.lotour.com/">温州</a></li><li><a title="" target="_blank" href="http://hangzhou.lotour.com/">杭州</a></li><li><a title="" target="_blank" href="http://xian.lotour.com/">西安</a></li><li><a title="" target="_blank" href="http://luoyang.lotour.com/">洛阳</a></li><li><a title="" target="_blank" href="http://chengde.lotour.com/">承德</a></li><li><a title="" target="_blank" href="http://qingdao.lotour.com/">青岛</a></li><li><a title="" target="_blank" href="http://weihai.lotour.com/">威海</a></li><li><a title="" target="_blank" href="http://jinan.lotour.com/">济南</a></li></li><li><a title="" target="_blank" href="http://taian.lotour.com/">泰安</a></li><li><a title="" target="_blank" href="http://beihai.lotour.com/">北海</a></li><li><a title="" target="_blank" href="http://changsha.lotour.com/">长沙</a></li><li><a title="" target="_blank" href="http://dalibaizu.lotour.com/">大理</a></li><li><a title="" target="_blank" href="http://guiyang.lotour.com/">贵阳</a></li><li><a title="" target="_blank" href="http://guilin.lotour.com/">桂林</a></li><li><a title="" target="_blank" href="http://haikou.lotour.com/">海口</a></li><li><a title="" target="_blank" href="http://hulunbeier.lotour.com/">呼伦贝尔</a></li><li><a title="" target="_blank" href="http://kaifeng.lotour.com/">开封</a></li><li><a title="" target="_blank" href="http://kunming.lotour.com/">昆明</a></li><li><a title="" target="_blank" href="http://lasa.lotour.com/">拉萨</a></li><li><a title="" target="_blank" href="http://mudanjiang.lotour.com/">牡丹江</a></li><li><a title="" target="_blank" href="http://ningbo.lotour.com/">宁波</a></li><li><a title="" target="_blank" href="http://qiqihaer.lotour.com/">齐齐哈尔</a></li><li><a title="" target="_blank" href="http://shaoxing.lotour.com/">绍兴</a></li><li><a title="" target="_blank" href="http://shenzhen.lotour.com/">深圳</a></li><li><a title="" target="_blank" href="http://shenyang.lotour.com/">沈阳</a></li><li><a title="" target="_blank" href="http://shijiazhuang.lotour.com/">石家庄</a></li><li><a title="" target="_blank" href="http://wulumuqi.lotour.com/">乌鲁木齐</a></li><li><a title="" target="_blank" href="http://wuxi.lotour.com/">无锡</a></li><li><a title="" target="_blank" href="http://wuhan.lotour.com/">武汉</a></li><li><a title="" target="_blank" href="http://yinchuan.lotour.com/">银川</a></li><li><a title="" target="_blank" href="http://zhuhai.lotour.com/">珠海</a></li>                   </ul>        <h2 class="travel-t">出境游目的地推荐</h2>        <ul class="traver-c clear">  <li><a title="" target="_blank" href="http://jpn.lotour.com/">日本</a></li><li><a title="" target="_blank" href="http://kor.lotour.com/">韩国</a></li><li><a title="" target="_blank" href="http://ind.lotour.com/">印度 </a></li><li><a title="" target="_blank" href="http://nep.lotour.com/">尼泊尔</a></li><li><a title="" target="_blank" href="http://tha.lotour.com/">泰国 </a></li><li><a title="" target="_blank" href="http://cam.lotour.com/">柬埔寨</a></li><li><a title="" target="_blank" href="http://gbr.lotour.com/">英国 </a></li><li><a title="" target="_blank" href="http://fra.lotour.com/">法国</a></li><li><a title="" target="_blank" href="http://tur.lotour.com/">土耳其</a></li><li><a title="" target="_blank" href="http://aus.lotour.com/">澳大利亚</a></li><li><a title="" target="_blank" href="http://nzl.lotour.com/">新西兰</a></li><li><a title="" target="_blank" href="http://ken.lotour.com/">肯尼亚</a></li><li><a title="" target="_blank" href="http://egy.lotour.com/">埃及</a></li><li><a title="" target="_blank" href="http://usa.lotour.com/">美国 </a></li> <li><a title="" target="_blank" href="http://mya.lotour.com/">缅甸</a></li><li><a title="" target="_blank" href="http://fin.lotour.com/">芬兰</a></li><li><a title="" target="_blank" href="http://swe.lotour.com/">瑞典</a></li><li><a title="" target="_blank" href="http://mri.lotour.com/">毛里求斯</a></li> </ul>    </div>
+
+        </div>
+        <div class="content">
+          
+        </div>
+         <script>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');  ga('create', 'UA-60191116-1', 'auto');  ga('send', 'pageview');</script>
+    </div>
+    
+<!--=S 公共底 -->  
+<div class="ltFooter">
+	<div class="ltfoot clear">
+		<div class="ltfootA">
+			<a href="http://corp.lotour.com/index.shtml" target="_blank" title="乐途介绍">乐途介绍</a><i>|</i><a href="http://corp.lotour.com/job_2.shtml" target="_blank" title="招贤纳士">招贤纳士</a><i>|</i><a href="http://corp.lotour.com/lotour_honour.shtml" target="_blank" title="网站荣誉">网站荣誉</a><i>|</i><a href="http://corp.lotour.com/contact.shtml" target="_blank" title="联系我们">联系我们</a><i>|</i><a href="http://corp.lotour.com/parter.shtml" target="_blank" title="合作伙伴">合作伙伴</a><i>|</i><a href="http://corp.lotour.com/adv_sev.shtml" target="_blank" title="营销形式">营销形式</a><i>|</i><a href="http://corp.lotour.com/adv_case.shtml" target="_blank" title="成功案例">成功案例</a><i>|</i><a href="http://member.lotour.com/" target="_blank" title="商家入驻">商家入驻</a><i>|</i><a href="http://member.lotour.com/" target="_blank" title="商家登录">商家登录</a><i>|</i><a href="http://d.lotour.com/yudingbangzhu/" target="_blank" title="预订帮助">预订帮助</a><i>|</i><a href="http://corp.lotour.com/term.shtml" target="_blank" title="服务条款">服务条款</a>
+		</div>
+		<div class="ltfootB">
+			<a class="btmLogo" target="_blank" href="http://www.lotour.com/" title="乐途旅游网"></a>
+			<p><a href="http://www.miibeian.gov.cn" target="_blank" title="">京ICP备12008860号-1</a>&nbsp;&nbsp;<a href="http://corp.lotour.com/licence_gd.shtml" target="_blank" title="">广电节目制作许可证：1313号</a>&nbsp;&nbsp;京公网安备：11010502001653<br />
+			<span class="Arial">Copyright &copy; 2005 - 2016&nbsp;&nbsp;<a href="http://www.lotour.com/" target="_blank">Lotour.com</a>&nbsp;&nbsp;All Rights Reserved.</span>&nbsp;<a href="http://www.lotour.com/" target="_blank" title="乐途旅游网">乐途旅游网</a>&nbsp;版权所有</p>
+			<a class="btmIco" target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202008020400006"></a>
+		</div>		
+	</div>
+</div>
+<!--=E 公共底 -->
+<script type="text/javascript" src="http://js.lotour.net/feedback_v1.js"></script><script type="text/javascript" src="http://js.lotour.net/analytics/statsv2.js" defer charset="UTF-8"></script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-39387460-1']);
+    _gaq.push(['_setDomainName', 'lotour.com']);
+    _gaq.push(['_addOrganic', 'baidu', 'word']);
+    _gaq.push(['_addOrganic', 'soso', 'w']);
+    _gaq.push(['_addOrganic', '3721', 'name']);
+    _gaq.push(['_addOrganic', 'yodao', 'q']);
+    _gaq.push(['_addOrganic', 'vnet', 'kw']);
+    _gaq.push(['_addOrganic', 'sogou', 'query']);
+    _gaq.push(['_addOrganic', '360', 'q']);
+    _gaq.push(['_addOrganic', 'so', 'q']);
+    var full_url = location.pathname + location.search + location.hash;
+    _gaq.push(['_trackPageview', full_url]);
+    _gaq.push(['_trackPageLoadTime']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F317768ad40e6ddbe20f10e89b4712c35' type='text/javascript'%3E%3C/script%3E"));
+
+
+</script>
+
+    <!--=S 右底工具条 -->
+<div class="toolbarNew">
+	<div class="tbarNewBtnS"></div>
+	<ul>
+		<li><a hidefocus="true" href="javascript:void(0);" method="been" deffer="216331" class="footmark" title=""><i></i><span>我去过</span></a></li>
+		<li><a hidefocus="true" href="javascript:void(0);" method="want" deffer="216331" class="addWantTo" title=""><i></i><span>我想去</span></a></li>
+		<li><a hidefocus="true" href="javascript:void(0);" method="help" deffer="216331" deffername="太浩湖" class="help" title=""><i></i><span>发求助</span></a> </li>
+		<li class="tbarShare"> <a href="javascript:void(0);" class="tbarShareIco"> <i></i> <span>分享</span> </a>
+			<div class="sharecon"> 
+				<!-- Baidu Button BEGIN -->
+				<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare"> <span class="bds_more"></span> </div>
+				<script type="text/javascript" id="bdshare_js" data="type=tools&amp;mini=1&amp;uid=0" ></script> 
+				<script type="text/javascript" id="bdshell_js"></script> 
+				<script type="text/javascript">
+				    document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                </script> 
+				<!-- Baidu Button END --> 
+			</div>
+		</li>
+	</ul>
+	<script type="text/javascript">
+	    $(function () {
+	        $(window).scroll(function () {
+	            var st = $(document).scrollTop(), winh = $(window).height();
+	            if (st > 0) {
+	                if ($('.tbarS').length > 0) { return false }
+	                $('.tbarNewBtnS').click()
+	                $('.toolbarNew').addClass('tbarS')
+	            } else if (st <= 0) {
+	                $('.tbarNewBtn').click()
+	                $('.toolbarNew').removeClass('tbarS')
+	            }
+	        });
+	        $('.tbarNewGtop').live('click', function () { $("html, body").animate({ scrollTop: 0 }, 120); })
+	        $('.tbarNewBtnS').live('click', function () {
+	            $('.toolbarNew ul').stop().animate({ 'height': '312px' })
+	            $('.tbarNewGtop').stop().animate({ 'height': '45px' })
+	            $(this).addClass('tbarNewBtn').removeClass('tbarNewBtnS');
+	            return false
+	        })
+	        $('.tbarNewBtn').live('click', function () {
+	            $('.toolbarNew ul').stop().animate({ 'height': '0px' })
+	            $('.tbarNewGtop').stop().animate({ 'height': '3px' })
+	            $(this).addClass('tbarNewBtnS').removeClass('tbarNewBtn');
+	            return false
+	        })
+
+	        $("a[method=been]").click(function () {
+	            var regionid = $(this).attr("deffer");
+	            var a = $("a[method=been][deffer=" + regionid + "]");
+	            $.getJSON("http://my.lotour.com/login/login/islogin?callback=?&" + (new Date()), function (data) {
+	                if (data.uid > 0)
+	                    a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.uid + "/?rid=" + regionid, "target": "_blank" });
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.memberId + "/?rid=" + regionid, "target": "_blank" });
+	                    }, function (data) {
+	                        SetTopState();
+	                        a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.memberId + "/?rid=" + regionid, "target": "_blank" });
+	                    }, 1, "http://my.lotour.com/i/NotesPublish/replaceUid?rid=" + regionid);
+	                }
+	            });
+	        });
+	        $("a[method=want]").click(function () {
+	            var regionid = $(this).attr("deffer"), month = new Date().getMonth() + 1;
+	            var a = $("a[method=want][deffer=" + regionid + "]");
+	            $.getJSON("http://my.lotour.com/login/login/islogin?callback=?&" + (new Date()), function (data) {
+	                if (data.uid > 0) {
+	                    $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    $('.layerBg').css('height', $(document).height()).show();
+	                }
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    }, function (data) {
+	                        SetTopState();
+	                        $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    }, 1, location.href.toString().replace("#", "") + "?rid=" + regionid + "&ReturnAction=dplace");
+	                }
+	            });
+	        });
+	        $("a[method=help]").click(function () {
+	            var regionid = $(this).attr("deffer"), rname = $(this).attr("deffername");
+	            $.getJSON('http://my.lotour.com/login/login/islogin?callback=?&' + (new Date()), function (data) {
+	                if (data.uid > 0) {
+	                    showHelp(regionid, rname);
+	                }
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        showHelp(regionid, rname);
+	                    }, function (data) {
+	                        SetTopState();
+	                        showHelp(regionid, rname);
+	                    }, 1, location.href.toString().replace("#", "") + "?rid=" + regionid + "&ReturnAction=ask");
+	                }
+	            });
+	        });
+	    });
+	    function showHelp(regionid, rname) {
+	        $('#ask_topic').fadeIn(500).loadAskPanel(0);
+	        $('.layerBg').css('height', $(document).height()).show();
+	        $('#txtAskRegionSelect1').val(rname).attr('disabled', 'disabled');
+	        $('#hidAskTopicRegionId1').val(regionid);
+	        $.ajax({
+	            cache: false,
+	            type: "GET",
+	            dataType: 'jsonp',
+	            jsonp: 'callback',
+	            url: "http://my.lotour.com/i/DPlace/AskTopic/GetBeenCount/",
+	            data: { regionId: regionid },
+	            success: function (data) {
+	                data = data.Result.Data;
+	                if (data.count > 0) {
+	                    $("#BeenMsg").html(data.count + "专家为您解答");
+	                }
+	            },
+	            error: function (xhr, textStatus, errorThrown) {
+	            }
+	        });
+	    }
+  </script>
+	<div class="tbarNewGtop"></div>
+</div>
+<!--=E 右底工具条 -->
+</body>
+</html>

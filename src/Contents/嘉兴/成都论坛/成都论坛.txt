@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>【福州分类信息】福州免费发布信息网 - 福州58同城</title>
+    <meta name="Keywords" content="免费发布信息,分类信息,生活信息" />
+    <meta name="Description" content="58同城生活分类信息网为您提供免费发布囊括房屋出租、二手房二手车交易、跳蚤市场、招聘求职、交友征婚等与生活息息相关的信息，满足您在生活的方方面面，欢迎免费发布查看地区生活分类信息。" /> 
+     <!--<script>try{var ____json4fe = {catentry:{dispid:'',name:'',listname:'city'},locallist:{dispid:'',name:'',listname:'fz'},modules:'404'};____json4fe.version = 'A';____json4fe.start = (new Date()).getTime();}catch(e){};</script>
+    <script>try{var ____json4fe = {catentry:{dispid:'',name:'',listname:'city'},locallist:{dispid:'0',name:'',listname:''},modules:'404'};____json4fe.version = 'A';____json4fe.start = (new Date()).getTime();}catch(e){};</script>-->
+    <link rel="stylesheet" type="text/css" href="//c.58cdn.com.cn/ui6/list/404news.css">
+</head>
+<body> 
+<div class="wrap">
+			<div class="content clearfix">
+				<div class="head"><p class="et">ERROR</p><p class="ct">没有找到相关信息~</p></div>							
+ 				<div class="normalnews">
+					<h2 class="mewstit">更多福州精彩信息</h2>
+					<div class="nmewslist">					    
+					    						<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvulsWN3shPfUiqBmyOJpyDfnW9kn103PHndrjN1PH63sMPCIAd_THD1uHIWPh76syw-PhNVPAnvuad6rH0YsHmvujKBPj-bPhc3m9DYnW0OPHTdP1mvPjcLrEDQP9DzrjT1P19dn1N3PHndrTDYPHTKPjNkTHbvTHnkPTDQPj9krHcYPWckPWmQTHDKmgKk0vRzIWEkPTDQTHDKNEDVnEDKnTDkTE7hmyQ1uEDvmH9kn19vraYkPhwbsHwhnANVrjIhPBYOrHTOujD1nyDkPyNKn1T1P1EYnHmKnHbvnjnOPWmzP1b3nHDzTEDOP9D1njEKnEDKTEDKpZwY0jCfs1EkPa3draOWUvYfPjTYsh6YUykKUMR_UTDQnHT8rj08PWT8rH0KsHcKmhNzrjnOuHnYrynQnyw-uE'">
+							<dt><img src="http://t3.58cdn.com.cn/bidding/tiny/n_v1bj3gzsfl3izvrmkhf5ea.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="公司搬迁,居民搬家,各类搬家搬厂,五区八县搬迁">公司搬迁,居民搬家,各类搬家搬厂,五区八县搬迁</p>
+									<p class="health" title="福州旺福搬家">福州旺福搬家</p>
+									<p class="sp">马师傅</p>
+									<p class="price" title="0人预约">0人预约</p>
+								</dd>
+						</dl>				
+												<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvulsWN3shPfUiqBmyOJpyDfnWNvPHmknjbYPHEYnHK3sMPCIAd_THD1uHIWPh76syw-PhNVPAnvuad6rH0YsHmvujKBPj-bPhc3m9DQrj9vPjEOPHEOrjcYP9DQP9DzPHmdPWTkrHEdPjEQnTDYn19KPjn3THbvTHnkPTDQPj9krHcYPWckPWmQTHcKmgKk0vRzIWEkPTDQTHDKNEDVnEDKnTDkTE7hmyQ1uEDkmWc3PjN3riY1nv7bsHEvP1TVrj01PzdWn1-buWnvPhNOuW9KnWnYPjckn1mKnH0vPWEQPW9Yn1czPWTkTEDOP9D1njEKnEDKTEDKpZwY0jCfs1EkPa3draOWUvYfPjTYsh6YUykKUMR_UTDQnHT8rj08PWT8rH0KsHcKPvRbuhu-rADvujD1nHubPk'">
+							<dt><img src="http://t3.58cdn.com.cn/bidding/tiny/n_v1bkuyfvmmqigfoadekica.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="福州得福低价搬家公司,白领,学生,居民,搬">福州得福低价搬家公司,白领,学生,居民,搬</p>
+									<p class="health" title="得福搬家">得福搬家</p>
+									<p class="sp">得福搬家</p>
+									<p class="price" title="2人预约">2人预约</p>
+								</dd>
+						</dl>				
+												<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvulsWN3shPfUiqBmyOJpyDfnWckn101PWbvnWDLP1w3sMPCIAd_THD1uHIWPh76syw-PhNVPAnvuad6rH0YsHmvujKBPj-bPhc3m9DzPHbdPW0On1nkPHTOPTDQP9DznWT1P1nvrHmznH0LPTDYnHTKPjDkTHbvTHnkPTDQPj9krHcYPWckPWmQTHnKmgKk0vRzIWEkPTDQTHDKNEDVnEDKnTDkTE7hmyQ1uEDkuHnvP1wWnzY3uWPhsHwWuyNVrHIBnzdbuj7Wujb1mhnLmHEKnHc1nWDQPHDKnHELPWbOrHm3rHEQnHDzTEDOP9D1njEKnEDKTEDKpZwY0jCfs1EkPa3draOWUvYfPjTYsh6YUykKUMR_UTDQnHT8rj08PWT8rH0KsHcKrANvPWcdn1nLPvNvrADku9'">
+							<dt><img src="http://t3.58cdn.com.cn/bidding/tiny/n_v1bkuymc66lslvm2llxasq.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="福州安捷搬家搬场,长途搬运，公司搬迁，搬单位，拆装等">福州安捷搬家搬场,长途搬运，公司搬迁，搬单位，拆装等</p>
+									<p class="health" title="福州安捷搬家有限公司">福州安捷搬家有限公司</p>
+									<p class="sp">高先生 | 电话：13023870066</p>
+									<p class="price" title="1人预约">1人预约</p>
+								</dd>
+						</dl>				
+												<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvulsWN3shPfUiqBmyOJpyDfnH03nHNdnWb1PjDOPH63sMPCIAd_THD1uHIWPh76syw-PhNVPAnvuad6rH0YsHmvujKBPj-bPhc3m9DznW0On1bLPHNdnjb3nkDQP9DQP19QPHNzrHnYnHbdrTDYnjTKn1mLTHbvTHnkPTDQPj9krHcYPWckPWmQTHEKmgKk0vRzIWEkPTDQTHDKNEDVnEDKnTDkTE7hmyQ1uEDkuj-hPynduidbrAnLsHELnyDVrj-BnBYLm1TduWFWnWFhuADKnHTknWTLP1mKnHnvnjTvPH0YnHDOrHm3TEDOP9D1njEKnEDKTEDKpZwY0jCfs1EkPa3draOWUvYfPjTYsh6YUykKUMR_UTDQnHT8rj08PWT8rH0KsHcKnH7BujndPvF-PH0vuhPhuT'">
+							<dt><img src="http://t3.58cdn.com.cn/bidding/tiny/n_v1bkuymc2gglnfm7uqsm4q.png" alt="" /></dt>
+								<dd>								
+									<p class="description" title="福州搬家同喜搬家专业提供居民、公司等类型搬">福州搬家同喜搬家专业提供居民、公司等类型搬</p>
+									<p class="health" title="福州市仓山区同喜搬家服务有限公司">福州市仓山区同喜搬家服务有限公司</p>
+									<p class="sp">肖师傅</p>
+									<p class="price" title="74人预约">74人预约</p>
+								</dd>
+						</dl>				
+												<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvulsWN3shPfUiqBmyOJpyDfnW01nHNzrj03rHn1nHI3sMPCIAd_THD1uHIWPh76syw-PhNVPAnvuad6rH0YsHmvujKBPj-bPhc3m9DYnHbdn1mYPH01rjNQn9DQP9DzP1nQPHc3P19On1nQPkD1n1nKn1nQTHbvTHnkPTDQPj9krHcYPWckPWmQTHNKmgKk0vRzIWEkPTDQTHDKNEDVnEDKnTDkTE7hmyQ1uEDQPW6-PHwhnzd6mWcLsHwhPHTVmhwhraYdPAE3PHPBP1-hnHnKnWbdnHc1rj9KnH9OrHcdP1mQnjnkn1bzTEDOP9D1njEKnEDKTEDKpZwY0jCfs1EkPa3draOWUvYfPjTYsh6YUykKUMR_UTDQnHT8rj08PWT8rH0KsHcKmyNLPhmOujDzujnkuhD1mE'">
+							<dt><img src="http://t2.58cdn.com.cn/bidding/tiny/n_v1bl2lwxriia4vqkd3tz2a.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="福州搬家专业居民搬家、单位工厂搬迁、长短途">福州搬家专业居民搬家、单位工厂搬迁、长短途</p>
+									<p class="health" title="福州宏兴保洁服务有限公司">福州宏兴保洁服务有限公司</p>
+									<p class="sp">张先生</p>
+									<p class="price" title="2人预约">2人预约</p>
+								</dd>
+						</dl>				
+												<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvulsWN3shPfUiqBmyOJpyDfnWm1rj9YP1b1Pj9OPjF3sMPCIAd_THD1uHIWPh76syw-PhNVPAnvuad6rH0YsHmvujKBPj-bPhc3m9D1Pj01PHmvnWDYrjndrEDQP9DzPWn3rjELrHnYrjbYn9D1njTKn1TkTHbvTHnkPTDQPj9krHcYPWckPWmQTHmKmgKk0vRzIWEkPTDQTHDKNEDVnEDKnTDkTE7hmyQ1uEDOPhEdrHF-mBYLmHc1sHw6njTVmhnvmzYdP1bzrAckrjckuHDKnW0Yn1cYPHTKnH9zrjEdP19vnHTvnHTYTEDOP9D1njEKnEDKTEDKpZwY0jCfs1EkPa3draOWUvYfPjTYsh6YUykKUMR_UTDQnHT8rj08PWT8rH0KsHcKrjcQn1Tzm1NLrA76n1ubuT'">
+							<dt><img src="http://t3.58cdn.com.cn/bidding/tiny/n_v1bl2lwkks6vufpufl7fqa.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="福州捷诚搬家专业公司搬迁,厂房搬迁、居民白领搬场搬学校">福州捷诚搬家专业公司搬迁,厂房搬迁、居民白领搬场搬学校</p>
+									<p class="health" title="福州捷诚搬家">福州捷诚搬家</p>
+									<p class="sp">莫先生 | 电话：18705078725</p>
+									<p class="price" title="0人预约">0人预约</p>
+								</dd>
+						</dl>				
+												<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvulsWN3shPfUiqBmyOJpyDfnWnkn1c3n1m1PWE1nH-3sMPCIAd_THD1uHIWPh76syw-PhNVPAnvuad6rH0YsHmvujKBPj-bPhc3m9D1n1nLPHTQPjbkrHEYrEDQP9Dzn1T1nW91PWnvPjnQrED1njTKnWnzTHbvTHnkPTDQPj9krHcYPWckPWmQTH0KmgKk0vRzIWEkPTDQTHDKNEDVnEDKnTDkTE7hmyQ1uE7hnH9vnjFWnBYkrHbLsHwhujmVmHcQnaYvujwhrjcLujRbnjnKnHEdn10YnWDKnHNdPW0LP10YP1nOPj0zTEDOP9D1njEKnEDKTEDKpZwY0jCfs1EkPa3draOWUvYfPjTYsh6YUykKUMR_UTDQnHT8rj08PWT8rH0KsHcKuyDvm1P6nWFWnHTkuWEvrE'">
+							<dt><img src="http://t4.58cdn.com.cn/bidding/tiny/n_v1bl2lwxvem3hfnfxq5uaa.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="福州专业公司搬迁-居民搬家-就近派车方便快捷-预约优惠">福州专业公司搬迁-居民搬家-就近派车方便快捷-预约优惠</p>
+									<p class="health" title="福州顺意搬家">福州顺意搬家</p>
+									<p class="sp">刘师傅</p>
+									<p class="price" title="41人预约">41人预约</p>
+								</dd>
+						</dl>				
+												<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvulsWN3shPfUiqBmyOJpyDfnWN1PWb1PHbdrjEkPWu3sMPCIAd_THD1uHIWPh76syw-PhNVPAnvuad6rH0YsHmvujKBPj-bPhc3m9DzPjEQn1DknHn1PHNdrTDQP9DzPHnvrHndrHN3PjTvP9DznHTKnWDkTHbvTHnkPTDQPj9krHcYPWckPWmQTH9KmgKk0vRzIWEkPTDQTHDKNEDVnEDKnTDkTE7hmyQ1uE7-Pj6BrAuWraYdnvR-sHEkmhDVmHTkuaY1nyNQuj9znjR-nAcKnWc3PHmkn19KnH0dPHmvnWTdrHbznWT3TEDOP9D1njEKnEDKTEDKpZwY0jCfs1EkPa3draOWUvYfPjTYsh6YUykKUMR_UTDQnHT8rj08PWT8rH0KsHcKPAFBPhDzuAEOn1EQPAw6uE'">
+							<dt><img src="http://t3.58cdn.com.cn/bidding/tiny/n_v1bl2lwi7mpp6fn6lzjiwq.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="红太阳搬家 服务全市 居民公司、长途搬家 大车装卸">红太阳搬家 服务全市 居民公司、长途搬家 大车装卸</p>
+									<p class="health" title="福州红太阳搬家">福州红太阳搬家</p>
+									<p class="sp">小杨</p>
+									<p class="price" title="2人预约">2人预约</p>
+								</dd>
+						</dl>				
+												<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvulsWN3shPfUiqBmyOJpyDfnW0LrHTYn1mQnjbzPHR3sMPCIAd_THD1uHIWPh76syw-PhNVPAnvuad6rH0YsHmvujKBPj-bPhc3m9D1rH0QPjNLnWcQrHDdPEDQP9DzP10OnjE1PWDkrHcdPEDznjTKnHbOTHbvTHnkPTDQPj9krHcYPWckPWmQTHbKmgKk0vRzIWEkPTDQTHDKNEDVnEDKnTDkTE7hmyQ1uE76Phcvrj9zPaYLuymdsHw-nAnVrAmQPiY1PWIhPjTdPvw6m1NKn1TzPWTzPWmKnHbdnjn3PHTLnWm3n1nvTEDOP9D1njEKnEDKTEDKpZwY0jCfs1EkPa3draOWUvYfPjTYsh6YUykKUMR_UTDQnHT8rj08PWT8rH0KsHcKPAcvnAnvPvF6Pvc3uycdrE'">
+							<dt><img src="http://t4.58cdn.com.cn/bidding/tiny/n_v1bl2lwko4uqpfrgn3siga.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="福州专业中小型搬家长短途搬迁拉货 零散货物运输">福州专业中小型搬家长短途搬迁拉货 零散货物运输</p>
+									<p class="health" title="福州东方红搬家">福州东方红搬家</p>
+									<p class="sp">李师傅</p>
+									<p class="price" title="1人预约">1人预约</p>
+								</dd>
+						</dl>				
+												<dl onclick="window.location.href='http://jump.zhineng.58.com/jump?target=pZwY0jCfsvulsWN3shPfUiqBmyOJpyDfnWmQPHnzPjm1rjTdrj63sMPCIAd_THD1uHIWPh76syw-PhNVPAnvuad6rH0YsHmvujKBPj-bPhc3m9D1nWm1rHnvn1nQnjTOnTDQP9DzPWDdn1cYPWn3njN3rTDQrjTKnH9kTHbvTHnkPTDQPj9krHcYPWckPWmQTHDkTy7k0ZP-0MmYnjEKnEDQTRDKsHDKTHTKnTDKuh7_0vNKnyDdPh76ujnVnWE1mBYYPHuWsyDduyEVm1DdnWPBnvEvnH6hTHcvnHTknj91THD3njm3rj0LPH9zrj01P9DKrHmKn1TYTHDKTEDKTy6YIZTlsztYnjE8PH98mvqVs1EkPaOCIAd_TyOdUAkKnHDksW9LsWmksWbLTiYzTHmznvPhnjF-nyczuWmzmhn'">
+							<dt><img src="http://t1.58cdn.com.cn/bidding/tiny/n_v1bkujjd722befo4ng7yzq.jpg" alt="" /></dt>
+								<dd>								
+									<p class="description" title="放心搬家,半小时到达,来电优惠,全天服务,欢迎预约">放心搬家,半小时到达,来电优惠,全天服务,欢迎预约</p>
+									<p class="health" title="福州水涨搬家服务有限公司">福州水涨搬家服务有限公司</p>
+									<p class="sp">邓师傅</p>
+									<p class="price" title="2人预约">2人预约</p>
+								</dd>
+						</dl>				
+											</div>
+				</div>				
+				<div class="footer">
+					<div class="item">
+					<h2 class=footertit>您可以逛逛：</h2>
+					<p class="footerlist"><a href="http://fz.58.com/job.shtml?from=58_404" class="f">招聘</a><a href="http://fz.58.com/chuzu?from=58_404">租房</a><a href="http://fz.58.com/ershoufang?from=58_404">二手房</a><a href="http://fz.58.com/ershouche?from=58_404">二手车</a><a href="http://fz.58.com/sale.shtml?from=58_404">二手市场</a><a href="http://fz.58.com/pets.shtml?from=58_404">宠物狗</a><a href="http://fz.58.com/piaowu.shtml?from=58_404">票务</a><a href="http://fz.58.com/shenghuo.shtml?from=58_404">家政服务</a><a href="http://fz.58.com/lvyouxiuxian.shtml?from=58_404">旅游酒店</a><a href="http://fz.58.com/xiuxianyl.shtml?from=58_404">休闲娱乐</a></p>
+					<div class="QRcode">
+						<p class="app">
+							<span class="info">
+								<i>把58装进口袋</i>
+								<i>随时随地享受生活</i>
+							</span>
+						</p>
+						<p class="WeChat">
+							<span class="info">
+								<i>加58微信公众账号</i>
+								<i>神奇哥竭诚为您服务</i>
+							</span>
+						</p>
+					</div>
+					</div>
+				</div>
+				<div class="separator"></div>
+			</div>
+		</div>
+</body>
+</html>

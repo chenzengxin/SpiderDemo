@@ -1,0 +1,2040 @@
+
+
+<!DOCTYPE html>
+
+<html>
+    
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    
+    <meta name="description" content="乐途旅游网_斯里兰卡旅游，提供斯里兰卡，斯里兰卡旅游景点推荐，斯里兰卡旅游攻略，斯里兰卡旅游玩法，最适合去斯里兰卡旅游的季节，斯里兰卡旅游注意事项，斯里兰卡旅游线路，斯里兰卡酒店预定，斯里兰卡旅游地图等出行指南及旅行服务" />
+    <meta name="keywords" content="斯里兰卡旅游_斯里兰卡旅游攻略_斯里兰卡旅游景点" />
+    <title>斯里兰卡旅游_斯里兰卡旅游攻略_斯里兰卡旅游景点_乐途旅游网</title>
+    <link rel="shortcut icon" href="http://www.lotour.com/favicon2.ico" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/base.css" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/lt_top.css" />
+    <link rel="stylesheet" type="text/css" href="http://css.lotour.net/bizhi.css" />
+    <script type="text/javascript" src="http://js.lotour.net/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="http://js.lotour.net/scrollloop.js"></script><!--[if IE 6]><script type="text/javascript" src="http://js.lotour.net/DD_belatedPNG.js"></script><script type="text/javascript">DD_belatedPNG.fix('.logo img,.lt-nav-new-bg,.bdNavWraper,.map-btn,.mddNavWrap,.lx-mask');</script><![endif]-->
+</head>
+
+<body class="">
+    
+<script type="text/javascript" src="http://js.lotour.net/login/searchhotellogin_v5.js"></script>
+<script src="http://js.lotour.net/mylotour/v1/mylotour_v2.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://js.lotour.net/lotour_v1.js"></script>
+<div class="lt-nav-new">
+	<a href="http://www.lotour.com/" target="_blank"><img class="logo" src="http://img1.lotour.com/bdhomeV2/new_logo.png" /></a>
+	<div class="nav-new-btn">
+    	<a href="#" class="btn"></a>
+    	<div class="nav-new-layer">
+        	<ul>
+            <li>
+            	<h5><a href="http://www.lotour.com/mudidi/" target="_blank">目的地</a></h5>
+                <div class="links">
+                    <a href="http://shangqiu.lotour.com/" target="_blank">商丘</a><a href="http://xian.lotour.com/" target="_blank">西安</a><a href="http://shannan.lotour.com/" target="_blank">西藏山南</a><a href="http://kunming.lotour.com/yunnanshilin/" target="_blank">石林</a>     <a href="http://shangrao.lotour.com/guifeng/" target="_blank">龟峰</a> <a href="http://xuchang.lotour.com/" target="_blank">许昌</a>                                                                         
+
+                </div>
+            </li>
+            <li class="sg">
+            	<h5>发&nbsp;&nbsp;&nbsp;现</h5>
+                <div class="links">
+                	<a href="http://www.lotour.com/zhoubianyou" target="_blank">周边游</a>
+                	<a href="http://www.lotour.com/guoneiyou" target="_blank">国内游</a>
+                	<a href="http://www.lotour.com/chujingyou" target="_blank">出境游</a>
+                </div>
+            </li>
+            <li class="sg">
+            	<h5>社&nbsp;&nbsp;&nbsp;区</h5>
+                <div class="links">
+                    <a href="http://www.lotour.com/daren/" target="_blank">大咖</a>
+                	<a href="http://www.lotour.com/zijiayou/" target="_blank">自驾</a>
+                    <a href="http://sc.lotour.com/" target="_blank">福利</a>
+                </div>
+            </li>
+            <li>
+            	<h5>预&nbsp;&nbsp;&nbsp;订</h5>
+                <div class="links">
+                    <a href="http://d.lotour.com/hotel/" target="_blank">酒店</a>
+                    <a href="http://d.lotour.com/jipiao/" target="_blank">机票</a>
+                	<a href="http://d.lotour.com/dangdigentuan/" target="_blank">地接</a>
+                	<a id="dujiaxianlu" href="http://d.lotour.com/dujiaxianlu/shanghai/" target="_blank">度假</a>
+                </div>
+            </li>
+            </ul>
+        </div>
+    </div>
+  <div class="ltCrumb clear"> <a href="http://www.lotour.com/" target="_blank" title="">首页</a>&nbsp;&gt;&nbsp;<a href="http://www.lotour.com/mudidi" target="_blank" title="">目的地</a>&nbsp;&gt; 
+      
+      <h1><a  href="http://sri.lotour.com/" title="">斯里兰卡旅游</a>
+              
+      </h1>
+  </div>
+  <div class="lt-nav-r">
+  	<div class="lt-nav-item lt-nav-item-srh">
+    	<b></b>
+        <div class="lt-srh-new">
+            <form action="http://ip.lotour.com/home/mudidi" method="get" target="_blank" name="zonghe">
+        	    <div class="lt-srh-l">
+                    <div class="lt-srh-new-clk">
+                        <a href="#" class="l1"><i></i><em></em></a>
+                    </div>
+                    <input type="text" value="点此搜索" name="keyword" id="keyword" class="ipt" />
+                    <input type="hidden" value="0" name="htype" id="htype" />
+                    <input type="hidden" value="" name="keys" id="keys" />
+                    <input type="submit" class="btn" id="btnzonghe" name="btnzonghe" value="" />
+                </div>               
+            </form>
+            <div class="lt-srh-new-layer">
+                <ul>
+                    <li class="l1"><a href="#"><i></i>搜目的地</a></li>
+                    <li class="l2"><a href="#"><i></i>搜达人</a></li>
+                    <li class="l3"><a href="#"><i></i>搜客栈酒店</a></li>
+                    <li class="l4"><a href="#"><i></i>搜当地跟团</a></li>
+                    <li class="l5"><a href="#"><i></i>搜度假线路</a></li>
+                </ul>
+            </div>
+            <div id="hotcityhintDiv" style="z-index: 300001;" class="inputExtendBox sphl">
+                <ul id="scity" class="suggestBox"></ul>
+            </div>
+            <div class="city_divtc" id="Search_Synthesize_Div" style="z-index: 3000006;"><div class="city_divtc_t"><a class="closex"></a><span>国内</span></div><div class="city_divtc_m"><ul><li><a href="http://shangqiu.lotour.com/" target="_blank" title=" 商丘"> 商丘</a></li><li><a href="http://xian.lotour.com/" target="_blank" title=" 西安"> 西安</a></li><li><a href="http://dandong.lotour.com/fengcheng/" target="_blank" title="凤城"> 凤城</a></li><li><a href="http://shannan.lotour.com/" target="_blank" title=" 山南"> 山南</a></li><li><a href="http://kunming.lotour.com/yunnanshilin/" target="_blank" title="石林"> 石林</a></li><li><a href="http://shangrao.lotour.com/guifeng/" target="_blank" title=" 龟峰"> 龟峰</a></li><li><a href="http://lijiang.lotour.com/" target="_blank" title="丽江">丽江</a></li><li><a href="http://zhoushan.lotour.com/" target="_blank" title="舟山">舟山</a></li><li><a href="http://huangshan.lotour.com/" target="_blank" title="黄山">黄山</a></li><li><a href="http://shaoxing.lotour.com/" target="_blank" title="绍兴">绍兴</a></li><li><a href="http://hangzhou.lotour.com/" target="_blank" title=" 杭州"> 杭州</a></li><li><a href="http://xiamen.lotour.com/" target="_blank" title=" 厦门"> 厦门</a></li><li><a href="http://jiaxing.lotour.com/wuzhenguzhen/" target="_blank" title=" 乌镇"> 乌镇</a></li><li><a href="http://qingdao.lotour.com/" target="_blank" title=" 青岛"> 青岛</a></li><li><a href="http://shanghai.lotour.com" target="_blank" title="上海">上海</a></li></ul></div><div class="city_divtc_t"><span>境外</span></div><div class="city_divtc_m"><ul><li><a href="http://tha.lotour.com/" target="_blank" title="泰国">泰国</a></li><li><a href="http://cam.lotour.com/" target="_blank" title="柬埔寨">柬埔寨</a></li><li><a href="http://tha.lotour.com/qingmai/" target="_blank" title="清迈">清迈</a></li><li><a href="http://aus.lotour.com/" target="_blank" title=" 澳大利亚"> 澳大利亚</a></li><li><a href="http://tha.lotour.com/pujifu/" target="_blank" title="普吉岛">普吉岛</a></li><li><a href="http://mas.lotour.com/shaba/" target="_blank" title="沙巴">沙巴</a></li><li><a href="http://pf.lotour.com/" target="_blank" title="大溪地">大溪地</a></li><li><a href="http://nep.lotour.com/" target="_blank" title="尼泊尔">尼泊尔</a></li><li><a href="http://fra.lotour.com/baliqu/" target="_blank" title="巴黎">巴黎</a></li><li><a href="http://taiwan.lotour.com/" target="_blank" title=" 台湾"> 台湾</a></li><li><a href="http://sri.lotour.com/" target="_blank" title=" 斯里兰卡"> 斯里兰卡</a></li><li><a href="http://gbr.lotour.com/lundun1/" target="_blank" title="伦敦">伦敦</a></li><li><a href="http://ina.lotour.com/balidao1/" target="_blank" title="巴厘岛">巴厘岛</a></li><li><a href="http://macao.lotour.com/" target="_blank" title="澳门">澳门</a></li><li><a href="http://fij.lotour.com/" target="_blank" title="斐济">斐济</a></li></ul></div></div>
+
+        </div>
+    </div>
+  	
+  	<div class="lt-login"></div>
+  </div>
+</div>
+
+<!-- 想去浮层 -->
+<div id="dream_place">
+</div>
+<!-- 求助浮层 -->
+<div id="ask_topic" class="msgLayer msgMod" style="display:none;">
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $s.loadCss("http://css.lotour.net/mylotour/v1/wantgo_new");
+        $("#dream_place").DPPanel({
+            className: "msgLayer",
+            close: function () {
+                //关闭时候执行
+                $(".layerBg").hide();
+            },
+            init: function () {
+                //初始化时候执行
+            },
+            publish: function (arr) {
+                //发布时候执行
+                try { dplaceweiboTui($("#dream_place_reseaon").val()) } catch (e) { }
+                location.reload();
+            }
+        }).hide();
+
+        $("#ask_topic").AskPanel({
+            className: "msgLayer",
+            close: function () {
+                //关闭时候执行
+                $(".layerBg").hide();
+            },
+            init: function () {
+                //初始化时候执行
+            },
+            publish: function (arr) {
+                //发布时候执行
+                $a("添加成功");
+            }
+        }).hide();
+
+        var askweibo = new PWeibo({
+            container: 'ask-weiboshare'
+        });
+        askweibo.create();
+        askweiboTui = function (txtcon) {
+            var content = "我在乐途旅游网发布了一条求助，求大家回复啊！";
+            content += "“" + txtcon + "”";
+            askweibo.send(content, function () {
+            });
+        };
+    });
+
+    
+
+    function AskHelp() {
+        $('#ask_topic').fadeIn(500).loadAskPanel(0); $('.layerBg').css('height', $(document).height()).show();
+    }
+    function WantGo() {
+        $('#dream_place').fadeIn(500).loadDPPanel('', 0, true); $('.layerBg').css('height', $(document).height()).show();
+    }
+
+    var SEARCHLEFT = -44, box;
+    if ($.cookie("CityID") == null || $.cookie("ChName") == null || $.cookie("IndexAreaName") == null) {
+        $.getScript("http://ip.lotour.com", function () {
+            $.cookie("CityID", result.regionid, { expires: 30, path: '/', domain: 'lotour.com' });
+            $.cookie("ChName", result.Chname, { expires: 30, path: '/', domain: 'lotour.com' });
+            $.cookie("IndexAreaName", result.regionname, { expires: 30, path: '/', domain: 'lotour.com' });
+            $("#dujiaxianlu").attr("href", "http://d.lotour.com/dujiaxianlu/" + $.cookie("ChName") + "/");
+        });
+    }
+    else
+        $("#dujiaxianlu").attr("href", "http://d.lotour.com/dujiaxianlu/" + $.cookie("ChName") + "/");
+
+    $('.lt-srh-new-layer li').click(function () {
+        var index = $(this).index();
+        $('.lt-srh-new-clk a').attr('class', 'l' + (index + 1));
+        if (index > 1) {
+            $("#htype").attr("value", index - 1);
+        }
+        else if (index == 1) {
+            $("#htype").attr("value", 5);
+        }
+        else {
+            $("#htype").attr("value", index);
+        }
+        $("keys").attr("value", "");
+        switch (index) {
+            case 0:
+                box = $("#keyword").searchbox({ "Left": SEARCHLEFT, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 1:
+                box = $("#keyword").searchbox({ "Flay": "xue_Daren", "Js": "", "Url": "http://my.lotour.com/DarenSearch/handler/AssociateDaren.ashx", "i": 1, "j": 5, "Top": 40, "Left": SEARCHLEFT, "tips": "" });
+                break;
+            case 2:
+                box = $("#keyword").searchbox({ "Flay": "xue_Hotel", "Js": "http://js.lotour.net/searchlayer/djmdd.js", "Url": "http://d.lotour.com/hotel/api/AssociateRegion", "i": 1, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 3:
+                box = $("#keyword").searchbox({ "Flay": "xue_Djxl_Mdd", "Js": "http://js.lotour.net/searchlayer/djmdd.js", "Url": "http://d.lotour.com/dangdigentuan/api-AssociateRegion", "i": 1, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+            case 4:
+                box = $("#keyword").searchbox({ "Flay": "xue_OrderLine_Dest", "Js": "http://d.lotour.com/dujiaxianlu/api-AssociateCommonOsite?sSite=" + $.cookie("CityID") + "&randID=" + escape(new Date()) + "&callback=?", "Url": "http://beijing.lotour.com/dujiaxianlu/api-AssociateOSiteRegion", "i": 0, "j": 4, "Top": 40, "Left": SEARCHLEFT });
+                break;
+        }
+        $('.lt-srh-new-layer').hide()
+        return false;
+    }).eq(0).trigger("click");
+
+    var loginState = new lotourLoginState({});
+    //loginState.init();
+
+    //导航
+    $('.lt-nav-item').hover(function () {
+        $(this).find('.menu,.lt-srh-new').toggle()
+    })
+
+    $('.lt-srh-new-clk a').click(function () {
+        $('.lt-srh-new-layer').toggle();
+        return false
+    })
+    $('.lt-nav-item-srh').unbind('hover').click(function () {
+        $('.lt-srh-new').toggle();
+        //return false
+    });
+
+    $('.nav-new-btn').hover(function () {
+        $(this).find('.btn').toggleClass('btn-on');
+        $(this).find('.nav-new-layer').toggle();
+    });
+    $('.nav-new-layer li,.ltCommentList li').hover(function () {
+        $(this).toggleClass('hover');
+    });
+</script>
+<!--=S 头图 -->
+
+<div class="bdBannerWrap bdBannerChl mddBannerCh2">
+    
+    <div class="bd-main clearfix">
+		<div class="mdd-adv">
+			<script src="http://js.lotour.net/bcef/410.js" type="text/javascript"></script>
+		</div>
+		<div class="mddName clearfix">				
+			<h2><a title="斯里兰卡旅游" class="bdName-tit" href="http://sri.lotour.com/">斯里兰卡</a><a title="" href="javascript:void(0)" class="map-btn"></a>
+            
+			</h2>
+        
+			<div class="bdLikeNum"><span></span>人感兴趣</div>
+            
+			<div class="mdd-weather"></div>
+            									
+		</div>        
+	</div>    
+</div>
+<script type="text/javascript">
+    function SelectScour(){
+        $.getJSON("http://api.lotour.net/brandhome/Region/SelectRegionScore?regionId=458&callback=?", function (data) {
+            var star1 = parseInt(data.Score / 2);
+            var scor = parseInt(data.Score);
+            var scor1 = parseInt((data.Score - scor) * 10);
+            $("#rscore").find("em").html(scor+"."+scor1);
+            for (var i = 0; i < star1; i++) {
+                $("#rscore>b:eq("+i+")").html("<i></i>");
+            }
+            $("#rscore>b:eq("+star1+")").html("<i style=\"width:"+parseInt((data.Score/2-star1)*100)+"%\"></i>");
+        });
+    }
+    
+    $(function () {
+        
+        var winw = $(window).width();	
+        $('.map-box').css({"margin-left":(winw-980)/2,"top":"233px","border":"1px solid #f5f5f5"});
+    });
+</script>
+
+
+<!--=S 地图弹层-->
+<div class="map-box ">
+	<a class="map-x" href="#" title="关闭"></a>		
+	<div class="map-con" id="J_miniMap">
+	</div>
+	
+</div>
+<!--=E 地图弹层-->
+<style type="text/css">
+.map-mark {
+    width: 24px;
+    height: 28px;
+    background: url(http://img1.lotour.net/lotour/biaodian-d.png) no-repeat -35px 0;
+    overflow: hidden;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 22px;
+    cursor: pointer;
+    position: relative;
+    z-index: 1008;
+}
+.map-mark.on {
+    background-position: -35px -35px;
+    z-index: 1009;
+}
+</style>
+<script type="text/javascript" src="http://js.lotour.net/map.js" charset="utf-8"></script>
+<script type="text/javascript" src="http://js.lotour.net/jquery.tmpl.min.js"></script>
+<script type="text/javascript">
+    var mapInfo = {
+        lat: parseFloat('7.873054'),
+        lng: parseFloat('80.771797')
+    };
+    var miniMapBox = $('#J_miniMap'), miniMap, MiniMarker;
+
+    function initMiniMap() {
+        var latLng = new google.maps.LatLng(mapInfo.lat, mapInfo.lng);
+        var mapOptions = {
+            center: latLng,
+            zoom: 4,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+        miniMap = new google.maps.Map(miniMapBox.get(0), mapOptions);
+        var markerHtml = '<div class="map-mark"></div>';
+        new MiniMarker(miniMap, markerHtml, latLng);
+        
+
+        var marker = new google.maps.Marker({
+            position: latLng
+        });
+
+    }
+    function MarkerOverlay() {
+        var Overlay = function (map, text, latLng, ready) {
+            this.map = map;
+            this.text = text;
+            this.latLng = latLng;
+            this.ready = ready;
+            this.div = null;
+            this.setMap(this.map);
+        }
+
+        Overlay.prototype = new google.maps.OverlayView();
+
+        $.extend(Overlay.prototype, {
+            onAdd: function () {
+                var div = $('<div/>').html(this.text).css('position', 'absolute');
+                $(this.getPanes().overlayImage).append(div);
+                this.div = div;
+                if (typeof this.ready === 'function') {
+                    this.ready.call(this);
+                }
+            },
+            draw: function () {
+                var latLng = this.getProjection().fromLatLngToDivPixel(this.latLng);
+                this.div.css({
+                    'left': latLng.x - this.div.width() / 2,
+                    'bottom': -latLng.y
+                });
+            },
+            onRemove: function () {
+                this.div.remove();
+                this.div = null;
+            }
+        });
+
+        return Overlay;
+    }
+
+    function updateBrowse() {
+        var regionObj = new RegionBrowse(458);
+        regionObj.updateBrowse()
+        $.getJSON("http://api.lotour.net/rss/dmspageview.ashx?id=458&callback=?", function (data) {
+            var span = $("div.bdLikeNum").find("span");
+            span.html(data.pageview);
+        });
+    }
+    
+    $(function () {
+        updateBrowse();
+        //地图加载
+        var mapload = new MfwMapLoad(function () {
+            if (mapInfo == undefined || !$.isPlainObject(mapInfo) || $.isEmptyObject(mapInfo)) {
+                return;
+            }
+            MiniMarker = MarkerOverlay();
+            $(".map-btn").click(function () {
+                if($(".map-box").is(":hidden")){
+                    if($(".tkt-btn").length>0&&!$(".tkt-layer").is(":hidden")){
+                        $(".tkt-btn").trigger("click");
+                    }
+                    $(".map-box").show();
+                    initMiniMap();
+                }
+                else{
+                    $(".map-box").hide();
+                }
+            });
+            $(".bd-r-mapbtn,#abigmap").click(function(){
+                initMaxMap();
+            });
+        }, 5000, false);
+        mapload.autoLoadMap();
+        //地图弹层
+        
+        $(".map-x").click(function () {
+            $(".map-box").hide();
+        });
+    });
+</script>
+
+ 
+<div class="mddNavWrap">
+    <div class="mddNavbg">
+	    <div class="mddNav">            
+		    <ul class="clearfix">         
+			    <li class="on"><a title="斯里兰卡旅游必知" href="http://sri.lotour.com/"><span>必知</span></a></li>
+                
+		        <li class=""><a href="http://sri.lotour.com/wanfa/" title="斯里兰卡旅游玩法"><span>玩法</span></a></li>
+               
+                 <li class=""><a title="斯里兰卡旅游景区" href="http://sri.lotour.com/jingqu/"><span>景区</span></a></li>                
+			         
+                <li class=""><a title="斯里兰卡旅游游记" href="http://sri.lotour.com/lvyouyouji/"><span>游记</span></a></li>  
+                              
+			    <li class=""><a title="斯里兰卡旅游口碑" href="http://sri.lotour.com/pingce/"><span>口碑</span></a></li>                
+			    <li class=""><a title="斯里兰卡旅游文章" href="http://sri.lotour.com/news/"><span>文章</span></a></li>                
+			    
+                <li class=""><a title="斯里兰卡旅游预订" href="http://sri.lotour.com/yuding/"><span>预订</span></a></li>
+                               	
+		    </ul>
+            <div class="bz-nav sphl">
+				    <dl class="clearfix">				
+					    <dd><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					    <dd><a href="javascript:void(0)" title="">玩法</a></dd>
+					    <dd><a href="javascript:void(0)" title="">资讯</a></dd>
+					    <dd><a href="javascript:void(0)" title="">住哪儿</a></dd>
+					    <dd><a href="javascript:void(0)" title="">包打听</a></dd>
+					    <dd><a href="javascript:void(0)" title="">如何到达</a></dd>					
+					    <dd><a href="javascript:void(0)" title="">附近城市</a></dd>
+					    <dt><a href="javascript:void(0)" title=""><span>手绘攻略</span></a></dt>
+				    </dl>
+			    </div>
+            <div class="bz-nav sphl">
+				<dl class="clearfix">
+					<dd class="nav1"><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					<dd class="nav2"><a href="javascript:void(0)" title="">旅行<br />月历</a></dd>
+					<dd class="nav3"><a href="javascript:void(0)" title="">必体验</a></dd>
+					<dd class="nav4"><a href="javascript:void(0)" title="">玩法</a></dd>
+					<dd class="nav5"><a href="javascript:void(0)" title="">抵达<br />住哪</a></dd>
+					<dd class="nav6"><a href="javascript:void(0)" title="">包打听</a></dd>
+					<dd class="nav7"><a href="javascript:void(0)" title="">周边<br />线路</a></dd>					
+				</dl>
+			</div>
+            <div class="bz-nav sphl">
+				<dl class="clearfix">
+					<dd class="nav1"><a class="on" href="javascript:void(0)" title="">个性</a></dd>
+					<dd class="nav3"><a href="javascript:void(0)" title="">必体验</a></dd>
+					<dd class="nav4"><a href="javascript:void(0)" title="">玩法</a></dd>
+					<dd class="nav5"><a href="javascript:void(0)" title="">重要<br />提示</a></dd>
+					<dd class="nav6"><a href="javascript:void(0)" title="">附近<br />景区</a></dd>
+					<dd class="nav7"><a href="javascript:void(0)" title="">城市<br />相关</a></dd>
+				</dl>
+			</div>
+	    </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(".bz-nav:eq(1)").removeClass("sphl");
+    $(function () {
+
+        var winw = $(window).width();
+        $('.map-box').css({ "margin-left": (winw - 980) / 2, "top": "233px", "border": "1px solid #f5f5f5" });
+
+        //滚动固定导航
+        $(window).scroll(function () {
+            var st = $(document).scrollTop(), toph = $(".lt-nav-new").height() + $(".bdBannerWrap").height();
+            if (st - toph >= 0) {
+                $(".mddNavWrap").addClass("mddNavWrapFix");
+                $(".bz-con1").addClass("pt-con1");
+                if ($.browser.msie && ($.browser.version == "6.0") && !$.support.style) {
+                    $(".mddNavWrap").css({ "top": st, "margin-top": "0" })
+                }
+            } else if (st - toph < 0) {
+                $(".mddNavWrap").removeClass("mddNavWrapFix");
+                $(".bz-con1").removeClass("pt-con1");
+                if ($.browser.msie && ($.browser.version == "6.0") && !$.support.style) {
+                    $(".mddNavWrap").css({ "top": "0", "margin-top": "0" })
+                }
+            }
+        });
+    });
+</script>
+<div class="bd-main bz-main clearfix">
+    <div class="bz-con clearfix bz-con1">
+        <div class="bz-con1-con">
+            <ul class="bz-con1-pic clearfix">
+                
+                <li class="pic-zi2 pic-2-2 pic-bg1" style="left:0px;top:226px">					
+					<div class="pic-wrap">
+						<h3><a href="http://sri.lotour.com/zhengwen/2015/02/1262427.shtml" title="" target="_blank">古锡兰在微笑</a></h3>
+						<p><a href="http://sri.lotour.com/zhengwen/2015/02/1262427.shtml" title="" target="_blank">颓废的寺庙、迷失的城市以及神圣的古迹，足以成为前往古国的理由，当王朝覆灭、时间流逝，大自然悄然夺回了这块宝地...</a><a target="_blank" title="" href="http://sri.lotour.com/zhengwen/2015/02/1262427.shtml" class="more">[详细]</a></p>
+					</div>			
+				</li>      
+                
+                <li class="pic-img pic-2-2 pic-bg1" style="left:280px;top:226px">
+					<div class="pic-wrap"> <a href="http://sri.lotour.com/zhengwen/2015/02/1262427.shtml" title="" target="_blank"><img src="http://img1.lotour.net/mustknow/2015/0318/201503181722153134681.jpg" width="279" height="225" alt="古城废墟" title="古城废墟" /></a></div>
+					<b class="pic-j j-tl"></b>
+                    
+                    <i class="pic-line line-x1"></i>      
+                    
+                    <i class="pic-line line-y1"></i>
+                    
+				</li>
+                
+                <li class="pic-img pic-2-2 pic-bg4" style="left:420px;top:0px">
+					<div class="pic-wrap"> <a href="http://sri.lotour.com/zhengwen/2015/02/1262340.shtml" title="" target="_blank"><img src="http://img2.lotour.net/mustknow/2015/0318/2015031817225379496464.jpg" width="279" height="225" alt="茶园" title="茶园" /></a></div>
+					<b class="pic-j j-br"></b>
+                    
+                    <i class="pic-line line-x1"></i>      
+                    
+                    <i class="pic-line line-y1"></i>
+                    
+				</li>
+                
+                <li class="pic-zi2 pic-2-2 pic-bg4" style="left:700px;top:0px">					
+					<div class="pic-wrap">
+						<h3><a href="http://sri.lotour.com/zhengwen/2015/02/1262340.shtml" title="" target="_blank">锡兰红茶</a></h3>
+						<p><a href="http://sri.lotour.com/zhengwen/2015/02/1262340.shtml" title="" target="_blank">斯里兰卡人每天的下午茶是怎么都不能少的，将椰子沫溶于红茶里，手捧茶杯，饮一口红茶，那份悠然，那种自得，闲情逸致让人流连...</a><a target="_blank" title="" href="http://sri.lotour.com/zhengwen/2015/02/1262340.shtml" class="more">[详细]</a></p>
+					</div>			
+				</li>      
+                
+                <li class="pic-zi2 pic-3-1 pic-bg2" style="left:0px;top:0px">					
+					<div class="pic-wrap">
+						<h3><a href="http://sri.lotour.com/zhengwen/2015/02/1262296.shtml" title="" target="_blank">印度洋的眼泪</a></h3>
+						<p><a href="http://sri.lotour.com/zhengwen/2015/02/1262296.shtml" title="" target="_blank">马可波罗说过“斯里兰卡是世界上最完美的岛屿，低垂在印度的西南边”...</a><a target="_blank" title="" href="http://sri.lotour.com/zhengwen/2015/02/1262296.shtml" class="more">[详细]</a></p>
+					</div>			
+				</li>      
+                
+                <li class="pic-img pic-3-1 pic-bg2" style="left:0px;top:113px">
+					<div class="pic-wrap"> <a href="http://sri.lotour.com/zhengwen/2015/02/1262296.shtml" title="" target="_blank"><img src="http://img3.lotour.net/mustknow/2015/0318/2015031817211017819646.jpg" width="419" height="112" alt="高跷垂钓" title="高跷垂钓" /></a></div>
+					<b class="pic-j j-tr"></b>
+                    
+                    <i class="pic-line line-y1"></i>
+                    
+                    <i class="pic-line line-y2"></i>
+                    
+				</li>
+                
+                <li class="pic-zi2 pic-3-1 pic-bg3" style="left:560px;top:226px">					
+					<div class="pic-wrap">
+						<h3><a href="http://sri.lotour.com/zhengwen/2015/02/1262435.shtml" title="" target="_blank">零距离丛林探险</a></h3>
+						<p><a href="http://sri.lotour.com/zhengwen/2015/02/1262435.shtml" title="" target="_blank">这里是地球上最具生物多样性的国家之一，零距离接触，它们或爬行、或游动、或跳跃…给大自然增添了无穷乐趣...</a><a target="_blank" title="" href="http://sri.lotour.com/zhengwen/2015/02/1262435.shtml" class="more">[详细]</a></p>
+					</div>			
+				</li>      
+                
+                <li class="pic-img pic-3-1 pic-bg3" style="left:560px;top:339px">
+					<div class="pic-wrap"> <a href="http://sri.lotour.com/zhengwen/2015/02/1262435.shtml" title="" target="_blank"><img src="http://img3.lotour.net/mustknow/2015/0318/2015031817200075629808.jpg" width="419" height="112" alt="大象孤儿院" title="大象孤儿院" /></a></div>
+					<b class="pic-j j-bl"></b>
+                    
+                    <i class="pic-line line-y1"></i>
+                    
+                    <i class="pic-line line-y2"></i>
+                    
+				</li>
+                
+				
+			</ul>
+        </div>
+    </div>
+    <div class="bz-con clearfix">
+        <h2 class="bz-con-tit clearfix"> <strong class="tit1"><a href="javascript:void(0)" title="">旅行月历</a></strong> </h2>
+        <div class="bz-lxmonth clearfix img-scroll">
+			<a class="lx-btn lx-btn-l prev" href="javascript:void(0)" title=""></a>			
+			<div class="lxmonth img-list">				
+				<ul class="clearfix">
+                    
+                    <li deffer="6" class="lx-danji">
+						<h3 class="clearfix"> <strong>5-6</strong><em></em><i></i> </h3>
+						<div class="lx-txt">这时是雅拉季风季节，南部和西部海岸以及山区雨量较大。游客比较少，价格相对便宜，这个时间段还可以看到雨中的景致。</div>
+					</li>      
+                    
+                    <li deffer="9" class="lx-wangji">
+						<h3 class="clearfix"> <strong>7-9</strong><em></em><i></i> </h3>
+						<div class="lx-txt">这个时间段是这里的佛牙节，你在这个节日上可以看到装扮的美丽的雄象拖着佛牙宝盒在这个岛上面游行，这是佛教的盛大的节日...<a href="http://sri.lotour.com/zhengwen/2015/03/1268113.shtml" target="_blank" title="">[详细]</a></div>
+					</li>      
+                    
+                    <li deffer="11" class="lx-pingji">
+						<h3 class="clearfix"> <strong>10-11</strong><em></em><i></i> </h3>
+						<div class="lx-txt">这个时候是闲逛的好时机，吃住行不需要提前预定，也不需要周密的旅行计划，人没有那么多。</div>
+					</li>      
+                    
+                    <li deffer="15" class="lx-wangji">
+						<h3 class="clearfix"> <strong>12-3</strong><em></em><i></i> </h3>
+						<div class="lx-txt">12月至次年3月这个时间来到这里度假的多是欧洲人，要是在这个时间来到这里的话，你会看到很多的欧洲人...<a href="http://sri.lotour.com/zhengwen/2015/03/1268113.shtml" target="_blank" title="">[详细]</a></div>
+					</li>      
+                    
+                    <li deffer="16" class="lx-pingji">
+						<h3 class="clearfix"> <strong>4</strong><em></em><i></i> </h3>
+						<div class="lx-txt">4月份是斯里兰卡的新年，酒店价格会调整的，另外车也会比较拥挤的，不过这个时候是闲逛的好时机，吃住行不需要提前预定。</div>
+					</li>      
+                    									
+				</ul>				
+				<b class="lx-mask"></b>
+			</div>
+			<a class="lx-btn lx-btn-r next" href="javascript:void(0)" title=""></a>				
+		</div>
+		<script type="text/javascript"> scrollloop('.img-scroll', '.prev', '.next', '.img-list', 3, false); </script>
+    </div>
+    <div class="bz-con clearfix">
+        <div class="bz-con-tit clearfix"> 
+			<ul class="bz-tab-tit" id="youchi">
+				<li><strong class="tit2"><a class="on" href="javascript:void(0)" title="">游</a></strong></li>
+				<li><strong class="tit2"><a href="javascript:void(0)" title="">吃</a></strong></li>
+				<li><strong class="tit2"><a href="javascript:void(0)" title="">购</a></strong></li>
+				<li><strong class="tit2"><a href="javascript:void(0)" title="">娱</a></strong></li>
+			</ul>			
+		</div>
+        <div class="bz-tab bz-tab-con bz-tab-you">
+			<a class="more" title="更多" target="_blank" href="http://sri.lotour.com/jingqu/">更多</a>
+			<ul class="bi-list bi-list3 clearfix">
+                
+                <li class="first">
+                    <h3><span>狮子岩</span></h3>
+                    <a title="狮子岩旅游" target="_blank" href="http://sri.lotour.com/21664/">
+                    	<img src="http://img2.lotour.net/mustknow/2015/0319/2015031913414936938307.jpg" width="335" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>狮子岩</span></h4>
+                            <p class="text">有著澳洲艾尔斯岩的自然奇景，更有著化不可能为可能的人工奇迹，不得不让每位初到的游客瞠目结舌大叹神奇。...<span>[详细]</span></p>
+                            
+                        </div>
+                    </a>
+                    <p class="like">1019人感兴趣</p>
+				</li>
+                    
+                <li>
+                    <h3><span>圣菩提树</span></h3>
+                    <a title="圣菩提树旅游" target="_blank" href="http://sri.lotour.com/srimahabodhiviharaya/">
+                    	<img src="http://img2.lotour.net/mustknow/2015/0319/2015031913422823654218.jpg" width="201" height="129" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>圣菩提树</span></h4>
+                            <p class="text">“菩提”一词为古印度语（即梵文）Bodhi的...<span>[详细]</span></p>
+                            
+                        </div>
+                    </a>
+                    <p class="like">73人感兴趣</p>
+				</li>      
+                
+                <li>
+                    <h3><span>大象孤儿院</span></h3>
+                    <a title="大象孤儿院旅游" target="_blank" href="http://sri.lotour.com/daxianggueryuan/">
+                    	<img src="http://img3.lotour.net/mustknow/2015/0319/2015031913434560831912.jpg" width="201" height="129" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>大象孤儿院</span></h4>
+                            <p class="text">大象孤儿院专门收养那些无家可归、掉入深坑或陷...<span>[详细]</span></p>
+                            
+                        </div>
+                    </a>
+                    <p class="like">5180人感兴趣</p>
+				</li>      
+                
+                <li>
+                    <h3><span>皇家幸福花园</span></h3>
+                    <a title="皇家幸福花园旅游" target="_blank" href="http://sri.lotour.com/royalpleasuregardens/">
+                    	<img src="http://img3.lotour.net/mustknow/2015/0319/2015031913442136290551.jpg" width="201" height="129" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>皇家幸福花园</span></h4>
+                            <p class="text">这座皇家花园也被称作“金鱼园”。占地14公顷...<span>[详细]</span></p>
+                            
+                        </div>
+                    </a>
+                    <p class="like">56人感兴趣</p>
+				</li>      
+                
+                <li>
+                    <h3><span>凯拉尼亚皇家大庙</span></h3>
+                    <a title="凯拉尼亚皇家大庙旅游" target="_blank" href="http://sri.lotour.com/kelaniyarajamahavihara/">
+                    	<img src="http://img2.lotour.net/mustknow/2015/0319/2015031913445804909428.jpg" width="201" height="129" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>凯拉尼亚皇家大庙</span></h4>
+                            <p class="text">凯拉尼亚皇家大庙位于科伦坡卫星城凯拉尼亚，距...<span>[详细]</span></p>
+                            
+                        </div>
+                    </a>
+                    <p class="like">61人感兴趣</p>
+				</li>      
+                
+                <li>
+                    <h3><span>佛牙寺</span></h3>
+                    <a title="佛牙寺旅游" target="_blank" href="http://sri.lotour.com/templeofthesacredtoothrelic/">
+                    	<img src="http://img2.lotour.net/mustknow/2015/0319/2015031913453788395210.jpg" width="201" height="129" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>佛牙寺</span></h4>
+                            <p class="text">佛牙寺是斯里兰卡著名的佛寺，为佛教徒朝圣地，...<span>[详细]</span></p>
+                            
+                        </div>
+                    </a>
+                    <p class="like">39人感兴趣</p>
+				</li>      
+                
+                <li>
+                    <h3><span>康提湖</span></h3>
+                    <a title="康提湖旅游" target="_blank" href="http://sri.lotour.com/kandylake/">
+                    	<img src="http://img2.lotour.net/mustknow/2015/0319/2015031913461020788458.jpg" width="201" height="129" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>康提湖</span></h4>
+                            <p class="text">康提湖位于斯里兰卡中部城市、佛教圣地康堤市中...<span>[详细]</span></p>
+                            
+                        </div>
+                    </a>
+                    <p class="like">53人感兴趣</p>
+				</li>      
+                
+			</ul>
+		</div>
+		<div class="bz-tab bz-tab-con" style="display:none">
+			<ul class="bi-list clearfix">
+                
+                <li>
+					<h3><span>咖喱拌饭</span></h3>
+                    <a title="咖喱拌饭" target="_blank" href="http://sri.lotour.com/zhengwen/2015/03/1267767.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0507/2015050719405445498380.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>咖喱拌饭</span></h4>
+                            <p class="text">在斯里兰卡，几乎所有的菜单上都会有米饭和咖喱。在上菜时，斯里兰卡的米饭、咖喱和一大堆小菜共同呈上。食材包括蔬菜、肉类或是鱼肉、多搭...<span>[详细]</span></p>
+                            <p>价格：免费</p>
+                        </div>
+                    </a>					
+				</li>      
+                
+                <li>
+					<h3><span>斯里兰卡薄饼</span></h3>
+                    <a title="斯里兰卡薄饼" target="_blank" href="http://sri.lotour.com/zhengwen/2015/05/1277911.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0507/2015050719410524872262.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>斯里兰卡薄饼</span></h4>
+                            <p class="text">在斯里兰卡，无论是高档的五星级酒店，还是路边小吃摊，都会看到一种形状奇特的食物——碗形薄饼。这个用米粉做成的有趣小碗通常出现在斯里...<span>[详细]</span></p>
+                            <p>价格：免费</p>
+                        </div>
+                    </a>					
+				</li>      
+                
+                <li>
+					<h3><span>斯里兰卡煎饼</span></h3>
+                    <a title="斯里兰卡煎饼" target="_blank" href="http://sri.lotour.com/zhengwen/2015/05/1277912.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0507/2015050719411621388992.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>斯里兰卡煎饼</span></h4>
+                            <p class="text">只要到过斯里兰卡，一定会为满大街的Rotti拍手叫好，可以说这是每个到斯里兰卡的旅行者都爱不释手的食物，芝士、咖喱、鸡蛋、吞拿鱼、...<span>[详细]</span></p>
+                            <p>价格：免费</p>
+                        </div>
+                    </a>					
+				</li>      
+                
+                <li>
+					<h3><span>鱼和海鲜</span></h3>
+                    <a title="鱼和海鲜" target="_blank" href="http://sri.lotour.com/zhengwen/2015/03/1267768.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0507/2015050719412567902496.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>鱼和海鲜</span></h4>
+                            <p class="text">这里到处都是上等的鱼虾，在许多沿海城镇也会有螃蟹和龙虾。蓝点马鲛是一种类似金枪鱼的鱼类、很受欢迎。南方特产有酸鱼肉咖喱，用一种酸水...<span>[详细]</span></p>
+                            <p>价格：免费</p>
+                        </div>
+                    </a>					
+				</li>      
+                
+                <li>
+					<h3><span>米之乐</span></h3>
+                    <a title="米之乐" target="_blank" href="http://sri.lotour.com/zhengwen/2015/03/1267766.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0507/2015050719413956892457.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>米之乐</span></h4>
+                            <p class="text">米饭是斯里兰卡菜系中最重要的主食，每顿少不了一碗香喷喷的米饭。有时只是一碗白饭，有时加香料，有时拌肉汁，有时加酸豆，更有拌酸奶或是...<span>[详细]</span></p>
+                            <p>价格：免费</p>
+                        </div>
+                    </a>					
+				</li>      
+                
+			</ul>	
+		</div>
+		<div class="bz-tab bz-tab-con" style="display:none">
+			<ul class="bi-list clearfix">
+                
+                <li>
+                    <h3><span>锡兰红茶</span></h3>
+                    <a title="锡兰红茶" target="_blank" href="http://sri.lotour.com/zhengwen/2015/03/1267777.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0508/2015050809220084290097.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>锡兰红茶</span></h4>
+                            <p class="text">锡兰红茶分为全叶茶和碎叶茶两种，国人普遍爱好全叶茶，但是斯里兰卡比较普遍能买到的是碎叶茶。碎叶茶（BrokenGrade）：意指完...<span>[详细]</span></p>
+                            <p>价格：价格不等</p>
+                        </div>
+                    </a>				
+				</li>      
+                
+                <li>
+                    <h3><span>宝石</span></h3>
+                    <a title="宝石" target="_blank" href="http://sri.lotour.com/zhengwen/2015/03/1267776.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0508/2015050809213222714715.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>宝石</span></h4>
+                            <p class="text">斯里兰卡尤其以珠宝石而闻名，Ratnapura是斯里兰卡宝石贸易的中心。在斯里兰卡的各购物中心、百货商店、机场免税店、旅游商店和集...<span>[详细]</span></p>
+                            <p>价格：价格不等</p>
+                        </div>
+                    </a>				
+				</li>      
+                
+                <li>
+                    <h3><span>香料</span></h3>
+                    <a title="香料" target="_blank" href="http://sri.lotour.com/zhengwen/2015/03/1267781.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0508/2015050809211920602605.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>香料</span></h4>
+                            <p class="text">斯里兰卡土地肥沃，几乎种什么成什么。而香料就是斯里兰卡闻名所在，亦令它能在贸易路途上站稳脚步的主因。从科伦坡到康提一路走来，漫山遍...<span>[详细]</span></p>
+                            <p>价格：价格不等</p>
+                        </div>
+                    </a>				
+				</li>      
+                
+                <li>
+                    <h3><span>木雕制品</span></h3>
+                    <a title="木雕制品" target="_blank" href="http://sri.lotour.com/zhengwen/2015/05/1277913.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0508/2015050809210225278956.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>木雕制品</span></h4>
+                            <p class="text">斯里兰卡的森林树木资源丰富，各种木雕制品非常多。比较常见的产品有面具、佛像、人物和神奇百宝盒等。比如面具，其实在斯里兰卡戏剧、舞蹈...<span>[详细]</span></p>
+                            <p>价格：价格不等</p>
+                        </div>
+                    </a>				
+				</li>      
+                
+                <li>
+                    <h3><span>手工艺品</span></h3>
+                    <a title="手工艺品" target="_blank" href="http://sri.lotour.com/zhengwen/2015/05/1277914.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0508/201505080920423336066.jpg" width="186" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>手工艺品</span></h4>
+                            <p class="text">斯里兰卡的手工艺品可以追溯到千年之前。斯里兰卡的手工艺品除珠宝以外本质上属于家庭手工。所生产的产品使用的都是天然的原料以及经过时间...<span>[详细]</span></p>
+                            <p>价格：价格不等</p>
+                        </div>
+                    </a>				
+				</li>      
+                
+			</ul>	
+		</div>
+		<div class="bz-tab bz-tab-con" style="display:none">
+			<ul class="bi-list bi-list2 clearfix">
+                
+                <li class="first">
+					<h3><span>山间小火车</span></h3>
+                    <a title="山间小火车" target="_blank" href="http://sri.lotour.com/zhengwen/2015/03/1267790.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0507/201505071954549053369.jpg" width="516" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>山间小火车</span></h4>
+                            <p class="text">斯里兰卡旅行你可以错失很多，唯独不能错过的就是被全世界背包客所推崇的英伦小镇火车风景线，这段也是整个斯里兰卡火车旅行最精华最美的一...<span>[详细]</span></p>
+                            <p>价格：免费</p>
+                        </div>
+                    </a>
+				</li>      
+                
+                <li class="">
+					<h3><span>浮潜</span></h3>
+                    <a title="浮潜" target="_blank" href="http://sri.lotour.com/zhengwen/2015/03/1267873.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0507/2015050719551596731401.jpg" width="215" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>浮潜</span></h4>
+                            <p class="text">尼勒韦利附近的鸽子岛有着水晶般的海水，浅浅的暗礁，五颜六色的鱼儿，无论是初学者还是老手，但凡想要浮潜或是深浅的人，都会喜欢这个地方...<span>[详细]</span></p>
+                            <p>价格：价格不等</p>
+                        </div>
+                    </a>
+				</li>      
+                
+                <li class="">
+					<h3><span>看蓝鲸</span></h3>
+                    <a title="看蓝鲸" target="_blank" href="http://sri.lotour.com/zhengwen/2015/03/1267796.shtml">
+                    	<img src="http://img1.lotour.net/mustknow/2015/0507/2015050719550457678155.jpg" width="215" height="288" alt="" title="" />
+                        <div class="mask">
+                            <h4><span>看蓝鲸</span></h4>
+                            <p class="text">斯里兰卡峥迅速成为世界级的赏鲸目的地。吸引旅行者前来的，正是体型硕大的蓝鲸，因为它是世界上最大的生物。米瑞莎是最适合赏鲸的地方。在...<span>[详细]</span></p>
+                            <p>价格：免费</p>
+                        </div>
+                    </a>
+				</li>      
+                
+			</ul>	
+		</div>	
+    </div>
+    <div class="bz-con clearfix">		
+		<h2 class="bz-con-tit clearfix"> <strong class="tit3"><a href="javascript:void(0)" title="">玩法</a></strong> <a class="more" title="更多" target="_blank" href="http://sri.lotour.com/lvyouyouji/">更多</a> </h2>
+		<ul class="bz-wf clearfix">
+            
+            <li>
+				<h3><em class="i-guanfang"></em><span><a href="http://sri.lotour.com/wanfa-266" target="_blank" title="">斯里兰卡古城精华游</a></span></h3>
+				<p class="wf-text">颓废的寺庙、迷失的城市以及神圣的古迹，这些已足够成为前往“古城”游览的原因。这里是斯里兰卡最炎热的中心平原，古僧伽罗王朝...<a title="" target="_blank" href="http://sri.lotour.com/wanfa-266">[详细]</a></p>
+				<p class="wf-place"><span>游览路线：</span> 
+                    
+                                           <a title="" target="_blank" href="http://sri.lotour.com/21664/">狮子岩,西吉利亚</a>
+                                     
+                                      &gt; 
+                                           
+                                           <a title="" target="_blank" href="http://sri.lotour.com/royalpleasuregardens/">皇家幸福花园</a>
+                                     
+                                      &gt; 
+                                           
+                                           <a title="" target="_blank" href="http://sri.lotour.com/srimahabodhiviharaya/">圣菩提树</a>
+                                         
+				</p>				
+			</li>      
+            
+            <li>
+				<h3><em class="i-guanfang"></em><span><a href="http://sri.lotour.com/wanfa-267" target="_blank" title="">斯里兰卡休闲度假游</a></span></h3>
+				<p class="wf-text">在这里，你可以漫步到“世界尽头”，站在佛祖的脚印上，你可以在奔腾的河上划着皮划艇漂流，或是享受传统舞蹈中的节奏，放眼望去...<a title="" target="_blank" href="http://sri.lotour.com/wanfa-267">[详细]</a></p>
+				<p class="wf-place"><span>游览路线：</span> 
+                    
+                                           <a title="" target="_blank" href="http://sri.lotour.com/templeofthesacredtoothrelic/">佛牙寺</a>
+                                     
+                                      &gt; 
+                                           
+                                           <a title="" target="_blank" href="http://sri.lotour.com/kandylake/">康提湖</a>
+                                     
+                                      &gt; 
+                                           
+                                           <a title="" target="_blank" href="http://sri.lotour.com/daxianggueryuan/">大象孤儿院</a>
+                                     
+                                      &gt; 
+                                           
+                                           <a title="" target="_blank" href="http://sri.lotour.com/sililankaguojiabowuguan/">斯里兰卡国家博物馆</a>
+                                         
+				</p>				
+			</li>      
+            
+              <li>
+				<h3><em class="i-miji"></em><span><a title="歪歪的斯里兰卡九日游" target="_blank" href="http://sri.lotour.com/zj/1112953">歪歪的斯里兰卡九日游</a></span></h3>
+				<p class="wf-text">Day1上海-吉隆坡-马尔代夫-科伦坡以为机票价格问题，所以先选择了上海飞吉隆坡的航班，再从吉隆坡飞科伦坡（中途在马尔代...<a title="" target="_blank" href="http://sri.lotour.com/zj/1112953">[详细]</a></p>
+				<p class="wf-place wf-place2" deffer="4430239"><a href="http://my.lotour.com/i/4430239" target="_blank" title=""></a><i class="sphl">V</i><span>2015年3月游览过：</span> 
+                    
+                                  <a title="" target="_blank" href="http://sri.lotour.com/">斯里兰卡</a>
+                                     	
+				</p>
+			</li>      
+              
+              <li>
+				<h3><em class="i-miji"></em><span><a title="行走在斯里兰卡 全方位讲解SriLanka" target="_blank" href="http://sri.lotour.com/zj/1112950">行走在斯里兰卡 全方位讲解SriLank</a></span></h3>
+				<p class="wf-text">Part1一些照片留给回忆作品刊登在摄影旅游2015.1月刊斯里兰卡照片集登上了蜂鸟网2014128首页3.14佳友摄影...<a title="" target="_blank" href="http://sri.lotour.com/zj/1112950">[详细]</a></p>
+				<p class="wf-place wf-place2" deffer="4429096"><a href="http://my.lotour.com/i/4429096" target="_blank" title=""></a><i class="sphl">V</i><span>2015年3月游览过：</span> 
+                    
+                                  <a title="" target="_blank" href="http://sri.lotour.com/">斯里兰卡</a>
+                                     	
+				</p>
+			</li>      
+              
+              <li>
+				<h3><em class="i-miji"></em><span><a title="最美的风景在路上--斯里兰卡行程、公交路线详细功略" target="_blank" href="http://sri.lotour.com/zj/1112955">最美的风景在路上--斯里兰卡行程、公交路</a></span></h3>
+				<p class="wf-text">早在去年51天的西藏、尼泊尔、泰国行程后本来应该是去斯里兰卡的，也简单的作了些功课，但因为一些原因最后放弃了这段旅行。所...<a title="" target="_blank" href="http://sri.lotour.com/zj/1112955">[详细]</a></p>
+				<p class="wf-place wf-place2" deffer="4430242"><a href="http://my.lotour.com/i/4430242" target="_blank" title=""></a><i class="sphl">V</i><span>2015年3月游览过：</span> 
+                    
+                                  <a title="" target="_blank" href="http://sri.lotour.com/">斯里兰卡</a>
+                                     	
+				</p>
+			</li>      
+              
+              <li>
+				<h3><em class="i-miji"></em><span><a title="印度洋的茶叶宝石王国【斯里兰卡】（三）" target="_blank" href="http://sri.lotour.com/zj/1104249">印度洋的茶叶宝石王国【斯里兰卡】（三）</a></span></h3>
+				<p class="wf-text">一个人在海边悬崖发呆，静候日落是非常舒服的事去了两天海边，两天都碰到这个人，两天看见了他和不同欧美的女的打招呼，也同时被...<a title="" target="_blank" href="http://sri.lotour.com/zj/1104249">[详细]</a></p>
+				<p class="wf-place wf-place2" deffer="4564799"><a href="http://my.lotour.com/i/4564799" target="_blank" title=""></a><i class="sphl">V</i><span>2015年1月游览过：</span> 
+                    
+                                  <a title="" target="_blank" href="http://sri.lotour.com/">斯里兰卡</a>
+                                     	
+				</p>
+			</li>      
+              
+            
+        </ul>
+    </div>
+    <div class="bz-con bz-mapr clearfix">
+		<div class="bz-con-tit clearfix" id="dmap"> 
+			<ul>
+				<li><strong class="tit4"><a class="on" href="javascript:void(0)" id="test" title="">抵达</a></strong></li>
+				<li><strong class="tit4"><a href="javascript:void(0)" title="">住哪</a></strong></li>				
+			</ul>			
+		</div>
+        <div class="bz-con-l2">
+            <div class="bz-map" id="jq-map-l">  </div>
+            <p class="sphl"><span><a title="" target="_blank" href="http://d.lotour.com/hotel/sri" id="ahotel"></a></span></p>
+        </div>
+        <div class="bz-tab bz-tab2">
+            <div class="bz-con-r2">
+				<div class="roll-con">
+					<ul class="bz-map-list bz-map-list2 bz-map-list3">
+                        
+                              <li>
+							      <h2 class="h-tit h-tit1">飞机</h2>
+                            
+							<h3 class="clearfix" deffer="0"><a href="http://sri.lotour.com/zhengwen/2015/02/1261780.shtml" title="" target="_blank"><i class="bz-mdot">A</i><span>汉班托塔国际机场</span></a></h3>
+                          
+							<h3 class="clearfix" deffer="1"><a href="http://sri.lotour.com/zhengwen/2015/02/1261780.shtml" title="" target="_blank"><i class="bz-mdot">B</i><span>班达拉奈克国际机场</span></a></h3>
+                          
+                              <li>
+							      <h2 class="h-tit h-tit2">火车</h2>
+                            
+							<h3 class="clearfix" deffer="2"><a href="http://sri.lotour.com/zhengwen/2015/02/1261781.shtml" title="" target="_blank"><i class="bz-mdot">C</i><span>加勒火车站</span></a></h3>
+                          
+							<h3 class="clearfix" deffer="3"><a href="http://sri.lotour.com/zhengwen/2015/02/1261781.shtml" title="" target="_blank"><i class="bz-mdot">D</i><span>科伦坡火车站</span></a></h3>
+                          			
+					</ul>
+				</div>
+				<div class="roll-btn clearfix">
+					<a class="roll-up" href="javascript:void(0)" title=""></a>
+					<a class="roll-dwon" href="javascript:void(0)" title=""></a>					
+				</div>
+			</div>
+        </div>
+        <div class="bz-tab bz-tab2">
+			<div class="bz-con-r2">
+				<div class="roll-con">
+					<ul class="bz-map-list bz-map-list2">
+                    
+                        <li deffer="460">
+							<h3 class="clearfix"><a href="javascript:void(0)" title=""><i class="bz-mdot">A</i><span>康提</span></a></h3>
+							<p>斯里兰卡旧都，这里没有海港，没有机场，地处斯里兰卡内陆，却是斯里兰卡最吸引人的城市。</p>
+							<p class="map-hotels" defferid="460" deffertype="0"></p>
+						</li>  
+                    
+                        <li deffer="459">
+							<h3 class="clearfix"><a href="javascript:void(0)" title=""><i class="bz-mdot">B</i><span>科伦坡</span></a></h3>
+							<p>科伦坡是斯里兰卡的首都，奢华的精品酒店在这座城市绿荫环绕的街区遍地开花，也能找到青年旅社。</p>
+							<p class="map-hotels" defferid="459" deffertype="0"></p>
+						</li>  
+                    
+                        <li deffer="214747">
+							<h3 class="clearfix"><a href="javascript:void(0)" title=""><i class="bz-mdot">C</i><span>阿努拉德普勒</span></a></h3>
+							<p>斯里兰卡最古老的城市，全国佛教圣地。老城区已辟为考古园地，城内有众多的佛塔和佛像。</p>
+							<p class="map-hotels" defferid="214747" deffertype="0"></p>
+						</li>  
+                    
+					</ul>
+				</div>
+				<div class="roll-btn clearfix">
+					<a class="roll-up" href="javascript:void(0)" title=""></a>
+					<a class="roll-dwon" href="javascript:void(0)" title=""></a>					
+				</div>
+			</div>
+		</div>		
+    </div>
+    <div class="bz-con clearfix">
+		<div class="bz-con-l baodating">			
+			<div class="bz-con-tit clearfix">
+				<strong class="tit5"><a href="javascript:void(0)" title="">包打听</a></strong> 
+				<ul class="dating-tit">
+					<li><strong><a class="on" href="javascript:void(0)" title="">重要提示</a></strong></li>
+					<li><strong><a href="javascript:void(0)" title="">市内交通</a></strong></li>
+					<li><strong><a href="javascript:void(0)" title="">本地生活</a></strong></li>
+					<li><strong><a href="javascript:void(0)" title="">签证消费</a></strong></li>				
+				</ul>			
+			</div>
+			<div class="bz-tab">
+				<div class="roll-btn roll-btn2 clearfix">
+					<a class="roll-up" href="javascript:void(0)" title=""></a>
+					<a class="roll-dwon" href="javascript:void(0)" title=""></a>					
+				</div>
+				<div class="bz-dating roll-con">
+					<ul class="bz-tips-list">
+                    
+                        <li><b>赌博</b> 在科伦坡，外国人赌博是合法的，尽管这里赌场的名字跟拉斯维加斯差不多，但是规模要小很多。</li>      
+                    
+                        <li><b>工作时间</b> 斯里兰卡的工作日是周一到周五，工作时间：8：00—16：30，商店：10：00—19：00，银行：8：00—10：00。</li>      
+                    
+                        <li><b>出租车</b> 斯里兰卡的出租车少数会打表，打表的出租车在科伦坡，在康提和科伦坡有叫车电话。出租车的价格每公里60—100卢比。</li>      
+                    
+                        <li><b>温馨提示</b> 斯里兰卡门票价格本国人和外国人差距通常高达数十倍。景点门口和里面都有很多人争当导游，不合理收费，因此要小心这些“热情”的人。</li>      
+                    
+                        <li><b>美食</b> 斯里兰卡本地饮食多为咖喱饭配菜搅拌，几乎任何小吃都和咖喱有关，在路边的小店吃饭较便宜，拌饭不加肉及蔬菜炒饭约80卢比。</li>      
+                    
+                        <li><b>货币</b> HSBC汇丰银行可以直接通过银联提取美金，在换成当地货币，注意的是换多的斯里兰卡货币想离境时换回美金，必须出示当时的凭证。</li>      
+                    
+                        <li><b>货币</b> 斯里兰卡不接受人民币兑换斯里兰卡卢比，可以用美金、欧元、英镑和港币兑换，所以如果从国内直接过去的话要带好美金。</li>      
+                    
+                        <li><b>电压</b> 斯里兰卡的电压是230V，插座有两种：三个圆孔和两横一竖的英式插座。由于这两种插头都是常用的，所以建议带上万能转换插头。</li>      
+                    
+                        <li><b>消费</b> 斯里兰卡五星级酒店比国内便宜一半。亚洲排行前30的餐厅，人均只要一百多。热带水果、海鲜、红茶都便宜。</li>      
+                    
+                        <li><b>免签</b> 斯里兰卡对中国公民实行免签待遇，持护照便可入境，护照停留有效期30天。</li>      
+                    
+                        <li><b>民俗</b> 斯里兰卡的居民与人初次见面，多采用握手、双手合十的方法来打招呼，双手在面部合十是最为规范的做法。</li>      
+                    
+                        <li><b>民俗</b> 在斯里兰卡参观佛教寺院时，不能对佛像做踩、跨、骑等无礼动作，而且进入寺院，要赤脚，不可穿鞋和袜子，也不可带帽子。</li>      
+                    
+                        <li><b>住宿</b> 斯里兰卡是发展中国家，城市的基础设施较差，3星级饭店的设施都比较陈旧。因此旅行最好选住当地的5星级饭店。</li>      
+                    
+                        <li><b>习俗</b> 斯里兰卡忌讳使用左手传递东西或食物，视左手为肮脏、下贱之手。因此，以左手为他们递送物品是极不礼貌的。</li>      
+                    
+                        <li><b>习俗</b> 斯里兰卡的佛教徒除持有的“过午不食”的教规外，还有不进娱乐场所，不骑车，不快跑，不乘母畜拉的车，不戴手表，庙内赤足的规矩。</li>      
+                    
+                    </ul>
+                </div>
+            </div>
+            <div class="bz-tab">
+				<div class="roll-btn roll-btn2 clearfix">
+					<a class="roll-up" href="javascript:void(0)" title=""></a>
+					<a class="roll-dwon" href="javascript:void(0)" title=""></a>					
+				</div>
+				<div class="bz-dating roll-con">
+					<ul class="bz-q-list">
+                    
+                        <li class="hover">
+							<h3><em></em><span>斯里兰卡的特色交通工具？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">tuktuk是一种类似于中国摩的的一种交通工具，普遍存于斯里兰卡的大街小巷，它主要用于城市内的短途行程。tuktuk的价格一般每公里不会超过rs100，但这也取决于你的砍价功力和对...<a target="_blank" href="http://sri.lotour.com/zhengwen/2015/02/1261787.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>     
+                    
+                        <li class="">
+							<h3><em></em><span>斯里兰卡公交方便便宜吗？有公交卡吗？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">公交车除了会在市内行走外也可以到城市郊区的小镇，价格大约是4-25卢比，公交车站牌都用泰米尔语或是僧伽罗语写，上车前要问清楚。
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>     
+                    
+                        <li class="">
+							<h3><em></em><span>斯里兰卡市区租自行车方便吗？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">在斯里兰卡可以租到汽车和摩托车，但是需要国际驾照。租个自行车溜达也不错，只要不是在坡比较多的地方就行。自行车多是从印度和中国进口的。
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>     
+                    
+                        <li class="">
+							<h3><em></em><span>斯里兰卡是否适合租车旅游？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">科伦坡的机场就可以租车，也可以自己找出租车司机商量，他们一般很乐意“被包”的，另外也可以请酒店、旅馆的老板帮忙联系包车。包车费用约为100美金一天，5天以上可以优惠。包车的费用包括...<a target="_blank" href="http://sri.lotour.com/zhengwen/2015/02/1261784.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>     
+                    
+                    </ul>
+                </div>
+            </div>
+            <div class="bz-tab">
+				<div class="roll-btn roll-btn2 clearfix">
+					<a class="roll-up" href="javascript:void(0)" title=""></a>
+					<a class="roll-dwon" href="javascript:void(0)" title=""></a>					
+				</div>
+				<div class="bz-dating roll-con">
+					<ul class="bz-q-list">
+                    
+                       <li class="hover">
+							<h3><em></em><span>在斯里兰卡，银联卡取现方便吗？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">斯里兰卡大部分酒店或者超市不能使用银联卡，要准备VISA或万事达信用卡。
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>斯里兰卡消费水平怎么样？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">斯里兰卡物价相对较低，公共交通、餐馆、酒店的费用都低于国内，国内昂贵的热带水果在斯里兰卡可以随便吃。
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>斯里兰卡有医院吗？就医方便吗？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">斯里兰卡的医疗水平不高，但是针对外籍人士，会有专门的诊所。
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>斯里兰卡治安怎么样？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">斯里兰卡的治安基本上有保障，只有北部的一些地区仍会有些敏感。
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>在斯里兰卡怎样打电话？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">电话卡：出了机场就能办理，一张sim卡加上一个月1G的流量共1300卢比，如果流量用完了，可以再花299卢比购买1G流量，但必须在一个月内用完。打电话回国以及用手机上网都非常便宜。<a target="_blank" href="http://sri.lotour.com/zhengwen/2015/02/1261790.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>斯里兰卡的wifi热点多吗？上网方便吗？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">斯里兰卡的酒店和guesthouse里都有wifi，但是网吧比较少而且网速很慢。
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>斯里兰卡美食多吗？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">斯里兰卡的美食：红茶、热带水果、咖喱饭、海鲜、酸奶等。
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>斯里兰卡主要的人口构成。</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">斯里兰卡为多民族国家，有僧伽罗族、泰米尔族、摩尔（穆斯林）等民族，其中，僧伽罗族占74.9%，泰米尔族占15.4%，摩尔族占9.2%，其他民族占0.5%。<a target="_blank" href="http://sri.lotour.com/zhengwen/2015/02/1261786.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>斯里兰卡有什么独特的风土人情？要注意什么？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">斯里兰卡僧侣禁止饮酒；也不喜欢吃蘑菇。斯里兰卡伊斯兰教徒禁食猪肉和使用猪制品。
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>斯里兰卡的官方语言是什么？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">僧伽罗语、泰米尔语同为斯里兰卡官方语言和全国语言，上层社会通用英语。
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>斯里兰卡什么时候去最好玩？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">10月到次年3月是斯里兰卡旅游旺季，圣诞节前后为最佳时期。
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>斯里兰卡有什么可以带回家的特产？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">斯里兰卡盛产红茶和宝石，可以多买一些带回来。
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                       <li class="">
+							<h3><em></em><span>斯里兰卡的气候怎么样？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">斯里兰卡属热带季风性气候。终年如夏，年平均气温28℃。各地年平均降水量1283-3321毫米不等。沿海地区平均最高气温31.3℃，平均最低气温23.8℃。山区平均最高气温26.1℃...<a target="_blank" href="http://sri.lotour.com/zhengwen/2015/02/1261685.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                    </ul>
+                </div>
+            </div>
+            <div class="bz-tab">
+				<div class="roll-btn roll-btn2 clearfix">
+					<a class="roll-up" href="javascript:void(0)" title=""></a>
+					<a class="roll-dwon" href="javascript:void(0)" title=""></a>					
+				</div>
+				<div class="bz-dating roll-con">
+					<ul class="bz-q-list">
+                    
+                        <li class="hover">
+							<h3><em></em><span>办理赴斯里兰卡的签证需要准备哪些资料？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">斯里兰卡的个人旅游签证可以在斯里兰卡旅行认证电子系统网站申请电子签证（ETA）。按照网上提示进行申请，用信用卡或借记卡支付，费用为30美元，审批通过后，打印电子签证确认函，获ETA...<a target="_blank" href="http://sri.lotour.com/zhengwen/2015/02/1261795.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                        <li class="">
+							<h3><em></em><span>斯里兰卡有没有中国的使领馆，在哪里？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">中国驻斯里兰卡大使馆地址：斯里兰卡科伦坡七区佛光路381A号。电话：0094779288949,0094112688610。办公时间：9:30—12:00,15:00—17:00.<a target="_blank" href="http://sri.lotour.com/zhengwen/2015/02/1261794.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                        <li class="">
+							<h3><em></em><span>在斯里兰卡，需要扮演“土豪”给小费吗？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">斯里兰卡的餐馆和酒店费用通常包含了10%的服务费，原则上无需再支付给服务员小费。但是如果你对对方的服务感到满意，或是酒店服务员为你提了箱子的话，可以给10-50卢比的小费。<a target="_blank" href="http://sri.lotour.com/zhengwen/2015/02/1261791.shtml" title="">[详细]</a> 
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                        <li class="">
+							<h3><em></em><span>在斯里兰卡会日夜颠倒吗？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">北京时间-2.5小时=斯里兰卡时间
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                        <li class="">
+							<h3><em></em><span>在斯里兰卡使用什么货币，货币汇率大概是多少？</span></h3>
+							<div class="bz-q-a">
+								<div class="bz-q-con"> <i class="bgt"></i>
+									<div class="q-txt">1人民币元=21.2406斯里兰卡卢比（2015年1月）。
+									</div>
+									<i class="bgb"></i> </div>
+							</div>
+						</li>      
+                    
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="bz-con-r">
+			<h2 class="bz-con-tit clearfix"> <strong class="tit5"><a href="javascript:void(0)" title="">鲜闻</a></strong> <a class="more" title="更多" target="_blank" href="http://sri.lotour.com/news/">更多</a> </h2>
+			<ul class="bz-news-list">
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-26587.shtml" target="_blank" title="斯里兰卡八天七晚，阿育吠陀的诱惑">斯里兰卡八天七晚，阿育吠陀的诱惑</a> <span>2016-12-02</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-26232.shtml" target="_blank" title="斯里兰卡：挂着蓝皮火车去旅行">斯里兰卡：挂着蓝皮火车去旅行</a> <span>2016-11-28</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-24213.shtml" target="_blank" title="奇幻的高山火车之旅">奇幻的高山火车之旅</a> <span>2016-11-25</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-24210.shtml" target="_blank" title="霍顿平原 这就是世界尽头">霍顿平原 这就是世界尽头</a> <span>2016-11-25</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-24137.shtml" target="_blank" title="加勒 老城旧事">加勒 老城旧事</a> <span>2016-11-11</span></li>      
+                
+                <li class="newsline"><a href="http://www.lotour.com/zhengwen/2/lg-jc-24801.shtml" target="_blank" title="乌纳瓦图纳 来自印度洋的风">乌纳瓦图纳 来自印度洋的风</a> <span>2016-11-09</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-24205.shtml" target="_blank" title="狮子岩 一座建立在橘红色岩石上的宫殿">狮子岩 一座建立在橘红色岩石上的宫殿</a> <span>2016-10-31</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-24208.shtml" target="_blank" title="瓦拉埃利耶的夜">瓦拉埃利耶的夜</a> <span>2016-10-31</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/1/lg-jc-9238.shtml" target="_blank" title="热带岛国的避暑天堂 纯净蓝与绿的世界">热带岛国的避暑天堂 纯净蓝与绿的世界</a> <span>2016-10-28</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/2/lg-jc-23062.shtml" target="_blank" title="斯里兰卡，只为那传说中的高跷渔夫">斯里兰卡，只为那传说中的高跷渔夫</a> <span>2016-10-18</span></li>      
+                
+                <li class=""><a href="http://www.lotour.com/zhengwen/1/lg-jc-14267.shtml" target="_blank" title="清风划过兰卡，临海灯火阑珊">清风划过兰卡，临海灯火阑珊</a> <span>2016-10-17</span></li>      
+                
+                <li class="newsline"><a href="http://www.lotour.com/zhengwen/1/lg-jc-9719.shtml" target="_blank" title="锡兰红茶：品味清醇，香飘千里">锡兰红茶：品味清醇，香飘千里</a> <span>2016-10-09</span></li>      
+                
+                <li class=""><a href="http://sri.lotour.com/zj/1104249" target="_blank" title="印度洋的茶叶宝石王国【斯里兰卡】（三）">印度洋的茶叶宝石王国【斯里兰卡】（三）</a> <span>2015-01-11</span></li>      
+                
+                <li class=""><a href="http://sri.lotour.com/zj/1104247" target="_blank" title="印度洋的茶叶宝石王国【斯里兰卡】（一）">印度洋的茶叶宝石王国【斯里兰卡】（一）</a> <span>2015-01-10</span></li>      
+                
+                <li class=""><a href="http://sri.lotour.com/zj/1104248" target="_blank" title="印度洋的茶叶宝石王国【斯里兰卡】（二）">印度洋的茶叶宝石王国【斯里兰卡】（二）</a> <span>2015-01-04</span></li>      
+                
+                <li class=""><a href="http://sri.lotour.com/zj/1022490" target="_blank" title="印度洋上的佛祖泪    斯里兰卡自由行">印度洋上的佛祖泪    斯里兰卡自由行</a> <span>2014-01-24</span></li>      
+                
+                
+            </ul>
+        </div>
+    </div>
+    <div class="bz-con clearfix">		
+		<div class="bz-con-tit clearfix">
+			<strong class="tit6"><a href="javascript:void(0)" title="">斯里兰卡周边</a></strong> 
+			<ul class="zhoubian-tit">
+                
+                  <li><strong class="tit7"><a class="on" href="javascript:void(0)" title=""><i>14</i>海岸山区游</a></strong></li>    
+                
+                  <li><strong class="tit7"><a class="" href="javascript:void(0)" title=""><i>14</i>北部海岸游</a></strong></li>    
+                			
+			</ul>			
+		</div>
+        
+           <div class="bz-tab" style="">
+			<div class="bz-con-l2">
+				<div class="bz-map"> <img width="520" height="508" src="http://img2.lotour.net/mustknow/2015/0318/2015031815213026989970.jpg" alt="" /> </div>				
+			</div>
+			<div class="bz-con-r3">
+				<div class="line-days"><span>14天</span></div>
+				<h3><a target="_blank" href="http://sri.lotour.com/zhengwen/2015/03/1268026.shtml" title="">海岸山区游</a></h3>
+				<p><p>从<a href="http://sri.lotour.com/kelunpo1/" target="_blank" title="科伦坡">科伦坡</a>出发，逛逛集市，参观一下这座城市丰富多彩的庙宇。接着向南驶上南部高速公路，很快就能到达<a href="http://sri.lotour.com/jiale/" target="_blank" title="加勒">加勒</a>。走这条路线，还能避开总是十分拥堵的西海岸边的公路和小镇。在加勒的要塞区，在街道上逛逛，游览17世纪荷兰风格的城市建筑。在坦加勒美丽的沙滩上，有很多好玩的地方，向着岛内前进，便可以来到乌达瓦拉维国家公园。在那里能看到许多大象和其它动物。沿着蜿蜒曲折的道路，你可以一路来到山区的中心，在埃拉休息几天。这是一个很棒的小镇。充满了轻松快活的气氛，可以漫步而行，看看山峰和瀑布。搭乘世界上最美的火车线路之一，来到充满英国殖民印记的<a href="http://sri.lotour.com/nuwoleailiye/" target="_blank" title="努沃勒埃利耶">努沃勒埃利耶</a>，在这里你会感觉自己仿佛进入了时光隧道，可以游览茶叶种植园，在<a href="http://sri.lotour.com/kangti1/" target="_blank" title="康提">康提</a>参观寺庙，返回科伦坡，14天旅行结束。</p></p>
+			</div>
+		</div>   
+        
+           <div class="bz-tab" style="display:none">
+			<div class="bz-con-l2">
+				<div class="bz-map"> <img width="520" height="508" src="http://img2.lotour.net/mustknow/2015/0318/2015031816132268948730.jpg" alt="" /> </div>				
+			</div>
+			<div class="bz-con-r3">
+				<div class="line-days"><span>14天</span></div>
+				<h3><a target="_blank" href="http://sri.lotour.com/zhengwen/2015/03/1268035.shtml" title="">北部海岸游</a></h3>
+				<p><p>你可以从卡尔皮蒂耶出发，那的沙滩很好，也可以风筝冲浪和礁石潜水，向北可前往维勒巴图国家公园。这里有斯里兰卡标志性动物。马纳尔有白色的沙滩和美轮美奂的美景。塔莱曼纳尔遥远的小镇让你觉得身处世界的尽头。调转方向前往贾夫纳半岛这里似乎对战争的记忆仍挥之不去，奇瑞马来温泉拥有许多充满传奇色彩的浴池的圣地，紧挨着湿婆神庙。佩德罗冲浪点拥有一片长长的你能想象到的最白的沙滩。纳奈岛上有不错的景点，你可以穿过越来越不坚实的堤道，坐轮渡来到这个小岛，佛教和印度教的寺庙吸引着虔诚的信徒纷纷前来。内顿提吾是一处大路尽头的狂风呼啸之地，野马在看似荒弃的街道漫步。14天旅程结束。</p></p>
+			</div>
+		</div>   
+        
+	</div>
+
+</div>
+<script type="text/javascript">
+    var poi_list = [{"Latitude": 6.290336,"Longitude": 81.117032,"ScenicId":0},{"Latitude": 7.180384,"Longitude": 79.884263,"ScenicId":1},{"Latitude": 6.185413,"Longitude": 80.198951,"ScenicId":2},{"Latitude": 7.050939,"Longitude": 79.879133,"ScenicId":3}];
+    var poi_list1 = [{"Latitude": 7.284459,"Longitude": 80.637459,"ScenicId":460},{"Latitude": 6.9270786,"Longitude": 79.861243,"ScenicId":459},{"Latitude": 8.336341,"Longitude": 80.400966,"ScenicId":214747}];
+    var mddid = parseInt('458');
+    var mdd_center = { lat:parseFloat('7.873054'), lng:parseFloat('80.771797'), zoom:parseInt('4') },map;
+    var marker_handle;
+    var markers = { };
+    var currPop;
+    var allPop = { };
+    var currOtherPop;
+    var allOtherPop = { };
+        var abc = ['A','B','C','D','E','F','G','H','I','J'];
+        $(window).on('resize', function () {
+            init_mapsize();//重绘页面
+        });
+        function initMaxMap(){
+            marker_handle = MarkerOverlay();
+            map_draw('jq-map-l', mdd_center, poi_list, "");
+            init_mapsize();    
+        }
+
+        //初始化地图浮层尺寸
+        function init_mapsize(){
+            $('#jq-map-l').width(520);
+            $('#jq-map-l').height(508);
+        }
+        //绘制地图上的数据
+        function map_draw(box, mdd_center, poi_list1, kmz) {
+            //地图
+            var myLatLng = new google.maps.LatLng(mdd_center.lat, mdd_center.lng);
+            var myOptions = {
+                zoom : mdd_center.zoom,
+                center : myLatLng,
+                panControl : true,
+                mapTypeId: google.maps.MapTypeId.ROADMAP
+            };
+            map = new google.maps.Map(document.getElementById(box), myOptions);
+            if(kmz!=''){
+                var areaborder = new google.maps.KmlLayer(kmz, {
+                    clickable:false
+                    //preserveViewport:mdd.preserveViewport
+                });
+                areaborder.setMap(map);
+            }
+            if(poi_list1.length==0) return;
+            var bounds = new google.maps.LatLngBounds();
+            var pagesize = poi_list1.length>10 ? 10 : poi_list1.length;
+            var order = 0;
+            //数据清空
+            markers = { };
+            allPop = { };
+            allOtherPop = { };
+            for(var i = 0; i < pagesize; i++){
+                var p = poi_list1[i];
+                var poi_id = p.ScenicId;
+                var latlng = new google.maps.LatLng(parseFloat(p.Latitude), parseFloat(p.Longitude));
+                bounds.extend(latlng);
+                var markerHtml = '<div class="map-mark" data-id="' + poi_id + '">'+abc[order]+'</div>';
+                var order = order + 1;       
+                markers[poi_id] = new marker_handle(map, markerHtml, latlng, function(){
+                });
+                markers[poi_id].id = poi_id;
+            }
+            map.fitBounds(bounds);
+        }
+
+        function GetDateStr(AddDayCount) {
+            var dd = new Date();
+            dd.setDate(dd.getDate() + AddDayCount); //获取AddDayCount天后的日期
+            var y = dd.getFullYear();
+            var m = dd.getMonth() + 1; //获取当前月份的日期
+            var d = dd.getDate();
+            return y + "-" + m + "-" + d;
+        }
+    $(function () {
+        setTimeout(function () { initMaxMap(); },3000);
+
+        $(".map-hotels").each(function () {
+            var _this = $(this), regionid = _this.attr("defferid"), regiontype = _this.attr("deffertype");
+            if (regiontype > 0) {
+                $.ajax({
+                    cache: false,
+                    type: "GET",
+                    url: "http://d.lotour.com/hotel/api/GethotelCountAndLowestPricenew",
+                    dataType: "jsonp",
+                    data: { "regionid": regionid, "regiontype": regiontype, "sdate": GetDateStr(1), "edate": GetDateStr(2) },
+                    success: function (data) {
+                        if (data.Count > 0) {
+                            _this.html("<i></i><a href=\"http://d.lotour.com/hotel/"+data.RetunUrl+"\" target=\"_blank\" title=\"\">共有" + data.Count + "家酒店<b>" + data.LowestPrice + "</b>元起</a>");
+                        }
+                    }
+                });
+            }
+        });
+
+        
+        
+
+        //左侧导航
+        $('.bz-nav:eq(1) dd').live('click', function () {
+            $(this).find("a").addClass("on");
+            $(this).siblings("dd").find("a").removeClass("on");
+            var index = $(this).parent().find("dd:visible").index($(this)),
+				 h = $('.bz-con').eq(index).offset().top - 60;
+            if (h < 318) {
+                $("html, body").animate({
+                    scrollTop: 233
+                }, 400);
+            } else {
+                $("html, body").animate({
+                    scrollTop: h
+                }, 400);
+            }
+        });
+        $(window).scroll(function () {
+            $('.bz-con').each(function () {
+                if ($(this).offset().top >= $(document).scrollTop() - $(this).outerHeight(true) + 120) {
+                    $('.bz-nav:eq(1) dd').eq($('.bz-con').index($(this))).find("a").addClass("on");
+                    $('.bz-nav:eq(1) dd').eq($('.bz-con').index($(this))).siblings("dd").find("a").removeClass("on");
+                    return false
+                }
+            });
+            var rollh = $(".bz-main").height() + 216 - $(".bz-nav:eq(1)").height();
+            if (rollh < $(document).scrollTop()) {
+                $(".bz-nav:eq(1)").hide();
+            } else {
+                $(".bz-nav:eq(1)").show();
+            };
+        });
+
+        //个性	
+        $(".bz-con1-con li").live("hover", function () {
+            $(this).toggleClass("hover");
+        });
+
+        //必体验
+        $(".bi-list li").mouseenter(function() {
+            $(this).find("h3").hide();
+            $(this).find(".mask").stop().slideDown();			
+        }).mouseleave(function() {
+            $(this).find(".mask").stop().slideUp("fast");	
+            $(this).find("h3").show();
+        });	
+
+        //包打听		
+        $(".bz-q-list li").live("hover", function () {
+            $(this).addClass("hover");
+            $(this).siblings("li").removeClass("hover");
+        });
+        $('.bz-tips-list li').live("hover", function () {
+            $(this).toggleClass("hover");
+        });
+        $('.baodating .roll-btn a').live('click', function () {
+            $(this).parent().siblings(".roll-con:not(:hidden)").find("li").removeClass("hover");
+        });
+
+        //tab切换
+        $(".bz-con-tit li").hover(function () {
+            var _this = $(this), ul = _this.parent(), li = ul.find('li'), index = li.index(_this);
+            ul.parent().siblings(".bz-tab").hide().eq(index).show();
+            li.find('a').removeClass("on");
+            _this.find('a').addClass("on");
+            var div=ul.parents("#dmap");
+            if(div.length>0){
+                if(index==0){
+                    map_draw('jq-map-l', mdd_center, poi_list, "");
+                    $("#ahotel").parents("p").addClass("sphl");
+                }
+                else{
+                    map_draw('jq-map-l', mdd_center, poi_list1, "");
+                    $("#ahotel").parents("p").removeClass("sphl");
+                }
+            }
+        });
+
+        $(".bz-map-list:eq(0) h3").hover(function(){
+            $('.map-mark[data-id='+$(this).attr('deffer')+']').toggleClass('on');
+        });
+
+        $(".bz-map-list:eq(1) li").hover(function(){
+            $('.map-mark[data-id='+$(this).attr('deffer')+']').toggleClass('on');
+        });
+
+        //地图右侧滚动
+        function maprRoll(){
+            $('.roll-con ul').each(function(){
+                var ulH=$(this).height(), n=Math.ceil(ulH/480);
+                $(this).css("height",ulH);	
+                if(ulH>504){
+                    $(this).css("height",n*480);					
+                }else{
+                    $(this).parent().siblings(".roll-btn").hide();
+                }				
+            });			
+			
+            $('.roll-up').live('click', function(){								
+                var $this = $(this).parent().siblings(".roll-con:not(:hidden)"), dltop = $this.scrollTop(), dlh = $('.roll-con ul').height()-450;
+                $this.animate({scrollTop: $this.scrollTop() - 480},200);				
+            });		
+            $('.roll-dwon').live('click', function () {		
+                var $this = $(this).parent().siblings(".roll-con"), dltop = $this.scrollTop(), dlh = $('.roll-con ul').height()-450;
+                $this.animate({scrollTop: $this.scrollTop() + 480},200);				
+            });		
+        };
+        maprRoll();
+
+        $(".wf-place2").each(function () {
+            var _this = $(this), author = _this.attr("deffer");
+            $.getJSON("http://my.lotour.com/i/Common/GetMemberMessage?memberId=" + author + "&callback=?", function (data) {
+                if (data.Success) {
+                    var result = data.Result.Data;
+                    _this.find("a").eq(0).html(result.NickName);
+                    if (result.VStatus > 0) {
+                        _this.find("i").removeClass("sphl");
+                        if (result.VStatus == 2) {
+                            _this.find("i").addClass("i-red");
+                        }
+                        else {
+                            _this.find("i").addClass("i-blue");
+                        }
+                    }
+                }
+            });
+        });
+    });
+</script>
+
+<!--=S 灵感推荐 -->
+<a class="lg-tuijian-btn" href="javascript:void(0)"></a>
+<div class="lg-tuijian">
+	<div class="lg-tuijian-con">
+    	<a class="lg-tuijian-x" href="javascript:void(0)"></a>
+        <h2 class="lg-tuijian-tit">斯里兰卡旅游灵感推荐
+        
+            <a href="http://www.lotour.com/zhengwen/w458" target="_blank" title="">更多&gt;&gt;</a>
+        
+        </h2>
+        <ul class="lg-tuijian-list clearfix">
+        
+        	<li>
+            	<div class="img"><a href="http://www.lotour.com/zhengwen/2/lg-jc-26587.shtml" target="_blank" title=""><img src="http://img1.lotour.net/Inspiration/2016/1202/20161202112109192358236_1920_590.jpg" width="130" height="84" alt=""></a></div>
+                <div class="txt">
+                	<h3><a href="http://www.lotour.com/zhengwen/2/lg-jc-26587.shtml" target="_blank" title="斯里兰卡八天七晚，阿育吠陀的诱惑">斯里兰卡八天七晚，阿育吠陀的诱惑</a></h3>
+                    <p>作者：<a href="http://zhuanlan.lotour.com/2276" target="_blank" title="">小重山</a></p>
+                    <div class="tags">
+                    	<a href="http://www.lotour.com/zhengwen/x3735" target="_blank" title="海滩海岛">海滩海岛</a><a href="http://www.lotour.com/zhengwen/x3706" target="_blank" title="石窟石刻">石窟石刻</a><a href="http://www.lotour.com/zhengwen/x4136" target="_blank" title="佛教">佛教</a><a href="http://www.lotour.com/zhengwen/x3779" target="_blank" title="特色住宿">特色住宿</a><a href="http://www.lotour.com/zhengwen/x3789" target="_blank" title="高端游">高端游</a>
+                    </div>
+                </div>
+            </li>
+         
+        	<li>
+            	<div class="img"><a href="http://www.lotour.com/zhengwen/2/lg-jc-26232.shtml" target="_blank" title=""><img src="http://img1.lotour.net/Inspiration/2016/1127/20161127225454145777663_1920_590.jpg" width="130" height="84" alt=""></a></div>
+                <div class="txt">
+                	<h3><a href="http://www.lotour.com/zhengwen/2/lg-jc-26232.shtml" target="_blank" title="斯里兰卡：挂着蓝皮火车去旅行">斯里兰卡：挂着蓝皮火车去旅行</a></h3>
+                    <p>作者：<a href="http://zhuanlan.lotour.com/422" target="_blank" title="">haruxu</a></p>
+                    <div class="tags">
+                    	<a href="http://www.lotour.com/zhengwen/x3740" target="_blank" title="田园">田园</a><a href="http://www.lotour.com/zhengwen/x3793" target="_blank" title="其他休闲">其他休闲</a>
+                    </div>
+                </div>
+            </li>
+         
+        	<li>
+            	<div class="img"><a href="http://www.lotour.com/zhengwen/2/lg-jc-24213.shtml" target="_blank" title=""><img src="http://img1.lotour.net/Inspiration/2016/1125/20161125171034155497936_1920_590.jpg" width="130" height="84" alt=""></a></div>
+                <div class="txt">
+                	<h3><a href="http://www.lotour.com/zhengwen/2/lg-jc-24213.shtml" target="_blank" title="奇幻的高山火车之旅">奇幻的高山火车之旅</a></h3>
+                    <p>作者：<a href="http://zhuanlan.lotour.com/2238" target="_blank" title="">蓝田玉烟-徐爽</a></p>
+                    <div class="tags">
+                    	<a href="http://www.lotour.com/zhengwen/x3793" target="_blank" title="其他休闲">其他休闲</a><a href="http://www.lotour.com/zhengwen/x3783" target="_blank" title="摄影">摄影</a>
+                    </div>
+                </div>
+            </li>
+           
+        </ul>
+    </div>	
+</div>
+<script type="text/javascript">
+    $(function(){
+        $(".lg-tuijian-list li:last").css("margin-right","0px");
+        if ($(window).width() < 1200) {
+            $(".lg-tuijian").addClass("lg-tuijian-s");
+        } else {
+            $(".lg-tuijian").removeClass("lg-tuijian-s");
+        }
+        $(".lg-tuijian-btn").mouseover(function(){
+            $(this).css("left","-75px");
+            $(".lg-tuijian").stop().animate({ 'left':'0' },800,'linear');		
+        }).trigger("mouseover");
+        $(".lg-tuijian-x").click(function(){		
+            $(".lg-tuijian").stop().animate({ 'left':'-100%' },500,'linear');
+            $(".lg-tuijian-btn").stop().animate({ 'left':'0' },600,'linear');		
+        });
+	
+    });
+</script>
+<!--=E 灵感推荐 -->
+
+    
+    <div class="main bdMain">
+        
+
+<div class="content">
+    <h2 class="conlist-tit">— 斯里兰卡旅游行政区划 —</h2>
+    <div class="conlist-con">
+    
+        <dl>
+            <dt><a href="http://sri.lotour.com/danbule/" title="丹布勒">丹布勒</a></dt>
+            <dd>
+            
+                <a href="http://sri.lotour.com/danbuleshikusi/" title="丹布勒石窟寺">丹布勒石窟寺</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://sri.lotour.com/jiale/" title="加勒">加勒</a></dt>
+            <dd>
+            
+                <a href="http://sri.lotour.com/nationalmuseumgalle/" title="加勒国家博物馆">加勒国家博物馆</a>
+          
+                <a href="http://sri.lotour.com/fortnewentrance/" title="新城门">新城门</a>
+          
+                <a href="http://sri.lotour.com/hikkaduwa/" title="黑卡杜瓦">黑卡杜瓦</a>
+          
+                <a href="http://sri.lotour.com/dutchreformedchurchsrilanka/" title="加勒荷兰归正会">加勒荷兰归正会</a>
+          
+                <a href="http://sri.lotour.com/nationalmaritimemuseumsrilanka/" title="国家海事博物馆">国家海事博物馆</a>
+          
+                <a href="http://sri.lotour.com/pointutrechtbastion/" title="乌德勒支碉堡">乌德勒支碉堡</a>
+          
+                <a href="http://sri.lotour.com/peacepagodasrilanka/" title="和平舍利塔">和平舍利塔</a>
+          
+                <a href="http://sri.lotour.com/allsaintschurch/" title="圣公会教堂">圣公会教堂</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://sri.lotour.com/kangti1/" title="康提">康提</a></dt>
+            <dd>
+            
+                <a href="http://sri.lotour.com/hakgalabotanicalgarden/" title="Hakgala皇家植物园">Hakgala皇家植物园</a>
+          
+                <a href="http://sri.lotour.com/bakersfalls/" title="贝克瀑布">贝克瀑布</a>
+          
+                <a href="http://sri.lotour.com/ravanaellafalls/" title="拉瓦纳埃勒瀑布">拉瓦纳埃勒瀑布</a>
+          
+                <a href="http://sri.lotour.com/devonfalls/" title="德文瀑布">德文瀑布</a>
+          
+                <a href="http://sri.lotour.com/21664/" title="狮子岩">狮子岩</a>
+          
+                <a href="http://sri.lotour.com/daxianggueryuan/" title="大象孤儿院">大象孤儿院</a>
+          
+                <a href="http://sri.lotour.com/adamspeak/" title="亚当峰">亚当峰</a>
+          
+                <a href="http://sri.lotour.com/dambullarocktemple/" title="丹布勒石窟">丹布勒石窟</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://sri.lotour.com/kelunpo1/" title="科伦坡">科伦坡</a></dt>
+            <dd>
+            
+                <a href="http://sri.lotour.com/sililankaguojiabowuguan/" title="斯里兰卡国家博物馆">斯里兰卡国家博物馆</a>
+          
+                <a href="http://sri.lotour.com/stmarychurch/" title="圣玛丽教堂">圣玛丽教堂</a>
+          
+                <a href="http://sri.lotour.com/stanthonysshrine/" title="圣安东尼教堂">圣安东尼教堂</a>
+          
+                <a href="http://sri.lotour.com/viharamahadevipark/" title="维哈马哈德维公园">维哈马哈德维公园</a>
+          
+                <a href="http://sri.lotour.com/gangaramayatemple/" title="冈嘎拉马寺">冈嘎拉马寺</a>
+          
+                <a href="http://sri.lotour.com/wolvendaalchurch/" title="狼谷教堂">狼谷教堂</a>
+          
+                <a href="http://sri.lotour.com/independencememorialhall/" title="独立纪念馆">独立纪念馆</a>
+          
+                <a href="http://sri.lotour.com/beiralake/" title="贝拉湖">贝拉湖</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://sri.lotour.com/badule/" title="巴杜勒">巴杜勒</a></dt>
+            <dd>
+            
+                <a href="http://sri.lotour.com/yalaguojiagongyuan/" title="雅拉国家公园">雅拉国家公园</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://sri.lotour.com/nuwoleailiye/" title="努沃勒埃利耶">努沃勒埃利耶</a></dt>
+            <dd>
+            
+                <a href="http://sri.lotour.com/huodunpingyuanguojiagongyuan/" title="霍顿平原国家公园">霍顿平原国家公园</a>
+          
+          </dd>
+        </dl>
+      
+        <dl>
+            <dt><a href="http://sri.lotour.com/anuradhapura/" title="阿努拉德普勒">阿努拉德普勒</a></dt>
+            <dd>
+            
+                <a href="http://sri.lotour.com/polonnaruwaarchaeologicalmuseum/" title="波隆纳鲁沃考古博物馆">波隆纳鲁沃考古博物馆</a>
+          
+                <a href="http://sri.lotour.com/abhayagirimuseum/" title="无畏山博物馆">无畏山博物馆</a>
+          
+                <a href="http://sri.lotour.com/royalpleasuregardens/" title="皇家幸福花园">皇家幸福花园</a>
+          
+                <a href="http://sri.lotour.com/aukanabuddhastatue/" title="奥卡纳佛像">奥卡纳佛像</a>
+          
+                <a href="http://sri.lotour.com/atadage/" title="阿塔达吉">阿塔达吉</a>
+          
+                <a href="http://sri.lotour.com/ratnaprasada/" title="宝石宫">宝石宫</a>
+          
+                <a href="http://sri.lotour.com/sivadevalayano/" title="一号湿婆神殿">一号湿婆神殿</a>
+          
+                <a href="http://sri.lotour.com/dagobaofthuparama/" title="都波罗摩塔">都波罗摩塔</a>
+          
+          </dd>
+        </dl>
+      
+    </div>
+</div>
+
+        <div class="content">
+            <div class="travel-recom">    	<h2 class="travel-t">国内游目的地推荐</h2>        <ul class="traver-c clear">        	<li><a title="" target="_blank" href="http://beijing.lotour.com/">北京</a></li><li><a title="" target="_blank" href="http://haerbin.lotour.com/">哈尔滨</a></li><li><a title="" target="_blank" href="http://dalian.lotour.com">大连</a></li><li><a title="" target="_blank" href="http://sanya.lotour.com/">三亚</a></li><li><a title="" target="_blank" href="http://lijiang.lotour.com/">丽江</a></li><li><a title="" target="_blank" href="http://nanjing.lotour.com/">南京</a></li><li><a title="" target="_blank" href="http://hangzhou.lotour.com/">杭州</a></li><li><a title="" target="_blank" href="http://chongqing.lotour.com/">重庆</a></li><li><a title="" target="_blank" href="http://chengdu.lotour.com/">成都</a></li><li><a title="" target="_blank" href="http://yangzhou.lotour.com/">扬州</a></li><li><a title="" target="_blank" href="http://shanghai.lotour.com/">上海</a></li><li><a title="" target="_blank" href="http://xiamen.lotour.com/">厦门</a></li><li><a title="" target="_blank" href="http://qinhuangdao.lotour.com/">秦皇岛</a></li><li><a title="" target="_blank" href="http://jssuzhou.lotour.com/">苏州</a></li><li><a title="" target="_blank" href="http://shangrao.lotour.com/">上饶</a></li><li><a title="" target="_blank" href="http://leshan.lotour.com/">乐山</a></li><li><a title="" target="_blank" href="http://tianjin.lotour.com/">天津</a></li><li><a title="" target="_blank" href="http://huangshan.lotour.com/">黄山</a></li><li><a title="" target="_blank" href="http://guangzhou.lotour.com/">广州</a></li><li><a title="" target="_blank" href="http://wenzhou.lotour.com/">温州</a></li><li><a title="" target="_blank" href="http://hangzhou.lotour.com/">杭州</a></li><li><a title="" target="_blank" href="http://xian.lotour.com/">西安</a></li><li><a title="" target="_blank" href="http://luoyang.lotour.com/">洛阳</a></li><li><a title="" target="_blank" href="http://chengde.lotour.com/">承德</a></li><li><a title="" target="_blank" href="http://qingdao.lotour.com/">青岛</a></li><li><a title="" target="_blank" href="http://weihai.lotour.com/">威海</a></li><li><a title="" target="_blank" href="http://jinan.lotour.com/">济南</a></li></li><li><a title="" target="_blank" href="http://taian.lotour.com/">泰安</a></li><li><a title="" target="_blank" href="http://beihai.lotour.com/">北海</a></li><li><a title="" target="_blank" href="http://changsha.lotour.com/">长沙</a></li><li><a title="" target="_blank" href="http://dalibaizu.lotour.com/">大理</a></li><li><a title="" target="_blank" href="http://guiyang.lotour.com/">贵阳</a></li><li><a title="" target="_blank" href="http://guilin.lotour.com/">桂林</a></li><li><a title="" target="_blank" href="http://haikou.lotour.com/">海口</a></li><li><a title="" target="_blank" href="http://hulunbeier.lotour.com/">呼伦贝尔</a></li><li><a title="" target="_blank" href="http://kaifeng.lotour.com/">开封</a></li><li><a title="" target="_blank" href="http://kunming.lotour.com/">昆明</a></li><li><a title="" target="_blank" href="http://lasa.lotour.com/">拉萨</a></li><li><a title="" target="_blank" href="http://mudanjiang.lotour.com/">牡丹江</a></li><li><a title="" target="_blank" href="http://ningbo.lotour.com/">宁波</a></li><li><a title="" target="_blank" href="http://qiqihaer.lotour.com/">齐齐哈尔</a></li><li><a title="" target="_blank" href="http://shaoxing.lotour.com/">绍兴</a></li><li><a title="" target="_blank" href="http://shenzhen.lotour.com/">深圳</a></li><li><a title="" target="_blank" href="http://shenyang.lotour.com/">沈阳</a></li><li><a title="" target="_blank" href="http://shijiazhuang.lotour.com/">石家庄</a></li><li><a title="" target="_blank" href="http://wulumuqi.lotour.com/">乌鲁木齐</a></li><li><a title="" target="_blank" href="http://wuxi.lotour.com/">无锡</a></li><li><a title="" target="_blank" href="http://wuhan.lotour.com/">武汉</a></li><li><a title="" target="_blank" href="http://yinchuan.lotour.com/">银川</a></li><li><a title="" target="_blank" href="http://zhuhai.lotour.com/">珠海</a></li>                   </ul>        <h2 class="travel-t">出境游目的地推荐</h2>        <ul class="traver-c clear">  <li><a title="" target="_blank" href="http://jpn.lotour.com/">日本</a></li><li><a title="" target="_blank" href="http://kor.lotour.com/">韩国</a></li><li><a title="" target="_blank" href="http://ind.lotour.com/">印度 </a></li><li><a title="" target="_blank" href="http://nep.lotour.com/">尼泊尔</a></li><li><a title="" target="_blank" href="http://tha.lotour.com/">泰国 </a></li><li><a title="" target="_blank" href="http://cam.lotour.com/">柬埔寨</a></li><li><a title="" target="_blank" href="http://gbr.lotour.com/">英国 </a></li><li><a title="" target="_blank" href="http://fra.lotour.com/">法国</a></li><li><a title="" target="_blank" href="http://tur.lotour.com/">土耳其</a></li><li><a title="" target="_blank" href="http://aus.lotour.com/">澳大利亚</a></li><li><a title="" target="_blank" href="http://nzl.lotour.com/">新西兰</a></li><li><a title="" target="_blank" href="http://ken.lotour.com/">肯尼亚</a></li><li><a title="" target="_blank" href="http://egy.lotour.com/">埃及</a></li><li><a title="" target="_blank" href="http://usa.lotour.com/">美国 </a></li> <li><a title="" target="_blank" href="http://mya.lotour.com/">缅甸</a></li><li><a title="" target="_blank" href="http://fin.lotour.com/">芬兰</a></li><li><a title="" target="_blank" href="http://swe.lotour.com/">瑞典</a></li><li><a title="" target="_blank" href="http://mri.lotour.com/">毛里求斯</a></li> </ul>    </div>
+
+        </div>
+        <div class="content">
+        <!--#include virtual="/share/commonfrag/frag_651.inc" -->
+        </div>
+         <script>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');  ga('create', 'UA-61168550-1', 'auto');  ga('send', 'pageview');</script>
+    </div>
+    
+<!--=S 公共底 -->  
+<div class="ltFooter">
+	<div class="ltfoot clear">
+		<div class="ltfootA">
+			<a href="http://corp.lotour.com/index.shtml" target="_blank" title="乐途介绍">乐途介绍</a><i>|</i><a href="http://corp.lotour.com/job_2.shtml" target="_blank" title="招贤纳士">招贤纳士</a><i>|</i><a href="http://corp.lotour.com/lotour_honour.shtml" target="_blank" title="网站荣誉">网站荣誉</a><i>|</i><a href="http://corp.lotour.com/contact.shtml" target="_blank" title="联系我们">联系我们</a><i>|</i><a href="http://corp.lotour.com/parter.shtml" target="_blank" title="合作伙伴">合作伙伴</a><i>|</i><a href="http://corp.lotour.com/adv_sev.shtml" target="_blank" title="营销形式">营销形式</a><i>|</i><a href="http://corp.lotour.com/adv_case.shtml" target="_blank" title="成功案例">成功案例</a><i>|</i><a href="http://member.lotour.com/" target="_blank" title="商家入驻">商家入驻</a><i>|</i><a href="http://member.lotour.com/" target="_blank" title="商家登录">商家登录</a><i>|</i><a href="http://d.lotour.com/yudingbangzhu/" target="_blank" title="预订帮助">预订帮助</a><i>|</i><a href="http://corp.lotour.com/term.shtml" target="_blank" title="服务条款">服务条款</a>
+		</div>
+		<div class="ltfootB">
+			<a class="btmLogo" target="_blank" href="http://www.lotour.com/" title="乐途旅游网"></a>
+			<p><a href="http://www.miibeian.gov.cn" target="_blank" title="">京ICP备12008860号-1</a>&nbsp;&nbsp;<a href="http://corp.lotour.com/licence_gd.shtml" target="_blank" title="">广电节目制作许可证：1313号</a>&nbsp;&nbsp;京公网安备：11010502001653<br />
+			<span class="Arial">Copyright &copy; 2005 - 2016&nbsp;&nbsp;<a href="http://www.lotour.com/" target="_blank">Lotour.com</a>&nbsp;&nbsp;All Rights Reserved.</span>&nbsp;<a href="http://www.lotour.com/" target="_blank" title="乐途旅游网">乐途旅游网</a>&nbsp;版权所有</p>
+			<a class="btmIco" target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202008020400006"></a>
+		</div>		
+	</div>
+</div>
+<!--=E 公共底 -->
+<script type="text/javascript" src="http://js.lotour.net/feedback_v1.js"></script><script type="text/javascript" src="http://js.lotour.net/analytics/statsv2.js" defer charset="UTF-8"></script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-39387460-1']);
+    _gaq.push(['_setDomainName', 'lotour.com']);
+    _gaq.push(['_addOrganic', 'baidu', 'word']);
+    _gaq.push(['_addOrganic', 'soso', 'w']);
+    _gaq.push(['_addOrganic', '3721', 'name']);
+    _gaq.push(['_addOrganic', 'yodao', 'q']);
+    _gaq.push(['_addOrganic', 'vnet', 'kw']);
+    _gaq.push(['_addOrganic', 'sogou', 'query']);
+    _gaq.push(['_addOrganic', '360', 'q']);
+    _gaq.push(['_addOrganic', 'so', 'q']);
+    var full_url = location.pathname + location.search + location.hash;
+    _gaq.push(['_trackPageview', full_url]);
+    _gaq.push(['_trackPageLoadTime']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F317768ad40e6ddbe20f10e89b4712c35' type='text/javascript'%3E%3C/script%3E"));
+
+
+</script>
+
+    <!--=S 右底工具条 -->
+<div class="toolbarNew">
+	<div class="tbarNewBtnS"></div>
+	<ul>
+		<li><a hidefocus="true" href="javascript:void(0);" method="been" deffer="458" class="footmark" title=""><i></i><span>我去过</span></a></li>
+		<li><a hidefocus="true" href="javascript:void(0);" method="want" deffer="458" class="addWantTo" title=""><i></i><span>我想去</span></a></li>
+		<li><a hidefocus="true" href="javascript:void(0);" method="help" deffer="458" deffername="斯里兰卡" class="help" title=""><i></i><span>发求助</span></a> </li>
+		<li class="tbarShare"> <a href="javascript:void(0);" class="tbarShareIco"> <i></i> <span>分享</span> </a>
+			<div class="sharecon"> 
+				<!-- Baidu Button BEGIN -->
+				<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare"> <span class="bds_more"></span> </div>
+				<script type="text/javascript" id="bdshare_js" data="type=tools&amp;mini=1&amp;uid=0" ></script> 
+				<script type="text/javascript" id="bdshell_js"></script> 
+				<script type="text/javascript">
+				    document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date() / 3600000)
+                </script> 
+				<!-- Baidu Button END --> 
+			</div>
+		</li>
+	</ul>
+	<script type="text/javascript">
+	    $(function () {
+	        $(window).scroll(function () {
+	            var st = $(document).scrollTop(), winh = $(window).height();
+	            if (st > 0) {
+	                if ($('.tbarS').length > 0) { return false }
+	                $('.tbarNewBtnS').click()
+	                $('.toolbarNew').addClass('tbarS')
+	            } else if (st <= 0) {
+	                $('.tbarNewBtn').click()
+	                $('.toolbarNew').removeClass('tbarS')
+	            }
+	        });
+	        $('.tbarNewGtop').live('click', function () { $("html, body").animate({ scrollTop: 0 }, 120); })
+	        $('.tbarNewBtnS').live('click', function () {
+	            $('.toolbarNew ul').stop().animate({ 'height': '312px' })
+	            $('.tbarNewGtop').stop().animate({ 'height': '45px' })
+	            $(this).addClass('tbarNewBtn').removeClass('tbarNewBtnS');
+	            return false
+	        })
+	        $('.tbarNewBtn').live('click', function () {
+	            $('.toolbarNew ul').stop().animate({ 'height': '0px' })
+	            $('.tbarNewGtop').stop().animate({ 'height': '3px' })
+	            $(this).addClass('tbarNewBtnS').removeClass('tbarNewBtn');
+	            return false
+	        })
+
+	        $("a[method=been]").click(function () {
+	            var regionid = $(this).attr("deffer");
+	            var a = $("a[method=been][deffer=" + regionid + "]");
+	            $.getJSON("http://my.lotour.com/login/login/islogin?callback=?&" + (new Date()), function (data) {
+	                if (data.uid > 0)
+	                    a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.uid + "/?rid=" + regionid, "target": "_blank" });
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.memberId + "/?rid=" + regionid, "target": "_blank" });
+	                    }, function (data) {
+	                        SetTopState();
+	                        a.attr({ "href": "http://my.lotour.com/i/NotePublish/" + data.memberId + "/?rid=" + regionid, "target": "_blank" });
+	                    }, 1, "http://my.lotour.com/i/NotesPublish/replaceUid?rid=" + regionid);
+	                }
+	            });
+	        });
+	        $("a[method=want]").click(function () {
+	            var regionid = $(this).attr("deffer"), month = new Date().getMonth() + 1;
+	            var a = $("a[method=want][deffer=" + regionid + "]");
+	            $.getJSON("http://my.lotour.com/login/login/islogin?callback=?&" + (new Date()), function (data) {
+	                if (data.uid > 0) {
+	                    $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    $('.layerBg').css('height', $(document).height()).show();
+	                }
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    }, function (data) {
+	                        SetTopState();
+	                        $('#dream_place').fadeIn(500).loadDPPanel(regionid, 0, 0, '', 0, 0, 0, '', month);
+	                    }, 1, location.href.toString().replace("#", "") + "?rid=" + regionid + "&ReturnAction=dplace");
+	                }
+	            });
+	        });
+	        $("a[method=help]").click(function () {
+	            var regionid = $(this).attr("deffer"), rname = $(this).attr("deffername");
+	            $.getJSON('http://my.lotour.com/login/login/islogin?callback=?&' + (new Date()), function (data) {
+	                if (data.uid > 0) {
+	                    showHelp(regionid, rname);
+	                }
+	                else {
+	                    jQuery.lotour.user.showLoginV3(function (data) {
+	                        SetTopState();
+	                        showHelp(regionid, rname);
+	                    }, function (data) {
+	                        SetTopState();
+	                        showHelp(regionid, rname);
+	                    }, 1, location.href.toString().replace("#", "") + "?rid=" + regionid + "&ReturnAction=ask");
+	                }
+	            });
+	        });
+	    });
+	    function showHelp(regionid, rname) {
+	        $('#ask_topic').fadeIn(500).loadAskPanel(0);
+	        $('.layerBg').css('height', $(document).height()).show();
+	        $('#txtAskRegionSelect1').val(rname).attr('disabled', 'disabled');
+	        $('#hidAskTopicRegionId1').val(regionid);
+	        $.ajax({
+	            cache: false,
+	            type: "GET",
+	            dataType: 'jsonp',
+	            jsonp: 'callback',
+	            url: "http://my.lotour.com/i/DPlace/AskTopic/GetBeenCount/",
+	            data: { regionId: regionid },
+	            success: function (data) {
+	                data = data.Result.Data;
+	                if (data.count > 0) {
+	                    $("#BeenMsg").html(data.count + "专家为您解答");
+	                }
+	            },
+	            error: function (xhr, textStatus, errorThrown) {
+	            }
+	        });
+	    }
+  </script>
+	<div class="tbarNewGtop"></div>
+</div>
+<!--=E 右底工具条 -->
+</body>
+</html>
