@@ -1,1 +1,0 @@
-<a class="mudidi" onfocus="this.blur()" href="http://www.lotour.com/mudidi/" target="_blank"></a><a class="daka" onfocus="this.blur()" href="http://www.lotour.com/daren/" target="_blank"></a>

@@ -1,6 +1,5 @@
-#coding=utf-8
-
-import os
+#coding=utf-8;
+import os;
 
 def CreateFile(dir_name,file_name,content):
 	#mkdir current dir+"/name";

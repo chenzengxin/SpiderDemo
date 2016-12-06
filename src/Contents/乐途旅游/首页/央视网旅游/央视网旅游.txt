@@ -1,7 +1,0 @@
-<html>
-<head>			
-<META http-equiv="pragma" content="no-cache">		
- <META HTTP-EQUIV="Refresh" CONTENT="0;URL=http://travel.cctv.com/">	
- <title>CNTV</title>
-</head>
-</html>
