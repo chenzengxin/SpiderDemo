@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 #coding=utf-8
   
+=======
+#coding=utf-8;
+>>>>>>> origin/master
 '''
 Created on 2016年9月23日
 
