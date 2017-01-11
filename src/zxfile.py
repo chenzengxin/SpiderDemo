@@ -7,9 +7,9 @@ def CreateFile(dir_name,file_name,content):
 #		print "file exit"
 #	else:
 #		os.mkdir(dir_name)
-	if not os.path.exists(os.getcwd()+"\\"+dir_name):
-		os.makedirs(os.getcwd()+"\\"+dir_name)
-	fc=open(dir_name+"\\"+file_name,"w") #文本写模式，不存在则创建
+	if not os.path.exists(os.getcwd()+"/"+dir_name):
+		os.makedirs(os.getcwd()+"/"+dir_name)
+	fc=open(dir_name+"/"+file_name,"w") #文本写模式，不存在则创建
 	if(content):
 		fc.writelines(content)
 	

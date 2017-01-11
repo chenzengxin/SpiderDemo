@@ -7,8 +7,9 @@ import threading
 from time import ctime,sleep
 import sys;
 from lxml import etree;
-reload(sys)
-sys.setdefaultencoding('utf-8')  # @UndefinedVariable
+import datacenter
+# reload(sys)
+# sys.setdefaultencoding('utf-8')  # @UndefinedVariable
 GrabDirectory={}
 def Spider(rootpath,page,time):
         if time<0:
@@ -75,10 +76,18 @@ def getPageDetail(http,father,name):
 def Spider(): 
     links=zxhtml.getRegiondata();
     for link in links:
-        name = link['Name'].decode("Utf-8");
+        name = link['BriefName'];
         print name;
         url = link['Url'];
         print url;
+        ScanEachRegion(link);
+    
+def ScanEachRegion(link):
+    neme = link['BriefName'].replace(" ","");
+    path=datacenter.FindPath(link)+'/'+neme;
+    print path;
+    zxfile.CreateFile(path,neme+".txt","");
+
     
 
 if __name__ == '__main__':

@@ -7,6 +7,7 @@ Created on 2016年9月23日
 import re;
 from lxml import etree;
 import zxhtml;
+import datacenter
 
 
 def cleanSpace(content):
@@ -37,10 +38,15 @@ def getMudidiHref(pageContent):
 def getUrlFromDic(dic,name_url):
     for item in dic:
         temp={};
-        temp['Name']=item['BriefName'];
+        temp['BriefName']=item['BriefName'];
         temp['Url']=item['Url'];
+        temp['PName']=item['PName'];
+        temp['Id']=item['Id'];
+        temp['Pid']=item['Pid'];
+        temp['SubRegion']=item['SubRegion']
         name_url.append(temp);
         if item['SubRegion']!=None:
+            datacenter.AddParent(item);
             getUrlFromDic(item['SubRegion'],name_url);
     
     

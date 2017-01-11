@@ -11,10 +11,12 @@ Created on 2016年9月23日
 from _codecs import decode
 def getRegiondata():
     name_url=[];#用以保存抓取到的链接数据
+    api="http://api.lotour.net/brandhome/region/getregiondataa?"
     user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36' 
     accept_language='zh-CN,zh;q=0.8'
     headers = { 'User-Agent' : user_agent,'Accept-Language':accept_language} 
-    href ="http://api.lotour.net/brandhome/region/getregiondataa?name=%u4E2D%u56FD&depth=1&callback=";
+    href =api+"name=%u4E2D%u56FD&depth=2&callback=";
+    
     #国内
     request = urllib2.Request(href) 
     data = urllib2.urlopen(request);
@@ -24,7 +26,7 @@ def getRegiondata():
     zxregular.getUrlFromDic(json_obj,name_url);
     
     #国外
-    href = "http://api.lotour.net/brandhome/region/getregiondataa?name=%u4E16%u754c&depth=1&callback="
+    href = api+"name=%u4E16%u754c&depth=2&callback="
     request = urllib2.Request(href) 
     data = urllib2.urlopen(request);
 #     (data.read().decode('GBK'));
