@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 #coding=utf-8
- 
-=======
-#coding=utf-8;
->>>>>>> origin/master
 import urllib2;
 import urllib;
 import json;

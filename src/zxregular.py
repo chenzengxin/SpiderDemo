@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-#coding=utf-8
-  
-=======
 #coding=utf-8;
->>>>>>> origin/master
 '''
 Created on 2016年9月23日
 
@@ -79,19 +74,8 @@ def getCharset(content):
     return re.findall(cre, content, 0)
 
 if __name__=='__main__':
-<<<<<<< HEAD
     content=zxhtml.getPageContent("http://www.lotour.com/mudidi/")
     for n in getMudidiHref(content):
         print n;
-#     getSubHttp(test)
-    
-    
-#     print getSubHttp(test)[0]
-=======
-    test='<a title="呼和浩特旅游景区" href="http://huhehaote.lotour.com/jingqu/"><span>景区</span></a>'
-    print getChinese(test)
-    
-    
->>>>>>> origin/master
     
     

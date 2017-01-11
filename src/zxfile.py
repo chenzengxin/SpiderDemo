@@ -1,13 +1,5 @@
-<<<<<<< HEAD
-#coding=utf-8
-  
-
-
-import os
-=======
 #coding=utf-8;
 import os;
->>>>>>> origin/master
 
 def CreateFile(dir_name,file_name,content):
 	#mkdir current dir+"/name";
