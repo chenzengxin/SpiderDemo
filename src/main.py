@@ -5,8 +5,8 @@ import zxhtml
 import time
 import threading
 from time import ctime,sleep
-import sys;
-from lxml import etree;
+import sys
+from lxml import etree
 import datacenter
 # reload(sys)
 # sys.setdefaultencoding('utf-8')  # @UndefinedVariable
@@ -74,27 +74,30 @@ def getPageDetail(http,father,name):
         print str(father)+u'\\'+str(name)+'\\'+str(name)+u".txt"
 
 def Spider(): 
-    links=zxhtml.getRegiondata();
+    links=zxhtml.getRegiondata()
     for link in links:
-        name = link['BriefName'];
-        print name;
-        url = link['Url'];
-        print url;
-        ScanEachRegion(link);
-    
-def ScanEachRegion(link):
-    neme = link['BriefName'].replace(" ","");
-    path=datacenter.FindPath(link)+'/'+neme;
-    print path;
-    zxfile.CreateFile(path,neme+".txt","");
+        name = link['BriefName']
+        print name
+        url = link['Url']
+        print url
+        ScanEachRegion(link)
 
-    
+def ScanEachRegion(link):
+    name = link['BriefName'].replace(" ","")
+    path=datacenter.FindPath(link)+'/'+name
+    content=zxhtml.getPageContent(link['Url'])
+    alist = zxregular.getRegionHref(content)
+    if len(alist)<=0:
+        return
+    for href in alist:
+        ScanDetail(href)
+    print path
+    zxfile.CreateFile(path,name+".txt","")
+
+def ScanDetail(href):
+    print href;
+    threading._sleep(1);
+
 
 if __name__ == '__main__':
-#     href={}
-#     mainpage='http://www.lotour.com/mudidi/'
-#     t1=threading.Thread(target=getAllLink,args=('Contents',mainpage,2))
-#     t1.start()
-#     while t1.isAlive():
-#         pass
     Spider()

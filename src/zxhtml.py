@@ -32,8 +32,6 @@ def getRegiondata():
 #     (data.read().decode('GBK'));
     json_data=data.read()[1:-1]
     json_obj=json.loads(json_data,'GBK')
-    
-
     zxregular.getUrlFromDic(json_obj,name_url);
     return name_url;
     

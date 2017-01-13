@@ -34,7 +34,35 @@ def getMudidiHref(pageContent):
         data = selector.xpath('//*[@id="htmlFt"]/body/div[1]/div/div[2]/div[2]//a/@href');
         return data;
     else:
-        return None    
+        return None 
+def getRegionHref(pageContent):
+    if pageContent:
+        selector= etree.HTML(pageContent);
+        m_url=selector.xpath('/html/body/div[@class="mddNavWrap"]/div/div/ul/li/a/@href');
+         
+        m_oneUrl=selector.xpath('/html/body/div[@class="bd-main clearfix bd-main-yj"]/div[@class="bd-main-l"]/div[@class="mdd-jq-hot-nopic"]/p/a/@href');
+         
+        if len(m_oneUrl)>0:
+            m_url.append(m_oneUrl[0]);
+        return m_url;
+      
+#         rer = '<li class=".*?"><a.*?><span>.*?</span></a></li>'
+#         reh = 'http://[a-zA-Z0-9./]+'
+#         
+#         li_result = re.findall(rer,pageContent)
+#         li_url=[]
+#         for item in li_result:
+#             li_url.append(re.findall(reh, item)[0])
+#         if len(li_url)<=0:
+#             return []
+#         p_result = re.findall('<p>.*?<a.*?>.*?</a></p>', pageContent)
+#         if len(p_result)>0:
+#             h_result = re.findall(reh, p_result[0])
+#             if len(h_result)>0:
+#                 li_url.append(h_result[0])
+#         return li_url
+    else:
+        return None;
 def getUrlFromDic(dic,name_url):
     for item in dic:
         temp={};
@@ -80,8 +108,11 @@ def getCharset(content):
     return re.findall(cre, content, 0)
 
 if __name__=='__main__':
-    content=zxhtml.getPageContent("http://www.lotour.com/mudidi/")
-    for n in getMudidiHref(content):
-        print n;
+    content=zxhtml.getPageContent("http://fuyuan.lotour.com/fuyuankouan/")
+    print content;
+    print "!"
+    m_obj= getRegionHref(content)
+    print m_obj;
+    print "!";
     
     
